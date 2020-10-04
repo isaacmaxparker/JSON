@@ -4,7 +4,7 @@
         "name":"Demo Game",
         "json_name":"firstgame",
         "date_created":"10-04-2020",
-        "color-theme":"pink",
+        "color":"pink",
         "status":"W"
     },
     {
@@ -12,7 +12,7 @@
         "name":"Demo Game",
         "json_name":"secondgame",
         "date_created":"10-04-2020",
-        "color-theme":"green",
+        "color":"green",
         "status":"W"
     },
     {
@@ -20,7 +20,7 @@
         "name":"Demo Game",
         "json_name":"thirdgame",
         "date_created":"10-04-2020",
-        "color-theme":"red",
+        "color":"red",
         "status":"W"
     },
     {
@@ -28,7 +28,7 @@
         "name":"Demo Game",
         "json_name":"fourthgame",
         "date_created":"10-04-2020",
-        "color-theme":"orange",
+        "color":"orange",
         "status":"W"
     },
     {
@@ -36,7 +36,7 @@
         "name":"Demo Game",
         "json_name":"fifthgame",
         "date_created":"10-04-2020",
-        "color-theme":"blue",
+        "color":"blue",
         "status":"W"
     }
 ]
