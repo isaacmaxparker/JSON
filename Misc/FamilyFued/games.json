@@ -1,5 +1,6 @@
 [
     {
+        "id":1,
         "name":"Demo Game",
         "json_name":"firstgame",
         "date_created":"10-04-2020",
@@ -7,6 +8,7 @@
         "status":"W"
     },
     {
+        "id":2,
         "name":"Demo Game",
         "json_name":"secondgame",
         "date_created":"10-04-2020",
@@ -14,6 +16,7 @@
         "status":"W"
     },
     {
+        "id":3,
         "name":"Demo Game",
         "json_name":"thirdgame",
         "date_created":"10-04-2020",
@@ -21,6 +24,7 @@
         "status":"W"
     },
     {
+        "id":4,
         "name":"Demo Game",
         "json_name":"fourthgame",
         "date_created":"10-04-2020",
@@ -28,6 +32,7 @@
         "status":"W"
     },
     {
+        "id":5,
         "name":"Demo Game",
         "json_name":"fifthgame",
         "date_created":"10-04-2020",
