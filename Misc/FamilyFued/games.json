@@ -3,30 +3,35 @@
         "name":"Demo Game",
         "json_name":"firstgame",
         "date_created":"10-04-2020",
+        "color-theme":"pink",
         "status":"W"
     },
     {
         "name":"Demo Game",
         "json_name":"secondgame",
         "date_created":"10-04-2020",
+        "color-theme":"green",
         "status":"W"
     },
     {
         "name":"Demo Game",
         "json_name":"thirdgame",
         "date_created":"10-04-2020",
+        "color-theme":"red",
         "status":"W"
     },
     {
         "name":"Demo Game",
         "json_name":"fourthgame",
         "date_created":"10-04-2020",
+        "color-theme":"orange",
         "status":"W"
     },
     {
         "name":"Demo Game",
         "json_name":"fifthgame",
         "date_created":"10-04-2020",
+        "color-theme":"blue",
         "status":"W"
     }
 ]
