@@ -6,10 +6,46 @@
         "color":"Orange",
         "category":"Bread",
         "Alpha":"R",
-        "date_created":"10-04-2020",
         "prep_time":"2.5 hours",
         "cook_time":"20 minutes",
         "total_time":" 3 hours",
         "status":"A"
-    }
+    },
+    {
+        "id":2,
+        "name":"Lasagna",
+        "alternate_names":"",
+        "color":"Red",
+        "category":"Entree",
+        "Alpha":"L",
+        "prep_time":"30 minutes",
+        "cook_time":"1 hour",
+        "total_time":"1.5 hours",
+        "status":"A"
+    },
+    {
+        "id":3,
+        "name":"Chocolate Chip Cookies",
+        "alternate_names":"",
+        "color":"LightBlue",
+        "category":"Dessert",
+        "Alpha":"C",
+        "prep_time":"20 minutes",
+        "cook_time":"10 minutes",
+        "total_time":"30 minutes",
+        "status":"A"
+    },
+    {
+        "id":4,
+        "name":"Orange Julius",
+        "alternate_names":"",
+        "color":"LightPink",
+        "category":"Drinks",
+        "subcategory":"Dessert",
+        "Alpha":"O",
+        "prep_time":"20 minutes",
+        "cook_time":"N/A",
+        "total_time":"30 minutes",
+        "status":"A"
+    },
 ]
