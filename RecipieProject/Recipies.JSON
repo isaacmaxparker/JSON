@@ -11,6 +11,7 @@
         "prep_time":150,
         "cook_time":20,
         "total_time":170,
+        "time_range":"2.5 - 3 hours",
         "status":"A"
     },
     {
@@ -25,6 +26,7 @@
         "prep_time":30,
         "cook_time":60,
         "total_time":90,
+        "time_range":"1 - 1.5 hours",
         "status":"A"
     },
     {
@@ -39,6 +41,7 @@
         "prep_time":20,
         "cook_time":10,
         "total_time":30,
+        "time_range":"Less Than 30 minutes",
         "status":"A"
     },
     {
@@ -54,6 +57,7 @@
         "prep_time":20,
         "cook_time":null,
         "total_time":20,
+        "time_range":"Less Than 30 minutes",
         "status":"A"
     },
     {
@@ -67,6 +71,7 @@
         "prep_time":10,
         "cook_time":"N/A",
         "total_time":10,
+        "time_range":"Less Than 30 minutes",
         "status":"A"
     },
     {
@@ -82,6 +87,7 @@
         "prep_time":10,
         "cook_time":10,
         "total_time":20,
+        "time_range":"Less Than 30 minutes",
         "status":"A"
     },
     {
@@ -97,6 +103,7 @@
         "prep_time":10,
         "cook_time":10,
         "total_time":20,
+        "time_range":"Less Than 30 minutes",
         "status":"A"
     },
     {
@@ -110,8 +117,9 @@
         "meal":"breakfast",
         "submeal":null,
         "prep_time":10,
-        "cook_time":10,
-        "total_time":20,
+        "cook_time":15,
+        "total_time":25,
+        "time_range":"Less Than 30 minutes",
         "status":"A"
     },
     {
@@ -127,6 +135,7 @@
         "prep_time":10,
         "cook_time":10,
         "total_time":20,
+        "time_range":"Less Than 30 minutes",
         "status":"A"
     },
     {
@@ -142,6 +151,7 @@
         "prep_time":30,
         "cook_time":20,
         "total_time":50,
+        "time_range":"30 Minutes to 1 Hour",
         "status":"A"
     },
     {
@@ -157,6 +167,7 @@
         "prep_time":20,
         "cook_time":60,
         "total_time":80,
+        "time_range":"1 Hour to 1.5 hours",
         "status":"A"
     }
 ]
