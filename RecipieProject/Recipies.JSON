@@ -8,9 +8,9 @@
         "alpha":"R",
         "meal":"Dinner",
         "submeal":"Lunch",
-        "prep_time":"150 hours",
-        "cook_time":"20 minutes",
-        "total_time":" 3 hours",
+        "prep_time":"150",
+        "cook_time":"20",
+        "total_time":"170",
         "status":"A"
     },
     {
@@ -22,9 +22,9 @@
         "alpha":"L",
         "meal":"Dinner",
         "submeal":"Lunch",
-        "prep_time":"30 minutes",
-        "cook_time":"1 hour",
-        "total_time":"1.5 hours",
+        "prep_time":"30",
+        "cook_time":"60",
+        "total_time":"90",
         "status":"A"
     },
     {
@@ -36,9 +36,9 @@
         "alpha":"C",
         "meal":"Dinner",
         "submeal":"Lunch",
-        "prep_time":"20 minutes",
-        "cook_time":"10 minutes",
-        "total_time":"30 minutes",
+        "prep_time":"20",
+        "cook_time":"10",
+        "total_time":"30",
         "status":"A"
     },
     {
@@ -51,9 +51,9 @@
         "alpha":"O",
         "meal":"Dinner",
         "submeal":"Lunch",
-        "prep_time":"20 minutes",
+        "prep_time":"20",
         "cook_time":null,
-        "total_time":"20 minutes",
+        "total_time":"20",
         "status":"A"
     },
     {
@@ -64,9 +64,9 @@
         "category":"Drinks",
         "subcategory":"Vegetable",
         "alpha":"S",
-        "prep_time":"20 minutes",
+        "prep_time":"10",
         "cook_time":"N/A",
-        "total_time":"20 minutes",
+        "total_time":"10",
         "status":"A"
     }
 ]
