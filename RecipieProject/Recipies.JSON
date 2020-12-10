@@ -6,7 +6,7 @@
         "color":"Orange",
         "category":"Bread",
         "Alpha":"R",
-        "prep_time":"2.5 hours",
+        "prep_time":"150 hours",
         "cook_time":"20 minutes",
         "total_time":" 3 hours",
         "status":"A"
@@ -45,7 +45,20 @@
         "Alpha":"O",
         "prep_time":"20 minutes",
         "cook_time":"N/A",
-        "total_time":"30 minutes",
+        "total_time":"20 minutes",
+        "status":"A"
+    },
+    {
+        "id":5,
+        "name":"Strawberry Kale Smoothie",
+        "alternate_names":"",
+        "color":"LightPink",
+        "category":"Drinks",
+        "subcategory":"Vegetable",
+        "Alpha":"S",
+        "prep_time":"20 minutes",
+        "cook_time":"N/A",
+        "total_time":"20 minutes",
         "status":"A"
     }
 ]
