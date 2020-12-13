@@ -16,17 +16,115 @@
     },
     {
         "id":2,
-        "name":"Lasagna",
+        "name":"Chicken Rolls",
         "alternate_names":"",
         "color":"Blue",
         "category":"entree",
-        "alpha":"L",
+        "alpha":"C",
         "meal":"dinner",
         "submeal":"lunch",
         "prep_time":30,
-        "cook_time":60,
-        "total_time":90,
-        "time_range":"2-1 - 2 hours",
+        "cook_time":20,
+        "total_time":50,
+        "time_range":"1-30 Minutes to 1 Hour",
+        "servings":16,
+        "ingredients":[
+            {
+                "amount":"2 Pkgs",
+                "name":"Pillsbury Crescent Roll Dough",
+                "notes":null,
+                "required":true
+            },
+            {
+                "amount":"2 Cups",
+                "name":"Shredded Chicken",
+                "notes":null,
+                "required":true
+            },
+            {
+                "amount":"4 Oz",
+                "name":"Cream Cheese",
+                "notes":"(room temp)",
+                "required":true
+            },
+            {
+                "amount":"3/4 Cup",
+                "name":"Butter",
+                "notes":"(1/2 cube)",
+                "required":true
+            },
+            {
+                "amount":"1/2 Tbsp",
+                "name":"Dried Onions",
+                "notes":null,
+                "required":true
+            },
+            {
+                "amount":"1/2 tsp",
+                "name":"Black Pepper",
+                "notes":null,
+                "required":true
+            },
+            {
+                "amount":"3/4 tsp",
+                "name":"Sale",
+                "notes":null,
+                "required":true
+            },
+            {
+                "amount":null,
+                "name":"Chicken Gravy",
+                "notes":null,
+                "required":false
+            },
+            {
+                "amount":"2 Pkgs",
+                "name":"Pillsbury Crescent Roll Dough",
+                "notes":null,
+                "required":false
+            },
+            {
+                "amount":"2 Pkgs",
+                "name":"Pillsbury Crescent Roll Dough",
+                "notes":null,
+                "required":false
+            }
+        ],
+        "steps":[
+            {
+                "number":1,
+                "text":"Melt ¼ cup of butter in a microwaveable bowl."
+            },
+            {
+                "number":2,
+                "text":"Add all other non optional ingredients and stir with a fork until combined. "
+            },
+            {
+                "number":3,
+                "text":"Open rolls and fill each triangular piece with a spoon of the chicken mixture.  (use a small cookie scoop)"
+            },
+            {
+                "number":4,
+                "text":"Roll up staring at the large end and tucking in sides."
+            },
+            {
+                "number":5,
+                "text":"If desired you can dip each roll in melted butter and then bread crumbs for a different outside texture."
+            },
+            {
+                "number":6,
+                "text":"Place filled rolls on a greased cookie sheet with the small end point facing down.  (this keeps it from lifting open during the baking process."
+            },
+            {
+                "number":7,
+                "text":"Bake at 350° for 15 to 20 minutes until golden brown."
+            },
+            {
+                "number":8,
+                "text":"Serve warm with chicken gravy."
+            }
+        ],
+        "notes":"Chicken gravy can be made with a mix, or you can make it from water, chicken bouillon, and cream of chicken soup.  You can also make this dough instead of buying it using the Chicken Roll Dough Recipe and rolling it out in a circle, and cutting it into 8 equal triangular pieces like a pizza.",
         "status":"A"
     },
     {
