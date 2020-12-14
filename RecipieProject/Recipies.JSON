@@ -78,14 +78,14 @@
                 "required":false
             },
             {
-                "amount":"2 Pkgs",
-                "name":"Pillsbury Crescent Roll Dough",
+                "amount":"1/4 Cup",
+                "name":"Butter",
                 "notes":null,
                 "required":false
             },
             {
-                "amount":"2 Pkgs",
-                "name":"Pillsbury Crescent Roll Dough",
+                "amount":"1/2 Cup",
+                "name":"Breadcrumbs",
                 "notes":null,
                 "required":false
             }
