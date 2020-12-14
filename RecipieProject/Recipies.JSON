@@ -110,7 +110,8 @@
             }
         ],
         "notes":"Chicken gravy can be made with a mix, or you can make it from water, chicken bouillon, and cream of chicken soup.  You can also make this dough instead of buying it using the Chicken Roll Dough Recipe and rolling it out in a circle, and cutting it into 8 equal triangular pieces like a pizza.",
-        "status":"A"
+        "status":"A",
+        "image":"chickenRolls.jpg"
     },
     {
         "id":3,
@@ -208,6 +209,8 @@
             }
         ],
         "notes":null,
-        "status":"A"
-    }
+        "status":"A",
+        "image":"chocChipCookies.jpeg"
+    },
+    {}
 ]
