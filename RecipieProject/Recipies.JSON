@@ -1,20 +1,5 @@
 [
     {
-        "id":1,
-        "name":"Rolls",
-        "alternate_names":"dinner Rolls, Homemade Rolls",
-        "color":"Orange",
-        "category":"bread",
-        "alpha":"R",
-        "meal":"dinner",
-        "submeal":"lunch",
-        "prep_time":150,
-        "cook_time":20,
-        "total_time":170,
-        "time_range":"3-2 - 3 hours",
-        "status":"A"
-    },
-    {
         "id":2,
         "name":"Chicken Rolls",
         "alternate_names":"",
@@ -140,132 +125,89 @@
         "cook_time":10,
         "total_time":30,
         "time_range":"0-Less Than 30 minutes",
-        "status":"A"
-    },
-    {
-        "id":4,
-        "name":"Orange Julius",
-        "alternate_names":"",
-        "color":"LightPink",
-        "category":"drink",
-        "subcategory":"dessert",
-        "alpha":"O",
-        "meal":"dinner",
-        "submeal":"lunch",
-        "prep_time":20,
-        "cook_time":null,
-        "total_time":20,
-        "time_range":"0-Less Than 30 minutes",
-        "status":"A"
-    },
-    {
-        "id":5,
-        "name":"Strawberry Kale Smoothie",
-        "alternate_names":"",
-        "color":"LightPink",
-        "category":"drink",
-        "subcategory":"vegetable",
-        "alpha":"S",
-        "prep_time":10,
-        "cook_time":"N/A",
-        "total_time":10,
-        "time_range":"0-Less Than 30 minutes",
-        "status":"A"
-    },
-    {
-        "id":6,
-        "name":"Spicy Egg Omelet",
-        "alternate_names":"",
-        "color":"Blue",
-        "category":"entree",
-        "subcategory":null,
-        "alpha":"E",
-        "meal":"breakfast",
-        "submeal":null,
-        "prep_time":10,
-        "cook_time":10,
-        "total_time":20,
-        "time_range":"0-Less Than 30 minutes",
-        "status":"A"
-    },
-    {
-        "id":7,
-        "name":"Waffles",
-        "alternate_names":"",
-        "color":"Blue",
-        "category":"entree",
-        "subcategory":null,
-        "alpha":"W",
-        "meal":"breakfast",
-        "submeal":null,
-        "prep_time":10,
-        "cook_time":10,
-        "total_time":20,
-        "time_range":"0-Less Than 30 minutes",
-        "status":"A"
-    },
-    {
-        "id":8,
-        "name":"French Toast",
-        "alternate_names":"",
-        "color":"Blue",
-        "category":"entree",
-        "subcategory":null,
-        "alpha":"F",
-        "meal":"breakfast",
-        "submeal":null,
-        "prep_time":10,
-        "cook_time":15,
-        "total_time":25,
-        "time_range":"0-Less Than 30 minutes",
-        "status":"A"
-    },
-    {
-        "id":9,
-        "name":"Cinnamon Rolls",
-        "alternate_names":"",
-        "color":"LightBlue",
-        "category":"dessert",
-        "subcategory":null,
-        "alpha":"C",
-        "meal":"snack",
-        "submeal":"breakfast",
-        "prep_time":10,
-        "cook_time":10,
-        "total_time":20,
-        "time_range":"0-Less Than 30 minutes",
-        "status":"A"
-    },
-    {
-        "id":10,
-        "name":"Chicken Tortilla Soup",
-        "alternate_names":"",
-        "color":"Red",
-        "category":"soup",
-        "subcategory":null,
-        "alpha":"T",
-        "meal":"dinner",
-        "submeal":"lunch",
-        "prep_time":30,
-        "cook_time":20,
-        "total_time":50,
-        "time_range":"1-30 Minutes to 1 Hour",
-        "status":"A"
-    },
-    {
-        "id":11,
-        "name":"Au Graten Potatoes",
-        "alternate_names":"",
-        "color":"Green",
-        "category":"side",
-        "subcategory":null,
-        "alpha":"P",
-        "meal":"dinner",
-        "submeal":"lunch",
-        "prep_time":20,
-        "cook_time":60,
-        "total_time":80,
-        "time_range":"2-1 Hour to 2 hours",
+        "ingredients":[
+            {
+                "amount":"10 Tbsp",
+                "name":"Butter",
+                "notes":"(1 Cube + 2Tbsp)",
+                "required":true
+            },
+            {
+                "amount":"1 1/2 Cup",
+                "name":"Brown Sugar",
+                "notes":"",
+                "required":true
+            },
+            {
+                "amount":"1",
+                "name":"Egg",
+                "notes":"",
+                "required":true
+            },
+            {
+                "amount":"2 tsp",
+                "name":"Vanilla",
+                "notes":"",
+                "required":true
+            },
+            {
+                "amount":"2 Cups",
+                "name":"Flour",
+                "notes":"",
+                "required":true
+            },
+            {
+                "amount":"3/4 tsp",
+                "name":"Salt",
+                "notes":"",
+                "required":true
+            },
+            {
+                "amount":"1/2 tsp",
+                "name":"Baking Powder",
+                "notes":"",
+                "required":true
+            },
+            {
+                "amount":"1 tsp",
+                "name":"Baking Soda",
+                "notes":"",
+                "required":true
+            },
+            {
+                "amount":"1 Cup",
+                "name":"Chocolate Chips",
+                "notes":"",
+                "required":true
+            }
+        ],
+        "steps":[
+            {
+                "number":1,
+                "text":"Preheat Oven to 350 Degrees"
+            },
+            {
+                "number":2,
+                "text":"Mix together butter (softened to room temperature) and brown sugar."
+            },
+            {
+                "number":3,
+                "text":"Add Egg and vanilla to butter mixture and beat until very smooth"
+            },
+            {
+                "number":4,
+                "text":"Add in flour, salt, baking powder, and baking soda to mixture and only mix until it is combined (don't overmix)"
+            },
+            {
+                "number":5,
+                "text":"Stir in chocolate chips (don't have to use exact measurements)"
+            },
+            {
+                "number":6,
+                "text":"Form into balls and place on cookie sheet. Bake at 350 degrees for 9-11 minutes depending on cookie sheet and oven."
+            }
+        ],
+        "notes":null,
         "status":"A"
     }
 ]
