@@ -15,61 +15,71 @@
         "servings":16,
         "ingredients":[
             {
-                "amount":"2 Pkgs",
+                "amount":"2",
+                "measurement":"Pkgs",
                 "name":"Pillsbury Crescent Roll Dough",
                 "notes":null,
                 "required":true
             },
             {
-                "amount":"2 Cups",
+                "amount":"2",
+                "measurement":"Cups",
                 "name":"Shredded Chicken",
                 "notes":null,
                 "required":true
             },
             {
-                "amount":"4 Oz",
+                "amount":"4",
+                "measurement":"Oz",
                 "name":"Cream Cheese",
                 "notes":"(room temp)",
                 "required":true
             },
             {
-                "amount":"3/4 Cup",
+                "amount":"3/4",
+                "measurement":"Cup",
                 "name":"Butter",
                 "notes":"(1/2 cube)",
                 "required":true
             },
             {
-                "amount":"1/2 Tbsp",
+                "amount":"1/2",
+                "measurement":"Tbsp",
                 "name":"Dried Onions",
                 "notes":null,
                 "required":true
             },
             {
-                "amount":"1/2 tsp",
+                "amount":"1/2",
+                "measurement":"tsp",
                 "name":"Black Pepper",
                 "notes":null,
                 "required":true
             },
             {
-                "amount":"3/4 tsp",
+                "amount":"3/4",
+                "measurement":"tsp",
                 "name":"Sale",
                 "notes":null,
                 "required":true
             },
             {
                 "amount":null,
+                "measurement":null,
                 "name":"Chicken Gravy",
                 "notes":null,
                 "required":false
             },
             {
-                "amount":"1/4 Cup",
+                "amount":"1/4",
+                "measurement":"Cup",
                 "name":"Butter",
                 "notes":null,
                 "required":false
             },
             {
-                "amount":"1/2 Cup",
+                "amount":"1/2",
+                "measurement":"Cup",
                 "name":"Breadcrumbs",
                 "notes":null,
                 "required":false
