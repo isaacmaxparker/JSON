@@ -141,7 +141,9 @@
                 "amount":"10",
                 "measurement":"Tbsp",
                 "name":"Butter",
-                "notes":"(1 Cube + 2Tbsp)",
+                "notes":"",
+                "secondaryAmount":"1 1/4",
+                "secondaryMeasurement":"Cube",
                 "required":true
             },
             {
