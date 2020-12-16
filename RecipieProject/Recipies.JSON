@@ -39,7 +39,9 @@
                 "amount":"3/4",
                 "measurement":"Cup",
                 "name":"Butter",
-                "notes":"(1/2 cube)",
+                "notes":"",
+                "secondaryAmount":"1/2",
+                "secondaryMeasurement":"Cube",
                 "required":true
             },
             {
