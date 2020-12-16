@@ -138,55 +138,64 @@
         "time_range":"0-Less Than 30 minutes",
         "ingredients":[
             {
-                "amount":"10 Tbsp",
+                "amount":"10",
+                "measurement":"Tbsp",
                 "name":"Butter",
                 "notes":"(1 Cube + 2Tbsp)",
                 "required":true
             },
             {
-                "amount":"1 1/2 Cup",
+                "amount":"1 1/2",
+                "measurement":"Cups",
                 "name":"Brown Sugar",
                 "notes":"",
                 "required":true
             },
             {
                 "amount":"1",
+                "measurement":"Cup",
                 "name":"Egg",
                 "notes":"",
                 "required":true
             },
             {
-                "amount":"2 tsp",
+                "amount":"2",
+                "measurement":"tsp",
                 "name":"Vanilla",
                 "notes":"",
                 "required":true
             },
             {
-                "amount":"2 Cups",
+                "amount":"2",
+                "measurement":"Cups",
                 "name":"Flour",
                 "notes":"",
                 "required":true
             },
             {
-                "amount":"3/4 tsp",
+                "amount":"3/4",
+                "measurement":"tsp",
                 "name":"Salt",
                 "notes":"",
                 "required":true
             },
             {
-                "amount":"1/2 tsp",
+                "amount":"1/2",
+                "measurement":"tsp",
                 "name":"Baking Powder",
                 "notes":"",
                 "required":true
             },
             {
-                "amount":"1 tsp",
+                "amount":"1",
+                "measurement":"tsp",
                 "name":"Baking Soda",
                 "notes":"",
                 "required":true
             },
             {
-                "amount":"1 Cup",
+                "amount":"1",
+                "measurement":"Cup",
                 "name":"Chocolate Chips",
                 "notes":"",
                 "required":true
