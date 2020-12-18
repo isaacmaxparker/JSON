@@ -8,7 +8,7 @@
         "alpha":"C",
         "meal":"dinner",
         "submeal":"lunch",
-        "influence":"Miscellaneous",
+        "influence":"misc",
         "prep_time":30,
         "cook_time":20,
         "total_time":50,
@@ -138,7 +138,7 @@
         "prep_time":20,
         "cook_time":10,
         "total_time":30,
-        "influence":"Miscellaneous",
+        "influence":"american",
         "time_range":"0-Less Than 30 minutes",
         "ingredients":[
             {
