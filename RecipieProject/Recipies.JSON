@@ -236,5 +236,109 @@
         "notes":null,
         "status":"A",
         "image":"chocChipCookies.jpg"
+    },
+    {
+        "id":3,
+        "name": "Homemade rolls",
+        "alternate_names": "Dinner rolls",
+        "color": "Orange",
+        "category": "bread",
+        "alpha": "R",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "misc",
+        "prep_time": 150,
+        "cook_time": 20,
+        "total_time": 170,
+        "time_range": "1-30 Minutes to 1 Hour",
+        "servings": "16",
+        "ingredients": [
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Milk",
+                "notes": {},
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Water",
+                "notes": {},
+                "required": true
+            },
+            {
+                "amount": "1/3",
+                "measurement": "Cups",
+                "name": "Sugar",
+                "notes": {},
+                "required": true
+            },
+            {
+                "amount": "1/3",
+                "measurement": "Cups",
+                "name": "Butter",
+                "notes": {},
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Egg",
+                "notes": {},
+                "required": true
+            },
+            {
+                "amount": "2 1/2",
+                "measurement": "tsp",
+                "name": "Instant Yeast",
+                "notes": {},
+                "required": true
+            },
+            {
+                "amount": "2 1/2",
+                "measurement": "Cups",
+                "name": "Flour",
+                "notes": {},
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Heat ½ cup of milk in the microwave until very hot."
+            },
+            {
+                "number": 2,
+                "text": "Mix in a bowl the heated milk, water, sugar, butter, and egg until combined.  "
+            },
+            {
+                "number": 3,
+                "text": "Add to this mixture 2 ½ teaspoons of instant yeast as well as 1 cup of flour.  "
+            },
+            {
+                "number": 4,
+                "text": "Add 1 teaspoon of salt and 1 to 1 ½ cups more flour to the above mixture stirring with a spoon until it is all mixed together and forms a soft but not sticky dough. "
+            },
+            {
+                "number": 5,
+                "text": "Then on a clean surface add a small amount of flour and dump the dough onto it.  Knead the dough for 10 minutes."
+            },
+            {
+                "number": 6,
+                "text": "After kneading the dough well, take a large bowl and put a tablespoon of vegetable oil or melted butter in it and grease the sides of the bowl and place the kneaded dough in it.  Cover with a clean towel or plastic wrap works good if you spray it so the dough won’t stick to it.  Place in a warm area and let raise for 1 hour.  "
+            },
+            {
+                "number": 7,
+                "text": "Shape the dough into Balls and place in a pan or on a cookie sheet and let raise till they are double in size."
+            },
+            {
+                "number": 8,
+                "text": "Bake for 18 - 20 minutes on 350 degrees."
+            }
+        ],
+        "notes": "I assume you are using a hand mixer, spoon, or wisk.  the amount of flour you need to add to make this a dough will be too stiff for anything but a large mixer or a spoon so use a strong spoon!\n\nYou need to knead this dough for 10 minutes!  Its not hard just takes muscles.  You just fold push turn.  You can google how to knead dough by hand and there are lots of videos showing how to do it.",
+        "status": "A",
+        "image": "rolls.jpg"
     }
 ]
