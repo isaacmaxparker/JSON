@@ -1,6 +1,6 @@
 [
     {
-        "id":2,
+        "id":1,
         "name":"Chicken Rolls",
         "alternate_names":"",
         "color":"Blue",
@@ -91,7 +91,7 @@
         "steps":[
             {
                 "number":1,
-                "text":"Melt ¼ cup of butter in a microwaveable bowl."
+                "text":"Melt butter in a microwaveable bowl."
             },
             {
                 "number":2,
@@ -127,7 +127,7 @@
         "image":"chickenRolls.jpg"
     },
     {
-        "id":3,
+        "id":2,
         "name":"Chocolate Chip Cookies",
         "alternate_names":"",
         "color":"LightBlue",
@@ -306,7 +306,7 @@
         "steps": [
             {
                 "number": 1,
-                "text": "Heat ½ cup of milk in the microwave until very hot."
+                "text": "Heat milk in the microwave until very hot."
             },
             {
                 "number": 2,
@@ -314,11 +314,11 @@
             },
             {
                 "number": 3,
-                "text": "Add to this mixture 2 ½ teaspoons of instant yeast as well as 1 cup of flour.  "
+                "text": "Add to this mixture instant yeast as well as half the amount of flour.  "
             },
             {
                 "number": 4,
-                "text": "Add 1 teaspoon of salt and 1 to 1 ½ cups more flour to the above mixture stirring with a spoon until it is all mixed together and forms a soft but not sticky dough. "
+                "text": "Add in salt and the rest of the flour to the above mixture stirring with a spoon until it is all mixed together and forms a soft but not sticky dough. "
             },
             {
                 "number": 5,
