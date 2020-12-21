@@ -12,7 +12,7 @@
         "prep_time":30,
         "cook_time":20,
         "total_time":50,
-        "time_range":"1-30 Minutes to 1 Hour",
+        "time_range":"1-30 minutes to 1 hour",
         "servings":16,
         "ingredients":[
             {
@@ -250,7 +250,7 @@
         "prep_time": 150,
         "cook_time": 20,
         "total_time": 170,
-        "time_range": "1-30 Minutes to 1 Hour",
+        "time_range": "1-30 minutes to 1 hour",
         "servings": "16",
         "ingredients": [
             {
@@ -354,7 +354,7 @@
         "prep_time": 20,
         "cook_time": null,
         "total_time": 20,
-        "time_range": "0-Less than 30 Minutes",
+        "time_range": "0-Less than 30 minutes",
         "servings": "10",
         "ingredients": [
             {
@@ -496,7 +496,7 @@
         "prep_time": 30,
         "cook_time": 20,
         "total_time": 50,
-        "time_range": "1-30 Minutes to 1 Hour",
+        "time_range": "1-30 minutes to 1 hour",
         "servings": "12",
         "ingredients": [
             {
@@ -597,7 +597,7 @@
         "prep_time": 10,
         "cook_time": 30,
         "total_time": 40,
-        "time_range": "1-30 Minutes to 1 Hour",
+        "time_range": "1-30 minutes to 1 hour",
         "servings": "16",
         "ingredients": [
             {
@@ -681,7 +681,7 @@
         "prep_time": 10,
         "cook_time": 120,
         "total_time": 130,
-        "time_range": "1-30 Minutes to 1 Hour",
+        "time_range": "1-30 minutes to 1 hour",
         "servings": "16",
         "ingredients": [
             {
@@ -772,7 +772,7 @@
         "prep_time": 20,
         "cook_time": null,
         "total_time": 20,
-        "time_range": "0-Less than 30 Minutes",
+        "time_range": "0-Less than 30 minutes",
         "servings": "10",
         "ingredients": [
             {
@@ -831,7 +831,7 @@
         "prep_time": 7,
         "cook_time": null,
         "total_time": 7,
-        "time_range": "0-Less than 30 Minutes",
+        "time_range": "0-Less than 30 minutes",
         "servings": "10",
         "ingredients": [
             {
@@ -886,7 +886,7 @@
         "prep_time": 20,
         "cook_time": null,
         "total_time": 20,
-        "time_range": "0-Less than 30 Minutes",
+        "time_range": "0-Less than 30 minutes",
         "servings": "8",
         "ingredients": [
             {
@@ -966,7 +966,7 @@
         "prep_time": 10,
         "cook_time": null,
         "total_time": 10,
-        "time_range": "0-Less than 30 Minutes",
+        "time_range": "0-Less than 30 minutes",
         "servings": "8",
         "ingredients": [
             {
