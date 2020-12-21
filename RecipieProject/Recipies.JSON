@@ -340,5 +340,147 @@
         "notes": "I assume you are using a hand mixer, spoon, or wisk.  the amount of flour you need to add to make this a dough will be too stiff for anything but a large mixer or a spoon so use a strong spoon!\n\nYou need to knead this dough for 10 minutes!  Its not hard just takes muscles.  You just fold push turn.  You can google how to knead dough by hand and there are lots of videos showing how to do it.",
         "status": "A",
         "image": "rolls.jpg"
+    },
+    {
+        "id": 4,
+        "name": "7 Layer Dip",
+        "alternate_names": "Seven Layer Dip",
+        "color": "Green",
+        "category": "side",
+        "alpha": "S",
+        "meal": "snack",
+        "submeal": "null",
+        "influence": "mexican",
+        "prep_time": 20,
+        "cook_time": null,
+        "total_time": 20,
+        "time_range": "0-Less than 30 Minutes",
+        "servings": "10",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Refried Beans ",
+                "notes": "16 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Chunky Tomato Salsa",
+                "notes": "16 oz",
+                "required": true
+            },
+            {
+                "amount": "2 1/2",
+                "measurement": "Cups",
+                "name": "Guacamole",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2 1/2",
+                "measurement": "Cups",
+                "name": "sour Cream",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Tbsp",
+                "name": "Dry Taco Seasoning",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "",
+                "name": "Lime ",
+                "notes": "just the juice",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Shredded Monterey Jack Cheese",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Shredded Cheddar Cheese",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Cups",
+                "name": "Shredded Lettuce",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Green Onion",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Roma Tomatoes",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Black Olives",
+                "notes": "chopped",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Tortilla Chips",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Spread refried beans in an even layer in the bottom of your serving dish.  Place in the refrigerator while you make Fresh Guacamole.  "
+            },
+            {
+                "number": 2,
+                "text": "Spread fresh guacamole in an even layer over the beans"
+            },
+            {
+                "number": 3,
+                "text": "Top with a layer of salsa."
+            },
+            {
+                "number": 4,
+                "text": "In a medium bowl, stir together sour cream, taco seasoning, and lime juice.  Spread this mixture in an even layer over the salsa by dropping in small spoonfuls and flattening out to spread"
+            },
+            {
+                "number": 5,
+                "text": "Sprinkle with monterey jack cheese and cheddar cheeses in an even layer over the sour cream."
+            },
+            {
+                "number": 6,
+                "text": "Top with shredded lettuce, green onions, tomatoes, and black olives."
+            },
+            {
+                "number": 7,
+                "text": "Serve immediately with tortilla chips.  Best eaten fresh."
+            }
+        ],
+        "notes": "Can store in an airtight container for up to 3 days.",
+        "status": "A",
+        "image": null
     }
 ]
