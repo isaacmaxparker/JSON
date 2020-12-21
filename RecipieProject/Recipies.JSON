@@ -482,5 +482,551 @@
         "notes": "Can store in an airtight container for up to 3 days.",
         "status": "A",
         "image": null
+    },
+    {
+        "id": 5,
+        "name": "Cheese n' bacon Stuffed Mushroom",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "C",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "misc",
+        "prep_time": 30,
+        "cook_time": 20,
+        "total_time": 50,
+        "time_range": "1-30 Minutes to 1 Hour",
+        "servings": "12",
+        "ingredients": [
+            {
+                "amount": "12",
+                "measurement": "",
+                "name": "Large White Mushrooms",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Garlic",
+                "notes": "minced",
+                "required": true
+            },
+            {
+                "amount": "4",
+                "measurement": "oz",
+                "name": "Cream Cheese",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Bacon Pieces",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Cheddar Cheese",
+                "notes": "grated",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Fresh Parsley",
+                "notes": "1/2 this if dried",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Preheat oven to 350°"
+            },
+            {
+                "number": 2,
+                "text": "Remove stems from the mushrooms and discard."
+            },
+            {
+                "number": 3,
+                "text": "Place cream cheese in a mixing bowl and let it sit at room temperature for 5 to 10 minutes to soften.  "
+            },
+            {
+                "number": 4,
+                "text": "Stir cream cheese until smooth."
+            },
+            {
+                "number": 5,
+                "text": "Then add garlic, bacon, cheese, and parsley and mix together well.  "
+            },
+            {
+                "number": 6,
+                "text": "Spray a shallow baking dish with pan spray."
+            },
+            {
+                "number": 7,
+                "text": "Place mushrooms top side down into the baking dish and spoon cream cheese mixture into the mushroom caps."
+            },
+            {
+                "number": 8,
+                "text": "Bake for 18 to 20 minutes until heated through and cheese is melted."
+            },
+            {
+                "number": 9,
+                "text": "Serve immediately."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": null
+    },
+    {
+        "id": 6,
+        "name": "Creamy Dill Dip",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "D",
+        "meal": "snack",
+        "submeal": "lunch",
+        "influence": "misc",
+        "prep_time": 10,
+        "cook_time": 30,
+        "total_time": 40,
+        "time_range": "1-30 Minutes to 1 Hour",
+        "servings": "16",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Sour Cream",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Mayonnaise",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Tbsp",
+                "name": "Dried Dill Weed",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Tbsp",
+                "name": "Dried Onions",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Dried Parsley",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Garlic Powder",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/8",
+                "measurement": "Cups",
+                "name": "Salt",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Mix ingredients together until smooth."
+            },
+            {
+                "number": 2,
+                "text": "Chill for at least 30 minutes."
+            },
+            {
+                "number": 3,
+                "text": "Serve with vegetables or chips."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": null
+    },
+    {
+        "id": 7,
+        "name": "Veggie Dip",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "V",
+        "meal": "snack",
+        "submeal": "lunch",
+        "influence": "misc",
+        "prep_time": 10,
+        "cook_time": 120,
+        "total_time": 130,
+        "time_range": "1-30 Minutes to 1 Hour",
+        "servings": "16",
+        "ingredients": [
+            {
+                "amount": "8",
+                "measurement": "oz",
+                "name": "Sour Cream",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "8",
+                "measurement": "oz",
+                "name": "Mayonnaise",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Tbsp",
+                "name": "Dried Parsley",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Tbsp",
+                "name": "Dried Onions",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Tbsp",
+                "name": "Lawry's Season Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Dried Dill Weed",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Worcestershire Sauce",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "",
+                "name": "Franks Hot Sauce",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Mix ingredients together until smooth"
+            },
+            {
+                "number": 2,
+                "text": "Chill for 2 hours."
+            },
+            {
+                "number": 3,
+                "text": "Taste for seasonings, serve with vegetables.    "
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": null
+    },
+    {
+        "id": 8,
+        "name": "Fruit Dip",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "F",
+        "meal": "snack",
+        "submeal": "lunch",
+        "influence": "misc",
+        "prep_time": 20,
+        "cook_time": null,
+        "total_time": 20,
+        "time_range": "0-Less than 30 Minutes",
+        "servings": "10",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "Container",
+                "name": "Yogurt",
+                "notes": "8 oz",
+                "required": true
+            },
+            {
+                "amount": "8",
+                "measurement": "oz",
+                "name": "Cream Cheese",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Powdered Sugar",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Tbsp",
+                "name": "Fresh Jam",
+                "notes": "optional",
+                "required": false
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Using an immersion Blender or other blender, mix cream cheese until smooth.  "
+            },
+            {
+                "number": 2,
+                "text": "Add yogurt, powdered sugar, and fresh jam.   Mix well. "
+            }
+        ],
+        "notes": "Strawberry Fruit Dip:  Use strawberry yogurt & strawberry jam.  For Raspberry Fruit Dip:  Use raspberry yogurt & raspberry jam.",
+        "status": "A",
+        "image": null
+    },
+    {
+        "id": 9,
+        "name": "Creamy Marshmallow Fruit Dip",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "C",
+        "meal": "snack",
+        "submeal": "null",
+        "influence": "misc",
+        "prep_time": 7,
+        "cook_time": null,
+        "total_time": 7,
+        "time_range": "0-Less than 30 Minutes",
+        "servings": "10",
+        "ingredients": [
+            {
+                "amount": "7",
+                "measurement": "oz",
+                "name": "Marshmallow Cream",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "8",
+                "measurement": "oz",
+                "name": "Cream Cheese",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Orange Juice",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Orange Peel",
+                "notes": "zested",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Blend ingredients together and serve as a fruit dip.  "
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": null
+    },
+    {
+        "id": 10,
+        "name": "Los Hermanos Salsa",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "L",
+        "meal": "snack",
+        "submeal": "lunch",
+        "influence": "mexican",
+        "prep_time": 20,
+        "cook_time": null,
+        "total_time": 20,
+        "time_range": "0-Less than 30 Minutes",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Rotel Mexican Style Tomatoes",
+                "notes": "10 oz can",
+                "required": true
+            },
+            {
+                "amount": "1 2/3",
+                "measurement": "Cups",
+                "name": "Canned tomatoes",
+                "notes": "chopped",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Jalapeno",
+                "notes": "not seeded",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Green Onion",
+                "notes": "full stalk",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Garlic Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Oregano",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/8",
+                "measurement": "tsp",
+                "name": "Cumin",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Cut top off jalapeno.  Cut the bottom off the green onion.  Place all ingredients into a blender except ⅔ cup of tomatoes.  Pulse until green onion and jalapeno are incorporated.  Do not over mix.  It will look slightly green."
+            },
+            {
+                "number": 2,
+                "text": "Add the ⅔ cup of tomatoes and barely pulse. This helps to bring back the red color of the salsa.   Chill & serve."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": null
+    },
+    {
+        "id": 11,
+        "name": "Pico De Gallo",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "P",
+        "meal": "snack",
+        "submeal": "dinner",
+        "influence": "mexican",
+        "prep_time": 10,
+        "cook_time": null,
+        "total_time": 10,
+        "time_range": "0-Less than 30 Minutes",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "8",
+                "measurement": "",
+                "name": "roma Tomatoes",
+                "notes": "chopped",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Onion",
+                "notes": "chopped",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "",
+                "name": "Green Onions",
+                "notes": "chopped",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Cilantro",
+                "notes": "chopped",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Garlic Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Fresh Lime Juic",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Salt & Pepper",
+                "notes": "to taste",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Combine all ingredients and serve"
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": null
     }
 ]
