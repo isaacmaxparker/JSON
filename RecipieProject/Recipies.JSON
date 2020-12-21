@@ -481,7 +481,7 @@
         ],
         "notes": "Can store in an airtight container for up to 3 days.",
         "status": "A",
-        "image": null
+        "image": "sevenLayerDip.jpg"
     },
     {
         "id": 5,
@@ -582,7 +582,7 @@
         ],
         "notes": "",
         "status": "A",
-        "image": null
+        "image": "cheeseBaconMushrooms.jpg"
     },
     {
         "id": 6,
@@ -666,7 +666,7 @@
         ],
         "notes": "",
         "status": "A",
-        "image": null
+        "image": "creamyDillDip.jpg"
     },
     {
         "id": 7,
@@ -757,7 +757,7 @@
         ],
         "notes": "",
         "status": "A",
-        "image": null
+        "image": "veggieDip"
     },
     {
         "id": 8,
@@ -816,7 +816,7 @@
         ],
         "notes": "Strawberry Fruit Dip:  Use strawberry yogurt & strawberry jam.  For Raspberry Fruit Dip:  Use raspberry yogurt & raspberry jam.",
         "status": "A",
-        "image": null
+        "image": "fruitDip.jpg"
     },
     {
         "id": 9,
@@ -871,7 +871,7 @@
         ],
         "notes": "",
         "status": "A",
-        "image": null
+        "image": "creamyMarshmallowDip.jpg"
     },
     {
         "id": 10,
@@ -951,7 +951,7 @@
         ],
         "notes": "",
         "status": "A",
-        "image": null
+        "image": "losHemanosSalsa.jpg"
     },
     {
         "id": 11,
@@ -1027,6 +1027,6 @@
         ],
         "notes": "",
         "status": "A",
-        "image": null
+        "image": "picoDeGallo.jpg"
     }
 ]
