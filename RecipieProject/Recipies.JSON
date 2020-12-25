@@ -139,7 +139,7 @@
         "cook_time": 10,
         "total_time": 30,
         "influence": "american",
-        "time_range": "0-Less Than 30 minutes",
+        "time_range": "0-Less than 30 minutes",
         "ingredients": [
             {
                 "amount": "10",
