@@ -1,244 +1,244 @@
 [
     {
-        "id":1,
-        "name":"Chicken Rolls",
-        "alternate_names":"",
-        "color":"Blue",
-        "category":"entree",
-        "alpha":"C",
-        "meal":"dinner",
-        "submeal":"lunch",
-        "influence":"misc",
-        "prep_time":30,
-        "cook_time":20,
-        "total_time":50,
-        "time_range":"1-30 minutes to 1 hour",
-        "servings":16,
-        "ingredients":[
+        "id": 1,
+        "name": "Chicken Rolls",
+        "alternate_names": "",
+        "color": "Blue",
+        "category": "entree",
+        "alpha": "C",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "misc",
+        "prep_time": 30,
+        "cook_time": 20,
+        "total_time": 50,
+        "time_range": "1-30 minutes to 1 hour",
+        "servings": 16,
+        "ingredients": [
             {
-                "amount":"2",
-                "measurement":"Pkgs",
-                "name":"Pillsbury Crescent Roll Dough",
-                "notes":null,
-                "required":true
+                "amount": "2",
+                "measurement": "Pkgs",
+                "name": "Pillsbury Crescent Roll Dough",
+                "notes": null,
+                "required": true
             },
             {
-                "amount":"2",
-                "measurement":"Cups",
-                "name":"Shredded Chicken",
-                "notes":null,
-                "required":true
+                "amount": "2",
+                "measurement": "Cups",
+                "name": "Shredded Chicken",
+                "notes": null,
+                "required": true
             },
             {
-                "amount":"4",
-                "measurement":"Oz",
-                "name":"Cream Cheese",
-                "notes":"(room temp)",
-                "required":true
+                "amount": "4",
+                "measurement": "Oz",
+                "name": "Cream Cheese",
+                "notes": "(room temp)",
+                "required": true
             },
             {
-                "amount":"3/4",
-                "measurement":"Cup",
-                "name":"Butter",
-                "notes":"",
-                "secondaryAmount":"1/2",
-                "secondaryMeasurement":"Cube",
-                "required":true
+                "amount": "3/4",
+                "measurement": "Cup",
+                "name": "Butter",
+                "notes": "",
+                "secondaryAmount": "1/2",
+                "secondaryMeasurement": "Cube",
+                "required": true
             },
             {
-                "amount":"1/2",
-                "measurement":"Tbsp",
-                "name":"Dried Onions",
-                "notes":null,
-                "required":true
+                "amount": "1/2",
+                "measurement": "Tbsp",
+                "name": "Dried Onions",
+                "notes": null,
+                "required": true
             },
             {
-                "amount":"1/2",
-                "measurement":"tsp",
-                "name":"Black Pepper",
-                "notes":null,
-                "required":true
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Black Pepper",
+                "notes": null,
+                "required": true
             },
             {
-                "amount":"3/4",
-                "measurement":"tsp",
-                "name":"Sale",
-                "notes":null,
-                "required":true
+                "amount": "3/4",
+                "measurement": "tsp",
+                "name": "Sale",
+                "notes": null,
+                "required": true
             },
             {
-                "amount":null,
-                "measurement":null,
-                "name":"Chicken Gravy",
-                "notes":null,
-                "required":false
+                "amount": null,
+                "measurement": null,
+                "name": "Chicken Gravy",
+                "notes": null,
+                "required": false
             },
             {
-                "amount":"1/4",
-                "measurement":"Cup",
-                "name":"Butter",
-                "notes":null,
-                "required":false
+                "amount": "1/4",
+                "measurement": "Cup",
+                "name": "Butter",
+                "notes": null,
+                "required": false
             },
             {
-                "amount":"1/2",
-                "measurement":"Cup",
-                "name":"Breadcrumbs",
-                "notes":null,
-                "required":false
+                "amount": "1/2",
+                "measurement": "Cup",
+                "name": "Breadcrumbs",
+                "notes": null,
+                "required": false
             }
         ],
-        "steps":[
+        "steps": [
             {
-                "number":1,
-                "text":"Melt butter in a microwaveable bowl."
+                "number": 1,
+                "text": "Melt butter in a microwaveable bowl."
             },
             {
-                "number":2,
-                "text":"Add all other non optional ingredients and stir with a fork until combined. "
+                "number": 2,
+                "text": "Add all other non optional ingredients and stir with a fork until combined. "
             },
             {
-                "number":3,
-                "text":"Open rolls and fill each triangular piece with a spoon of the chicken mixture.  (use a small cookie scoop)"
+                "number": 3,
+                "text": "Open rolls and fill each triangular piece with a spoon of the chicken mixture.  (use a small cookie scoop)"
             },
             {
-                "number":4,
-                "text":"Roll up staring at the large end and tucking in sides."
+                "number": 4,
+                "text": "Roll up staring at the large end and tucking in sides."
             },
             {
-                "number":5,
-                "text":"If desired you can dip each roll in melted butter and then bread crumbs for a different outside texture."
+                "number": 5,
+                "text": "If desired you can dip each roll in melted butter and then bread crumbs for a different outside texture."
             },
             {
-                "number":6,
-                "text":"Place filled rolls on a greased cookie sheet with the small end point facing down.  (this keeps it from lifting open during the baking process."
+                "number": 6,
+                "text": "Place filled rolls on a greased cookie sheet with the small end point facing down.  (this keeps it from lifting open during the baking process."
             },
             {
-                "number":7,
-                "text":"Bake at 350° for 15 to 20 minutes until golden brown."
+                "number": 7,
+                "text": "Bake at 350° for 15 to 20 minutes until golden brown."
             },
             {
-                "number":8,
-                "text":"Serve warm with chicken gravy."
+                "number": 8,
+                "text": "Serve warm with chicken gravy."
             }
         ],
-        "notes":"Chicken gravy can be made with a mix, or you can make it from water, chicken bouillon, and cream of chicken soup.  You can also make this dough instead of buying it using the Chicken Roll Dough Recipe and rolling it out in a circle, and cutting it into 8 equal triangular pieces like a pizza.",
-        "status":"A",
-        "image":"chickenRolls.jpg"
+        "notes": "Chicken gravy can be made with a mix, or you can make it from water, chicken bouillon, and cream of chicken soup.  You can also make this dough instead of buying it using the Chicken Roll Dough Recipe and rolling it out in a circle, and cutting it into 8 equal triangular pieces like a pizza.",
+        "status": "A",
+        "image": "chickenRolls.jpg"
     },
     {
-        "id":2,
-        "name":"Chocolate Chip Cookies",
-        "alternate_names":"",
-        "color":"LightBlue",
-        "category":"dessert",
-        "alpha":"C",
-        "meal":"snack",
-        "submeal":"",
-        "prep_time":20,
-        "cook_time":10,
-        "total_time":30,
-        "influence":"american",
-        "time_range":"0-Less Than 30 minutes",
-        "ingredients":[
+        "id": 2,
+        "name": "Chocolate Chip Cookies",
+        "alternate_names": "",
+        "color": "LightBlue",
+        "category": "dessert",
+        "alpha": "C",
+        "meal": "snack",
+        "submeal": "",
+        "prep_time": 20,
+        "cook_time": 10,
+        "total_time": 30,
+        "influence": "american",
+        "time_range": "0-Less than 30 minutes",
+        "ingredients": [
             {
-                "amount":"10",
-                "measurement":"Tbsp",
-                "name":"Butter",
-                "notes":"",
-                "secondaryAmount":"1 1/4",
-                "secondaryMeasurement":"Cube",
-                "required":true
+                "amount": "10",
+                "measurement": "Tbsp",
+                "name": "Butter",
+                "notes": "",
+                "secondaryAmount": "1 1/4",
+                "secondaryMeasurement": "Cube",
+                "required": true
             },
             {
-                "amount":"1 1/2",
-                "measurement":"Cups",
-                "name":"Brown Sugar",
-                "notes":"",
-                "required":true
+                "amount": "1 1/2",
+                "measurement": "Cups",
+                "name": "Brown Sugar",
+                "notes": "",
+                "required": true
             },
             {
-                "amount":"1",
-                "measurement":null,
-                "name":"Egg",
-                "notes":"",
-                "required":true
+                "amount": "1",
+                "measurement": null,
+                "name": "Egg",
+                "notes": "",
+                "required": true
             },
             {
-                "amount":"2",
-                "measurement":"tsp",
-                "name":"Vanilla",
-                "notes":"",
-                "required":true
+                "amount": "2",
+                "measurement": "tsp",
+                "name": "Vanilla",
+                "notes": "",
+                "required": true
             },
             {
-                "amount":"2",
-                "measurement":"Cups",
-                "name":"Flour",
-                "notes":"",
-                "required":true
+                "amount": "2",
+                "measurement": "Cups",
+                "name": "Flour",
+                "notes": "",
+                "required": true
             },
             {
-                "amount":"3/4",
-                "measurement":"tsp",
-                "name":"Salt",
-                "notes":"",
-                "required":true
+                "amount": "3/4",
+                "measurement": "tsp",
+                "name": "Salt",
+                "notes": "",
+                "required": true
             },
             {
-                "amount":"1/2",
-                "measurement":"tsp",
-                "name":"Baking Powder",
-                "notes":"",
-                "required":true
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Baking Powder",
+                "notes": "",
+                "required": true
             },
             {
-                "amount":"1",
-                "measurement":"tsp",
-                "name":"Baking Soda",
-                "notes":"",
-                "required":true
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Baking Soda",
+                "notes": "",
+                "required": true
             },
             {
-                "amount":"1",
-                "measurement":"Cup",
-                "name":"Chocolate Chips",
-                "notes":"",
-                "required":true
+                "amount": "1",
+                "measurement": "Cup",
+                "name": "Chocolate Chips",
+                "notes": "",
+                "required": true
             }
         ],
-        "steps":[
+        "steps": [
             {
-                "number":1,
-                "text":"Preheat Oven to 350 Degrees"
+                "number": 1,
+                "text": "Preheat Oven to 350 Degrees"
             },
             {
-                "number":2,
-                "text":"Mix together butter (softened to room temperature) and brown sugar."
+                "number": 2,
+                "text": "Mix together butter (softened to room temperature) and brown sugar."
             },
             {
-                "number":3,
-                "text":"Add Egg and vanilla to butter mixture and beat until very smooth"
+                "number": 3,
+                "text": "Add Egg and vanilla to butter mixture and beat until very smooth"
             },
             {
-                "number":4,
-                "text":"Add in flour, salt, baking powder, and baking soda to mixture and only mix until it is combined (don't overmix)"
+                "number": 4,
+                "text": "Add in flour, salt, baking powder, and baking soda to mixture and only mix until it is combined (don't overmix)"
             },
             {
-                "number":5,
-                "text":"Stir in chocolate chips (don't have to use exact measurements)"
+                "number": 5,
+                "text": "Stir in chocolate chips (don't have to use exact measurements)"
             },
             {
-                "number":6,
-                "text":"Form into balls and place on cookie sheet. Bake at 350 degrees for 9-11 minutes depending on cookie sheet and oven."
+                "number": 6,
+                "text": "Form into balls and place on cookie sheet. Bake at 350 degrees for 9-11 minutes depending on cookie sheet and oven."
             }
         ],
-        "notes":null,
-        "status":"A",
-        "image":"chocChipCookies.jpg"
+        "notes": null,
+        "status": "A",
+        "image": "chocChipCookies.jpg"
     },
     {
-        "id":3,
+        "id": 3,
         "name": "Homemade rolls",
         "alternate_names": "Dinner rolls",
         "color": "Orange",
@@ -1028,5 +1028,704 @@
         "notes": "",
         "status": "A",
         "image": "picoDeGallo.jpg"
+    },
+    {
+        "name": "Banana Bread",
+        "alternate_names": "",
+        "color": "Orange",
+        "category": "bread",
+        "alpha": "B",
+        "meal": "snack",
+        "submeal": "null",
+        "influence": "misc",
+        "prep_time": 20,
+        "cook_time": 30,
+        "total_time": 50,
+        "time_range": "1-30 minutes to 1 hour",
+        "servings": "16",
+        "ingredients": [
+            {
+                "amount": "3",
+                "measurement": "",
+                "name": "Ripe Bananas",
+                "notes": "smashed",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "White Sugar",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Butter",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Egg",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/3",
+                "measurement": "Cups",
+                "name": "sour Cream",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Vanilla",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Baking Soda",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1 1/3",
+                "measurement": "Cups",
+                "name": "White Flour",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Beat bananas in a mixing bowl until they are mashed and smooth."
+            },
+            {
+                "number": 2,
+                "text": "Add all other ingredients into your bowl."
+            },
+            {
+                "number": 3,
+                "text": "Mix just until blended.  (Do not overmix!)"
+            },
+            {
+                "number": 4,
+                "text": "Spray two bread pans with nonstick spray.  (I like to use glass bread pans for this.)"
+            },
+            {
+                "number": 5,
+                "text": "Divide the dough mixture between the two bread pans."
+            },
+            {
+                "number": 6,
+                "text": "Bake at 350° for 25-30 minutes or until a toothpick comes out clean when inserted into the loaf."
+            },
+            {
+                "number": 7,
+                "text": "Let cool in the pans for 10 minutes.  Then remove the bread by turning the pan over onto a cooling rack and dumping the bread out."
+            },
+            {
+                "number": 8,
+                "text": "Then turn loaves upright to cool."
+            }
+        ],
+        "notes": "If you dump the loaves out without cooling for 10 minutes first, the bottom will stick to the bread pans and tear away from the loaf.  ",
+        "status": "A",
+        "image": "bananaBread.jpg"
+    },
+    {
+        "id": null,
+        "name": "Chicken Roll Dough",
+        "alternate_names": "",
+        "color": "Orange",
+        "category": "bread",
+        "alpha": "C",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "misc",
+        "prep_time": 30,
+        "cook_time": null,
+        "total_time": 30,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "16",
+        "ingredients": [
+            {
+                "amount": "3 1/2",
+                "measurement": "Cups",
+                "name": "White Flour",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Baking Soda",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Tbsp",
+                "name": "White Sugar",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Baking Powder",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Saf Instant Yeast",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Milk",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Butter",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Egg",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Heat milk and butter together in a microwave until butter is melted and milk is warm."
+            },
+            {
+                "number": 2,
+                "text": "Add the egg to this mixture and whisk thoroughly.  "
+            },
+            {
+                "number": 3,
+                "text": "In your mixer bowl add 2/3 of the flour, the salt, baking soda, sugar, baking powder, and yeast.  Mix together."
+            },
+            {
+                "number": 4,
+                "text": "Add milk mixture on low speed until moistened.  Then mix on high speed for 4 minutes"
+            },
+            {
+                "number": 5,
+                "text": "Change to the dough hook and gradually add the rest of the flour and knead on speed 2 or a higher speed for 4 minutes. "
+            },
+            {
+                "number": 6,
+                "text": "Put dough in an oiled bowl and cover with a towel or sprayed wrap or tin foil.  Let rise until double.  "
+            },
+            {
+                "number": 7,
+                "text": "Divide the dough into two equal pieces and roll each piece out into a large circle.  Then cut into 8 pieces like a pizza.  Fill with chicken mixture and roll up.  Let rolls sit for 15 minutes before baking to allow the doughs to raise a bit after being filled. "
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "chickenRollDough.jpg"
+    },
+    {
+        "id": null,
+        "name": "Cinnamon Streusel ",
+        "alternate_names": "",
+        "color": "Orange",
+        "category": "bread",
+        "alpha": "C",
+        "meal": "breakfast",
+        "submeal": "snack",
+        "influence": "misc",
+        "prep_time": 15,
+        "cook_time": 16,
+        "total_time": 31,
+        "time_range": "1-30 minutes to 1 hour",
+        "servings": "12",
+        "ingredients": [
+            {
+                "amount": "2",
+                "measurement": "Cups",
+                "name": "White Flour",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "White Sugar",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "tsp",
+                "name": "Baking Powder",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Cinnamon",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Milk",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "",
+                "name": "egg",
+                "notes": "beaten",
+                "required": true
+            },
+            {
+                "amount": "6",
+                "measurement": "Tbsp",
+                "name": "Butter",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "White Flour",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Brown Sugar",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1 1/2",
+                "measurement": "tsp",
+                "name": "Cinnamon",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Butter",
+                "notes": "softened",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Preheat the oven to 350°.  Spray a 9 x 13 cake pan or 12 cup muffin tin."
+            },
+            {
+                "number": 2,
+                "text": "In a large bowl, combine 2 cups flour, white sugar, baking powder, ½ tsp cinnamon, and salt."
+            },
+            {
+                "number": 3,
+                "text": "In a small bowl, whisk milk, eggs, and melted butter until well blended"
+            },
+            {
+                "number": 4,
+                "text": "Stir wet ingredients into dry ingredients mixing only until moistened.  (Do not overmix)"
+            },
+            {
+                "number": 5,
+                "text": "Place batter in cake pan or muffin tin."
+            },
+            {
+                "number": 6,
+                "text": "To make the topping, combine ½ cup flour, ¼ cup brown sugar, 1 ½ tsp of cinnamon, and ¼ cup of butter softened in a bowl and mix with a fork, whisk, or pastry cutter until the mixture is crumbly.  Sprinkle over cake or muffins."
+            },
+            {
+                "number": 7,
+                "text": "Bake for 13-16 minutes or until golden brown"
+            },
+            {
+                "number": 8,
+                "text": "Drizzle with white frosting if desired.  Serve warm."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "cinnamonStreusel.jpg"
+    },
+    {
+        "id": null,
+        "name": "Crepes",
+        "alternate_names": "",
+        "color": "Orange",
+        "category": "bread",
+        "alpha": "C",
+        "meal": "breakfast",
+        "submeal": "null",
+        "influence": "misc",
+        "prep_time": 70,
+        "cook_time": 10,
+        "total_time": 80,
+        "time_range": "1-30 minutes to 1 hour",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "3/4",
+                "measurement": "Cups",
+                "name": "Milk",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Water",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "",
+                "name": "Eggs",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "3",
+                "measurement": "Tbsp",
+                "name": "Butter",
+                "notes": "melted",
+                "required": true
+            },
+            {
+                "amount": "2 1/2",
+                "measurement": "Tbsp",
+                "name": "White Sugar",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Vanilla",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "White Flour",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Add ingredients into a blender."
+            },
+            {
+                "number": 2,
+                "text": "Blend for 30 seconds on high speed."
+            },
+            {
+                "number": 3,
+                "text": "Scrape down the sides of the blender."
+            },
+            {
+                "number": 4,
+                "text": "Blend for another 30 seconds."
+            },
+            {
+                "number": 5,
+                "text": "Let the batter sit. (For best results at least 1 hour in the refrigerator.)  NOTE:  This makes working with the batter a little easier when cooking, but I often skip this step as I am making them when I don’t have time for this."
+            },
+            {
+                "number": 6,
+                "text": "Heat a comal type pan on medium high heat.  Spray with pan spray for the 1st one you cook.  (on my comal I never need to spray again, but your pan could be different)"
+            },
+            {
+                "number": 7,
+                "text": "Pour a small amount of batter on the center of the pan and swirl the pan causing the batter to spread out and make a thin large crepe."
+            },
+            {
+                "number": 8,
+                "text": "Cook until the edges look a little dry.  Then flip with a large spatula using one fluid motion under and then flip."
+            },
+            {
+                "number": 9,
+                "text": "Cook the other side and then slide off onto a plate.  Serve with fresh fruit and cream."
+            }
+        ],
+        "notes": "NOTE:  When cooking for our whole family, I triple this recipe.",
+        "status": "A",
+        "image": "crepes.jpg"
+    },
+    {
+        "id": null,
+        "name": "Chicken Enchilada Chili",
+        "alternate_names": "",
+        "color": "Red",
+        "category": "soup",
+        "alpha": "C",
+        "meal": "dinner",
+        "submeal": "null",
+        "influence": "mexican",
+        "prep_time": 10,
+        "cook_time": 15,
+        "total_time": 25,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Large Chicken Breast",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "",
+                "name": "Small White Onion",
+                "notes": "minced",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Garlic",
+                "notes": "minced",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Butter/Olive Oil",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Tomato Sauce",
+                "notes": "8 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Green Chilis / Green Enchilada Sauce",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Black Beans",
+                "notes": "15 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Corn ",
+                "notes": "15 oz, with juice",
+                "required": true
+            },
+            {
+                "amount": "1 1/2",
+                "measurement": "Tbsp",
+                "name": "Chili Powder",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Cumin",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "3",
+                "measurement": "Cups",
+                "name": "Chicken Broth",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "oz",
+                "name": "Velveeta Cheese",
+                "notes": "",
+                "required": false
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Whipping Cream",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1 1/2",
+                "measurement": "Cups",
+                "name": "Grated Chedder Jack Cheese",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Drain and rinse the black beans."
+            },
+            {
+                "number": 2,
+                "text": "Cut chicken into narrow strips.  Saute the chicken in a large soup in the butter or olive oil with the garlic and onions until cooked.  Using scissors, chunk chicken."
+            },
+            {
+                "number": 3,
+                "text": "Add to the chicken mixture the tomato sauce, green sauce or green chilis, drained black beans, corn including juice, chili powder, cumin, and chicken broth. Bring to a boil and simmer for 5-10 minutes."
+            },
+            {
+                "number": 4,
+                "text": "While the soup is simmering, add the velveeta cheese stirring so the chunks melt completely. (optional step)"
+            },
+            {
+                "number": 5,
+                "text": "Add whipping cream and bring back to a boil.  "
+            },
+            {
+                "number": 6,
+                "text": "Remove from heat and stir cheddar jack cheese.  Garnish and serve with sourcream, chips, and more grated cheese"
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "chickenEnchiladaChili.jpg"
+    },
+    {
+        "id": null,
+        "name": "Christmas Punch",
+        "alternate_names": "",
+        "color": "Pink",
+        "category": "drink",
+        "alpha": "C",
+        "meal": "snack",
+        "submeal": "breakfast",
+        "influence": "american",
+        "prep_time": 10,
+        "cook_time": null,
+        "total_time": 10,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "16",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Orange Juice Concentrate",
+                "notes": "12 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Frozen Lemonade",
+                "notes": "12 oz",
+                "required": true
+            },
+            {
+                "amount": "8",
+                "measurement": "Cups",
+                "name": "Cold Water",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "White Sugar",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Vanilla",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Almond Extract",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Container",
+                "name": "Sprite Soda",
+                "notes": "2 liter",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Place all ingredients in a large punch bowl or divide ingredients equally into two gallon pitchers.  Stir well and serve."
+            }
+        ],
+        "notes": "NOTE:  Another way to make this.  This way calls for no water, no vanilla, double the soda and orange juice and adds pebble ice.\n\nIn a large punch bowl add 2 12 oz cans of thawed orange juice, (or one of orange juice and one of pineapple juice),  1 12 oz can of lemonade, sugar, 1 T almond extract, and 1 2 liter bottle of Lemon Lime Soda.  Stir well.  Add a 2nd bottle of Lemon Lime Soda and one 8 lb bag of pebble ice.     \n",
+        "status": "A",
+        "image": "christmasPunch.jpg"
     }
 ]
