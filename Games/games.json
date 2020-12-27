@@ -1,14 +1,5 @@
 [
     {
-        "id":1,
-        "name":"First Game",
-        "json_name":"firstgame",
-        "date_created":"12-28-2020",
-        "color":"blue",
-        "type":"famFued",
-        "status":"W"
-    },
-    {
         "id":2,
         "name":"Ending 2020",
         "json_name":"first_millionare",
@@ -31,6 +22,15 @@
         "json_name":"fourthgame",
         "date_created":"10-04-2020",
         "color":"orange",
+        "status":"W"
+    },
+    {
+        "id":1,
+        "name":"First Game",
+        "json_name":"firstgame",
+        "date_created":"12-28-2020",
+        "color":"blue",
+        "type":"famFued",
         "status":"W"
     },
     {
