@@ -1,10 +1,11 @@
 [
     {
         "id":1,
-        "name":"Demo Game",
+        "name":"First Demo Game",
         "json_name":"firstgame",
         "date_created":"10-04-2020",
         "color":"pink",
+        "type":"famFued",
         "status":"W"
     },
     {
