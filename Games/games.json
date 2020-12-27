@@ -1,6 +1,6 @@
 [
     {
-        "id":2,
+        "id":1,
         "name":"Ending 2020",
         "json_name":"first_millionare",
         "date_created":"12-27-2020",
@@ -9,23 +9,7 @@
         "status":"W"
     },
     {
-        "id":3,
-        "name":"Demo Game",
-        "json_name":"thirdgame",
-        "date_created":"10-04-2020",
-        "color":"green",
-        "status":"W"
-    },
-    {
-        "id":4,
-        "name":"Demo Game",
-        "json_name":"fourthgame",
-        "date_created":"10-04-2020",
-        "color":"orange",
-        "status":"W"
-    },
-    {
-        "id":1,
+        "id":2,
         "name":"First Game",
         "json_name":"firstgame",
         "date_created":"12-28-2020",
@@ -33,12 +17,4 @@
         "type":"famFued",
         "status":"W"
     },
-    {
-        "id":5,
-        "name":"Demo Game",
-        "json_name":"fifthgame",
-        "date_created":"10-04-2020",
-        "color":"red",
-        "status":"W"
-    }
 ]
