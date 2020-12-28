@@ -1,6 +1,5 @@
 [
     {
-        "question_num":1,
         "question_text":"Tell me the most visited city in Europe",
         "answer_1":"Paris",
         "answer_2":"London",
@@ -10,7 +9,6 @@
         "answer_6":"Moscow"
     },
     {
-        "question_num":2,
         "question_text":"Name something you might find in a girl's make-up bag",
         "answer_1":"Lipstick",
         "answer_2":"Mascara",
@@ -20,7 +18,6 @@
         "answer_6":"Make-Up"
     },
     {
-        "question_num":3,
         "question_text":"This is the third demo question",
         "answer_1":"First Answer",
         "answer_2":"Second Answer",
@@ -30,8 +27,14 @@
         "answer_6":"Sixth Answer"
     },
     {
-        
-    }
+        "question_text":"This is the third demo question",
+        "answer_1":"First Answer",
+        "answer_2":"Second Answer",
+        "answer_3":"Third Answer",
+        "answer_4":"Fourth Answer",
+        "answer_5":"Fifth Answer",
+        "answer_6":"Sixth Answer"
+    },
     {
         "questions":[
             {
