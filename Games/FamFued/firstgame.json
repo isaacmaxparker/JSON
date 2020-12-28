@@ -31,42 +31,26 @@
     },
     {
         "questions":[
-            {"question_text":"This is the first demo question",
-                "answer_1":"First Answer",
-                "answer_2":"Second Answer",
-                "answer_3":"Third Answer",
-                "answer_4":"Fourth Answer",
-                "answer_5":"Fifth Answer",
-                "answer_6":"Sixth Answer"},
-            {"question_text":"This is the second FF demo question",
-                "answer_1":"First Answer",
-                "answer_2":"Second Answer",
-                "answer_3":"Third Answer",
-                "answer_4":"Fourth Answer",
-                "answer_5":"Fifth Answer",
-                "answer_6":"Sixth Answer"},
-            {"question_text":"This is the third FF demo question",
-                "answer_1":"First Answer",
-                "answer_2":"Second Answer",
-                "answer_3":"Third Answer",
-                "answer_4":"Fourth Answer",
-                "answer_5":"Fifth Answer",
-                "answer_6":"Sixth Answer"},
-            {"question_text":"This is the fourth FF demo question",
-                "answer_1":"First Answer",
-                "answer_2":"Second Answer",
-                "answer_3":"Third Answer",
-                "answer_4":"Fourth Answer",
-                "answer_5":"Fifth Answer",
-                "answer_6":"Sixth Answer"},
-            {"question_text":"This is the fifth FF demo question",
-                "answer_1":"First Answer",
-                "answer_2":"Second Answer",
-                "answer_3":"Third Answer",
-                "answer_4":"Fourth Answer",
-                "answer_5":"Fifth Answer",
-                "answer_6":"Sixth Answer"}
-        ],
-        "question_num":"FF"
+            {
+                "question":"Name something you would associate with an Ogre",
+                "answers":"Ugly - 45 | Shrek - 35 | Mean - 26 | Swamp - 7"
+            },
+            {
+                "question":"Name a swimming stroke",
+                "answers":"Breast - 49 | Back - 22 | Butterfly - 12 | Freestyle - 5"
+            },
+            {
+                "question":"Name a sport with just two players",
+                "answers":"Tennis - 70 | Boxing - 32 | Wrestling - 25 | Ping Pong - 4"
+            },
+            {
+                "question":"Name something you'd find under a picnic blanket",
+                "answers":"Grass - 44 | Ants - 24 | Sand - 10 | Ground - 7"
+            },
+            {
+                "question":"Name a cartoon dog",
+                "answers":"Snoopy - 33 | Scooby Doo - 18 | Pluto - 17 | Odie - 6 | Goofy - 4"
+            }
+        ]
     }
 ]   
