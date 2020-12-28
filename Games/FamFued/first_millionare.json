@@ -1,0 +1,22 @@
+[
+    {
+        "question_text":"This is the first Question",
+        "answers":{
+            "answer_1":"First Answer",
+            "answer_2":"Second Answer",
+            "answer_3":"Third Answer",
+            "answer_4":"Fourth Answer",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"This is the Second Question",
+        "answers":{
+            "answer_1":"First Answer",
+            "answer_2":"Second Answer",
+            "answer_3":"Third Answer",
+            "answer_4":"Fourth Answer",
+            "right_answer":3
+        }
+    }
+]
