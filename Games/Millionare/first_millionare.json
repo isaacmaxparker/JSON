@@ -128,7 +128,7 @@
             "answer_4":"Flo Rida",
             "right_answer":1
         }
-    }
+    },
     {
         "question_text":"What is the man holding in the paiting 'American Gothic'?",
         "answers":{
@@ -466,6 +466,16 @@
             "answer_2":"Aguoti",
             "answer_3":"Capybara",
             "answer_4":"Nutria",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"What color are Isaac's eyes?",
+        "answers":{
+            "answer_1":"Green",
+            "answer_2":"Blue",
+            "answer_3":"Hazel",
+            "answer_4":"Brown",
             "right_answer":3
         }
     }
