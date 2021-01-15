@@ -2153,5 +2153,1605 @@
         "notes": "",
         "status": "A",
         "image": "peachSmoothie.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Bruschetta with Tomato & Basil",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "B",
+        "meal": "snack",
+        "submeal": "null",
+        "influence": "italian",
+        "prep_time": 7,
+        "cook_time": 8,
+        "total_time": 15,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "7",
+                "measurement": "",
+                "name": "Roma Tomatoes",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Garlic ",
+                "notes": "Minced",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Olive Oil",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Balsamic Vinegar",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "7",
+                "measurement": "",
+                "name": "Fresh Basil Leaves",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Salt & Pepper",
+                "notes": "To Taste",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Chop tomatoes and combine with all other ingredients.  "
+            },
+            {
+                "number": 2,
+                "text": "Place on a toasted baguette slices and top with parmesan and mozzarella cheese.  Broil until melted."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "bruschetta.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Pesto",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "P",
+        "meal": "snack",
+        "submeal": "lunch",
+        "influence": "italian",
+        "prep_time": 20,
+        "cook_time": null,
+        "total_time": 20,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "1",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Fresh Basil Leaves",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Baby Spinach Leaves",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Parmesan Reggiano",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/3",
+                "measurement": "Cups",
+                "name": "Olive Oil",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/3",
+                "measurement": "Cups",
+                "name": "Almonds or Pine Nuts",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1 1/2",
+                "measurement": "tsp",
+                "name": "Garlic",
+                "notes": "Minced",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Salt",
+                "notes": "to taste",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Pepper",
+                "notes": "to taste",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Pulse basil, spinach and nuts in a food processor."
+            },
+            {
+                "number": 2,
+                "text": "Add garlic and cheese and pulse several more times"
+            },
+            {
+                "number": 3,
+                "text": "Stream in olive oil while the food processor is running.  Adding slowly helps it emulsify.  Stir in salt and pepper to taste."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "pesto.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Fresh Guacamole",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "G",
+        "meal": "snack",
+        "submeal": "lunch",
+        "influence": "mexican",
+        "prep_time": 70,
+        "cook_time": null,
+        "total_time": 70,
+        "time_range": "1-30 minutes to 1 hour",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "3",
+                "measurement": "",
+                "name": "Avocados",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Lime",
+                "notes": "Juiced",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Onion",
+                "notes": "Diced",
+                "required": true
+            },
+            {
+                "amount": "3",
+                "measurement": "Tbsp",
+                "name": "Fresh Cilantro",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "",
+                "name": "Roma Tomatoes",
+                "notes": "Diced",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Garlic",
+                "notes": "Minced",
+                "required": true
+            },
+            {
+                "amount": "1/8",
+                "measurement": "tsp",
+                "name": "Cayenne Pepper",
+                "notes": "",
+                "required": false
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Cut, peel, and pit avocados and place in a medium sized bowl.  Add the lime juice and salt and mash avocados."
+            },
+            {
+                "number": 2,
+                "text": "Mix in onions, tomatoes, garlic & cayenne Pepper.  Stir. "
+            },
+            {
+                "number": 3,
+                "text": "Refrigerate for 1 hour for best flavor.  Serve."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "freshGuacamole.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Fast Queso Dip",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "Q",
+        "meal": "snack",
+        "submeal": "lunch",
+        "influence": "mexican",
+        "prep_time": 5,
+        "cook_time": 5,
+        "total_time": 10,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "6",
+        "ingredients": [
+            {
+                "amount": "16",
+                "measurement": "oz",
+                "name": "Velveeta",
+                "notes": "Cubed",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Rotel Original Tomatoes & Green Chilis",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Place undrained tomatoes and cheese in a saucepan on medium heat and cook for 5 minutes until cheese is melted and sauce is creamy.  Add milk if too thick."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "fastQuesoDip.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Hot and Cheesy Spinach Artichoke Dip",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "S",
+        "meal": "lunch",
+        "submeal": "dinner",
+        "influence": "italian",
+        "prep_time": 10,
+        "cook_time": 22,
+        "total_time": 32,
+        "time_range": "1-30 minutes to 1 hour",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "8",
+                "measurement": "oz",
+                "name": "Cream Cheese",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2/3",
+                "measurement": "Cups",
+                "name": "sour Cream",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/3",
+                "measurement": "Cups",
+                "name": "Mayonnaise",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Garlic ",
+                "notes": "Minced",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Frozen Chopped Spinach",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Artichoke Hearts",
+                "notes": "14 oz",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "",
+                "name": "Red Bell Pepper",
+                "notes": "Minced & Optional",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Parmesan Cheese",
+                "notes": "shredded",
+                "required": true
+            },
+            {
+                "amount": "1 1/2",
+                "measurement": "Cups",
+                "name": "Mozzarella",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Dried Basil",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "dried Parsley",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Paprika",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Black Pepper",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Lemon",
+                "notes": "juice",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Preheat the oven to 375°. "
+            },
+            {
+                "number": 2,
+                "text": "Chop spinach, pepper, and artichokes to desired size."
+            },
+            {
+                "number": 3,
+                "text": "In a mixing bowl, beat cream cheese.  Add sour cream and mayonnaise and mix until smooth and fluffy."
+            },
+            {
+                "number": 4,
+                "text": "Stir in garlic, spinach, artichokes, peppers, parmesan cheese and 1 cup of mozzarella cheese. "
+            },
+            {
+                "number": 5,
+                "text": "Add basil, parsley, paprika, pepper, & lemon juice and stir."
+            },
+            {
+                "number": 6,
+                "text": "Spoon into a sprayed baking dish and spread out evenly."
+            },
+            {
+                "number": 7,
+                "text": "Top with the rest of the mozzarella cheese."
+            },
+            {
+                "number": 8,
+                "text": "Bake for 20-22 minutes uncovered until dip is hot, bubbly, and golden on top."
+            },
+            {
+                "number": 9,
+                "text": "Serve with baguette slices."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "artichokeDip.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Homemade Salsa (Canned)",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "H",
+        "meal": "snack",
+        "submeal": "lunch",
+        "influence": "mexican",
+        "prep_time": 10,
+        "cook_time": 50,
+        "total_time": 60,
+        "time_range": "1-30 minutes to 1 hour",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "10",
+                "measurement": "Cups",
+                "name": "Prepared Tomatoes",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "16",
+                "measurement": "oz",
+                "name": "Onion",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "8",
+                "measurement": "oz",
+                "name": "Red Peppers",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "8",
+                "measurement": "oz",
+                "name": "Green Peppers",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "4",
+                "measurement": "oz",
+                "name": "Jalapenos",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "4",
+                "measurement": "tsp",
+                "name": "Garlic",
+                "notes": "Minced",
+                "required": true
+            },
+            {
+                "amount": "1 1/2",
+                "measurement": "oz",
+                "name": "Cilantro",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "",
+                "name": "Fresh Lime",
+                "notes": "Juice",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Bottled Lime Juice",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Garlic Powder",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2 1/2",
+                "measurement": "tsp",
+                "name": "Ground Cumin",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2 1/2",
+                "measurement": "tsp",
+                "name": "Course Black Pepper",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1 1/4",
+                "measurement": "tsp",
+                "name": "Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "3",
+                "measurement": "tsp",
+                "name": "Citric Acid",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Can",
+                "name": "Tomato Sauce",
+                "notes": "8 oz",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Can",
+                "name": "Tomato Paste",
+                "notes": "6 oz",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Wash, core, and put tomatoes in boiling water to split skins.  Then put in cold water to cool and peel.  Squeeze tomatoes to seed and get some water/juice out of them."
+            },
+            {
+                "number": 2,
+                "text": "Place tomatoes in a food processor and chop to the consistency you like.  Then strain out excess water, and measure out 10 cups into a large pot."
+            },
+            {
+                "number": 3,
+                "text": "Weigh onions, peppers, jalapenos, and cilantro and chop in a food processor as well.  Add to the tomatoes."
+            },
+            {
+                "number": 4,
+                "text": "Add all other ingredients except for citric acid.  "
+            },
+            {
+                "number": 5,
+                "text": "Bring to boil, stirring occasionally."
+            },
+            {
+                "number": 6,
+                "text": "Bottle, add citric acid ¼ tsp per pint, ½ tsp per quart to top of bottle.  Then lid and process for 25 minutes for pints, and 50 minutes for quarts in a water bath canner. "
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "homemadeSalsa.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Buttermilk Syrup",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "S",
+        "meal": "breakfast",
+        "submeal": "null",
+        "influence": "american",
+        "prep_time": 10,
+        "cook_time": 5,
+        "total_time": 15,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "1",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Milk",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Lemon Juice",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "3/4",
+                "measurement": "Cups",
+                "name": "Sugar",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Butter",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Vanilla",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Baking soda",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "In a measuring cup, combine milk and lemon juice.  Let sit for 5-10 minutes.  (This is what I make to substitute for buttermilk.  However you could use just one cup of buttermilk if you have it.)"
+            },
+            {
+                "number": 2,
+                "text": "Pour milk/lemon mixture (called sour milk) into a saucepan and add butter and sugar and stir to combine."
+            },
+            {
+                "number": 3,
+                "text": "Bring to a boil and reduce heat.  Boil for 3-5 minutes stirring frequently. "
+            },
+            {
+                "number": 4,
+                "text": "Remove from heat and add vanilla and baking soda stirring continuously."
+            },
+            {
+                "number": 5,
+                "text": "The mixture will foam up but continue stirring until everything is mixed together well. "
+            },
+            {
+                "number": 6,
+                "text": "Serve warm."
+            },
+            {
+                "number": 7,
+                "text": "Store in the refrigerator."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "buttermilkSyrup.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Homemade Green Enchilada Sauce",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "E",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "mexican",
+        "prep_time": 5,
+        "cook_time": 15,
+        "total_time": 20,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "3",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Olive oil",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "3/4",
+                "measurement": "Cups",
+                "name": "Small Onion",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "1 1/2",
+                "measurement": "tsp",
+                "name": "Garlic",
+                "notes": "Minced",
+                "required": true
+            },
+            {
+                "amount": "3/4",
+                "measurement": "Cups",
+                "name": "Small Green Pepper",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Large Jalapeno",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "8",
+                "measurement": "",
+                "name": "tomatillos",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Container",
+                "name": "Cilantro",
+                "notes": "(bunch)",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Cumin",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Cups",
+                "name": "Chicken Broth",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "In a large pot, saute onion and garlic in olive oil until onions are transparent. "
+            },
+            {
+                "number": 2,
+                "text": "Prepare green pepper, jalapeno, tomatillos, and cilantro and place in a blender. "
+            },
+            {
+                "number": 3,
+                "text": "Add to the vegetables in the blender the sauteed onions and garlic and the broth.  Blend until smooth or the texture you desire."
+            },
+            {
+                "number": 4,
+                "text": "Transfer blended sauce into the large pot and add salt and cumin."
+            },
+            {
+                "number": 5,
+                "text": "Simmer on medium for 10-15 minutes or until the sauce has boiled down and reached your desired consistency. "
+            },
+            {
+                "number": 6,
+                "text": "Use this sauce for enchiladas or in making chicken enchilada chili soup."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "greenEnchiladaSauce.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Sweet & Sour Sauce",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "S",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "chinese",
+        "prep_time": 10,
+        "cook_time": 1,
+        "total_time": 11,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "1",
+        "ingredients": [
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Brown Sugar",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Soy Sauce",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Cornstarch",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Garlic Powder",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Vinegar",
+                "notes": "Scant",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Ginger",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Pineapple Juice",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Drop",
+                "name": "Red Food Coloring",
+                "notes": "Optional",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "In a small saucepan, combine brown sugar and cornstarch with a whisk."
+            },
+            {
+                "number": 2,
+                "text": "Add all other ingredients except food coloring."
+            },
+            {
+                "number": 3,
+                "text": "Cook on medium high heat stirring occasionally with a whisk until mixture begins to boil and thicken."
+            },
+            {
+                "number": 4,
+                "text": "Boil for 1 minute then turn off heat."
+            },
+            {
+                "number": 5,
+                "text": "Add food coloring if desired."
+            },
+            {
+                "number": 6,
+                "text": "Serve warm."
+            }
+        ],
+        "notes": "This sauce can be used for Sweet & Sour Chicken or as a dipping sauce for gyozas, egg rolls, etc.\n",
+        "status": "A",
+        "image": "sweet&SourSauce.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Black Beans",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "B",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "mexican",
+        "prep_time": 20,
+        "cook_time": 50,
+        "total_time": 70,
+        "time_range": "1-30 minutes to 1 hour",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Dry Black Beans",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "3",
+                "measurement": "Cups",
+                "name": "Water",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Chicken Boullion",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Dried Onions",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Cumin",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Garlic",
+                "notes": "Minced",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Black Pepper",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "",
+                "name": "Lime",
+                "notes": "Juice Only",
+                "required": true
+            },
+            {
+                "amount": "1/8",
+                "measurement": "tsp",
+                "name": "Red Pepper Flakes",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Salt",
+                "notes": "to taste, if needed",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Tbsp",
+                "name": "Fresh Cilantro",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Orange Peel",
+                "notes": "",
+                "required": false
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Place everything but the salt and cilantro in your electric pressure cooker and set to pressure cook for 50 minutes."
+            },
+            {
+                "number": 2,
+                "text": "Slow release for another 15-20."
+            },
+            {
+                "number": 3,
+                "text": "Drain if needed and add lime juice and cilantro."
+            },
+            {
+                "number": 4,
+                "text": "Salt if needed.  Serve."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "blackBeans.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Black Beans (Cafe rio Style)",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "B",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "mexican",
+        "prep_time": 5,
+        "cook_time": 10,
+        "total_time": 15,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Black Beans",
+                "notes": "15 oz",
+                "required": true
+            },
+            {
+                "amount": "4",
+                "measurement": "oz",
+                "name": "Tomato Sauce",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Water",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Garlic",
+                "notes": "Minced",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Cumin",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Salt ",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Olive Oil",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Fresh Cilantro",
+                "notes": "Chopped",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Drain and rinse beans.  Place all ingredients into a saucepan.  Bring to boil.  Reduce heat and simmer for 5-10 minutes on medium to low heat."
+            },
+            {
+                "number": 2,
+                "text": "Serve Warm"
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "blackBeansCafeRio.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Cilantro Lime Rice",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "L",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "mexican",
+        "prep_time": 5,
+        "cook_time": 15,
+        "total_time": 20,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "6",
+        "ingredients": [
+            {
+                "amount": "1 1/2",
+                "measurement": "Cups",
+                "name": "Long Grain White Rice",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "tsp",
+                "name": "Butter",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Garlic",
+                "notes": "Minced",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Chicken Broth",
+                "notes": "15 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Water",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Fresh Lime Juice",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Fresh Lime Juice",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "tsp",
+                "name": "White Sugar",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "3",
+                "measurement": "Tbsp",
+                "name": "Fresh Cilantro",
+                "notes": "Chopped",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "In a saucepan, put rice, butter, garlic, broth, water, and tsp of lime juice and bring to a boil.  Cover, turn to low and cook for 15 minutes until rice is done.  "
+            },
+            {
+                "number": 2,
+                "text": "Mix Tbsp lime juice, sugar, and fresh cilantro together and pour on cooked rice and stir in.  Serve. "
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "cilantroLimeRice.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Santa Fe Lime Rice",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "L",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "mexican",
+        "prep_time": 5,
+        "cook_time": 15,
+        "total_time": 20,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "6",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Long Grain White Rice",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Cups",
+                "name": "Chicken Broth",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Tbsp",
+                "name": "Butter",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "",
+                "name": "Lime ",
+                "notes": "Juice Only",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Ground Cumin",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Tbsp",
+                "name": "Fresh Cilantro",
+                "notes": "Chopped",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "In a saucepan, put rice, butter, garlic, broth, water, and lime juice and bring to a boil.  "
+            },
+            {
+                "number": 2,
+                "text": "Cover, turn to low and cook for 15 minutes until rice is done.  "
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "santaFeLimeRice.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Au Gratin Potatoes (Hashbrown)",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "A",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "american",
+        "prep_time": 10,
+        "cook_time": 60,
+        "total_time": 70,
+        "time_range": "1-30 minutes to 1 hour",
+        "servings": "10",
+        "ingredients": [
+            {
+                "amount": "26",
+                "measurement": "oz",
+                "name": "Hash browns",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Butter",
+                "notes": "Melted",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Can",
+                "name": "Cream of Chicken Soup",
+                "notes": "10.5 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Milk",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1 1/2",
+                "measurement": "Cups",
+                "name": "Sour Cream",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Tbsp",
+                "name": "Dried Onions",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Cups",
+                "name": "Shredded Cheese",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "3/4",
+                "measurement": "tsp",
+                "name": "Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Black Pepper",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Season Salt",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Melt Butter"
+            },
+            {
+                "number": 2,
+                "text": "Mix butter, soup, milk, sour cream, salt, pepper, and dried onions together in a bowl."
+            },
+            {
+                "number": 3,
+                "text": "In a separate bowl, mix hash browns and 1 ½ cups of cheese together.  Pour soup mixture over hash browns and stir together."
+            },
+            {
+                "number": 4,
+                "text": "Pour soup mixture over hash browns and stir together."
+            },
+            {
+                "number": 5,
+                "text": "Spray a 9 x 13 pan."
+            },
+            {
+                "number": 6,
+                "text": "Put potato mixture into the pan and top with the leftover ½ cup of cheese."
+            },
+            {
+                "number": 7,
+                "text": "Cover with tin foil and bake at 350° for 1 hour."
+            }
+        ],
+        "notes": "You can mix all the cheese with the potatoes and then make this alternative topping if desired.  2 T butter mixed with 1 ½ cups of crushed corn flakes.  Top the casserole with this mixture.  Do not cover.  Bake. \n",
+        "status": "A",
+        "image": "auGratinPotatoes.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Homemade Refried Beans",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "R",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "mexican",
+        "prep_time": 15,
+        "cook_time": 210,
+        "total_time": 225,
+        "time_range": "1-30 minutes to 1 hour",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "2",
+                "measurement": "Cups",
+                "name": "Pinto Beans",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "6",
+                "measurement": "Cups",
+                "name": "water",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Tbsp",
+                "name": "White Flour",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Tbsp",
+                "name": "Shortening",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Salt",
+                "notes": "To Taste",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Bring beans and water to a boil and boil hard for 5 minutes.  Pour off this water and add the same amount of clean water and bring to a boil.  Turn heat down to medium low, cover beans, simmer for 2 ½ to 3 hours."
+            },
+            {
+                "number": 2,
+                "text": "When beans are tender, melt shortening in a frying pan and add flour.  Stir until flour has browned.  While still hot add 1-2 cups of beans and liquid.  Stir until mixed and then add this back to the other beans.  Add salt to taste and cook on medium low for 30 more minutes. "
+            },
+            {
+                "number": 3,
+                "text": "To make “Refried Beans,” heat 2 T of shortening in a skillet.  Add 1-2 cups of cooked beans and mash with potato masher.If you are using these for a burrito filling, add some dry taco seasoning to the beans and cook until thickened. "
+            }
+        ],
+        "notes": "TO MAKE THESE USING AN INSTAPOT:  Soak beans in water overnight and it will only take 20 minutes to cook.  Non soaked beans take 40 minutes to cook.  Place 2 cups of beans in your pot and cover with water by 1” or more.  Put in whole pieces of onion that will be easy to remove.  Cook on high pressure cook for the time listed above.  Drain out extra water (leaving a little with the beans.  Remove onion.  Use a stick blender to mash.  Add 2 tsp salt, 2 tsp cumin, 1 T oil, ½-1 tsp garlic powder.   Serve warm.",
+        "status": "A",
+        "image": "refriedBeans.jpg"
+    },
+    {
+        "id": 37,
+        "name": "Rice Pilaf",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "R",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "mexican",
+        "prep_time": 10,
+        "cook_time": 60,
+        "total_time": 70,
+        "time_range": "1-30 minutes to 1 hour",
+        "servings": "10",
+        "ingredients": [
+            {
+                "amount": "2",
+                "measurement": "Cups",
+                "name": "White Rice",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Wild Rice",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Salt ",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "4",
+                "measurement": "tsp",
+                "name": "Chicken Boullion",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Pkg",
+                "name": "Lipton Onion Soup Mix",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "5",
+                "measurement": "Tbsp",
+                "name": "Butter",
+                "notes": "Melted",
+                "required": true
+            },
+            {
+                "amount": "4 1/2",
+                "measurement": "Cups",
+                "name": "Water",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Spread the white rice in a 9 x 13 pan."
+            },
+            {
+                "number": 2,
+                "text": "Sprinkle the wild rice over the top of the white rice."
+            },
+            {
+                "number": 3,
+                "text": "Sprinkle salt, soup mix, and bouillon evenly over the rice."
+            },
+            {
+                "number": 4,
+                "text": "Cut butter into small flat squares and place on top of rice."
+            },
+            {
+                "number": 5,
+                "text": "Pour water over rice."
+            },
+            {
+                "number": 6,
+                "text": "Cover with aluminum foil and seal tight."
+            },
+            {
+                "number": 7,
+                "text": "Bake at 350° for 1 hour. "
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "ricePilaf.jpg"
     }
 ]
