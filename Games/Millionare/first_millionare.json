@@ -30,7 +30,7 @@
         }
     },
     {
-        "question_text":"Where would you fin a landform called a cay?",
+        "question_text":"Where would you find a landform called a cay?",
         "answers":{
             "answer_1":"Desert",
             "answer_2":"Mountain",
@@ -80,43 +80,393 @@
         }
     },
     {
-        "question_text":"",
+        "question_text":"The Shinto region is from what country?",
         "answers":{
-            "answer_1":"",
-            "answer_2":"",
-            "answer_3":"",
-            "answer_4":"",
+            "answer_1":"China",
+            "answer_2":"Korea",
+            "answer_3":"Thailand",
+            "answer_4":"Japan",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"The 2010 film 'The Social Network' is about which platform?",
+        "answers":{
+            "answer_1":"MySpace",
+            "answer_2":"Facebook",
+            "answer_3":"Instagram",
+            "answer_4":"Twitter",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"What does the Korean word 'Dhalke' mean?",
+        "answers":{
+            "answer_1":"Strawberry",
+            "answer_2":"Door",
+            "answer_3":"Help",
+            "answer_4":"Sorry",
             "right_answer":1
         }
     },
     {
-        "question_text":"",
+        "question_text":"Who was not one of the Bachelor's",
         "answers":{
-            "answer_1":"",
-            "answer_2":"",
-            "answer_3":"",
-            "answer_4":"",
+            "answer_1":"Juan Pablo",
+            "answer_2":"Ben Higgins",
+            "answer_3":"Nick Viall",
+            "answer_4":"Chris Grant",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which rapper featured on Katy Perry's 'California Gurls'?",
+        "answers":{
+            "answer_1":"Snoop Dogg",
+            "answer_2":"2 Chainz",
+            "answer_3":"Eminem",
+            "answer_4":"Flo Rida",
+            "right_answer":1
+        }
+    }
+    {
+        "question_text":"What is the man holding in the paiting 'American Gothic'?",
+        "answers":{
+            "answer_1":"Cane",
+            "answer_2":"His Wife's hand",
+            "answer_3":"Pitchfork",
+            "answer_4":"A Child",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which artist has not performed an original song for the World Cup?",
+        "answers":{
+            "answer_1":"Shakira",
+            "answer_2":"Jennifer Lopez",
+            "answer_3":"Pitbull",
+            "answer_4":"Enrique Iglesias",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"How many sizes did the Grinch's heart grow?",
+        "answers":{
+            "answer_1":"1",
+            "answer_2":"2",
+            "answer_3":"3",
+            "answer_4":"4",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"How many valves does a modern trumpet have",
+        "answers":{
+            "answer_1":"2",
+            "answer_2":"3",
+            "answer_3":"5",
+            "answer_4":"6",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which of these terms refers to bears?",
+        "answers":{
+            "answer_1":"Ursine",
+            "answer_2":"Bovine",
+            "answer_3":"Equine",
+            "answer_4":"Squirreline",
             "right_answer":1
         }
     },
     {
-        "question_text":"",
+        "question_text":"Which is the incorrect # of players for each team allowed on the field?",
         "answers":{
-            "answer_1":"",
-            "answer_2":"",
-            "answer_3":"",
-            "answer_4":"",
+            "answer_1":"Basketball - 5",
+            "answer_2":"Baseball - 9",
+            "answer_3":"Football - 10",
+            "answer_4":"Soccer - 11",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which is not the name of a Taylor Swift album?",
+        "answers":{
+            "answer_1":"Speak Now",
+            "answer_2":"Red",
+            "answer_3":"Evermine",
+            "answer_4":"Lover",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"In 'Huckleberry Finn' what is the name of the character who flees slavery?",
+        "answers":{
+            "answer_1":"Joe",
+            "answer_2":"Jim",
+            "answer_3":"Jack",
+            "answer_4":"John",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"How many years did Sleeping Beauty sleep for?",
+        "answers":{
+            "answer_1":"1",
+            "answer_2":"10",
+            "answer_3":"100",
+            "answer_4":"1000",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Rapper Macklemore debuted as part of a duo, who is the other half?",
+        "answers":{
+            "answer_1":"Ryan Tedder",
+            "answer_2":"The Scene",
+            "answer_3":"Kesha",
+            "answer_4":"Ryan Lewis",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"In 'The Great Gatsby' what color is the light at the end of Daisy's dock?",
+        "answers":{
+            "answer_1":"Green",
+            "answer_2":"Blue",
+            "answer_3":"Yellow",
+            "answer_4":"Red",
             "right_answer":1
         }
     },
     {
-        "question_text":"",
+        "question_text":"The green crocodile is the log for which clothing company?",
         "answers":{
-            "answer_1":"",
-            "answer_2":"",
-            "answer_3":"",
-            "answer_4":"",
+            "answer_1":"Izod",
+            "answer_2":"Ambercrombie & Fitch",
+            "answer_3":"Crocs",
+            "answer_4":"LaCoste",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which is not an actual Nancy Drew mystery?",
+        "answers":{
+            "answer_1":"The Secret of the Old Clock",
+            "answer_2":"The Clue in the Old Album",
+            "answer_3":"The Mystery at the Ski Lodge",
+            "answer_4":"The Hidden Window Mystery",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"What Items are melting in Salvador Dali's painting 'The Peristence of Memory'",
+        "answers":{
+            "answer_1":"Watches",
+            "answer_2":"Necklaces",
+            "answer_3":"Spoons",
+            "answer_4":"Chains",
             "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which artist is credited for writing Rhianna's song 'Diamonds'?",
+        "answers":{
+            "answer_1":"Katy Perry",
+            "answer_2":"Rhianna",
+            "answer_3":"Sia",
+            "answer_4":"Kesha",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"What is the name of the playpus in 'Phineas and Ferb'?",
+        "answers":{
+            "answer_1":"Perry",
+            "answer_2":"cmon",
+            "answer_3":"its a",
+            "answer_4":"gimme question",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which iPod was released first?",
+        "answers":{
+            "answer_1":"Touch",
+            "answer_2":"Shuffle",
+            "answer_3":"Nano",
+            "answer_4":"Mini",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"What is the last name of the family in 'The Incredibles'?",
+        "answers":{
+            "answer_1":"Carr",
+            "answer_2":"Smith",
+            "answer_3":"Star",
+            "answer_4":"Parr",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which KPOP group stole Taylor Swift's record for most views in 24 hours?",
+        "answers":{
+            "answer_1":"BTS",
+            "answer_2":"Blackpink",
+            "answer_3":"Monsta X",
+            "answer_4":"Psy",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"How many Baby teeth does a child have?",
+        "answers":{
+            "answer_1":"16",
+            "answer_2":"21",
+            "answer_3":"32",
+            "answer_4":"45",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which is not a DC character?",
+        "answers":{
+            "answer_1":"Superman",
+            "answer_2":"Batman",
+            "answer_3":"Wonder Woman",
+            "answer_4":"Wolverine",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"What does LCD stand for in TV's?",
+        "answers":{
+            "answer_1":"Liquid Crystal Display",
+            "answer_2":"Light Crystal Display",
+            "answer_3":"Liquid Crystal Density",
+            "answer_4":"Light Crystal Density",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which woman is mentioned by name in the Book of Mormon",
+        "answers":{
+            "answer_1":"Mary",
+            "answer_2":"Sarah",
+            "answer_3":"Jezebel",
+            "answer_4":"Latifah",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which is the name of a Black Eyed Peas member?",
+        "answers":{
+            "answer_1":"Ch.An.Ce",
+            "answer_2":"apl.De.Ap",
+            "answer_3":"8.0.8.",
+            "answer_4":"Ferguson",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"What is the name of Thor's Hammer",
+        "answers":{
+            "answer_1":"Mjulnir",
+            "answer_2":"Mjolnar",
+            "answer_3":"Mjolnir",
+            "answer_4":"It doesn't have a name",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"What is the c in Enstein's e = MC2",
+        "answers":{
+            "answer_1":"Corrosion",
+            "answer_2":"Gravity",
+            "answer_3":"Speed of Light",
+            "answer_4":"Mass Consumption",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"What company did Steve Jobs found in 1986?",
+        "answers":{
+            "answer_1":"Pixar",
+            "answer_2":"Sony",
+            "answer_3":"Logitech",
+            "answer_4":"Dreamworks",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"According to the scrabble dictionary which of these is a valid word?",
+        "answers":{
+            "answer_1":"aa",
+            "answer_2":"ee",
+            "answer_3":"wi",
+            "answer_4":"wo",
+            "right_answer":1
+        }
+    }
+    ,{
+        "question_text":"Who did not feature on a Lil Nas X 'Old Town Road' Remix?",
+        "answers":{
+            "answer_1":"Billy Ray Cyrus",
+            "answer_2":"V from BTS",
+            "answer_3":"Mason Ramsey",
+            "answer_4":"They all featured",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"What popular television show's episodes all began with 'The one...'?",
+        "answers":{
+            "answer_1":"The Office",
+            "answer_2":"Friends",
+            "answer_3":"Parks and Rec",
+            "answer_4":"Brooklyn 99",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which restaurant is featured in the documentary 'Supersize Me'?",
+        "answers":{
+            "answer_1":"Wendy's",
+            "answer_2":"Taco Bell",
+            "answer_3":"McDonalds",
+            "answer_4":"Del Taco",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Who is the worst character in Genshin Impact?",
+        "answers":{
+            "answer_1":"Lisa",
+            "answer_2":"Kaeya",
+            "answer_3":"Xinyan",
+            "answer_4":"Amber",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which music video is Red Velvet not working a factory?",
+        "answers":{
+            "answer_1":"Sappy",
+            "answer_2":"Dumb Dumb",
+            "answer_3":"Power Up",
+            "answer_4":"Rookie",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"What is the largest rodent in the world?",
+        "answers":{
+            "answer_1":"Rat",
+            "answer_2":"Aguoti",
+            "answer_3":"Capybara",
+            "answer_4":"Nutria",
+            "right_answer":3
         }
     }
 ]
