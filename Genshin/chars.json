@@ -2,6 +2,7 @@
     {
        "name":"Jean",
        "vision":"Anemo",
+       "pictue":"../../assets/thumbnails/chars/jean.jpg",
        "talent":"Diligence",
        "enemy_material":"Stained Mask",
        "enemy":"Hilichurl",
