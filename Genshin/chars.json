@@ -3,12 +3,22 @@
        "id:":1,
        "name":"Jean",
        "vision":"Anemo",
-       "picture":"../../assets/thumbnails/chars/jean.jpg",
+       "picture":"jean.jpg",
        "talent":"Diligence",
        "enemy_material":"Stained Mask",
        "enemy":"Hilichurl",
        "boss_material":"Dvalin's Plume",
        "boss":"Stormterror"
-
-    }
+    }, 
+    {
+        "id:":2,
+        "name":"Klee",
+        "vision":"Pyro",
+        "picture":"klee.jpg",
+        "talent":"Freedom",
+        "enemy_material":"Scroll",
+        "enemy":"Samachurl",
+        "boss_material":"Ring of Boreas",
+        "boss":"Wolf of the North"
+     }
 ]
