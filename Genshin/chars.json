@@ -1,16 +1,14 @@
 [
     {
-       "id:":1,
        "name":"Jean",
        "vision":"Anemo",
-       "talent":"Diligence",
+       "talent":"Resistance",
        "enemy_material":"Stained Mask",
        "enemy":"Hilichurl",
        "boss_material":"Dvalin's Plume",
        "boss":"Stormterror"
     }, 
     {
-        "id:":2,
         "name":"Klee",
         "vision":"Pyro",
         "talent":"Freedom",
@@ -20,7 +18,6 @@
         "boss":"Wolf of the North"
      },
      {
-        "id:":3,
         "name":"Zhongli",
         "vision":"Geo",
         "talent":"Gold",
@@ -28,5 +25,32 @@
         "enemy":"Slimes",
         "boss_material":"Tusk of Monoceros Caeli",
         "boss":"Childe (Golden House)"
-     }
+     },
+     {
+        "name":"Mona",
+        "vision":"Hydro",
+        "talent":"Resistance",
+        "enemy_material":"Nectar",
+        "enemy":"Whopperflower",
+        "boss_material":"Ring of Boreas",
+        "boss":"Wolf of the North"
+     }, 
+     {
+         "name":"Keqing",
+         "vision":"Electro",
+         "talent":"Prosperity",
+         "enemy_material":"Nectar",
+         "enemy":"Whopperflower",
+         "boss_material":"Ring of Boreas",
+         "boss":"Wolf of the North"
+      },
+      {
+         "name":"Ganyu",
+         "vision":"Cryo",
+         "talent":"Diligence",
+         "enemy_material":"Nectar",
+         "enemy":"Whopperflower",
+         "boss_material":"Shadow of the Warrior",
+         "boss":"Childe (Golden House)"
+      }
 ]
