@@ -1,5 +1,15 @@
 [
     {
+        "name":"Ganyu",
+        "vision":"Cryo",
+        "talent":"Diligence",
+        "enemy_material":"Nectar",
+        "enemy":"Whopperflower",
+        "boss_material":"Shadow of the Warrior",
+        "boss":"Childe (Golden House)"
+     },
+     
+    {
        "name":"Jean",
        "vision":"Anemo",
        "talent":"Resistance",
@@ -8,6 +18,15 @@
        "boss_material":"Dvalin's Plume",
        "boss":"Stormterror"
     }, 
+    {
+        "name":"Keqing",
+        "vision":"Electro",
+        "talent":"Prosperity",
+        "enemy_material":"Nectar",
+        "enemy":"Whopperflower",
+        "boss_material":"Ring of Boreas",
+        "boss":"Wolf of the North"
+     },
     {
         "name":"Klee",
         "vision":"Pyro",
@@ -18,15 +37,6 @@
         "boss":"Wolf of the North"
      },
      {
-        "name":"Zhongli",
-        "vision":"Geo",
-        "talent":"Gold",
-        "enemy_material":"Slime Secretions",
-        "enemy":"Slimes",
-        "boss_material":"Tusk of Monoceros Caeli",
-        "boss":"Childe (Golden House)"
-     },
-     {
         "name":"Mona",
         "vision":"Hydro",
         "talent":"Resistance",
@@ -35,22 +45,13 @@
         "boss_material":"Ring of Boreas",
         "boss":"Wolf of the North"
      }, 
-     {
-         "name":"Keqing",
-         "vision":"Electro",
-         "talent":"Prosperity",
-         "enemy_material":"Nectar",
-         "enemy":"Whopperflower",
-         "boss_material":"Ring of Boreas",
-         "boss":"Wolf of the North"
-      },
       {
-         "name":"Ganyu",
-         "vision":"Cryo",
-         "talent":"Diligence",
-         "enemy_material":"Nectar",
-         "enemy":"Whopperflower",
-         "boss_material":"Shadow of the Warrior",
-         "boss":"Childe (Golden House)"
-      }
+        "name":"Zhongli",
+        "vision":"Geo",
+        "talent":"Gold",
+        "enemy_material":"Slime Secretions",
+        "enemy":"Slimes",
+        "boss_material":"Tusk of Monoceros Caeli",
+        "boss":"Childe (Golden House)"
+     }
 ]
