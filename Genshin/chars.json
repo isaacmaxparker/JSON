@@ -3,7 +3,6 @@
        "id:":1,
        "name":"Jean",
        "vision":"Anemo",
-       "picture":"jean.jpg",
        "talent":"Diligence",
        "enemy_material":"Stained Mask",
        "enemy":"Hilichurl",
@@ -14,11 +13,20 @@
         "id:":2,
         "name":"Klee",
         "vision":"Pyro",
-        "picture":"klee.jpg",
         "talent":"Freedom",
         "enemy_material":"Scroll",
         "enemy":"Samachurl",
         "boss_material":"Ring of Boreas",
         "boss":"Wolf of the North"
+     },
+     {
+        "id:":3,
+        "name":"Zhongli",
+        "vision":"Geo",
+        "talent":"Gold",
+        "enemy_material":"Slime Secretions",
+        "enemy":"Slimes",
+        "boss_material":"Tusk of Monoceros Caeli",
+        "boss":"Childe (Golden House)"
      }
 ]
