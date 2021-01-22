@@ -2,6 +2,7 @@
     {
         "name":"Ganyu",
         "vision":"Cryo",
+        "weapon":"Bow",
         "talent":"Diligence",
         "enemy_material":"Nectar",
         "enemy":"Whopperflower",
@@ -12,6 +13,7 @@
     {
        "name":"Jean",
        "vision":"Anemo",
+       "weapon":"Sword",
        "talent":"Resistance",
        "enemy_material":"Stained Mask",
        "enemy":"Hilichurl",
@@ -21,6 +23,7 @@
     {
         "name":"Keqing",
         "vision":"Electro",
+        "weapon":"Sword",
         "talent":"Prosperity",
         "enemy_material":"Nectar",
         "enemy":"Whopperflower",
@@ -30,6 +33,7 @@
     {
         "name":"Klee",
         "vision":"Pyro",
+        "weapon":"Catalyst",
         "talent":"Freedom",
         "enemy_material":"Scroll",
         "enemy":"Samachurl",
@@ -39,6 +43,7 @@
      {
         "name":"Mona",
         "vision":"Hydro",
+        "weapon":"Catalyst",
         "talent":"Resistance",
         "enemy_material":"Nectar",
         "enemy":"Whopperflower",
@@ -48,6 +53,7 @@
       {
         "name":"Zhongli",
         "vision":"Geo",
+        "weapon":"Polearm",
         "talent":"Gold",
         "enemy_material":"Slime Secretions",
         "enemy":"Slimes",
