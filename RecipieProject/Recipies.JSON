@@ -5292,5 +5292,277 @@
         "notes": "NOTE:  When I get a can of cherries from the farm I let it thaw out almost all the way so the juice and cherries are separated somewhat.  Then I put into a freezer bag 2 cups of drained cherries and the ½ cup of juice.  So when I make this recipe I just dump the bag of cherries and juice combined into the large pot.  \n",
         "status": "A",
         "image": "cherryPieFilling.jpg"
+    }, 
+    {
+        "id": 53,
+        "name": "Chocolate Chip Toffee Bars",
+        "alternate_names": "",
+        "color": "LightBlue",
+        "category": "dessert",
+        "alpha": "C",
+        "meal": "snack",
+        "submeal": "null",
+        "influence": "american",
+        "prep_time": 15,
+        "cook_time": 45,
+        "total_time": 60,
+        "time_range": "1-30 minutes to 1 hour",
+        "servings": "12",
+        "ingredients": [
+            {
+                "amount": "2 1/3",
+                "measurement": "Cups",
+                "name": "Flour",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2/3",
+                "measurement": "Cups",
+                "name": "Brown Sugar",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "3/4",
+                "measurement": "Cups",
+                "name": "Butter",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Egg",
+                "notes": "Beaten",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Cups",
+                "name": "Chocolate Chips",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Nuts",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1 3/4",
+                "measurement": "Cups",
+                "name": "Skor bits ",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Sweetend Condensed Milk",
+                "notes": "14 oz",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Mix together the flour, brown sugar, and butter well.  "
+            },
+            {
+                "number": 2,
+                "text": "Add egg and mix well. "
+            },
+            {
+                "number": 3,
+                "text": "Stir in 3/4 of the chocolate chips and all of the nuts.  Divide this crumb mixture in half.  Press one half of it into the bottom of a 9 x 13 pan.  Bake for 10 minutes at 350°"
+            },
+            {
+                "number": 4,
+                "text": "Pour milk evenly over the hot crust and top with 1 cup of the toffee bits.  Put the rest of the crumb mixture on"
+            },
+            {
+                "number": 5,
+                "text": "Put the rest of the crumb mixture on top and add the remaining 1/4 of the chocolate chips on top.  "
+            },
+            {
+                "number": 6,
+                "text": "Bake for 25-30 minutes until golden brown on top.  "
+            },
+            {
+                "number": 7,
+                "text": "Sprinkle the remaining ¾ cup of toffee bits on top and cool.   Cut into bars and serve.  "
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "chocolateChipToffeeBars.jpg"
+    },
+    {
+        "id": 54,
+        "name": "Chocolate Frosting",
+        "alternate_names": "",
+        "color": "LightBlue",
+        "category": "dessert",
+        "alpha": "C",
+        "meal": "snack",
+        "submeal": "null",
+        "influence": "american",
+        "prep_time": 10,
+        "cook_time": null,
+        "total_time": 10,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "2",
+        "ingredients": [
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Butter",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Unsweetened Cocoa",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Semi Sweet Chocolate Chips",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1 1/2",
+                "measurement": "tsp",
+                "name": "Vanilla Extract",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Salt ",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "3",
+                "measurement": "Cups",
+                "name": "Powdered Sugar",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Milk",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "In a mixing bowl, beat butter, cocoa powder, melted chocolate chips, vanilla, and salt. "
+            },
+            {
+                "number": 2,
+                "text": "Add powdered sugar, about ½ cup at a time and beat until smooth."
+            },
+            {
+                "number": 3,
+                "text": "Gradually pour in small amounts of milk while mixing the frosting until you get to the consistency you want your frosting to be. "
+            },
+            {
+                "number": 4,
+                "text": "Refrigerate any leftovers."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "chocolateFrosting.jpg"
+    },
+    {
+        "id": 55,
+        "name": "Decorators Buttercream Icing",
+        "alternate_names": "",
+        "color": "LightBlue",
+        "category": "dessert",
+        "alpha": "B",
+        "meal": "snack",
+        "submeal": "null",
+        "influence": "american",
+        "prep_time": 10,
+        "cook_time": null,
+        "total_time": 10,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Shortening",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Butter",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Clear Vanilla Extract",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Tbsp",
+                "name": "Meringue Powder",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Milk or Water",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "4",
+                "measurement": "Cups",
+                "name": "Powdered Sugar",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Cream together butter and shortening.  Add vanilla.  "
+            },
+            {
+                "number": 2,
+                "text": "Gradually add sugar, one cup at a time.  "
+            },
+            {
+                "number": 3,
+                "text": "Add milk & meringue powder and beat ‘til light and fluffy. "
+            }
+        ],
+        "notes": "NOTE:  This icing is for decorating cakes.  It holds its shape.",
+        "status": "A",
+        "image": "decoratorsButtercreamIcing.jpg"
     }
 ]
