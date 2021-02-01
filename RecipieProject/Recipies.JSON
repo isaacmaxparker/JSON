@@ -8268,5 +8268,917 @@
         "notes": "Southwest Seasoning:  2 T Chili Powder, 2 T Paprika, 1 T Salt,   1 T Oregano, 2 tsp Cumin, 1 tsp Black Pepper, ½ tsp Red Pepper (ground cayenne).  Put all ingredients in a ziplock sandwich bag.  Mix together and scoop out for recipe 2 T.  Store the rest in the bag for the next time you make the soup.\n",
         "status": "A",
         "image": "whiteLightningChickenChili.jpg"
+    },
+    {
+        "id": 84,
+        "name": "Chicken Tortilla soup",
+        "alternate_names": "",
+        "color": "Red",
+        "category": "soup",
+        "alpha": "C",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "mexican",
+        "prep_time": 10,
+        "cook_time": 20,
+        "total_time": 30,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "6",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "chicken breast",
+                "notes": "Sub with can chicken",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Diced Green Chilies",
+                "notes": "Sub with Jalapeno",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Onion",
+                "notes": "Diced",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Tbsp",
+                "name": "Olive Oil",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Garlic",
+                "notes": "Minced",
+                "required": true
+            },
+            {
+                "amount": "4 1/2",
+                "measurement": "Cups",
+                "name": "Water",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "4 1/2",
+                "measurement": "tsp",
+                "name": "Chicken Boullion",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "black Beans",
+                "notes": "15 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Corn",
+                "notes": "15 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Tomato Sauce",
+                "notes": "8 oz",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "tsp",
+                "name": "Chili Powder",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Cumin",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Pepper",
+                "notes": "Heaping",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Fresh Lime Juice",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Tbsp",
+                "name": "Cilantro",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Cheddar Cheese",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Avacado",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Tortilla Chips",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Drain and rinse black beans.  Mince onion and jalapeno.  Dice chicken into chunks. "
+            },
+            {
+                "number": 2,
+                "text": "In a large soup pot, fry chicken in 1 T of Olive Oil until brown and no longer pink.  Remove from the pan.  (omit this step if using canned chicken)"
+            },
+            {
+                "number": 3,
+                "text": "Using the same pan, saute onion in olive oil for 2 minutes.  Then add garlic and peppers and saute until tender."
+            },
+            {
+                "number": 4,
+                "text": "Add water, chicken bouillon, tomato sauce, beans, corn, and seasonings.  Bring to a boil.  Boil for 5 minutes. "
+            },
+            {
+                "number": 5,
+                "text": "Add chicken, lime juice, and cilantro and boil for 2 more minutes.  Serve topped with cheese, avocado, sour cream and chips."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "chickenTortillaSoup.jpg"
+    },
+    {
+        "id": 85,
+        "name": "Loaded Potato Soup",
+        "alternate_names": "",
+        "color": "Red",
+        "category": "soup",
+        "alpha": "L",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "american",
+        "prep_time": 10,
+        "cook_time": 20,
+        "total_time": 30,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "Pkg",
+                "name": "Bacon",
+                "notes": "12 oz",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "",
+                "name": "Medium Onion",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Garlic",
+                "notes": "Minced",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Butter / Olive Oil",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "6",
+                "measurement": "",
+                "name": "Red Potatoes",
+                "notes": "Diced",
+                "required": true
+            },
+            {
+                "amount": "4",
+                "measurement": "Cups",
+                "name": "Chicken broth",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Season Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Black Pepper",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "oz",
+                "name": "Velveeta Cheese",
+                "notes": "Optional",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Whipping Cream",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1 1/2",
+                "measurement": "Cups",
+                "name": "Grated Cheddar Cheese",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/3",
+                "measurement": "Cups",
+                "name": "Sour Cream",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Fresh/Dried Chives",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Fry bacon strips until crisp but not overcooked.  Drain and crumble into pieces."
+            },
+            {
+                "number": 2,
+                "text": "Wash and dice potatoes."
+            },
+            {
+                "number": 3,
+                "text": "In a large soup pot, saute onion and garlic in butter until onions are clear."
+            },
+            {
+                "number": 4,
+                "text": "Add chicken broth, potatoes, salt, seasoning salt, and pepper.  Boil until potatoes are soft.  "
+            },
+            {
+                "number": 5,
+                "text": "While the potatoes are boiling, add the velveeta cheese.  Stir occasionally to help cheese melt.  "
+            },
+            {
+                "number": 6,
+                "text": "Add whipping cream and bring back to a boil."
+            },
+            {
+                "number": 7,
+                "text": "Remove from heat.  Stir in sour cream, a few bacon pieces, a few chives, and 1 cup of cheddar cheese."
+            },
+            {
+                "number": 8,
+                "text": "Serve into bowls and garnish with cheese, bacon pieces, and chives.  "
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "loadedPotatoSoup.jpg"
+    },
+    {
+        "id": 86,
+        "name": "mexican Chicken & Black Bean Soup",
+        "alternate_names": "",
+        "color": "Red",
+        "category": "soup",
+        "alpha": "M",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "mexican",
+        "prep_time": 10,
+        "cook_time": 20,
+        "total_time": 30,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Chicken Breast",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Tbsp",
+                "name": "Butter",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Garlic",
+                "notes": "minced",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Can",
+                "name": "Diced Tomatoes",
+                "notes": "14.5 oz can",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Corn",
+                "notes": "15 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Black Beans",
+                "notes": "15 oz",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Cups",
+                "name": "Chicken Broth",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Salsa",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Fresh cilantro",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Cumin",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Monterey Jack Cheese",
+                "notes": "Shredded",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Tortilla Chips",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Avocado",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Sour Cream",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Drain and rinse black beans."
+            },
+            {
+                "number": 2,
+                "text": "Cut chicken into bite sized pieces. "
+            },
+            {
+                "number": 3,
+                "text": "Melt the butter in a soup pot on medium heat.  Add chicken and cook until lightly browned and no longer pink.  "
+            },
+            {
+                "number": 4,
+                "text": "Add garlic and cook for 30 seconds."
+            },
+            {
+                "number": 5,
+                "text": "Add tomatoes, corn, beans, broth, salsa, cilantro, and cumin.  Bring to a boil and reduce heat.  Simmer  for 20 minutes.  "
+            },
+            {
+                "number": 6,
+                "text": "Place in each bowl some cheese, diced avocado,  and chips.  Ladle soup over the top and then garnish with a double of sour cream.  Eat immediately."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "mexicanChicken&BlackBeanSoup.jpg"
+    },
+    {
+        "id": 87,
+        "name": "Potato Cheese Soup",
+        "alternate_names": "",
+        "color": "Red",
+        "category": "soup",
+        "alpha": "P",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "american",
+        "prep_time": 10,
+        "cook_time": 10,
+        "total_time": 20,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "3/4",
+                "measurement": "Cups",
+                "name": "small Onion",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Tbsp",
+                "name": "Garlic",
+                "notes": "minced",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "butter",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "8",
+                "measurement": "Cups",
+                "name": "Water",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "8",
+                "measurement": "Cups",
+                "name": "Potatoes ",
+                "notes": "Chunked",
+                "required": true
+            },
+            {
+                "amount": "3",
+                "measurement": "Tbsp",
+                "name": "Chicken Bouillon",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Cups",
+                "name": "Carrots",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Garlic Powder",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Black Pepper",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Season Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Cups",
+                "name": "Peas",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "milk",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "heavy Whipping Cream",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Cups",
+                "name": "Cheddar Cheese",
+                "notes": "Grated",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Add butter and onion to a large soup pot and saute until onions start to turn clear.  Add garlic and saute for 1-2 more minutes."
+            },
+            {
+                "number": 2,
+                "text": "Add water, chicken bouillon, garlic powder, black pepper, season salt, salt, potatoes, and carrots to the pot and boil until the potatoes are soft. (Test by poking with a fork.)"
+            },
+            {
+                "number": 3,
+                "text": "Add the peas, milk, and cream."
+            },
+            {
+                "number": 4,
+                "text": "Bring soup back to a boil stirring so soup does not burn."
+            },
+            {
+                "number": 5,
+                "text": "Once the soup begins to boil again, turn off the heat.  Add the cheddar cheese and stir in.  Garnish and serve warm."
+            }
+        ],
+        "notes": "NOTE:  Always add the cheese after the heat has been turned off to keep the cheese from making the soup have a grainy texture.  The soup is hot enough to melt the cheese just fine.  ",
+        "status": "A",
+        "image": "potatoCheeseSoup.jpg"
+    },
+    {
+        "id": 88,
+        "name": "taco soup",
+        "alternate_names": "",
+        "color": "Red",
+        "category": "soup",
+        "alpha": "T",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "mexican",
+        "prep_time": 10,
+        "cook_time": 15,
+        "total_time": 25,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "6",
+        "ingredients": [
+            {
+                "amount": "1/3",
+                "measurement": "Cups",
+                "name": "Ground Beef",
+                "notes": "Optional",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Pinto Beans",
+                "notes": "15 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Black Beans",
+                "notes": "15 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Kidney Beans",
+                "notes": "15 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Sweet Corn",
+                "notes": "15 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Green Chilis",
+                "notes": "4 oz",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Can",
+                "name": "Tomato Sauce",
+                "notes": "8 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Water",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Chili Powder",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Taco Seasoning",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Salsa",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "In a large soup pan, fry the ground beef until done and broken into small pieces.  (if you want a vegetarian style omit this step)"
+            },
+            {
+                "number": 2,
+                "text": "While meat is frying, drain and rinse all three kinds of beans in a strainer."
+            },
+            {
+                "number": 3,
+                "text": "Add to the pot (and the meat) the corn including juice, salsa, rinsed beans, chilis, tomato sauce, water, chili powder, taco seasoning, and salsa."
+            },
+            {
+                "number": 4,
+                "text": "Add more water if needed.  (when i make this soup I use a quart of V8 juice instead of tomato sauce and water which is also an option."
+            },
+            {
+                "number": 5,
+                "text": "Simmer the soup on medium low for 10-15 minutes."
+            },
+            {
+                "number": 6,
+                "text": "Serve warm with tortilla chips, cheese, sour cream, etc."
+            }
+        ],
+        "notes": "NOTE:  In this recipe you can use the chili powder and taco seasoning, or just 1 ½ T of chili powder and omit the taco seasoning. ",
+        "status": "A",
+        "image": "tacoSoup.jpg"
+    },
+    {
+        "id": 89,
+        "name": "15 Bean Soup (Vegetarian)",
+        "alternate_names": "",
+        "color": "Red",
+        "category": "soup",
+        "alpha": "#",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "misc",
+        "prep_time": 5,
+        "cook_time": 35,
+        "total_time": 40,
+        "time_range": "1-30 minutes to 1 hour",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "2",
+                "measurement": "Cups",
+                "name": "15 Bean Soup Mix",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "8",
+                "measurement": "Cups",
+                "name": "water",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Tbsp",
+                "name": "Olive Oil",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Onion",
+                "notes": " ",
+                "required": true
+            },
+            {
+                "amount": "1 1/2",
+                "measurement": "tsp",
+                "name": "Garlic",
+                "notes": "Minced",
+                "required": true
+            },
+            {
+                "amount": "4",
+                "measurement": "",
+                "name": "Carrots",
+                "notes": "Large",
+                "required": true
+            },
+            {
+                "amount": "3",
+                "measurement": "",
+                "name": "Celery",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Quart",
+                "name": "V8",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Diced Tomatoes",
+                "notes": "15 oz",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Cumin",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Oregano",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Paprika",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Cayenne Pepper",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "black Pepper",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Fresh Parsley",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "tsp",
+                "name": "Apple Cider Vinegar",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Rinse beans and place in an instant pot with 6 cups of water and pressure cook for 35 minutes."
+            },
+            {
+                "number": 2,
+                "text": "Chop onion, carrots, and celery into small pieces. "
+            },
+            {
+                "number": 3,
+                "text": "When beans are done, release steam, drain beans and rinse well."
+            },
+            {
+                "number": 4,
+                "text": "Add oil to the instant pot and saute onions and garlic.  When onions are clear, add carrots and celery and saute for 1 minute stirring continuously."
+            },
+            {
+                "number": 5,
+                "text": "Add to the vegetables, 2 cups of water, V8, diced tomatoes, beans, and all of the spices. "
+            },
+            {
+                "number": 6,
+                "text": "Slow cook on high for 30 minutes.  (Until vegetables are soft.)  Add more salt if needed, and the vinegar.  Stir and served garnished with parsley, cheeses, and sour cream.  "
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "15beansoup.jpg"
     }
 ]
