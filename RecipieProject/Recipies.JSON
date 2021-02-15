@@ -14245,5 +14245,1531 @@
         "notes": "NOTE:  You can make these without the pie crust bottom just remember to spray muffin tin.  You can also use the pie crust recipe for these.  ",
         "status": "A",
         "image": "vegetableMiniQuiches.jpg"
+    },
+    {
+        "id": 134,
+        "name": "Acini De Pepe Salad",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "A",
+        "meal": "lunch",
+        "submeal": "dinner",
+        "influence": "american",
+        "prep_time": 20,
+        "cook_time": 10,
+        "total_time": 30,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "10",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "Pkg",
+                "name": "Acini De Pepe Pasta",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Can",
+                "name": "Mandarin Oranges",
+                "notes": "10.5 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Pineapple Tidbits",
+                "notes": "20 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "White Sugar",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "",
+                "name": "Eggs",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Flour ",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "",
+                "name": "Bananas",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Pomegranate Pearls",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Pkg",
+                "name": "Frozen Whipped Cream",
+                "notes": "8 oz",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Cook Pasta according to package directions.  Drain well!!!  Do not rinse. "
+            },
+            {
+                "number": 2,
+                "text": "Drain pineapple and oranges and reserve the juices.  Drain well!!  I let this sit on the counter in a strainer even after I have taken the juice so they are really drained."
+            },
+            {
+                "number": 3,
+                "text": "Measure the amount of juice and place in a saucepan.  Add flour and whisk.  (Amount is 1 T per 1 cup of juice)"
+            },
+            {
+                "number": 4,
+                "text": "Add to juice the sugar, eggs, and salt and whisk until all combined.  "
+            },
+            {
+                "number": 5,
+                "text": "Cook over medium heat until the mixture has boiled and thickened.  Put into a cool bowl and place in the fridge to chill for at least 4 hours, overnight is better."
+            },
+            {
+                "number": 6,
+                "text": "Chill pasta and fruit in a large bowl that you will make the salad in.  "
+            },
+            {
+                "number": 7,
+                "text": "When you're ready to put the salad together, add the thickened juice mixture to the fruit and pasta.  Stir gently.  "
+            },
+            {
+                "number": 8,
+                "text": "Fold in cream, bananas, and pomegranate perils.  Serve."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "aciniDePepeSalad.jpg"
+    },
+    {
+        "id": 135,
+        "name": "Cashew Chicken Pasta Salad ",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "C",
+        "meal": "lunch",
+        "submeal": "dinner",
+        "influence": "american",
+        "prep_time": 20,
+        "cook_time": 10,
+        "total_time": 30,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "10",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "Pkg",
+                "name": "Rotini Pastas",
+                "notes": "16 oz",
+                "required": true
+            },
+            {
+                "amount": "3/4",
+                "measurement": "Cups",
+                "name": "Ranch Salad Dressing",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "3/4",
+                "measurement": "Cups",
+                "name": "Mayonnaise",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2 1/2",
+                "measurement": "Cups",
+                "name": "Chicken Breast",
+                "notes": "Cubed",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Pineapple Tidbits",
+                "notes": "20 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Celery ",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "4",
+                "measurement": "",
+                "name": "Green Onions",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Green Grapes",
+                "notes": "Halved",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Red Grapes",
+                "notes": "Halved",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Craisins",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Cups",
+                "name": "Salted Cashews",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Cook pasta al dente & drain and rinse under cold water."
+            },
+            {
+                "number": 2,
+                "text": "In the meantime, prep all your other ingredients."
+            },
+            {
+                "number": 3,
+                "text": "Drain the pineapple well.   In a large bowl, whisk together the ranch dressing and mayonnaise.  Add in the chicken, drained pineapple, celery, green onions, red and green grapes, cranberries and cooked pasta."
+            },
+            {
+                "number": 4,
+                "text": "Toss to combine so everything is coated.  "
+            },
+            {
+                "number": 5,
+                "text": "Cover and refrigerate until ready to serve.  Just before serving, stir in the cashews.  "
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "cashewChickenPastaSalad.jpg"
+    },
+    {
+        "id": 136,
+        "name": "Homemade Ranch Dressing",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "H",
+        "meal": "snack",
+        "submeal": "null",
+        "influence": "american",
+        "prep_time": 5,
+        "cook_time": null,
+        "total_time": 5,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "1",
+        "ingredients": [
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Milk",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "3/4",
+                "measurement": "tsp",
+                "name": "Lemon Juice",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Sour Cream",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Mayonnaise",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Dried chives",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Dried Dill Weed",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Parsley",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Garlic Powder",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Onion Powder",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/8",
+                "measurement": "tsp",
+                "name": "Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/8",
+                "measurement": "tsp",
+                "name": "Black pepper",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "3/4",
+                "measurement": "tsp",
+                "name": "Lemon Juice",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "White Sugar",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Place all the ingredients into a jar except the last lemon juice and sugar and mix with an immersion blender."
+            },
+            {
+                "number": 2,
+                "text": "Add last lemon juice and sugar"
+            },
+            {
+                "number": 3,
+                "text": "Chill for 1-2 hours in the fridge before serving."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "homemadeRanchDressing.jpg"
+    },
+    {
+        "id": 137,
+        "name": "Cilantro Lime Dressing",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "C",
+        "meal": "snack",
+        "submeal": "null",
+        "influence": "mexican",
+        "prep_time": 10,
+        "cook_time": 120,
+        "total_time": 130,
+        "time_range": "1-30 minutes to 1 hour",
+        "servings": "10",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "Pkg",
+                "name": "Hidden Valley Ranch Salad Dressing Mix",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Mayonnaise",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Sour Cream",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Buttermilk",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "3",
+                "measurement": "",
+                "name": "Tomatillos",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Fresh cilantro",
+                "notes": "Bunch",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Garlic",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Jalapeno",
+                "notes": "No Seeds",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Lime",
+                "notes": "Just the Juice",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Cut the top off the jalapeno, cut most of the stems off the cilantro, husk the tomatillos, and squeeze the juice from the lime and place all these and the rest of the ingredients into a blender.  Mix until creamy.  Chill for 1-2 hours before serving.  Flavor is better with time.  "
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "cilantroLimeDressing.jpg"
+    },
+    {
+        "id": 138,
+        "name": "Southwest Style Ranch Dressing",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "S",
+        "meal": "snack",
+        "submeal": "null",
+        "influence": "mexican",
+        "prep_time": 5,
+        "cook_time": 60,
+        "total_time": 65,
+        "time_range": "1-30 minutes to 1 hour",
+        "servings": "6",
+        "ingredients": [
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Hidden Valley Ranch Dressing",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Milk",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Taco Seasoning",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Sour Cream",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Place all ingredients in a tall cup or jar and blend with an immersion blender.  Chill 1 hour or serve immediately."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "southwestStyleRanchDressing.jpg"
+    },
+    {
+        "id": 139,
+        "name": "Grilled Chicken Southwest Salad",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "G",
+        "meal": "lunch",
+        "submeal": "dinner",
+        "influence": "american",
+        "prep_time": 20,
+        "cook_time": null,
+        "total_time": 20,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "6",
+                "measurement": "",
+                "name": "Chicken Breasts",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "3",
+                "measurement": "Tbsp",
+                "name": "Olive Oil",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Taco Seasoning",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Black Beans",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Corn",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "",
+                "name": "Roma Tomatoes",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Avocado",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Olives",
+                "notes": "Sliced",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Lettuce",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Cheese",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Sour Cream",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Tortilla Chips",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Put frozen chicken in a baking dish.  Drizzle with olive oil and sprinkle with taco seasoning.  Coat.  Grill or Fry."
+            },
+            {
+                "number": 2,
+                "text": "Drain and rinse beans and warm in a pan with corn & juice.  Add a small amount of taco seasoning to this."
+            },
+            {
+                "number": 3,
+                "text": "Cut lettuce and veggies.  Build salads and serve with southwest dressing, sour cream, cheese, and chips."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "grilledChickenSouthwestSalad.jpg"
+    },
+    {
+        "id": 140,
+        "name": "Cafe Rio Salads",
+        "alternate_names": "",
+        "color": "Blue",
+        "category": "entree",
+        "alpha": "C",
+        "meal": "lunch",
+        "submeal": "dinner",
+        "influence": "mexican",
+        "prep_time": 10,
+        "cook_time": null,
+        "total_time": 10,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Sweet Pork / Chicken",
+                "notes": "Recipe",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Cilantro Lime Rice",
+                "notes": "Recipe",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Black Beans",
+                "notes": "Recipe",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Homemade Tortillas",
+                "notes": "Recipe",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Cheese",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Lettuce",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "Cups",
+                "name": "Chips",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "Cups",
+                "name": "Pico De Gallo",
+                "notes": "Recipe",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "Cups",
+                "name": "Fresh Guacamole",
+                "notes": "Recipe",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "Cups",
+                "name": "Cilantro Lime Dressing",
+                "notes": "Recipe",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Add Ingredients to make a salad"
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "cafeRioSalads.jpg"
+    },
+    {
+        "id": 141,
+        "name": "Macaroni Salad",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "M",
+        "meal": "lunch",
+        "submeal": "dinner",
+        "influence": "american",
+        "prep_time": 140,
+        "cook_time": 15,
+        "total_time": 155,
+        "time_range": "1-30 minutes to 1 hour",
+        "servings": "10",
+        "ingredients": [
+            {
+                "amount": "8",
+                "measurement": "oz",
+                "name": "Ditalini Pasta",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "",
+                "name": "Celery",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Red Onion",
+                "notes": "Finely Chopped",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Pickles",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "",
+                "name": "Hard Boiled Eggs",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Mayonnaise",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Tbsp",
+                "name": "Apple Cider",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "Dijon Mustard",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "name": "White Sugar",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Black Pepper",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Red Cabbage",
+                "notes": "Finely Chopped",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Green Cabbage",
+                "notes": "Finely Chopped",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Cucumber",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Cheddar Cheese",
+                "notes": "Chopped",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Cook pasta according to package directions.  Drain and rinse with cold water and then drain again well."
+            },
+            {
+                "number": 2,
+                "text": "Prepare all vegetables by chopping into very small pieces the onion, pickles, and two types of cabbage.  (Small square chopper).  Cut the cucumbers into small pieces.  "
+            },
+            {
+                "number": 3,
+                "text": "Boil eggs.  Put eggs in cold water in a saucepan.  Bring to boil and boil for 15 min.  Cool in cold water, peel & chop with the small square chopper as well."
+            },
+            {
+                "number": 4,
+                "text": "In a large bowl, mix the mayo, vinegar, mustard, sugar, salt, and pepper together.  "
+            },
+            {
+                "number": 5,
+                "text": "Add vegetables, eggs, and pasta and toss until everything is well coated.  Refrigerate for at least 2 hours before serving.  Add cheese squares just before serving."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "macaroniSalad.jpg"
+    },
+    {
+        "id": 142,
+        "name": "Pasta Salad",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "P",
+        "meal": "lunch",
+        "submeal": "dinner",
+        "influence": "italian",
+        "prep_time": 20,
+        "cook_time": null,
+        "total_time": 20,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "Pkg",
+                "name": "Tri-Colored Rotini",
+                "notes": "12 oz",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Italian Dressing ",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Parmesan Cheese",
+                "notes": "Shredded",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Tomatoes",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Cucumber",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Olives",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Carrots",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Celery",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Cook pasta."
+            },
+            {
+                "number": 2,
+                "text": "Rinse with cold water and drain well"
+            },
+            {
+                "number": 3,
+                "text": "Pour dressing over noodles and marinate them for ½ hour.  Just before serving, add vegetables and cheese.  Can season with McCormick Salad Supreme Seasoning."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "pastaSalad.jpg"
+    },
+    {
+        "id": 143,
+        "name": "BLT Pasta Salad",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "B",
+        "meal": "lunch",
+        "submeal": "dinner",
+        "influence": "american",
+        "prep_time": 20,
+        "cook_time": null,
+        "total_time": 20,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Pasta Noodles",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Ranch Dressing",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Avocado",
+                "notes": "Sliced",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "",
+                "name": "Red Onion",
+                "notes": "Diced",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Lb",
+                "name": "Bacon",
+                "notes": "Cooked/Crumbled",
+                "required": true
+            },
+            {
+                "amount": "4",
+                "measurement": "Cups",
+                "name": "Romaine Lettuce",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Cups",
+                "name": "Cherry Tomatoes",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Cook pasta."
+            },
+            {
+                "number": 2,
+                "text": " Rinse with cold water and drain well."
+            },
+            {
+                "number": 3,
+                "text": "Place pasta in a large bowl and add avocado, red onion, bacon, lettuce and tomatoes.  Drizzle Ranch on top and toss."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "bltPastaSalad.jpg"
+    },
+    {
+        "id": 144,
+        "name": "Potato Salad",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "P",
+        "meal": "lunch",
+        "submeal": "dinner",
+        "influence": "american",
+        "prep_time": 20,
+        "cook_time": null,
+        "total_time": 20,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "5",
+                "measurement": "",
+                "name": "Potatoes",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "7",
+                "measurement": "",
+                "name": "Hard Boiled Eggs",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Green Onion",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "Cups",
+                "name": "Onion",
+                "notes": "Minced",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Cups",
+                "name": "Celery",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Dill Pickles",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Mayonnaise",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Tbsp",
+                "name": "Yellow Mustard",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "tsp",
+                "name": "Season Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Garlic Powder",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Salt",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Pepper",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Paprika",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Wash and boil potatoes until tender.  Cool with water, peel and cut into cubes."
+            },
+            {
+                "number": 2,
+                "text": "Place eggs in cold water in a saucepan.  Bring to boil and reduce heat and cook on low boil for 15 minutes.  Cool with water and peel and chop."
+            },
+            {
+                "number": 3,
+                "text": "Chop celery, pickles, and onion into very small pieces.  Slice green onion."
+            },
+            {
+                "number": 4,
+                "text": "In a large bowl, mix mayo, mustard, and seasonings.  Add cooled potatoes, eggs, and vegetables."
+            },
+            {
+                "number": 5,
+                "text": "Mix until combined.  Add more mayo if needed.  Salad should have more of a dry texture than runny."
+            },
+            {
+                "number": 6,
+                "text": "Garnish with Paprika and serve. "
+            }
+        ],
+        "notes": "Note:  You can make this as big or small as you want.  Just always have 2 more eggs than potatoes.  If you make more just add additional mayo, mustard, and seasonings.",
+        "status": "A",
+        "image": "potatoSalad.jpg"
+    },
+    {
+        "id": 145,
+        "name": "Snickers Apple salad",
+        "alternate_names": "",
+        "color": "LightBlue",
+        "category": "dessert",
+        "alpha": "S",
+        "meal": "lunch",
+        "submeal": "dinner",
+        "influence": "american",
+        "prep_time": null,
+        "cook_time": null,
+        "total_time": 0,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "4",
+                "measurement": "",
+                "name": "Green Apples",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "4",
+                "measurement": "",
+                "name": "Snickers bars",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "8",
+                "measurement": "oz",
+                "name": "Cool Whip",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Pkg",
+                "name": "Vanilla Pudding",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Milk",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Smuckers Caramel Sauce",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Beat together milk and pudding.  "
+            },
+            {
+                "number": 2,
+                "text": "Fold in Cool Whip."
+            },
+            {
+                "number": 3,
+                "text": "Cut up apples and snickers into slices and chunks and mix in.  Drizzle top with caramel sauce.  Serve Cold."
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "snickersAppleSalad.jpg"
+    },
+    {
+        "id": 146,
+        "name": "Coleslaw",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "C",
+        "meal": "lunch",
+        "submeal": "dinner",
+        "influence": "misc",
+        "prep_time": 15,
+        "cook_time": null,
+        "total_time": 15,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Green Cabbage",
+                "notes": "Shredded",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Red Cabbage",
+                "notes": "Shredded",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Shredded Carrots",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Fresh Parsley Leaves",
+                "notes": "Minced",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Celery Seeds",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Mayonnaise",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "Tbsp",
+                "name": "Sugar",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1 1/2",
+                "measurement": "Tbsp",
+                "name": "Lemon Juice",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "Tbsp",
+                "name": "Apple Cider Vinegar",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/2",
+                "measurement": "tsp",
+                "name": "Black Pepper",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1/4",
+                "measurement": "tsp",
+                "name": "Salt",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Shred cabbages and carrots and mince parsley. "
+            },
+            {
+                "number": 2,
+                "text": "Mix together Mayonnaise, sugar, lemon juice, apple cider vinegar, black pepper, salt and pour over vegetables.  Toss.  "
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "coleslaw.jpg"
+    },
+    {
+        "id": 147,
+        "name": "Taco Salad",
+        "alternate_names": "",
+        "color": "Green",
+        "category": "side",
+        "alpha": "T",
+        "meal": "dinner",
+        "submeal": "lunch",
+        "influence": "mexican",
+        "prep_time": 20,
+        "cook_time": null,
+        "total_time": 20,
+        "time_range": "0-Less than 30 minutes",
+        "servings": "8",
+        "ingredients": [
+            {
+                "amount": "1/2",
+                "measurement": "Cups",
+                "name": "Ground beef",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Kidney Beans",
+                "notes": "15 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Corn ",
+                "notes": "15 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Black Beans",
+                "notes": "15 oz",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "Can",
+                "name": "Olives",
+                "notes": "15 oz",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "",
+                "name": "Romaine Lettuce",
+                "notes": "Heads",
+                "required": true
+            },
+            {
+                "amount": "2",
+                "measurement": "",
+                "name": "Roma Tomatoes",
+                "notes": "Chopped",
+                "required": true
+            },
+            {
+                "amount": "1",
+                "measurement": "",
+                "name": "Avocado",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "1 1/2",
+                "measurement": "Cups",
+                "name": "Cheddar Cheese",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Tortilla Chips",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Thousand Island Dressing",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Sour Cream ",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Taco Seasoning",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Ketchup",
+                "notes": "",
+                "required": true
+            },
+            {
+                "amount": "0",
+                "measurement": "",
+                "name": "Water",
+                "notes": "",
+                "required": true
+            }
+        ],
+        "steps": [
+            {
+                "number": 1,
+                "text": "Brown ground beef.  Drain beans and corn.  Add to meat along with a squirt of ketchup, about ⅓ cup of water, and some taco seasoning.  Heat through, cooking until all liquid has evaporated."
+            },
+            {
+                "number": 2,
+                "text": "Chop lettuce, tomatoes, and avocado and put into a large bowl.    "
+            },
+            {
+                "number": 3,
+                "text": "Drain olives well and add to the lettuce vegetable mix."
+            },
+            {
+                "number": 4,
+                "text": "Add meat and beans mixture, cheese, and chips and toss."
+            },
+            {
+                "number": 5,
+                "text": "Serve immediately with thousand island dressing and sour cream.  (I like lighthouse dressing best for this.)"
+            }
+        ],
+        "notes": "",
+        "status": "A",
+        "image": "tacoSalad.jpg"
     }
 ]
