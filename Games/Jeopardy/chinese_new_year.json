@@ -184,185 +184,155 @@
         ],
         "round_two":[
             {
-                "category_name": "New Year Animals",
+                "category_name": "Round 2 Category",
                 "questions": [
                     {
-                        "points":200,
+                        "points":400,
                         "question":"What is the Ox",
                         "answer": "The Chinese Zodiac Animal assigned to 2021"
                     },
                     {
-                        "points":400,
+                        "points":800,
                         "question":"What is the Rat",
                         "answer": "The Chinese Zodiac Animal assigned to 2020"
                     },
                     {
-                        "points":600,
+                        "points":1200,
                         "question":"What is an Pig",
                         "answer": "The Chinese Zodiac Animal assigned to 2019"
                     },
                     {
-                        "points":800,
+                        "points":1600,
                         "question":"What is an Dog",
                         "answer": "The Chinese Zodiac Animal assigned to 2018"
                     },
                     {
-                        "points":1000,
+                        "points":2000,
                         "question":"What is an Ox",
                         "answer": "The Chinese Zodiac Animal assigned to 2017"
                     }
                 ]
-            },
+            }, 
             {
-                "category_name": "Category Name",
+                "category_name": "Round 2 Category",
                 "questions": [
                     {
-                        "points":200,
-                        "question":"Question Text",
-                        "answer": "Answer Text"
-                    },
-                    {
                         "points":400,
-                        "question":"Question 2 Text",
-                        "answer": "Answer Text"
-                    },
-                    {
-                        "points":600,
-                        "question":"Question 3 Text",
-                        "answer": "Answer Text"
+                        "question":"What is the Ox",
+                        "answer": "The Chinese Zodiac Animal assigned to 2021"
                     },
                     {
                         "points":800,
-                        "question":"Question 4  Text",
-                        "answer": "Answer Text"
+                        "question":"What is the Rat",
+                        "answer": "The Chinese Zodiac Animal assigned to 2020"
                     },
                     {
-                        "points":1000,
-                        "question":"Question 5 Text",
-                        "answer": "Answer Text"
+                        "points":1200,
+                        "question":"What is an Pig",
+                        "answer": "The Chinese Zodiac Animal assigned to 2019"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is an Dog",
+                        "answer": "The Chinese Zodiac Animal assigned to 2018"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is an Ox",
+                        "answer": "The Chinese Zodiac Animal assigned to 2017"
                     }
                 ]
-            },
+            }   , 
             {
-                "category_name": "Category Name",
+                "category_name": "Round 2 Category",
                 "questions": [
                     {
-                        "points":200,
-                        "question":"Question Text",
-                        "answer": "Answer Text"
-                    },
-                    {
                         "points":400,
-                        "question":"Question 2 Text",
-                        "answer": "Answer Text"
-                    },
-                    {
-                        "points":600,
-                        "question":"Question 3 Text",
-                        "answer": "Answer Text"
+                        "question":"What is the Ox",
+                        "answer": "The Chinese Zodiac Animal assigned to 2021"
                     },
                     {
                         "points":800,
-                        "question":"Question 4  Text",
-                        "answer": "Answer Text"
+                        "question":"What is the Rat",
+                        "answer": "The Chinese Zodiac Animal assigned to 2020"
                     },
                     {
-                        "points":1000,
-                        "question":"Question 5 Text",
-                        "answer": "Answer Text"
+                        "points":1200,
+                        "question":"What is an Pig",
+                        "answer": "The Chinese Zodiac Animal assigned to 2019"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is an Dog",
+                        "answer": "The Chinese Zodiac Animal assigned to 2018"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is an Ox",
+                        "answer": "The Chinese Zodiac Animal assigned to 2017"
                     }
                 ]
-            },
+            }   , 
             {
-                "category_name": "Category Name",
+                "category_name": "Round 2 Category",
                 "questions": [
                     {
-                        "points":200,
-                        "question":"Question Text",
-                        "answer": "Answer Text"
-                    },
-                    {
                         "points":400,
-                        "question":"Question 2 Text",
-                        "answer": "Answer Text"
-                    },
-                    {
-                        "points":600,
-                        "question":"Question 3 Text",
-                        "answer": "Answer Text"
+                        "question":"What is the Ox",
+                        "answer": "The Chinese Zodiac Animal assigned to 2021"
                     },
                     {
                         "points":800,
-                        "question":"Question 4  Text",
-                        "answer": "Answer Text"
+                        "question":"What is the Rat",
+                        "answer": "The Chinese Zodiac Animal assigned to 2020"
                     },
                     {
-                        "points":1000,
-                        "question":"Question 5 Text",
-                        "answer": "Answer Text"
+                        "points":1200,
+                        "question":"What is an Pig",
+                        "answer": "The Chinese Zodiac Animal assigned to 2019"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is an Dog",
+                        "answer": "The Chinese Zodiac Animal assigned to 2018"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is an Ox",
+                        "answer": "The Chinese Zodiac Animal assigned to 2017"
                     }
                 ]
-            },
+            }   , 
             {
-                "category_name": "Category Name",
+                "category_name": "Round 2 Category",
                 "questions": [
                     {
-                        "points":200,
-                        "question":"Question Text",
-                        "answer": "Answer Text"
-                    },
-                    {
                         "points":400,
-                        "question":"Question 2 Text",
-                        "answer": "Answer Text"
-                    },
-                    {
-                        "points":600,
-                        "question":"Question 3 Text",
-                        "answer": "Answer Text"
+                        "question":"What is the Ox",
+                        "answer": "The Chinese Zodiac Animal assigned to 2021"
                     },
                     {
                         "points":800,
-                        "question":"Question 4  Text",
-                        "answer": "Answer Text"
+                        "question":"What is the Rat",
+                        "answer": "The Chinese Zodiac Animal assigned to 2020"
                     },
                     {
-                        "points":1000,
-                        "question":"Question 5 Text",
-                        "answer": "Answer Text"
+                        "points":1200,
+                        "question":"What is an Pig",
+                        "answer": "The Chinese Zodiac Animal assigned to 2019"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is an Dog",
+                        "answer": "The Chinese Zodiac Animal assigned to 2018"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is an Ox",
+                        "answer": "The Chinese Zodiac Animal assigned to 2017"
                     }
                 ]
-            },
-            {
-                "category_name": "Category Name",
-                "questions": [
-                    {
-                        "points":200,
-                        "question":"Question Text",
-                        "answer": "Answer Text"
-                    },
-                    {
-                        "points":400,
-                        "question":"Question 2 Text",
-                        "answer": "Answer Text"
-                    },
-                    {
-                        "points":600,
-                        "question":"Question 3 Text",
-                        "answer": "Answer Text"
-                    },
-                    {
-                        "points":800,
-                        "question":"Question 4  Text",
-                        "answer": "Answer Text"
-                    },
-                    {
-                        "points":1000,
-                        "question":"Question 5 Text",
-                        "answer": "Answer Text"
-                    }
-                ]
-            }
+            }              
         ],
         "final_questions":"This Is The final Jeopardy Question"
     }
