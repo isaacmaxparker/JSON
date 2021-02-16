@@ -16,5 +16,14 @@
         "color":"blue",
         "type":"famFued",
         "status":"W"
+    },
+    {
+        "id":3,
+        "name":"Chinese New Year",
+        "json_name":"chinese_new_year",
+        "date_created":"02-16-2020",
+        "color":"red",
+        "type":"jeopardy",
+        "status":"W"
     }
 ]
