@@ -32,32 +32,62 @@
                 ]
             },
             {
-                "category_name": "Category Name",
+                "category_name": "Traditions",
                 "questions": [
                     {
                         "points":200,
-                        "question":"Question Text",
-                        "answer": "Answer Text"
+                        "question":"What is the Lunar New Year",
+                        "answer": "Another name for Chinese New Year "
                     },
                     {
                         "points":400,
-                        "question":"Question 2 Text",
-                        "answer": "Answer Text"
+                        "question":"What are fireworks",
+                        "answer": "Billions of these go up at 12am"
                     },
                     {
                         "points":600,
-                        "question":"Question 3 Text",
-                        "answer": "Answer Text"
+                        "question":"What is red",
+                        "answer": "The color considered 'Lucky' and used in new years decorations"
                     },
                     {
                         "points":800,
-                        "question":"Question 4  Text",
-                        "answer": "Answer Text"
+                        "question":"What are red envelopes",
+                        "answer": "Presents given by parents to their kids on New Years"
                     },
                     {
                         "points":1000,
-                        "question":"Question 5 Text",
-                        "answer": "Answer Text"
+                        "question":"What is Reunion Dinner",
+                        "answer": "The name of the meal eaten by families on New Years Eve"
+                    }
+                ]
+            },
+            {
+                "category_name": "Superstitions",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What are firecrackers",
+                        "answer": "Lighting these is believed to scare away evil"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is the coming year",
+                        "answer": "Visiting the hospital on New Years is considered to bring bad luck for this amount of time."
+                    },
+                    {
+                        "points":600,
+                        "question":"What is black and white",
+                        "answer": "These two colors should not be worn, because of mourning"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is sweeping",
+                        "answer": "This cleaning chore is considered bad luck on New Years"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is giving gifts",
+                        "answer": "This action can be lucky or unlucky based on the number and color."
                     }
                 ]
             },
@@ -66,118 +96,88 @@
                 "questions": [
                     {
                         "points":200,
-                        "question":"Question Text",
-                        "answer": "Answer Text"
+                        "question":"What are dumplings",
+                        "answer": "This traditional food is believed to bring Wealth if eaten on the New Year."
                     },
                     {
                         "points":400,
-                        "question":"Question 2 Text",
-                        "answer": "Answer Text"
+                        "question":"What is fish",
+                        "answer": "This traditional food is believed to bring Prosperity if eaten on the New Year."
                     },
                     {
                         "points":600,
-                        "question":"Question 3 Text",
-                        "answer": "Answer Text"
+                        "question":"What are noodles",
+                        "answer": "This traditional food is believed to bring Longevity if eaten on the New Year."
                     },
                     {
                         "points":800,
-                        "question":"Question 4  Text",
-                        "answer": "Answer Text"
+                        "question":"What are Sweet Rice balls",
+                        "answer": "This traditional food is believed to bring Family Togetherness if eaten on the New Year."
                     },
                     {
                         "points":1000,
-                        "question":"Question 5 Text",
-                        "answer": "Answer Text"
+                        "question":"What are Rice Cakes",
+                        "answer": "This traditional food is believed to bring higher income if eaten on the New Year."
                     }
                 ]
             },
             {
-                "category_name": "Category Name",
+                "category_name": "Festivale",
                 "questions": [
                     {
                         "points":200,
-                        "question":"Question Text",
-                        "answer": "Answer Text"
+                        "question":"What is spring?",
+                        "answer": "This season festival is associated with the lunar new year"
                     },
                     {
                         "points":400,
-                        "question":"Question 2 Text",
-                        "answer": "Answer Text"
+                        "question":"What is 3 billion",
+                        "answer": "The average number of trips made related to lunar new year"
                     },
                     {
                         "points":600,
-                        "question":"Question 3 Text",
-                        "answer": "Answer Text"
+                        "question":"What is 15 days",
+                        "answer": "The length of the New Year celebrations"
                     },
                     {
                         "points":800,
-                        "question":"Question 4  Text",
-                        "answer": "Answer Text"
+                        "question":"What are lanterns",
+                        "answer": "This decoration symbolizes the last day of the festival"
                     },
                     {
                         "points":1000,
-                        "question":"Question 5 Text",
-                        "answer": "Answer Text"
+                        "question":"The name of the second Festival that ends the new year",
+                        "answer": "Lantern Festival"
                     }
                 ]
             },
             {
-                "category_name": "Category Name",
+                "category_name": "Misc Trivia",
                 "questions": [
                     {
                         "points":200,
-                        "question":"Question Text",
-                        "answer": "Answer Text"
+                        "question":"What is red",
+                        "answer": "To ward off bad luck during your zodiac animal year, people where this color of underwear"
                     },
                     {
                         "points":400,
-                        "question":"Question 2 Text",
-                        "answer": "Answer Text"
+                        "question":"What is clothing",
+                        "answer": "Buying and using brand new of this is considered lucky."
                     },
                     {
                         "points":600,
-                        "question":"Question 3 Text",
-                        "answer": "Answer Text"
+                        "question":"Candied Crab Apple",
+                        "answer": "This treat is associated with Fall in America and Chinese New Year in China."
                     },
                     {
                         "points":800,
-                        "question":"Question 4  Text",
-                        "answer": "Answer Text"
+                        "question":"What are dogs",
+                        "answer": "The second day of the new year is considered the birth of all of this animal"
                     },
                     {
                         "points":1000,
-                        "question":"Question 5 Text",
-                        "answer": "Answer Text"
-                    }
-                ]
-            },
-            {
-                "category_name": "Category Name",
-                "questions": [
-                    {
-                        "points":200,
-                        "question":"Question Text",
-                        "answer": "Answer Text"
-                    },
-                    {
-                        "points":400,
-                        "question":"Question 2 Text",
-                        "answer": "Answer Text"
-                    },
-                    {
-                        "points":600,
-                        "question":"Question 3 Text",
-                        "answer": "Answer Text"
-                    },
-                    {
-                        "points":800,
-                        "question":"Question 4  Text",
-                        "answer": "Answer Text"
-                    },
-                    {
-                        "points":1000,
-                        "question":"Question 5 Text",
-                        "answer": "Answer Text"
+                        "question":"What are noodles",
+                        "answer": "This food is not cut during new year to represent long life"
                     }
                 ]
             }
