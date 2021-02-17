@@ -184,156 +184,216 @@
         ],
         "round_two":[
             {
-                "category_name": "Round 2 Category",
+                "category_name": "Anika",
                 "questions": [
                     {
                         "points":400,
-                        "question":"What is the Ox",
-                        "answer": "The Chinese Zodiac Animal assigned to 2021"
+                        "question":"What is Nueroscience",
+                        "answer": "The major Anika is in"
                     },
                     {
                         "points":800,
-                        "question":"What is the Rat",
-                        "answer": "The Chinese Zodiac Animal assigned to 2020"
+                        "question":"What is twin falls idaho",
+                        "answer": "The city Anika is from"
                     },
                     {
                         "points":1200,
-                        "question":"What is an Pig",
-                        "answer": "The Chinese Zodiac Animal assigned to 2019"
+                        "question":"Who is Barrett",
+                        "answer": "The name of Anika's senior Prom date"
                     },
                     {
                         "points":1600,
-                        "question":"What is an Dog",
-                        "answer": "The Chinese Zodiac Animal assigned to 2018"
+                        "question":"What is 2013",
+                        "answer": "The year Anika went to EFY"
                     },
                     {
                         "points":2000,
-                        "question":"What is an Ox",
-                        "answer": "The Chinese Zodiac Animal assigned to 2017"
+                        "question":"What are bears",
+                        "answer": "Anika's 8th grade volleyball team was named after this mammal"
                     }
                 ]
             }, 
             {
-                "category_name": "Round 2 Category",
+                "category_name": "Blake",
                 "questions": [
                     {
                         "points":400,
-                        "question":"What is the Ox",
-                        "answer": "The Chinese Zodiac Animal assigned to 2021"
+                        "question":"What is BYU-I",
+                        "answer": "The school Blake went to before BYU"
                     },
                     {
                         "points":800,
-                        "question":"What is the Rat",
-                        "answer": "The Chinese Zodiac Animal assigned to 2020"
+                        "question":"Where is Las Vegas",
+                        "answer": "The city Blake is from"
                     },
                     {
                         "points":1200,
-                        "question":"What is an Pig",
-                        "answer": "The Chinese Zodiac Animal assigned to 2019"
+                        "question":"Where is San Francisco",
+                        "answer": "The city Blake pretended to walk to"
                     },
                     {
                         "points":1600,
-                        "question":"What is an Dog",
-                        "answer": "The Chinese Zodiac Animal assigned to 2018"
+                        "question":"What is an EMT",
+                        "answer": "The current profession Blake holds"
                     },
                     {
                         "points":2000,
-                        "question":"What is an Ox",
-                        "answer": "The Chinese Zodiac Animal assigned to 2017"
+                        "question":"What is Chipotle",
+                        "answer": "The restaurant linked in Blake's instagram bio"
+                    }
+                ]
+            } , 
+            {
+                "category_name": "Christian",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is soccer",
+                        "answer": "The sport Christian likes to play the most"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Country music",
+                        "answer": "The genre of music Christian can't stand"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is Slytherin",
+                        "answer": "What Christian dressed up as last halloween"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is Tapatio",
+                        "answer": "The condiment Christian could drink"
+                    },
+                    {
+                        "points":2000,
+                        "question":"Who is Twice",
+                        "answer": "The name of Christian's Favorite KPOP group"
                     }
                 ]
             }   , 
             {
-                "category_name": "Round 2 Category",
+                "category_name": "Emma",
                 "questions": [
                     {
                         "points":400,
-                        "question":"What is the Ox",
-                        "answer": "The Chinese Zodiac Animal assigned to 2021"
+                        "question":"Where is VIRGINIA",
+                        "answer": "The state Emma is from that no one can remember"
                     },
                     {
                         "points":800,
-                        "question":"What is the Rat",
-                        "answer": "The Chinese Zodiac Animal assigned to 2020"
+                        "question":"What is Taco Bell",
+                        "answer": "Arguably Emma's favorite restaurant"
                     },
                     {
                         "points":1200,
-                        "question":"What is an Pig",
-                        "answer": "The Chinese Zodiac Animal assigned to 2019"
+                        "question":"Who is Grant Gustin",
+                        "answer": "Emma's unashamed number 1 celebrity crush"
                     },
                     {
                         "points":1600,
-                        "question":"What is an Dog",
-                        "answer": "The Chinese Zodiac Animal assigned to 2018"
+                        "question":"What is June",
+                        "answer": "The month emma left for her mission"
                     },
                     {
                         "points":2000,
-                        "question":"What is an Ox",
-                        "answer": "The Chinese Zodiac Animal assigned to 2017"
+                        "question":"What is Jeep",
+                        "answer": "The brand of Emma's car back home"
                     }
                 ]
             }   , 
             {
-                "category_name": "Round 2 Category",
+                "category_name": "Isaac",
                 "questions": [
                     {
                         "points":400,
-                        "question":"What is the Ox",
-                        "answer": "The Chinese Zodiac Animal assigned to 2021"
+                        "question":"Who is Emma",
+                        "answer": "The name of the last person Isaac kissed"
                     },
                     {
                         "points":800,
-                        "question":"What is the Rat",
-                        "answer": "The Chinese Zodiac Animal assigned to 2020"
+                        "question":"What is left tackle",
+                        "answer": "Isaac's varsity football position"
                     },
                     {
                         "points":1200,
-                        "question":"What is an Pig",
-                        "answer": "The Chinese Zodiac Animal assigned to 2019"
+                        "question":"What is My Wings",
+                        "answer": "The name of Isaac's debut single as Isaac Parker"
                     },
                     {
                         "points":1600,
-                        "question":"What is an Dog",
-                        "answer": "The Chinese Zodiac Animal assigned to 2018"
+                        "question":"Who is Miranda Lambert",
+                        "answer": "The artist/band with the most CDs in Isaac's CD wall."
                     },
                     {
                         "points":2000,
-                        "question":"What is an Ox",
-                        "answer": "The Chinese Zodiac Animal assigned to 2017"
+                        "question":"Who is Red Velvet",
+                        "answer": "The artist who sings Isaac's most popular Instagram Cover"
                     }
                 ]
-            }   , 
+            }, 
             {
-                "category_name": "Round 2 Category",
+                "category_name": "Maddy",
                 "questions": [
                     {
                         "points":400,
-                        "question":"What is the Ox",
-                        "answer": "The Chinese Zodiac Animal assigned to 2021"
+                        "question":"What is Madeline",
+                        "answer": "The name 'Maddy' is short for"
                     },
                     {
                         "points":800,
-                        "question":"What is the Rat",
-                        "answer": "The Chinese Zodiac Animal assigned to 2020"
+                        "question":"What is basketball",
+                        "answer": "The sport Maddy played in high school"
                     },
                     {
                         "points":1200,
-                        "question":"What is an Pig",
-                        "answer": "The Chinese Zodiac Animal assigned to 2019"
+                        "question":"What is blonde",
+                        "answer": "The hair color Maddy wished she had when she was younger"
                     },
                     {
                         "points":1600,
-                        "question":"What is an Dog",
-                        "answer": "The Chinese Zodiac Animal assigned to 2018"
+                        "question":"What is the 8th",
+                        "answer": "The date of Maddy's birthday"
                     },
                     {
                         "points":2000,
-                        "question":"What is an Ox",
-                        "answer": "The Chinese Zodiac Animal assigned to 2017"
+                        "question":"What is grape slushie with nerds at the bottom",
+                        "answer": "Maddy's recommended Drink from Sonic"
+                    }
+                ]
+            } , 
+            {
+                "category_name": "Zach",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is the Air Force",
+                        "answer": "The branch of the military Zach is in."
+                    },
+                    {
+                        "points":800,
+                        "question":"What is library security guard",
+                        "answer": "Zachary's current occupation"
+                    },
+                    {
+                        "points":1200,
+                        "question":"Whos is Eden",
+                        "answer": "The name of Zach's last girlfriend"
+                    },
+                    {
+                        "points":1600,
+                        "question":"WHat is Tae Kwon Do",
+                        "answer": "The martial art Zach participated in pre 2015"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Enumclaw",
+                        "answer": "The name of Zach's High School"
                     }
                 ]
             }              
         ],
-        "final_questions":"This Is The final Jeopardy Question"
+        "final_questions":"These now obsolete inventions were originally called Silence Cabinets'"
     }
 ]
