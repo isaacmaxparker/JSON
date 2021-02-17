@@ -92,7 +92,7 @@
                 ]
             },
             {
-                "category_name": "Category Name",
+                "category_name": "Food",
                 "questions": [
                     {
                         "points":200,
@@ -394,6 +394,6 @@
                 ]
             }              
         ],
-        "final_questions":"These now obsolete inventions were originally called Silence Cabinets'"
+        "final_questions":"These now obsolete inventions were originally called Silence Cabinets"
     }
 ]
