@@ -213,36 +213,7 @@
                     }
                 ]
             }, 
-            {
-                "category_name": "Blake",
-                "questions": [
-                    {
-                        "points":400,
-                        "question":"What is BYU-I",
-                        "answer": "The school Blake went to before BYU"
-                    },
-                    {
-                        "points":800,
-                        "question":"Where is Las Vegas",
-                        "answer": "The city Blake is from"
-                    },
-                    {
-                        "points":1200,
-                        "question":"Where is San Francisco",
-                        "answer": "The city Blake pretended to walk to"
-                    },
-                    {
-                        "points":1600,
-                        "question":"What is an EMT",
-                        "answer": "The current profession Blake holds"
-                    },
-                    {
-                        "points":2000,
-                        "question":"What is Chipotle",
-                        "answer": "The restaurant linked in Blake's instagram bio"
-                    }
-                ]
-            } , 
+            
             {
                 "category_name": "Christian",
                 "questions": [
