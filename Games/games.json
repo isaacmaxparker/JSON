@@ -6,7 +6,7 @@
         "date_created":"12-28-2020",
         "color":"purple",
         "type":"millionare",
-        "status":"W"
+        "status":"A"
     },
     {
         "id":2,
@@ -15,7 +15,7 @@
         "date_created":"12-27-2020",
         "color":"blue",
         "type":"famFued",
-        "status":"W"
+        "status":"A"
     },
     {
         "id":3,
@@ -24,6 +24,15 @@
         "date_created":"02-16-2020",
         "color":"red",
         "type":"jeopardy",
-        "status":"W"
+        "status":"T"
+    },
+    {
+        "id":4,
+        "name":"Becca's Birthday",
+        "json_name":"beccas_bday",
+        "date_created":"02-24-2020",
+        "color":"green",
+        "type":"jeopardy",
+        "status":"F"
     }
 ]
