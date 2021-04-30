@@ -34,5 +34,14 @@
         "color":"green",
         "type":"jeopardy",
         "status":"F"
+    },
+    {
+        "id":5,
+        "name":"Pizza Party",
+        "json_name":"pizza_party",
+        "date_created":"04-29-2021",
+        "color":"red",
+        "type":"jeopardy",
+        "status":"A"
     }
 ]

@@ -1,0 +1,371 @@
+[
+    {
+        "round_one":[
+            {
+                "category_name": "All About Pizza",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"Where are North America and Europe",
+                        "answer": "The two continents Pizza is most eaten"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is Pepperoni",
+                        "answer": "The most common pizza topping"
+                    },
+                    {
+                        "points":600,
+                        "question":"Where is Naples, Italy?",
+                        "answer": "The place modern pizza was invented"
+                    },
+                    {
+                        "points":800,
+                        "question":"When is the 19th century",
+                        "answer": "The century pizza was first brought to America"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is 13%",
+                        "answer": "The percentage of the US populus that eats pizza on any given day"
+                    }
+                ]
+            },
+            {
+                "category_name": "Pizza Tools",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is a Brick Oven",
+                        "answer": "The material that most pizza ovens are made out of"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is wood",
+                        "answer": "The fuel commonly used to heat traditional pizza ovens"
+                    },
+                    {
+                        "points":600,
+                        "question":"What are fork and knife",
+                        "answer": "The two utensils used to eat pizza in a fancy restaurant"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Corn Meal",
+                        "answer": "This is sprinkled on a pizza peel prior to the pizza"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is a peel",
+                        "answer": "The name of the tool used to take a pizza out of the oven"
+                    }
+                ]
+            },
+            {
+                "category_name": "Pizza Ingredients",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Mozzarella",
+                        "answer": "The most commonly used cheese on pizza"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is provolone",
+                        "answer": "The second most commonly used cheese on pizza"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is Basil",
+                        "answer": "The first herb to be used on pizza"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is garlic",
+                        "answer": "This is the most commonly used pizza seasoning"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is sugar",
+                        "answer": "This ingredient helps pizza dough rise and enhances browning"
+                    }
+                ]
+            },
+            {
+                "category_name": "Pizza Chains",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Little Ceasars",
+                        "answer": "Pizza, Pizza is this company's slogan"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is no one out pizzas the hut",
+                        "answer": "The slogan of Pizza Hut"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is Digornio",
+                        "answer": "It's not delivery, its _______"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Papa Johns",
+                        "answer": "The first chain to introduce dipping sauce"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is Papa Murphys",
+                        "answer": "The most popular pizza chain in 2021"
+                    }
+                ]
+            },
+            {
+                "category_name": "Pizza Crusts",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Chicago",
+                        "answer": "Deep dish pizza is named after this city"
+                    },
+                    {
+                        "points":400,
+                        "question":"Who is New York Style",
+                        "answer": "Thin crust pizza is named after this city"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is Neopoliton",
+                        "answer": "Traditional pizza crust shares a name with this ice cream flavor"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is pizza hut",
+                        "answer": "The first pizza chain to stuff it's crusts with cheese"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What are the cornicones",
+                        "answer": "The outer rings of a pizza is formaly called the ______ "
+                    }
+                ]
+            },
+            {
+                "category_name": "Misc Pizza",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What are anchovies",
+                        "answer": "This nasty fish is sometimes a pizza topping"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is personal pan",
+                        "answer": "The name for a small one-person pizza"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is grilling",
+                        "answer": "The Al Forno in RI was the first US restaurant to offer pizza cooked by _____ "
+                    },
+                    {
+                        "points":800,
+                        "question":"What are onions",
+                        "answer": "Pizza pugliese is prepared with tomato, mozzarella and _____"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is foccacia",
+                        "answer": "Pizza is essentially a ______ bread topped with tomato sauce and toppings"
+                    }
+                ]
+            }
+        ],
+        "round_two":[
+            {
+                "category_name": "All About Isaac",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"Who is Shakira",
+                        "answer": "Isaac's Non-Korean Female Celeb Crush"
+                    },
+                    {
+                        "points":800,
+                        "question":"Antoni Porowski",
+                        "answer": "Isaac's Male Celeb Crush"
+                    },
+                    {
+                        "points":1200,
+                        "question":"Who is Miranda Lambert",
+                        "answer": "Isaac's all time favorite artist"
+                    },
+                    {
+                        "points":1600,
+                        "question":"Masters of Information Systems",
+                        "answer": "The formal name of Isaac's highest degree"
+                    },
+                    {
+                        "points":2000,
+                        "question":"My Wings",
+                        "answer": "The name of Isaac's first release solo song"
+                    }
+                ]
+            },
+            {
+                "category_name": "Taylor Swift",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is Tim McGraw ",
+                        "answer": "Taylor's very first single"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is LWYMMD",
+                        "answer": "The Taylor music video set a 24 hour views record on YouTube"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is Shake It Off",
+                        "answer": "Taylor's music video with the most views"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is We Are Never Getting Back Together",
+                        "answer": "This Taylor song won her a world record for fastest selling digital single."
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Alison",
+                        "answer": "Taylor's middle name"
+                    }
+                ]
+            },
+            {
+                "category_name": "Graduation",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is the left",
+                        "answer": "The side a tassle is turned to to signify academic achievement"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is 10",
+                        "answer": "The age of the youngest college graduate"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is a waiter/waitress",
+                        "answer": "Over 317,000 college graduates work as this"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is the navy",
+                        "answer": "The tossing of caps originated at this branch of the military's academy"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is 1 million",
+                        "answer": "on average, bachelors degree recipients make this much more than non-graduates."
+                    }
+                ]
+            },
+            {
+                "category_name": "Basketball",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is 8",
+                        "answer": "The number of panels on a basketball"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is soccer",
+                        "answer": "The first basketball was actually a ball meant for this sport"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What are peach baskets",
+                        "answer": "The original object used as a basketball hoop"
+                    },
+                    {
+                        "points":1600,
+                        "question":"Who is Rudy Gobert",
+                        "answer": "This Utah Jazz player was the first NBA player to test postive for COVID-19"
+                    },
+                    {
+                        "points":2000,
+                        "question":"Who is Lebron James",
+                        "answer": "The youngest player to score 10,000 points"
+                    }
+                ]
+            },
+            {
+                "category_name": "2021 Grammys",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is Folklore",
+                        "answer": "The album of the year winner."
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Watermelon Sugar",
+                        "answer": "This Harry Styles song won best Pop Solo Performance"
+
+                    },
+                    {
+                        "points":1200,
+                        "question":"Who is Billie Eilish",
+                        "answer": "The artist who won record of the year"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is Miranda Lambert",
+                        "answer": "The couuntry artist who won best Country Album"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Rain On Me",
+                        "answer": "The winner for Pop Duo Performance"
+                    }
+                ]
+            },
+            {
+                "category_name": "Astrology",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is 12",
+                        "answer": "The number of zodiac signs"
+                    },
+                    {
+                        "points":800,
+                        "question":"What are water, earth, air, fire",
+                        "answer": "The signs are assigned to these four elements"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is Pisces",
+                        "answer": "The sign represented by the two fishes"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is Libra",
+                        "answer": "The sign represented by the scales"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Cancer",
+                        "answer": "The sign represented by a crab"
+                    }
+                ]
+            }
+        ],
+        "final_questions":"The name of the Greek God for victory and a contemporary clothing brand",
+        "final_answers":"Nike"
+    }
+]
