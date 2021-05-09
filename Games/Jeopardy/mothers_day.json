@@ -1,0 +1,341 @@
+[
+    {
+        "round_one":[
+            {
+                "category_name": "About Our Mother",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Footloose",
+                        "answer": "The movie filmed in Mom's hometown just after she moved"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is Payson",
+                        "answer": "The city mom lived in before Washington"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is nonexistent?",
+                        "answer": "Mom's Middle Name"
+                    },
+                    {
+                        "points":800,
+                        "question":"What are purple and Gold",
+                        "answer": "The two colors of Mom's cheerleading uniform"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is Miss Connell",
+                        "answer": "The pageant mom competed in and won."
+                    }
+                ]
+            },
+            {
+                "category_name": "Mothers Day traditions",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"what is the second sunday of may",
+                        "answer": "When Mother's day is celebrated"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is wood",
+                        "answer": "The fuel commonly used to heat traditional pizza ovens"
+                    },
+                    {
+                        "points":600,
+                        "question":"What are phone calls",
+                        "answer": "More ___ are made Mother's day than any other day"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is third",
+                        "answer": "Mother's day is the __ highest selling holiday for flowers"
+                    },
+                    {
+                        "points":1000,
+                        "question":"Who is Woodrow Wilson",
+                        "answer": "The name of the president who signed mothers day into law in 1914"
+                    }
+                ]
+            },
+            {
+                "category_name": "Famous Mothers",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"Who is Mother Teresa",
+                        "answer": "Not literally a mother, this nun was famous for her philanthropy."
+                    },
+                    {
+                        "points":400,
+                        "question":"Who is J.K. Rowling",
+                        "answer": "This author wrote 4/7 books in her famous YA series as a single mom."
+                    },
+                    {
+                        "points":600,
+                        "question":"Who is Julie Andrews",
+                        "answer": "This actress made eggs at 5 AM every day despite starring in Mary Poppins"
+                    },
+                    {
+                        "points":800,
+                        "question":"Who is Marie Curie",
+                        "answer": "This scientist won a Nobel Peace Prize, and raised 2 daughters alone as a widow"
+                    },
+                    {
+                        "points":1000,
+                        "question":"Who is Abigail Adams",
+                        "answer": "This famous Mom was married to one US president and raised another one."
+                    }
+                ]
+            },
+            {
+                "category_name": "Disney Moms",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Gothel",
+                        "answer": "The name of Rapunzel's 'Mother' in Tangled."
+                    },
+                    {
+                        "points":400,
+                        "question":"Who is Bambi's Mom",
+                        "answer": "The only Disney mom we actually see get killed (by a hunter)"
+                    },
+                    {
+                        "points":600,
+                        "question":"Who are Ana, Elsa, Tarzan",
+                        "answer": "One Disney mom has these three main character children from two franchises"
+                    },
+                    {
+                        "points":800,
+                        "question":"Who are Snow White and Cinderella",
+                        "answer": "Which two princesses have evil stepmothers"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is Kala",
+                        "answer": "The name of Tarzan's Monkey mom"
+                    }
+                ]
+            },
+            {
+                "category_name": "Mama Songs",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"Meanwhile, back at Mama's",
+                        "answer": "The 2014 Tim Mcgraw song featuring Faith Hill about his mother's house"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is Stacy's Mom",
+                        "answer": "This 2003 one hit wonder was all about who's mom?"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is Bohemian Rhapsody",
+                        "answer": "'Mama, oooooh' is one of the most iconic lines from this 1975 rock classic"
+                    },
+                    {
+                        "points":800,
+                        "question":"Does your mother know",
+                        "answer": "The name of the ABBA song with mother in the title"
+                    },
+                    {
+                        "points":1000,
+                        "question":"Who are Miranda Lambert and Carrie Underwood",
+                        "answer": "These two contemporary famous female country singers both have songs with Mama in the title"
+                    }
+                ]
+            }
+        ],
+        "round_two":[
+            {
+                "category_name": "More about our Mom",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is Lansing",
+                        "answer": "The name of Mom's mission"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is the Mother plaque with our pictures in it",
+                        "answer": "The Mother's day gift we gave to mom that's still in her closet"
+                    },
+                    {
+                        "points":1200,
+                        "question":"Who is Belinda Holt",
+                        "answer": "The name of Mom's friend who gave us holiday decor"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is Novell",
+                        "answer": "The name of the software company Mom used to work at"
+                    },
+                    {
+                        "points":2000,
+                        "question":"Who is Willie Nelson",
+                        "answer": "The country singer mom liked as a kid that Zach still likes"
+                    }
+                ]
+            },
+            {
+                "category_name": "More Disney Moms",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"Who is Perdita",
+                        "answer": "The name of the 101 dalmations mother"
+                    },
+                    {
+                        "points":800,
+                        "question":"Who is Dumbo",
+                        "answer": "Mrs. Jumbo is this characters mother"
+                    },
+                    {
+                        "points":1200,
+                        "question":"Who is Simba",
+                        "answer": "Sarabi is this character's mother"
+                    },
+                    {
+                        "points":1600,
+                        "question":"Who is Moana",
+                        "answer": "Sina is this princess's mother"
+                    },
+                    {
+                        "points":2000,
+                        "question":"Who is Rapunzel",
+                        "answer": "Queen Ariana is this princess's mother"
+                    }
+                ]
+            },
+            {
+                "category_name": "Famous Grandmas",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"Who is Queen Elizabeth II",
+                        "answer": "This British Dignitary has 8 grandchildren"
+                    },
+                    {
+                        "points":800,
+                        "question":"Who is RBG",
+                        "answer": "This former supreme court justice has 4 grandchildren"
+                    },
+                    {
+                        "points":1200,
+                        "question":"Who is Martha Stewert",
+                        "answer": "This chef, ex-con, and Snoop Dogg friend has 1 grandchild"
+                    },
+                    {
+                        "points":1600,
+                        "question":"Who is Judy Blume",
+                        "answer": "This children's author has one granson, Elliot who inspired some books"
+                    },
+                    {
+                        "points":2000,
+                        "question":"Who is Diana Ross",
+                        "answer": "The 'Queen of Motown' and mother of black-ish's Tracie Ellis Ross has 5 grandkids"
+                    }
+                ]
+            },
+            {
+                "category_name": "Female Foods",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"Who is Betty Crocker",
+                        "answer": "This brand sells cake mixes named after this lady"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is soccer",
+                        "answer": "The first basketball was actually a ball meant for this sport"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is Wendy's",
+                        "answer": "The only major fast food chain named after a woman"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is Grandma Sycamores",
+                        "answer": "This bread brand is named after a famous Grandma"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Aunt Jemima's",
+                        "answer": "The syrup brand recently that rebranded due to political pressure"
+                    }
+                ]
+            },
+            {
+                "category_name": "Fictional Mothers",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"Who is Helen Parr/ElasticGirl",
+                        "answer": "This famous mother is super stretchy."
+                    },
+                    {
+                        "points":800,
+                        "question":"Who is Marge Simpson",
+                        "answer": "This blue haired mom stars on a show Mom hates"
+
+                    },
+                    {
+                        "points":1200,
+                        "question":"Who is Thor's Mom",
+                        "answer": "This avenger's mother is the only one we ever see on screen, and helps him overcome in Endgame."
+                    },
+                    {
+                        "points":1600,
+                        "question":"Who is Beverly Goldberg",
+                        "answer": "The name of the original \"Smother\" according to this 80s inspired show."
+                    },
+                    {
+                        "points":2000,
+                        "question":"Who is Carol Brady",
+                        "answer": "This famous mother raised a bunch of chilren, 6 to be exact"
+                    }
+                ]
+            },
+            {
+                "category_name": "Mother's Children",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"Who is Zach",
+                        "answer": "The child Mom disagreed with the most growing up"
+                    },
+                    {
+                        "points":800,
+                        "question":"Who is Levi",
+                        "answer": "The child Mom is most likely to take out to get food"
+                    },
+                    {
+                        "points":1200,
+                        "question":"Who is Rachel",
+                        "answer": "The child Mom is most likely to cook & sing with"
+                    },
+                    {
+                        "points":1600,
+                        "question":"Who is Becca",
+                        "answer": "The child Mom is most likely to sew with growing up"
+                    },
+                    {
+                        "points":2000,
+                        "question":"Who is Abby",
+                        "answer": "The child Mom is most likely to let drive her"
+                    }
+                ]
+            }
+        ],
+        "final_questions":"Name one of these cartoon mother's first names: Bob's Burgers, Flintstones, The Jetsons",
+        "final_answers":"Linda, Wilma, Jane"
+    }
+]
