@@ -52,5 +52,14 @@
         "color":"pink",
         "type":"jeopardy",
         "status":"A"
+    },
+    {
+        "id":7,
+        "name":"Father's Day",
+        "json_name":"fathers_day",
+        "date_created":"06-18-2021",
+        "color":"yellow",
+        "type":"famfued",
+        "status":"A"
     }
 ]

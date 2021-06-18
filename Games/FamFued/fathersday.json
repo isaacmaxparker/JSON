@@ -9,13 +9,13 @@
         "answer_6":"Moscow"
     },
     {
-        "question_text":"Name a gift that Fathers often recieve on Father's Day",
-        "answer_1":"Socks",
-        "answer_2":"Tie",
-        "answer_3":"Aftershave/Cologne",
-        "answer_4":"Artwork/Card",
-        "answer_5":"Slippers",
-        "answer_6":"Tools"
+        "question_text":"Name a gift Fathers often recieve on Father's Day",
+        "answer_1":"Lipstick",
+        "answer_2":"Mascara",
+        "answer_3":"Eye Liner",
+        "answer_4":"Blush",
+        "answer_5":"Lip Gloss",
+        "answer_6":"Make-Up"
     },
     {
         "question_text":"Name a popular Sandwich Ingredient",
@@ -36,13 +36,13 @@
         "answer_6":"Minnesota"
     },
     {
-        "question_text":"Name someone Americans think was a Founding Father",
-        "answer_1":"Abraham Lincoln",
-        "answer_2":"Thomas Jefferson",
-        "answer_3":"George Washington",
-        "answer_4":"Benjamin Franklin",
-        "answer_5":"John Hancock",
-        "answer_6":"Alexander Hamilton"
+        "question_text":"Name the most popular Marvel Character",
+        "answer_1":"Spiderman",
+        "answer_2":"Iron Man",
+        "answer_3":"Captain America",
+        "answer_4":"Hulk",
+        "answer_5":"Thor",
+        "answer_6":"Wolverine"
     },
     {
         "question_text":"Name a word that rhymes with Fued",
@@ -92,7 +92,7 @@
     {
         "questions":[
             {
-                "question":"",
+                "question":"Name something you would associate with an Ogre",
                 "answers":"Ugly - 45 | Shrek - 35 | Mean - 26 | Swamp - 7"
             },
             {
@@ -104,8 +104,8 @@
                 "answers":"Tennis - 70 | Boxing - 32 | Wrestling - 25 | Ping Pong - 4"
             },
             {
-                "question":"Name a reason Fathers want sons",
-                "answers":"Legacy - 64 | Play - 44 | Sports - 38 | Family Name - 0 | Mini-Me - 7"
+                "question":"Name something you'd find under a picnic blanket",
+                "answers":"Grass - 44 | Ants - 24 | Sand - 10 | Ground - 7"
             },
             {
                 "question":"Name a cartoon dog",
