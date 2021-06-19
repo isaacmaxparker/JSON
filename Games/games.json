@@ -56,7 +56,7 @@
     {
         "id":7,
         "name":"Father's Day",
-        "json_name":"fathers_day",
+        "json_name":"fathersday",
         "date_created":"06-18-2021",
         "color":"orange",
         "type":"famFued",
