@@ -1,115 +1,115 @@
 [
     {
-        "question_text":"Tell me the most visited city in Europe",
-        "answer_1":"Paris",
-        "answer_2":"London",
-        "answer_3":"Rome",
-        "answer_4":"Venice",
-        "answer_5":"Amsterdam",
-        "answer_6":"Moscow"
+        "question_text":"Name a word that rhymes with Dad",
+        "answer_1":"had",
+        "answer_2":"bad",
+        "answer_3":"add/ad",
+        "answer_4":"glad",
+        "answer_5":"sad",
+        "answer_6":"mad"
     },
     {
-        "question_text":"Name a gift Fathers often recieve on Father's Day",
-        "answer_1":"Lipstick",
-        "answer_2":"Mascara",
-        "answer_3":"Eye Liner",
-        "answer_4":"Blush",
-        "answer_5":"Lip Gloss",
-        "answer_6":"Make-Up"
+        "question_text":"Name a gift that Fathers often recieve on Father's Day",
+        "answer_1":"Socks",
+        "answer_2":"Tie",
+        "answer_3":"Aftershave/Cologne",
+        "answer_4":"Artwork/Card",
+        "answer_5":"Slippers",
+        "answer_6":"Tools"
     },
     {
-        "question_text":"Name a popular Sandwich Ingredient",
-        "answer_1":"Mayonnaise",
-        "answer_2":"Ham",
-        "answer_3":"Cheese",
-        "answer_4":"Turkey",
-        "answer_5":"Peanut Butter",
-        "answer_6":"Lettuce"
+        "question_text":"Name a tool a Dad might want for Father's Day",
+        "answer_1":"Drill",
+        "answer_2":"Saw",
+        "answer_3":"Wrench",
+        "answer_4":"Screwdriver",
+        "answer_5":"Hammer",
+        "answer_6":"Ratchet Set"
     },
     {
-        "question_text":"Name a US State that ends with the letter A",
-        "answer_1":"Alabama",
-        "answer_2":"Alaska",
-        "answer_3":"California",
-        "answer_4":"Florida",
-        "answer_5":"Arizona",
-        "answer_6":"Minnesota"
+        "question_text":"Name a famous actor who is also a dad",
+        "answer_1":"Will Smith",
+        "answer_2":"Niel Patrick Harris",
+        "answer_3":"Brad Pitt",
+        "answer_4":"Dwayne the Rock Johnson",
+        "answer_5":"Chris Hemsworth",
+        "answer_6":"Jack Black"
     },
     {
-        "question_text":"Name the most popular Marvel Character",
-        "answer_1":"Spiderman",
-        "answer_2":"Iron Man",
-        "answer_3":"Captain America",
-        "answer_4":"Hulk",
-        "answer_5":"Thor",
-        "answer_6":"Wolverine"
+        "question_text":"Name someone Americans think was a Founding Father",
+        "answer_1":"Abraham Lincoln",
+        "answer_2":"Thomas Jefferson",
+        "answer_3":"George Washington",
+        "answer_4":"Benjamin Franklin",
+        "answer_5":"John Hancock",
+        "answer_6":"Alexander Hamilton"
     },
     {
-        "question_text":"Name a word that rhymes with Fued",
-        "answer_1":"Dude",
-        "answer_2":"Rude",
-        "answer_3":"Mood",
-        "answer_4":"Sued",
-        "answer_5":"Crude",
-        "answer_6":"Nude"
+        "question_text":"Name something a kid might claim his Dad is better than other Dads at",
+        "answer_1":"Everything",
+        "answer_2":"Being Strong",
+        "answer_3":"Being Smart",
+        "answer_4":"Making Money",
+        "answer_5":"Sports",
+        "answer_6":"Fighting"
     },
     {
-        "question_text":"Name a type of cheese",
-        "answer_1":"Cheddar",
-        "answer_2":"Swiss",
-        "answer_3":"Gouda",
-        "answer_4":"American",
-        "answer_5":"Brie",
-        "answer_6":"Mozzarella"
+        "question_text":"Name a famous Dad from an animated TV show",
+        "answer_1":"Homer Simpson",
+        "answer_2":"Bob Belcher",
+        "answer_3":"Peter Griffin",
+        "answer_4":"Hank Hill",
+        "answer_5":"Fred Flinstone",
+        "answer_6":"Stan Smith"
     },
     {
-        "question_text":"Name something you would only eat for breakfast",
-        "answer_1":"Cereal",
-        "answer_2":"Oatmeal",
-        "answer_3":"Pancakes",
-        "answer_4":"Eggs",
-        "answer_5":"Toast",
-        "answer_6":"Bagel"
+        "question_text":"Name a stereotypical bad dad fashion faux paux",
+        "answer_1":"Socks and Sandals",
+        "answer_2":"Crocs",
+        "answer_3":"Skechers/Sneakers",
+        "answer_4":"Khaki Shorts",
+        "answer_5":"Mismatched Prints",
+        "answer_6":"White Crew Socks"
     },
     {
-        "question_text":"Name a weapon from the game Clue",
-        "answer_1":"Candlestick",
-        "answer_2":"Knife",
-        "answer_3":"Gun",
-        "answer_4":"Rope",
-        "answer_5":"Sword",
-        "answer_6":"Lead Pipe"
+        "question_text":"Name a famous father/son pair from the bible/bom",
+        "answer_1":"Heavenly Father / Jesus",
+        "answer_2":"Abraham / Isaac",
+        "answer_3":"Mormon / Moroni",
+        "answer_4":"Lehi / Nephi",
+        "answer_5":"JAlma I / Alma II",
+        "answer_6":"Jacob / Joseph"
     },
     {
-        "question_text":"Give me a man's name starting with the letter B",
-        "answer_1":"Bob / Bobby",
-        "answer_2":"Brian",
-        "answer_3":"Ben / Benjamin",
-        "answer_4":"Brad",
-        "answer_5":"Bill",
-        "answer_6":"Bruce"
+        "question_text":"Give me another name kids use for their father",
+        "answer_1":"Dad",
+        "answer_2":"Daddy",
+        "answer_3":"Papa",
+        "answer_4":"Pop",
+        "answer_5":"Dada",
+        "answer_6":"Pops"
     },
     {
         "questions":[
             {
-                "question":"Name something you would associate with an Ogre",
-                "answers":"Ugly - 45 | Shrek - 35 | Mean - 26 | Swamp - 7"
+                "question":"Name a food brand with Dad in the name",
+                "answers":"Dad's Root Beer - 45 | Sugar Daddy - 35 | Dad's Cookies - 26 | Old Grand Dad - 7"
             },
             {
-                "question":"Name a swimming stroke",
-                "answers":"Breast - 49 | Back - 22 | Butterfly - 12 | Freestyle - 5"
+                "question":"Name a store you'd see Dads in",
+                "answers":"Home Depot - 60 | Lowes - 55 | Autozone (i.e) - 35 | IFA - 24 | kMart/Sears - 15"
             },
             {
-                "question":"Name a sport with just two players",
-                "answers":"Tennis - 70 | Boxing - 32 | Wrestling - 25 | Ping Pong - 4"
+                "question":"Name a store you'd never see Dads in",
+                "answers":"Hobby Lobby - 70 | Marshalls/Michaels - 32 | Bed Bath & Beyond - 25 | Downeast(i.e.) - 14 | TJ Maxx - 14"
             },
             {
-                "question":"Name something you'd find under a picnic blanket",
-                "answers":"Grass - 44 | Ants - 24 | Sand - 10 | Ground - 7"
+                "question":"Name a reason Fathers want sons",
+                "answers":"Legacy - 64 | Play - 44 | Sports - 38 | Family Name - 0 | Mini-Me - 7"
             },
             {
-                "question":"Name a cartoon dog",
-                "answers":"Snoopy - 33 | Scooby Doo - 18 | Pluto - 17 | Odie - 6 | Goofy - 4"
+                "question":"Name a reason you'd call your dad",
+                "answers":"Car - 83 | Money/Taxes - 65 | To ask for Mom - 47 | Repairs - 36 | Directions - 24"
             }
         ]
     }
