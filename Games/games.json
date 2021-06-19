@@ -59,7 +59,7 @@
         "json_name":"fathers_day",
         "date_created":"06-18-2021",
         "color":"orange",
-        "type":"famfued",
+        "type":"famFued",
         "status":""
     }
 ]
