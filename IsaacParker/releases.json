@@ -1,5 +1,72 @@
 [
     {
+        "release_id":4,
+        "release_title":"Strawberry Days",
+        "release_date":"06/28/2021",
+        "hyperfollow_link":"https://distrokid.com/hyperfollow/isaacparker/strawberry-days",
+        "album_art_image_name":"sd-albumart.jpg",
+        "background_image_class":"sd-back",
+        "theme_color":"aqua",
+        "youtube_link":"https://www.youtube.com/playlist?list=PLjRMKXXyQLKsvBylLICfgnfo1YADuA88D",
+        "songs":[
+            {
+                "name":"Kick It",
+                "audio":"kickit_preview.mp3"
+            },
+            {
+                "name":"Sunset Fever",
+                "audio":"imokay_preview.mp3"
+            },
+            {
+                "name":"I See",
+                "audio":"isee_preview.mp3"
+            },
+            {
+                "name":"Dejavu",
+                "audio":"dejavu_preview.mp3"
+            },
+            {
+                "name":"Cool Off",
+                "audio":"cooloff_preview.mp3"
+            },
+            {
+                "name":"Blueberry",
+                "audio":"blueberry_preview.mp3"
+            }
+        ],
+        "store_links":[
+            {
+                "name":"Spotify",
+                "image":"spotify.png",
+                "url":""
+            }, 
+            {
+                "name":"Apple Music",
+                "image":"appleMusic.png",
+                "url":""
+            }, 
+            {
+                "name":"Youtube",
+                "image":"youtubeMusic.png",
+                "url":""
+            }, 
+            {
+                "name":"Amazon Music",
+                "image":"amazon.png",
+                "url":""
+            },
+            {
+                "name":"iHeartRadio",
+                "image":"iheartRadio.png",
+                "url":""
+            },
+            {
+                "name":"More",
+                "svg":true
+            }
+        ]
+    },
+    {
         "release_id":3,
         "release_title":"Cherry Blossoms",
         "release_date":"04/09/2021",
@@ -7,6 +74,7 @@
         "album_art_image_name":"cb-albumart.jpg",
         "background_image_class":"cb-back",
         "theme_color":"pink",
+        "youtube_link":null,
         "songs":[
             {
                 "name":"Blooming",
