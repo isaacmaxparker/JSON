@@ -7,7 +7,7 @@
         "album_art_image_name":"sd-albumart.png",
         "background_image_class":"sd-back",
         "theme_color":"aqua",
-        "youtube_link":"https://www.youtube.com/playlist?list=PLjRMKXXyQLKsvBylLICfgnfo1YADuA88D",
+        "youtube_link":"https://www.youtube.com/embed/videoseries?list=PLjRMKXXyQLKsvBylLICfgnfo1YADuA88D",
         "songs":[
             {
                 "name":"Kick It",
