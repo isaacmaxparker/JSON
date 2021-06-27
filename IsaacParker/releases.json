@@ -1,0 +1,61 @@
+[
+    {
+        "release_id":3,
+        "release_title":"Cherry Blossoms",
+        "release_date":"04/09/2021",
+        "hyperfollow_link":"https://distrokid.com/hyperfollow/isaacparker/cherry-blossoms",
+        "album_art_image_name":"cb-albumart.jpg",
+        "background_image_class":"cb-back",
+        "theme_color":"pink",
+        "songs":[
+            {
+                "name":"Blooming",
+                "audio":"blooming_preview.mp3",
+            },
+            {
+                "name":"I'm Okay",
+                "audio":"imokay_preview.mp3",
+            },
+            {
+                "name":"Not Yours",
+                "audio":"notyours_preview.mp3",
+            },
+            {
+                "name":"Goodnight",
+                "audio":"goodnight_preview.mp3"
+            },
+        ],
+        "store_links":[
+            {
+                "name":"Spotify",
+                "image":"spotify.png",
+                "url":"https://open.spotify.com/album/2lqViBpGfbu21J5OyHEXx9",
+            }, 
+            {
+                "name":"Apple Music",
+                "image":"appleMusic.png",
+                "url":"https://music.apple.com/us/album/cherry-blossoms-ep/1558911753",
+            }, 
+            {
+                "name":"Youtube",
+                "image":"youtubeMusic.png",
+                "url":"https://www.youtube.com/watch?v=98VmY9rLhcw&list=PLjRMKXXyQLKv96FAH2oV7kcOk3gcRWZTI&index=1",
+            }, 
+            {
+                "name":"Amazon Music",
+                "image":"amazon.png",
+                "url":"https://www.amazon.com/Cherry-Blossoms-Isaac-Parker/dp/B08Z9XDB2N/ref=sr_1_1?dchild=1&keywords=isaac+parker+cherry+blossoms&qid=1617948492&sr=8-1",
+            },
+            {
+                "name":"iHeartRadio",
+                "image":"iheartRadio.png",
+                "url":"https://www.iheart.com/artist/isaac-parker-32926139/albums/cherry-blossoms-128975109/",
+            },
+            {
+                "name":"More",
+                "url":"https://distrokid.com/hyperfollow/isaacparker/cherry-blossoms",
+                "svg":true
+            },
+        ]
+    }
+]
