@@ -4,7 +4,7 @@
         "release_title":"Strawberry Days",
         "release_date":"06/28/2021",
         "hyperfollow_link":"https://distrokid.com/hyperfollow/isaacparker/strawberry-days",
-        "album_art_image_name":"sd-albumart.jpg",
+        "album_art_image_name":"sd-albumart.png",
         "background_image_class":"sd-back",
         "theme_color":"aqua",
         "youtube_link":"https://www.youtube.com/playlist?list=PLjRMKXXyQLKsvBylLICfgnfo1YADuA88D",
@@ -15,7 +15,7 @@
             },
             {
                 "name":"Sunset Fever",
-                "audio":"imokay_preview.mp3"
+                "audio":"sunsetfever_preview.mp3"
             },
             {
                 "name":"I See",
