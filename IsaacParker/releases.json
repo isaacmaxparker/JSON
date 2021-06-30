@@ -38,27 +38,27 @@
             {
                 "name":"Spotify",
                 "image":"spotify.png",
-                "url":""
+                "url":"https://open.spotify.com/album/2Bb5AHjDCPH3oj8BmVOMJU"
             }, 
             {
                 "name":"Apple Music",
                 "image":"appleMusic.png",
-                "url":""
+                "url":"https://music.apple.com/us/album/strawberry-days-ep/1572742867?uo=4"
             }, 
             {
                 "name":"Youtube",
                 "image":"youtubeMusic.png",
-                "url":""
+                "url":"https://www.youtube.com/playlist?list=PLjRMKXXyQLKsvBylLICfgnfo1YADuA88D"
             }, 
             {
                 "name":"Amazon Music",
                 "image":"amazon.png",
-                "url":""
+                "url":"https://www.amazon.com/Strawberry-Days-Isaac-Parker/dp/B097CQ6RHJ/ref=sr_1_1?dchild=1&keywords=strawberry+days+isaac+parker&qid=1625067131&s=dmusic&sr=1-1"
             },
             {
                 "name":"iHeartRadio",
                 "image":"iheartRadio.png",
-                "url":""
+                "url":"https://www.iheart.com/artist/isaac-parker-32926139/albums/strawberry-days-137366937/"
             },
             {
                 "name":"More",
