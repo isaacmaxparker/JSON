@@ -60,6 +60,15 @@
         "date_created":"06-18-2021",
         "color":"orange",
         "type":"famFued",
-        "status":""
+        "status":"A"
+    },
+    {
+        "id":8,
+        "name":"Summertime Price",
+        "json_name":"summer_price",
+        "date_created":"07-20-2021",
+        "color":"teal",
+        "type":"price",
+        "status":"A"
     }
 ]
