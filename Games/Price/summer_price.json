@@ -69,19 +69,19 @@
         }
     },
     {
-        "bid_item_price": 455,
-        "bid_image_url": "https://m.media-amazon.com/images/I/71JZ+yxxXFL._AC_SL1500_.jpg",
+        "bid_item_price": 14,
+        "bid_image_url": "https://m.media-amazon.com/images/I/71ArjNj1--S._AC_SS450_.jpg",
         "question_type": "imagemc",
         "question": {
             "text": "Which cartoon TV show is represented by this minimalist artwork?",
             "image": "https://www.mandatory.com/images/stories/2011/2012/April/Comedy/minimalist-cartoon-shows/minimalist-cartoons-scooby-doo.jpg",
             "options": [
                 {
-                    "answer_label": "Family Guy",
+                    "answer_label": "Adventure Time",
                     "is_correct": false
                 },
                 {
-                    "answer_label": "South Park",
+                    "answer_label": "Teen Titans GO!",
                     "is_correct": false
                 },
                 {
@@ -125,28 +125,28 @@
         }
     },
     {
-        "bid_item_price": 2449,
-        "bid_item_name":"Eurodib OASIS2 Frozen Drink Machine",
-        "bid_image_url": "https://www.plantbasedpros.com/wp-content/uploads/2021/05/027-oasis2.jpg",
+        "bid_item_price": 16,
+        "bid_item_name":"Ouddy 10-Cavity Popsicle Maker Silicone Homemade Ice Pop Molds",
+        "bid_image_url": "https://m.media-amazon.com/images/I/61YAUYGLDSL._AC_SX466_.jpg",
         "question_type": "sorting",
         "question": {
-            "text": "Rank the top slurpee flavors according to Americans",
+            "text": "Rank the top popsicle brands according to Americans",
             "options": [
                 {
                     "option_label": "1",
-                    "option_image": "https://i0.wp.com/fusion.tv/wp-content/uploads/2015/07/fanta_pinacolada.jpg?resize=360%2C232&quality=80&strip=all&ssl=1"
+                    "option_image": "https://www.tasteofhome.com/wp-content/uploads/2021/04/popsicle-orange-cherry-grape-variety-ice-pops-18ct.jpg?w=1200"
                 },
                 {
                     "option_label": "2",
-                    "option_image": "https://i2.wp.com/fusion.tv/wp-content/uploads/2015/07/25337_slurpee_flavor_poster360x232_lemonade.jpg?resize=360%2C232&quality=80&strip=all&ssl=1"
+                    "option_image": "https://www.tasteofhome.com/wp-content/uploads/2021/04/outshine-cherry-tangerine-grape-frozen-fruit-bars-18oz-12ct.jpg?w=1200"
                 },
                 {
                     "option_label": "3",
-                    "option_image": "http://2.bp.blogspot.com/-MYXG9NAjpQ4/Ucqb92SaLuI/AAAAAAAAHzs/TYbJMYbkkVk/s400/Slurpee+-+Blue+Raspberry+-+Marquee.jpg"
+                    "option_image": "https://www.tasteofhome.com/wp-content/uploads/2021/04/bomb-pop-original-cherry-lime-blue-raspberry-bars-21-fl-oz-12ct.jpg?w=1200"
                 },
                 {
                     "option_label": "4",
-                    "option_image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-07/11/0/enhanced/c8071138156a/enhanced-buzz-1523-1562806675-0.jpg"
+                    "option_image": "https://www.tasteofhome.com/wp-content/uploads/2021/04/Otter-Pops-80ct-2oz-100-Juice-Clean-Label-Freezer-Pops.jpeg?w=1200"
                 }
             ]
         }
