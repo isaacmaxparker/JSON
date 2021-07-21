@@ -96,6 +96,7 @@
     {
         "bid_item_price": 1199,
         "bid_image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS-UtQj4dKqKOlfvwvyknFM_fzVhQW32XN3RDg8yPFL-LxQ-mzNOPXcR_otWpmz3i25IR8l5QL_svODJYaCddD5v2ME97lVpQ",
+        "big_item_name":"iPhone 12 Pro Max (Apple)",
         "question_type": "audiomc",
         "question": {
             "text": "This popular song was dubbed the 'Song of the Summer' in which year?",
