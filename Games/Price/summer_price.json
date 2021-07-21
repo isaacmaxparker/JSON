@@ -153,7 +153,35 @@
     },
     {},
     {},
-    {},
+    {
+        "bid_item_price": 60,
+        "bid_image_url": "https://cdn.shopify.com/s/files/1/1178/0774/products/Doritos_S.jpg?v=1571287241",
+        "big_item_name":"Doritos Nacho Cheese Sweatshirt",
+        "question_type": "audiomc",
+        "question": {
+            "text": "This audio is the sound of someone eating which chip?",
+            "image": "https://api.time.com/wp-content/uploads/2019/03/doritos-nacho-cheese-best-chip-flavor.jpg",
+            "audio":"crunch",
+            "options": [
+                {
+                    "answer_label": "Takis",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "Lays",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "Crunchy Cheetos",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "Ruffles",
+                    "is_correct": true
+                }
+            ]
+        }
+    },
     {},
     {},
     {},
