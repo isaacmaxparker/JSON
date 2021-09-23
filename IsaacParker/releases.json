@@ -175,7 +175,7 @@
             {
                 "name":"Amazon Music",
                 "image":"amazon.png",
-                "url":"https://www.amazon.com/Cherry-Blossoms-Isaac-Parker/dp/B08Z9XDB2N/ref=sr_1_1?dchild=1&keywords=isaac+parker+cherry+blossoms&qid=1617948492&sr=8-1"
+                "url":"https://music.amazon.com/albums/B08Z9XDB2N"
             },
             {
                 "name":"iHeartRadio",
@@ -194,9 +194,9 @@
         "release_title":"Carol",
         "release_date":"12/02/2020",
         "hyperfollow_link":"https://distrokid.com/hyperfollow/isaacparker/carol",
-        "album_art_image_name":"caroll-albumart.jpg",
+        "album_art_image_name":"carol-albumart.jpg",
         "background_image_class":"crl-back",
-        "theme_color":"aqua",
+        "theme_color":"ice",
         "youtube_link":"https://www.youtube.com/embed/videoseries?list=PLjRMKXXyQLKvSykR42lUR13d0R40htbTS",
         "songs":[
             {
@@ -218,17 +218,64 @@
             {
                 "name":"Youtube",
                 "image":"youtubeMusic.png",
-                "url":"https://www.youtube.com/watch?v=98VmY9rLhcw&list=PLjRMKXXyQLKv96FAH2oV7kcOk3gcRWZTI&index=1"
+                "url":"https://www.youtube.com/watch?v=wasJB53RkPU&list=PLjRMKXXyQLKvSykR42lUR13d0R40htbTS&index=1"
             }, 
             {
                 "name":"Amazon Music",
                 "image":"amazon.png",
-                "url":"https://music.amazon.com/albums/B08NPW8KKF?refMarker=dm_wcp_af_r&ref=dm_ws_dp_ald_bb_phfa_xx_xx_xx&do=play&returnFromLogin=1&"
+                "url":"https://music.amazon.com/albums/B08NPW8KKF"
             },
             {
                 "name":"iHeartRadio",
                 "image":"iheartRadio.png",
                 "url":"https://www.iheart.com/artist/isaac-parker-32926139/albums/carol-117591847/"
+            },
+            {
+                "name":"More",
+                "svg":true
+            }
+        ]
+    },
+    {
+        "release_id":1,
+        "release_title":"My Wings",
+        "release_date":"09/05/2020",
+        "hyperfollow_link":"https://distrokid.com/hyperfollow/isaacparker/carol",
+        "album_art_image_name":"mw-albumart.jpg",
+        "background_image_class":"mw-back",
+        "theme_color":"lime",
+        "youtube_link":"https://youtube.com/playlist?list=PLjRMKXXyQLKtDF13e6mmjyQq8PHiIKQ3L",
+        "songs":[
+            {
+                "name":"Carol",
+                "audio":"carol_preview.mp3"
+            }
+        ],
+        "store_links":[
+            {
+                "name":"Spotify",
+                "image":"spotify.png",
+                "url":"https://open.spotify.com/album/3wyuJT8wZZdSpcjw8j5iPR?si=AIr68aPgQ5Scfl9ydZKKLQ&dl_branch=1"
+            }, 
+            {
+                "name":"Apple Music",
+                "image":"appleMusic.png",
+                "url":"https://music.apple.com/us/album/my-wings-single/1529320079"
+            }, 
+            {
+                "name":"Youtube",
+                "image":"youtubeMusic.png",
+                "url":"https://www.youtube.com/watch?v=9FDSML0YgE4&list=PLjRMKXXyQLKtDF13e6mmjyQq8PHiIKQ3L&index=1"
+            }, 
+            {
+                "name":"Amazon Music",
+                "image":"amazon.png",
+                "url":"https://music.amazon.com/albums/B08GR34D74"
+            },
+            {
+                "name":"iHeartRadio",
+                "image":"iheartRadio.png",
+                "url":"https://www.iheart.com/artist/isaac-parker-32926139/albums/my-wings-109968881/"
             },
             {
                 "name":"More",
