@@ -11,27 +11,23 @@
         "songs":[
             {
                 "name":"Hunt",
-                "audio":"kickit_preview.mp3"
+                "audio":"hunt_preview.mp3"
             },
             {
-                "name":"Sunset Fever",
-                "audio":"sunsetfever_preview.mp3"
+                "name":"Makin' Me",
+                "audio":"makinme_preview.mp3"
             },
             {
-                "name":"I See",
-                "audio":"isee_preview.mp3"
+                "name":"Monster",
+                "audio":"monster_preview.mp3"
             },
             {
-                "name":"Dejavu",
-                "audio":"dejavu_preview.mp3"
+                "name":"Festival",
+                "audio":"festival_preview.mp3"
             },
             {
-                "name":"Cool Off",
-                "audio":"cooloff_preview.mp3"
-            },
-            {
-                "name":"Blueberry",
-                "audio":"blueberry_preview.mp3"
+                "name":"Au Revoir",
+                "audio":"aurevoir_preview.mp3"
             }
         ],
         "store_links":[
