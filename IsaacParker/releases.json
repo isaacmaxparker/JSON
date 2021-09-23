@@ -1,5 +1,72 @@
 [
     {
+        "release_id":5,
+        "release_title":"Carnival Nights",
+        "release_date":"09/23/2021",
+        "hyperfollow_link":"https://distrokid.com/hyperfollow/isaacparker/carnival-nights",
+        "album_art_image_name":"cn-albumart.png",
+        "background_image_class":"cn-back",
+        "theme_color":"gold",
+        "youtube_link":null,
+        "songs":[
+            {
+                "name":"Hunt",
+                "audio":"kickit_preview.mp3"
+            },
+            {
+                "name":"Sunset Fever",
+                "audio":"sunsetfever_preview.mp3"
+            },
+            {
+                "name":"I See",
+                "audio":"isee_preview.mp3"
+            },
+            {
+                "name":"Dejavu",
+                "audio":"dejavu_preview.mp3"
+            },
+            {
+                "name":"Cool Off",
+                "audio":"cooloff_preview.mp3"
+            },
+            {
+                "name":"Blueberry",
+                "audio":"blueberry_preview.mp3"
+            }
+        ],
+        "store_links":[
+            {
+                "name":"Spotify",
+                "image":"spotify.png",
+                "url":""
+            }, 
+            {
+                "name":"Apple Music",
+                "image":"appleMusic.png",
+                "url":"https://music.apple.com/us/album/carnival-nights-ep/1585027219"
+            }, 
+            {
+                "name":"Youtube",
+                "image":"youtubeMusic.png",
+                "url":""
+            }, 
+            {
+                "name":"Amazon Music",
+                "image":"amazon.png",
+                "url":""
+            },
+            {
+                "name":"iHeartRadio",
+                "image":"iheartRadio.png",
+                "url":""
+            },
+            {
+                "name":"More",
+                "svg":true
+            }
+        ]
+    },
+    {
         "release_id":4,
         "release_title":"Strawberry Days",
         "release_date":"06/28/2021",
