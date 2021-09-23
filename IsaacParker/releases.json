@@ -188,5 +188,52 @@
                 "svg":true
             }
         ]
+    },
+    {
+        "release_id":2,
+        "release_title":"Carol",
+        "release_date":"12/02/2020",
+        "hyperfollow_link":"https://distrokid.com/hyperfollow/isaacparker/carol",
+        "album_art_image_name":"caroll-albumart.jpg",
+        "background_image_class":"crl-back",
+        "theme_color":"aqua",
+        "youtube_link":"https://www.youtube.com/embed/videoseries?list=PLjRMKXXyQLKvSykR42lUR13d0R40htbTS",
+        "songs":[
+            {
+                "name":"Carol",
+                "audio":"carol_preview.mp3"
+            }
+        ],
+        "store_links":[
+            {
+                "name":"Spotify",
+                "image":"spotify.png",
+                "url":"https://open.spotify.com/album/35ix5b4KuCOVT9OKrUTo1R"
+            }, 
+            {
+                "name":"Apple Music",
+                "image":"appleMusic.png",
+                "url":"https://music.apple.com/us/album/carol-single/1540447593?uo=4"
+            }, 
+            {
+                "name":"Youtube",
+                "image":"youtubeMusic.png",
+                "url":"https://www.youtube.com/watch?v=98VmY9rLhcw&list=PLjRMKXXyQLKv96FAH2oV7kcOk3gcRWZTI&index=1"
+            }, 
+            {
+                "name":"Amazon Music",
+                "image":"amazon.png",
+                "url":"https://music.amazon.com/albums/B08NPW8KKF?refMarker=dm_wcp_af_r&ref=dm_ws_dp_ald_bb_phfa_xx_xx_xx&do=play&returnFromLogin=1&"
+            },
+            {
+                "name":"iHeartRadio",
+                "image":"iheartRadio.png",
+                "url":"https://www.iheart.com/artist/isaac-parker-32926139/albums/carol-117591847/"
+            },
+            {
+                "name":"More",
+                "svg":true
+            }
+        ]
     }
 ]
