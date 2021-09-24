@@ -7,7 +7,7 @@
         "album_art_image_name":"cn-albumart.png",
         "background_image_class":"cn-back",
         "theme_color":"gold",
-        "youtube_link":null,
+        "youtube_link":"https://www.youtube.com/embed/videoseries?list=PLjRMKXXyQLKsxcjcl66L72jSJ7r3D5HvM",
         "songs":[
             {
                 "name":"Hunt",
@@ -34,7 +34,7 @@
             {
                 "name":"Spotify",
                 "image":"spotify.png",
-                "url":""
+                "url":"https://open.spotify.com/album/6gvRKYojChSa2qICrLv4qw"
             }, 
             {
                 "name":"Apple Music",
@@ -44,17 +44,17 @@
             {
                 "name":"Youtube",
                 "image":"youtubeMusic.png",
-                "url":""
+                "url":"https://www.youtube.com/watch?v=NXnbaYc8-eE&list=PLjRMKXXyQLKsxcjcl66L72jSJ7r3D5HvM&index=1"
             }, 
             {
                 "name":"Amazon Music",
                 "image":"amazon.png",
-                "url":""
+                "url":"https://music.amazon.com/albums/B09FR4PS8H"
             },
             {
                 "name":"iHeartRadio",
                 "image":"iheartRadio.png",
-                "url":""
+                "url":"https://www.iheart.com/artist/isaac-parker-32926139/albums/carnival-nights-144588920/"
             },
             {
                 "name":"More",
