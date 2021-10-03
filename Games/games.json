@@ -70,5 +70,14 @@
         "color":"teal",
         "type":"price",
         "status":"A"
+    },
+    {
+        "id":9,
+        "name":"Halloween Price",
+        "json_name":"halloween_price",
+        "date_created":"10-03-2021",
+        "color":"orange",
+        "type":"price",
+        "status":"A"
     }
 ]

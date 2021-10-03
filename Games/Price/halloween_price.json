@@ -1,0 +1,395 @@
+[
+    {
+        "bid_item_price": 33,
+        "bid_item_name":"Hershey's Halloween Snack Size Candy [67.7 oz]",
+        "bid_image_url": "https://m.media-amazon.com/images/I/71oOY9LYdDL._SX425_.jpg",
+        "question_type": "matching",
+        "question": {
+            "text": "Which of the following are in America's top 10 Favorite Halloween Candies (5)",
+            "options_split": 4,
+            "options": [
+                {
+                    "option_text": "Reese's Cups",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Skittles",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Root Beer Barrels",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "M&Ms",
+                    "is_correct": true
+                },  
+                {
+                    "option_text": "Hot Tamales",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Almond Joy",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Jolly Ranchers",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Tootsie Pops",
+                    "is_correct": true
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 449,
+        "bid_item_name":"JBL Boombox 2 Waterproof ",
+        "bid_image_url": "https://m.media-amazon.com/images/I/71sQOlLVWHL._AC_SS450_.jpg",
+        "question_type": "sorting",
+        "question": {
+            "text": "Place these top Halloween songs in order",
+            "options": [
+                {
+                    "option_label": "1",
+                    "option_image": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png"
+                },
+                {
+                    "option_label": "2",
+                    "option_image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Monster_Mash_cover.jpg/220px-Monster_Mash_cover.jpg"
+                },
+                {
+                    "option_label": "3",
+                    "option_image": "https://images-na.ssl-images-amazon.com/images/I/61dV41c7owL._SL1500_.jpg"
+                },
+                {
+                    "option_label": "4",
+                    "option_image": "https://direct.rhapsody.com/imageserver/images/alb.204017400/600x600.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 18,
+        "bid_item_name":"Halloween Pumpkin Carving Kit [23 pcs]",
+        "bid_image_url": "https://m.media-amazon.com/images/I/71U9+w01k3L._AC_UL480_FMwebp_QL65_.jpg",
+        "question_type": "imagemc",
+        "question": {
+            "text": "When was the first jack-o-lantern carved?",
+            "image": "https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/jack-o-lantern-2925-59480bf931c148bab466bcd9f21f5581@1x.jpg",
+            "options": [
+                {
+                    "answer_label": "17th Century",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "18th Century",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "19th Century",
+                    "is_correct": true
+                },
+                {
+                    "answer_label": "20th Century",
+                    "is_correct": false
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 42,
+        "bid_image_url": "https://m.media-amazon.com/images/I/71ay3ryagfL._AC_UY327_FMwebp_QL65_.jpg",
+        "bid_item_name":"Dyna-Living Retro Vintage Phone",
+        "question_type": "audiomc",
+        "question": {
+            "text": "This popular 'Summer' song's music video was actually filmed during which month?",
+            "image": "https://metro.co.uk/wp-content/uploads/2018/06/sec_16159915.jpg?quality=90&strip=all",
+            "audio":"callmemaybe",
+            "options": [
+                {
+                    "answer_label": "September",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "October",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "November",
+                    "is_correct": true
+                },
+                {
+                    "answer_label": "December",
+                    "is_correct": false
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 128,
+        "bid_item_name":"BIGASUO HD Bluetooth Projector",
+        "bid_image_url": "https://m.media-amazon.com/images/I/71B9s+8do7S._AC_UY327_FMwebp_QL65_.jpg",
+        "question_type": "sorting",
+        "question": {
+            "text": "Match these Classic halloween movies to the character's name",
+            "options": [
+                {
+                    "option_label": "Sarah",
+                    "option_image": "https://ntvb.tmsimg.com/assets/p14911_v_h10_ac.jpg?w=1280&h=720"
+                },
+                {
+                    "option_label": "Morticia",
+                    "option_image": "https://m.media-amazon.com/images/M/MV5BMzYxZTUzODYtYjQwYi00NGYzLTkxZjEtNjYwZWZlYmM0ZDg3XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg"
+                },
+                {
+                    "option_label": "Jack",
+                    "option_image": "https://lumiere-a.akamaihd.net/v1/images/p_thenightmarebeforechristmas_19754_abc0f5f5.jpeg"
+                },
+                {
+                    "option_label": "Lucy",
+                    "option_image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-halloween-movies-charlie-brown-1631546687.jpg?crop=1xw:1xh;center,top&resize=768:*"
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 30,
+        "bid_item_name":"Kicko Disco Light",
+        "bid_image_url": "https://m.media-amazon.com/images/I/71GZKL167sS._AC_UL480_FMwebp_QL65_.jpg",
+        "question_type": "imagemc",
+        "question": {
+            "text": "Finish The lyric: 'I was working in my lab late one night, when my eyes beheld an __________",
+            "image": "https://clickamericana.com/wp-content/uploads/Monster-Mash-How-the-hit-song-by-Bobby-Boris-Pickett-came-to-be-and-became-a-huge-hit.jpg",
+            "options": [
+                {
+                    "answer_label": "eerie sight",
+                    "is_correct": true
+                },
+                {
+                    "answer_label": "spooky fright",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "eerie fright",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "spooky sight",
+                    "is_correct": false
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 40,
+        "bid_item_name":"Bulk M&Ms - 5 lb",
+        "bid_image_url": "https://m.media-amazon.com/images/I/812Dk2XhPIL._AC_UL480_FMwebp_QL65_.jpg",
+        "question_type": "sorting",
+        "question": {
+            "text": "Place in order the frequency of each M&M's candy color",
+            "options": [
+                {
+                    "option_label": "1",
+                    "option_image": "https://static.wikia.nocookie.net/mms/images/6/66/Download_%2811%29.jpeg/revision/latest/scale-to-width-down/250?cb=20170310214436"
+                },
+                {
+                    "option_label": "2",
+                    "option_image": "https://static.wikia.nocookie.net/chocolate/images/7/72/Orange-m-and-ms-26303137-668-720.jpg/revision/latest/scale-to-width-down/668?cb=20120214095404"
+                },
+                {
+                    "option_label": "3",
+                    "option_image": "https://ih1.redbubble.net/image.1006254054.9061/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"
+                },
+                {
+                    "option_label": "4",
+                    "option_image": "https://static.wikia.nocookie.net/never-ending-storysbfourms/images/f/fd/YellowM.png/revision/latest?cb=20190310221034"
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 154,
+        "bid_image_url": "https://ca-times.brightspotcdn.com/dims4/default/68c0007/2147483647/strip/true/crop/3000x2002+0+0/resize/1486x992!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5e%2F72%2F1672619e43ecb48b7ee43bfb20ab%2F61366ac253794-9-2018-dl.1383.jpg",
+        "bid_item_name":"Disneyland Ticket Halloween 2021",
+        "question_type": "imagemc",
+        "question": {
+            "text": "The song 'Grim Grinning Ghosts' is from which Disneyland ride?",
+            "image": "https://i3.ytimg.com/vi/lzzlMHUzzcs/hqdefault.jpg",
+            "options": [
+                {
+                    "answer_label": "Mr. Toad's Wild Ride",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "Pirates of the Carribean",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "Tower of Terror",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "Haunted Mansion",
+                    "is_correct": true
+                }
+            ]
+        }
+    },
+    { 
+        "bid_item_price": 9,
+        "bid_item_name":"YOYMARR Halloween Cake Topper",
+        "bid_image_url": "https://m.media-amazon.com/images/I/81-ZC7FfshL._AC_UL480_FMwebp_QL65_.jpg",
+        "question_type": "matching",
+        "question": {
+            "text": "Which of the following are ways 'Tree' dies in the thriller 'Happy Death Day' and it's sequel? (7)",
+            "options_split": 4,
+            "options": [
+                {
+                    "option_text": "Electrocution",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Gunshot",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Car Crash",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Police Car Explosion",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Hit by Bus",
+                    "is_correct": true
+                },       
+                {
+                    "option_text": "Knife stab",
+                    "is_correct": true
+                },                {
+                    "option_text": "Fall from Bell Tower",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Baseball Bat",
+                    "is_correct": true
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 30,
+        "bid_item_name":"Astronaut Among Us Boys Costume",
+        "bid_image_url": "https://m.media-amazon.com/images/I/71ZrMqFe3RL._AC_UL480_FMwebp_QL65_.jpg",
+        "question_type": "matching",
+        "question": {
+            "text": "Which of the following are top 10 kids Halloween costumes (2)",
+            "options_split": 4,
+            "options": [
+                {
+                    "option_text": "Vampire",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Mummy",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Witch",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Frankenstein",
+                    "is_correct": false
+                },                {
+                    "option_text": "Pumpkin",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Scarecrow",
+                    "is_correct": false
+                },                {
+                    "option_text": "Black Cat",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Pirate",
+                    "is_correct": false
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 1895,
+        "bid_item_name":"Michael Jackson 'Bad' Autographed LP",
+        "bid_image_url": "https://m.media-amazon.com/images/I/811VqYCjNdL._AC_UL480_QL65_.jpg",
+        "question_type": "imagemc",
+        "question": {
+            "text": "Which is not mentioned in the Thriller lyrics?",
+            "image": "https://i.guim.co.uk/img/media/08054dcbab04cf64ca09b3182452b910b519dfc8/0_249_2803_1682/master/2803.jpg?width=465&quality=45&auto=format&fit=max&dpr=2&s=79bc66122d46c7dd469b5be99b69103f",
+            "options": [
+                {
+                    "answer_label": "Creeping Creatures'",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "An Alien's Jaws",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "Grizzly Ghouls",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "A Zombie Killer",
+                    "is_correct": true
+                }
+            ]
+        } 
+    },
+    {
+        "bid_item_price": 19,
+        "bid_item_name":"Halloween Pumpkin Candy Buckets [2pcs]",
+        "bid_image_url": "https://m.media-amazon.com/images/I/71S1AT9fnQL._AC_UL480_FMwebp_QL65_.jpg",
+        "question_type": "matching",
+        "question": {
+            "text": "According to Men's Health, which are in the top 10 adult superhero costumes? (4)",
+            "options_split": 4,
+            "options": [
+                {
+                    "option_text": "Spiderman",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Green Arrow",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Black Panther",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Batman",
+                    "is_correct": true
+                },                {
+                    "option_text": "Deadpool",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Aquaman",
+                    "is_correct": false
+                },                {
+                    "option_text": "Mysterio",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "The Flash",
+                    "is_correct": false
+                }
+            ]
+        }
+    }
+]
