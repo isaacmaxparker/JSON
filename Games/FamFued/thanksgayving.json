@@ -1,0 +1,117 @@
+[
+
+    {
+        "question_text":"Name a Food you eat at Thanksgiving but not during the rest of the year",
+        "answer_1":"Stuffing",
+        "answer_2":"Cranberry Sauce",
+        "answer_3":"Yams",
+        "answer_4":"Pumpkin Pie",
+        "answer_5":"Giblet Gravy",
+        "answer_6":"Turkey"
+    },
+    {
+        "question_text":"Name a gay celebrity",
+        "answer_1":"Lil Nas X",
+        "answer_2":"Niel Patrick Harris",
+        "answer_3":"Sam Smith",
+        "answer_4":"Ricky Martin",
+        "answer_5":"Troye Sivan",
+        "answer_6":"Ellen Degeneres"
+    },
+    {
+        "question_text":"Name an Olypic sporrt you'd watch more if it was played nude",
+        "answer_1":"Volleyball",
+        "answer_2":"Gymnastics",
+        "answer_3":"Swimming",
+        "answer_4":"Wrestling",
+        "answer_5":"Soccer",
+        "answer_6":"Tennis"
+    },
+    {
+        "question_text":"Name a famous Gay Character from a TV Show",
+        "answer_1":"Kurt/Blaine (Glee)",
+        "answer_2":"David Rose (Schitts Creek)",
+        "answer_3":"Mitchell/Cameron (Modern Family)",
+        "answer_4":"Will/Jack (Will & Grace)",
+        "answer_5":"Titus (Kimmy Schmidt)",
+        "answer_6":"Mickey/Ian (Shameless)"
+    },
+    {
+        "question_text":"Name a Thanksgiving food that wouldn't damage you in a Food Fight",
+        "answer_1":"Turkey Slice",
+        "answer_2":"Stuffing",
+        "answer_3":"Mashed Potatoes",
+        "answer_4":"Pie",
+        "answer_5":"Cranberry Sauce",
+        "answer_6":"Green Bean"
+    },
+    {
+        "question_text":"Name something someone bad at cooking would be asked to bring to Thanksgiving",
+        "answer_1":"Drinks",
+        "answer_2":"Plates",
+        "answer_3":"Napkins",
+        "answer_4":"Dessert",
+        "answer_5":"Cranberry Sauce",
+        "answer_6":"Nothing"
+    },
+    {
+        "question_text":"Name something a dieting person might order at a restaurant",
+        "answer_1":"Salad",
+        "answer_2":"Fish",
+        "answer_3":"Chicken",
+        "answer_4":"Water/Ice",
+        "answer_5":"Fruit/Veggies",
+        "answer_6":"Eggs"
+    },
+    {
+        "question_text":"Name a language that makes anything sound sexy",
+        "answer_1":"French",
+        "answer_2":"Italian",
+        "answer_3":"Spanish",
+        "answer_4":"British/Australian",
+        "answer_5":"German",
+        "answer_6":"Japanese"
+    },
+    {
+        "question_text":"Name something children make at school for Thanksgiving",
+        "answer_1":"Turkey",
+        "answer_2":"Cornucopia",
+        "answer_3":"Pilgrem Hat",
+        "answer_4":"Card",
+        "answer_5":"Indian Headress",
+        "answer_6":"Pumpkin"
+    },
+    {
+        "question_text":"Name a fruit that reminds you of a body part",
+        "answer_1":"Banana",
+        "answer_2":"Peach",
+        "answer_3":"Cantaloupe",
+        "answer_4":"Coconut",
+        "answer_5":"Eggplant",
+        "answer_6":"Watermelon"
+    },
+    {
+        "questions":[
+            {
+                "question":"Name an openly gay athlete",
+                "answers":"Tom Daley - 45 | Adam Rippon - 35 | Carl Nassib - 26 | Any Other - 7"
+            },
+            {
+                "question":"Give me a man's name starting with the letter B",
+                "answers":"Bob/Bobby - 49 | Brian - 22 | Ben/Benjamin - 12 | Brad - 5"
+            },
+            {
+                "question":"What kind of pants would you wear to Thanksgiving",
+                "answers":"Sweatpants - 70 | Jeans - 32 | Track Pants - 25 | Slacks - 4"
+            },
+            {
+                "question":"Name a condom brand",
+                "answers":"Trojan - 64 | Magnum - 44 | Durex - 38 | Astroglide - 10"
+            },
+            {
+                "question":"Name a pop music Queen (gay icon)",
+                "answers":"Ariana Grande - 73 | Lady Gaga - 68 | Britney - 57 | Olivia Rodrigo - 46 | Kesha - 34"
+            }
+        ]
+    }
+]   
