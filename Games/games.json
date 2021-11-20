@@ -88,5 +88,14 @@
         "color":"orange",
         "type":"famFued",
         "status":"A"
+    },
+    {
+        "id":11,
+        "name":"Thanksgayving",
+        "json_name":"thanksgayving",
+        "date_created":"11-19-2021",
+        "color":"green",
+        "type":"jeopardy",
+        "status":"G"
     }
 ]

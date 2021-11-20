@@ -1,0 +1,311 @@
+[
+    {
+        "round_one":[
+            {
+                "category_name": "Gay History",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"Stonewall",
+                        "answer": "The name of the famous New York Riots"
+                    },
+                    {
+                        "points":400,
+                        "question":"2014",
+                        "answer": "The year same sex marriage was legalized"
+                    },
+                    {
+                        "points":600,
+                        "question":"1970",
+                        "answer": "The year of the first pride parade (decade)"
+                    },
+                    {
+                        "points":800,
+                        "question":"October 11",
+                        "answer": "The date of National Coming out day"
+                    },
+                    {
+                        "points":1000,
+                        "question":"Obergefell v. Hodges",
+                        "answer": "The name of the supreme court case that legalized gay marriage"
+                    }
+                ]
+            },
+            {
+                "category_name": "Thanksgiving History",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"Black Friday",
+                        "answer": "The name of the Shopping spree after thanksgiving that started in the 50s"
+                    },
+                    {
+                        "points":400,
+                        "question":"Macey's",
+                        "answer": "The name of the famous thanksgiving parade that started in 1924"
+                    },
+                    {
+                        "points":600,
+                        "question":"Squanto",
+                        "answer": "The name of the Native American in the first thanksgiving story"
+                    },
+                    {
+                        "points":800,
+                        "question":"12",
+                        "answer": "The number of letters in Thanksgiving"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is Philadelphia",
+                        "answer": "The city has the oldest Thanksgiving Parade"
+                    }
+                ]
+            },
+            {
+                "category_name": "Gay Movies",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Blue",
+                        "answer": "The screen name of Simon's love interest in Love, Simon"
+                    },
+                    {
+                        "points":400,
+                        "question":"Benji, Rahim",
+                        "answer": "The names of Victor's two love interests at the end of Season 2 of Love, Victor"
+                    },
+                    {
+                        "points":600,
+                        "question":"Jake Gyllenhall, Heath Ledger, Anne Hathaway",
+                        "answer": "The three famous actors in Brokeback Mountain (MMF)"
+                    },
+                    {
+                        "points":800,
+                        "question":"Call Me By Your Name",
+                        "answer": "The name of Timothee Chalamet's 2017 gay movie"
+                    },
+                    {
+                        "points":1000,
+                        "question":"Single All The Way",
+                        "answer": "The name of Netflix's 2021 gay Christmas rom-com"
+                    }
+                ]
+            },
+            {
+                "category_name": "Naughty Misc",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"69",
+                        "answer": "The sexiest number"
+                    },
+                    {
+                        "points":400,
+                        "question":"If You Seek Amy",
+                        "answer": "The name of the Britney spears song that spells out F*** Me"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is Call Me By Your Name",
+                        "answer": "This music video was joked to be the cure for the WAP sexuality"
+                    },
+                    {
+                        "points":800,
+                        "question":"Frozen",
+                        "answer": "This disney movie claims 'Foot size doesn't matter'"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is my vag",
+                        "answer": "The name of Awkwafina's viral rap about her lady bits"
+                    }
+                ]
+            }
+        ],
+        "round_two":[
+            {
+                "category_name": "All About Isaac",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is McDougal",
+                        "answer": "Isaac's real last name"
+                    },
+                    {
+                        "points":800,
+                        "question":"Hunt",
+                        "answer": "The name of Isaac's last music video"
+                    },
+                    {
+                        "points":1200,
+                        "question":"Who is Shakira",
+                        "answer": "Isaac's Non-Korean Female Celeb Crush"
+                    },
+                    {
+                        "points":1600,
+                        "question":"Antoni Porowski",
+                        "answer": "Isaac's Male Celeb Crush"
+                    },
+                    {
+                        "points":2000,
+                        "question":"Day & Night: Always by your side",
+                        "answer": "The full name of Isaac's upcoming Winter Album"
+                    }
+                ]
+            },
+            {
+                "category_name": "2021 Grammys",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is Folklore",
+                        "answer": "The album of the year winner."
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Watermelon Sugar",
+                        "answer": "This Harry Styles song won best Pop Solo Performance"
+
+                    },
+                    {
+                        "points":1200,
+                        "question":"Who is Billie Eilish",
+                        "answer": "The artist who won record of the year"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is Miranda Lambert",
+                        "answer": "The couuntry artist who won best Country Album"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Rain On Me",
+                        "answer": "The winner for Pop Duo Performance"
+                    }
+                ]
+            },
+            {
+                "category_name": "Astrology",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is 12",
+                        "answer": "The number of zodiac signs"
+                    },
+                    {
+                        "points":800,
+                        "question":"What are water, earth, air, fire",
+                        "answer": "The signs are assigned to these four elements"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is Pisces",
+                        "answer": "The sign represented by the two fishes"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is Libra",
+                        "answer": "The sign represented by the scales"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Cancer",
+                        "answer": "The sign represented by a crab"
+                    }
+                ]
+            },
+            {
+                "category_name": "Basketball",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is 8",
+                        "answer": "The number of panels on a basketball"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is soccer",
+                        "answer": "The first basketball was actually a ball meant for this sport"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What are peach baskets",
+                        "answer": "The original object used as a basketball hoop"
+                    },
+                    {
+                        "points":1600,
+                        "question":"Who is Rudy Gobert",
+                        "answer": "This Utah Jazz player was the first NBA player to test postive for COVID-19"
+                    },
+                    {
+                        "points":2000,
+                        "question":"Who is Lebron James",
+                        "answer": "The youngest player to score 10,000 points"
+                    }
+                ]
+            },
+            {
+                "category_name": "Taylor Swift",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"You Need to Calm Down",
+                        "answer": "Taylor's gay song"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is LWYMMD",
+                        "answer": "The Taylor music video set a 24 hour views record on YouTube"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is Shake It Off",
+                        "answer": "Taylor's music video with the most views"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is We Are Never Getting Back Together",
+                        "answer": "This Taylor song won her a world record for fastest selling digital single."
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Alison",
+                        "answer": "Taylor's middle name"
+                    }
+                ]
+            },
+            {
+                "category_name": "Misc Pizza",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What are anchovies",
+                        "answer": "This nasty fish is sometimes a pizza topping"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is personal pan",
+                        "answer": "The name for a small one-person pizza"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is grilling",
+                        "answer": "The Al Forno in RI was the first US restaurant to offer pizza cooked by _____ "
+                    },
+                    {
+                        "points":800,
+                        "question":"What are onions",
+                        "answer": "Pizza pugliese is prepared with tomato, mozzarella and _____"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is foccacia",
+                        "answer": "Pizza is essentially a ______ bread topped with tomato sauce and toppings"
+                    }
+                ]
+            }
+        ],
+        "final_questions":"The name of the gay character from Percy Jackson/Heroes of Olypmus",
+        "final_answers":"Nico"
+    }
+]
