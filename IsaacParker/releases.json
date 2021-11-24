@@ -1,5 +1,113 @@
 [
     {
+        "release_id":6,
+        "release_title":"Day & Night",
+        "release_subtitle":": Always By Your Side",
+        "release_date":"11/26/2021",
+        "hyperfollow_link":"https://distrokid.com/hyperfollow/isaacparker/day--night-always-by-your-side",
+        "album_art_image_name":"dan-albumart.png",
+        "background_image_class":"dan-back",
+        "theme_color":"navy",
+        "youtube_link":"https://www.youtube.com/embed/videoseries?list=PLjRMKXXyQLKudkfZ1z55T9j_hLCwgiBLt",
+        "songs":[
+            {
+                "name":"Be With You",
+                "audio":"bewithyou_preview.mp3"
+            },
+            {
+                "name":"Safe",
+                "audio":"safe_preview.mp3"
+            },
+            {
+                "name":"Midnight Melody",
+                "audio":"isee_preview.mp3"
+            },
+            {
+                "name":"Kick It",
+                "audio":"kickit_preview.mp3"
+            },
+            {
+                "name":"Sunset Fever",
+                "audio":"sunsetfever_preview.mp3"
+            },
+            {
+                "name":"I See",
+                "audio":"isee_preview.mp3"
+            },
+            {
+                "name":"Dejavu",
+                "audio":"dejavu_preview.mp3"
+            },
+            {
+                "name":"Cool Off",
+                "audio":"cooloff_preview.mp3"
+            },
+            {
+                "name":"Blueberry",
+                "audio":"blueberry_preview.mp3"
+            },
+            {
+                "name":"Hunt",
+                "audio":"hunt_preview.mp3"
+            },
+            {
+                "name":"Makin' Me",
+                "audio":"makinme_preview.mp3"
+            },
+            {
+                "name":"Monster",
+                "audio":"monster_preview.mp3"
+            },
+            {
+                "name":"Festival",
+                "audio":"festival_preview.mp3"
+            },
+            {
+                "name":"Au Revoir",
+                "audio":"aurevoir_preview.mp3"
+            },
+            {
+                "name":"End of Time (Solo Version)",
+                "audio":"endoftime_preview.mp3"
+            },
+            {
+                "name":"Keep You With Me (Solo Version)",
+                "audio":"keepyouwithme_preview.mp3"
+            }
+        ],
+        "store_links":[
+            {
+                "name":"Spotify",
+                "image":"spotify.png",
+                "url":""
+            }, 
+            {
+                "name":"Apple Music",
+                "image":"appleMusic.png",
+                "url":"https://music.apple.com/us/album/day-night-always-by-your-side/1595607708"
+            }, 
+            {
+                "name":"Youtube",
+                "image":"youtubeMusic.png",
+                "url":"https://www.youtube.com/embed/videoseries?list=PLjRMKXXyQLKudkfZ1z55T9j_hLCwgiBLt"
+            }, 
+            {
+                "name":"Amazon Music",
+                "image":"amazon.png",
+                "url":""
+            },
+            {
+                "name":"iHeartRadio",
+                "image":"iheartRadio.png",
+                "url":""
+            },
+            {
+                "name":"More",
+                "svg":true
+            }
+        ]
+    },
+    {
         "release_id":5,
         "release_title":"Carnival Nights",
         "release_date":"09/23/2021",
