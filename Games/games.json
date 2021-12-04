@@ -97,5 +97,14 @@
         "color":"green",
         "type":"jeopardy",
         "status":"G"
+    },
+    {
+        "id":12,
+        "name":"Day & Night Release Party",
+        "json_name":"daynight",
+        "date_created":"12-03-2021",
+        "color":"blue",
+        "type":"jeopardy",
+        "status":"A"
     }
 ]

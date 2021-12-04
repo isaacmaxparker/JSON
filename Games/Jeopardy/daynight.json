@@ -1,0 +1,310 @@
+[
+    {
+        "round_one":[
+            {
+                "category_name": "New Songs",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Be With You",
+                        "answer": "The name of the song with the christmas music video this year"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is Safe",
+                        "answer": "This new song features a harmonica heavily"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is End of Time ",
+                        "answer": "The name of the song about the apocalypse"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is 'Always By Your Side'",
+                        "answer": "The name of the subscript on this album (Day & Night: ?)"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is \"I'm not a scientist but I'm pretty sure\"",
+                        "answer": "The opening line to \"Be With You\""
+                    }
+                ]
+            },
+            {
+                "category_name": "Cherry Blossoms",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is pink",
+                        "answer": "The main color of this album"
+                    },
+                    {
+                        "points":400,
+                        "question":"hand up blocking sun",
+                        "answer": "(Act) The pose Isaac hold in the 'Cherry Blossoms' album art"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is Not Yours",
+                        "answer": "Isaac's most popular song to this day, that is from this album"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Sleep tight tonight",
+                        "answer": "The subscript to the song title Goodnight"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is spinning, roulette",
+                        "answer": "Finish the Blooming Lyric: 'got me ______, _____, ______ like ________'"
+                    }
+                ]
+            },
+            {
+                "category_name": "Strawberry Days",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is 6",
+                        "answer": "The number of Songs on 'Strawberry Days'"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is Kick It",
+                        "answer": "The 'Strawberry Days' music video that was released first"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is Dejavu",
+                        "answer": "Isaac's favorite song on 'Strawberry Days'"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Sunset Fever",
+                        "answer": "This 'Strawberry Days' song says the album title in the chorus lyrics"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is Cool Off",
+                        "answer": "The only song on 'Strawberry Days' that does not name a fruit in the lyrics"
+                    }
+                ]
+            },
+            {
+                "category_name": "Carnival Nights",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"Who are Daphne, Fred, Velma",
+                        "answer": "The three Scooby Doo Characters in the 'Hunt' music video"
+                    },
+                    {
+                        "points":400,
+                        "question":"What are Churros?",
+                        "answer": "At the 'Carnival Nights' release party Isaac set off the alarms making this dessert"
+                    },
+                    {
+                        "points":600,
+                        "question":"Who is Hu Tao",
+                        "answer": "The name of Genshin Impact character who's ghosts inspired the ghost on the album art"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Monster",
+                        "answer": "The song Isaac wrote about his homophobic family"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is Festival",
+                        "answer": "This song's  was loosely inspired by the climax of the film 'Love Simon'"
+                    }
+                ]
+            },
+            {
+                "category_name": "Album Arts",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Carnival Nights",
+                        "answer": "The name of the album art that doesn't feature a tree in it"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is a white Jeep?",
+                        "answer": "The color/car that is shown in the corner of the \"Strawberry Days\" and \"Carnival Nights\" artwork?"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is 5",
+                        "answer": "The number of Strawberries in the \"Strawberry Days\" album art"
+                    },
+                    {
+                        "points":800,
+                        "question":"What are wings, snowflake, cherries, strawberry, ferris wheel",
+                        "answer": "The five objects in the constellations on this album's art"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is Roller Coaster, Carousel, Ferris Wheel",
+                        "answer": "The three amusement park rides featured in the \"Carnival Nights\" artwork"
+                    }
+                ]
+            },
+            {
+                "category_name": "Misc Trivia",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Ice Cream",
+                        "answer": "The dessert Isaac holds in the purple 'Strawberry Days' concept teaser"
+                    },
+                    {
+                        "points":400,
+                        "question":"what is 16",
+                        "answer": "The number of songs on this compilation album"
+                    },
+                    {
+                        "points":600,
+                        "question":"What are Goodnight, Blueberry, Au Revoir, Midnight Melody",
+                        "answer": "Every album had one lullaby/ballad. Name them"
+                    },
+                    {
+                        "points":800,
+                        "question":"What are Monster, End of Time, Keep You With Me",
+                        "answer": "Which three songs were written for and/or recorded by Rifftide"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What are Kick It, Sunset Fever, Blueberry, Hunt, and Be With You",
+                        "answer": "The 5 songs on this album that got a music video"
+                    }
+                ]
+            }
+        ],
+        "round_two":[
+            {
+                "category_name": "Misc Christmas",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is Mistletoe",
+                        "answer": "This parasite causes kisses at Christmastime"
+                    },
+                    {
+                        "points":800,
+                        "question":"Cupid",
+                        "answer": "Which of Santa's reindeer shares a name with another holiday mascot"
+                    },
+                    {
+                        "points":1200,
+                        "question":"Parson Brown / Circus Clown",
+                        "answer": "In the song \"Winter Wonderland\" who do we pretend the snowman is?"
+                    },
+                    {
+                        "points":1600,
+                        "question":"Where is England",
+                        "answer": "Eggnog comes from this country"
+                    },
+                    {
+                        "points":2000,
+                        "question":"Who is Tom Hanks",
+                        "answer": "This hollywood actor plays 6 roles in \"The Polar Express\""
+                    }
+                ]
+            },
+            {
+                "category_name": "Santa Trivia",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"The Night Before Christmas",
+                        "answer": "Santa's tummy shook like a bowl full of jelly in this poem"
+                    },
+                    {
+                        "points":800,
+                        "question":"The UK",
+                        "answer": "the name Father Christmas comes from this country"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is Hungary",
+                        "answer": "St Nicholas is how you Santa in this Country"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is France",
+                        "answer": "Papa Noel is how you say Santa in this Country"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Coca Cola",
+                        "answer": "The corporation that created American Santa Claus"
+                    }
+                ]
+            },
+            {
+                "category_name": "Christmas Movies",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"Home Alone",
+                        "answer": "Kevin's parents abandon him in this Christmas movie"
+                    },
+                    {
+                        "points":800,
+                        "question":"A Christmas Story",
+                        "answer": "\"You'll Shoot Your Eye Out\" is from which movie"
+                    },
+                    {
+                        "points":1200,
+                        "question":"Jacob Marley",
+                        "answer": "The name of Scrooge's partner in A Christmas Carol"
+                    },
+                    {
+                        "points":1600,
+                        "question":"34th",
+                        "answer": "The Miracle on ___ Street, is based off a real Macey's Store"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is It's a Wonderful Life",
+                        "answer": "The movie that says \"Every time a bell rings, an angel gets its wings\""
+                    }
+                ]
+            },
+            {
+                "category_name": "Christmas Music",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"All I want for Christmas is You",
+                        "answer": "The name of Mariah Carey's 1994 Christmas song"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Mistletoe",
+                        "answer": "The name of Justin Biebers 2011 Christmas song"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is Last Christmas",
+                        "answer": "The name of Wham!'s 1984 Christmas song"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is Santa Tell Me",
+                        "answer": "The name of Ariana Grande's 2014 Christmas song"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Do They Know it's Christmas",
+                        "answer": "The name of the Band Aid 1984 Christmas song"
+                    }
+                ]
+            }
+        ],
+        "final_questions":"The name of the song that contains this lyric: \"The magic comes out when the night falls\"",
+        "final_answers":"Festival"
+    }
+]
