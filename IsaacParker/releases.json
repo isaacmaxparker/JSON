@@ -79,7 +79,7 @@
             {
                 "name":"Spotify",
                 "image":"spotify.png",
-                "url":""
+                "url":"https://open.spotify.com/album/2Dq1fIGObhKID39DZGOrNB"
             }, 
             {
                 "name":"Apple Music",
@@ -94,12 +94,7 @@
             {
                 "name":"Amazon Music",
                 "image":"amazon.png",
-                "url":""
-            },
-            {
-                "name":"iHeartRadio",
-                "image":"iheartRadio.png",
-                "url":""
+                "url":"https://www.amazon.com/gp/product/B09LVNNZXT"
             },
             {
                 "name":"More",

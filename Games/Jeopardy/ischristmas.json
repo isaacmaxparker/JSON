@@ -1,0 +1,340 @@
+[
+    {
+        "round_one":[
+            {
+                "category_name": "BYU Alumni",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"Who is Steve Young",
+                        "answer": "This NFL Hall of Fame QB graduated from BYU"
+                    },
+                    {
+                        "points":400,
+                        "question":"Who is Mitt Romney",
+                        "answer": "this 2012 Presidential Nominee graduated from BYU"
+                    },
+                    {
+                        "points":600,
+                        "question":"Who is Stephenie Meyer",
+                        "answer": "This author of the most iconic Vampire/Werewolf trilogy graduated from BYU"
+                    },
+                    {
+                        "points":800,
+                        "question":"Who is Jimmer Fredette",
+                        "answer": "This 2011 National men's basketball college player of the year graduated from BYU "
+                    },
+                    {
+                        "points":1000,
+                        "question":"Who is Jon Heder",
+                        "answer": "The 'Napolean Dynamite' titular actor graduated from BYU"
+                    }
+                ]
+            },
+            {
+                "category_name": "College Misc",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"Stone Cold Sober",
+                        "answer": "BYU topped the list as the most ____________ for 22 years"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is married",
+                        "answer": "Despite it's reputation, in 2010 only 56% of BYU's graduating class was ________"
+                    },
+                    {
+                        "points":600,
+                                                "question":"BYU, Utah Tech, SUU, Utah Utes, USU, Weber",
+                        "answer": "Utah has 6 D1 college football teams. Name 4 of them"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is the Riviera",
+                        "answer": "The name of the byu housing apartment complex in Provo that had the meth lab in 2014"
+                    },
+                    {
+                        "points":1000,
+                        "question":"Free Application for Federal Student Aid",
+                        "answer": "What FAFSA stands for"
+                    }
+                ]
+            },
+            {
+                "category_name": "Professors",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Anderson",
+                        "answer": "Two IS professors share this last name"
+                    },
+                    {
+                        "points":400,
+                        "question":"Who is Bednar",
+                        "answer": "The professor that allowed 'Elsa' to happen"
+                    },
+                    {
+                        "points":600,
+                        "question":"Who is Kettles",
+                        "answer": "The professor who let Tyler and Sam retake the final after they missed it"
+                    },
+                    {
+                        "points":800,
+                        "question":"Who is Dean",
+                        "answer": "The professor who taught Data Analyicts and got mad at Isaac when his laptop broke in class"
+                    },
+                    {
+                        "points":1000,
+                        "question":"Who is Owens",
+                        "answer": "The professor who taught ethics and still emails us for some reason"
+                    }
+                ]
+            },
+            {
+                "category_name": "Big Kid Jobs",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Halosight",
+                        "answer": "The company JOSH, TYLER, ASHLEIGH all work for"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is Health Catalyst",
+                        "answer": "The company SAM F works for"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is Qube",
+                        "answer": "The company SAM L works for"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Teather",
+                        "answer": "The name of the company ISAAC works for"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is Deloitte",
+                        "answer": "The name of the company MEGAN works for"
+                    }
+                ]
+            },
+            {
+                "category_name": "Our Graduation",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"Who is Isaac",
+                        "answer": "The name of the person who gave the opening prayer"
+                    },
+                    {
+                        "points":400,
+                        "question":"Who is Chelsea",
+                        "answer": "The name of our MISM classmate who gave a speech"
+                    },
+                    {
+                        "points":600,
+                        "question":"Who is Elder Gong",
+                        "answer": "The name of the apostle that spoke at our Commencement"
+                    },
+                    {
+                        "points":800,
+                        "question":"Who is President Nelson and Kevin Worthen",
+                        "answer": "The names of the two people who signed our degrees"
+                    },
+                    {
+                        "points":1000,
+                        "question":"Who is Professor Liddle",
+                        "answer": "The name of the professor who lead graduation"
+                    }
+                ]
+            },
+            {
+                "category_name": "DMP",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Django Mako Plus",
+                        "answer": "DMP stands for"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is indentation",
+                        "answer": "In python instead of {} ___ is used to determine scope"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is from, import",
+                        "answer": "The proper syntax for including a file is '____ package _____ function'"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is runserver",
+                        "answer": "The command run to start a DMP website is: python3 manage.py ________"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is settings.py",
+                        "answer": "The name of the file that hosts all of your settings in a DMP project"
+                    }
+                ]
+            }
+        ],
+        "round_two":[
+            {
+                "category_name": "Reason 4 the Season",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is Gabriel",
+                        "answer": "The name of the angel that told Mary she was pregnant"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Luke and Matthew",
+                        "answer": "The two gospels in the NT that tell the Nativity story"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is Nazareth",
+                        "answer": "The city Mary and Joseph lived in before Jesus was born"
+                    },
+                    {
+                        "points":1600,
+                        "question":"Who is David",
+                        "answer": "Bethlehem is known as the City of _____"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Egypt",
+                        "answer": "The country Mary, Joseph, and Jesus fled to from Bethlehem"
+                    }
+                ]
+            },
+            {
+                "category_name": "Misc Christmas",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is Mistletoe",
+                        "answer": "This parasite causes kisses at Christmastime"
+                    },
+                    {
+                        "points":800,
+                        "question":"Cupid",
+                        "answer": "Which of Santa's reindeer shares a name with another holiday mascot"
+                    },
+                    {
+                        "points":1200,
+                        "question":"Parson Brown / Circus Clown",
+                        "answer": "In the song \"Winter Wonderland\" who do we pretend the snowman is?"
+                    },
+                    {
+                        "points":1600,
+                        "question":"Where is England",
+                        "answer": "Eggnog comes from this country"
+                    },
+                    {
+                        "points":2000,
+                        "question":"Who is Tom Hanks",
+                        "answer": "This hollywood actor plays 6 roles in \"The Polar Express\""
+                    }
+                ]
+            },
+            {
+                "category_name": "Santa Trivia",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"The Night Before Christmas",
+                        "answer": "Santa's tummy shook like a bowl full of jelly in this poem"
+                    },
+                    {
+                        "points":800,
+                        "question":"The UK",
+                        "answer": "the name Father Christmas comes from this country"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is Hungary",
+                        "answer": "St Nicholas is how you Santa in this Country"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is France",
+                        "answer": "Papa Noel is how you say Santa in this Country"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Coca Cola",
+                        "answer": "The corporation that created American Santa Claus"
+                    }
+                ]
+            },
+            {
+                "category_name": "Christmas Movies",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"Home Alone",
+                        "answer": "Kevin's parents abandon him in this Christmas movie"
+                    },
+                    {
+                        "points":800,
+                        "question":"A Christmas Story",
+                        "answer": "\"You'll Shoot Your Eye Out\" is from which movie"
+                    },
+                    {
+                        "points":1200,
+                        "question":"Jacob Marley",
+                        "answer": "The name of Scrooge's partner in A Christmas Carol"
+                    },
+                    {
+                        "points":1600,
+                        "question":"34th",
+                        "answer": "The Miracle on ___ Street, is based off a real Macey's Store"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is It's a Wonderful Life",
+                        "answer": "The movie that says \"Every time a bell rings, an angel gets its wings\""
+                    }
+                ]
+            },
+            {
+                "category_name": "Christmas Music",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"All I want for Christmas is You",
+                        "answer": "The name of Mariah Carey's 1994 Christmas song"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Mistletoe",
+                        "answer": "The name of Justin Biebers 2011 Christmas song"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is Last Christmas",
+                        "answer": "The name of Wham!'s 1984 Christmas song"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is Santa Tell Me",
+                        "answer": "The name of Ariana Grande's 2014 Christmas song"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Do They Know it's Christmas",
+                        "answer": "The name of the Band Aid 1984 Christmas song"
+                    }
+                ]
+            }
+        ],
+        "final_questions":"Who is Frosty the Snowman",
+        "final_answers":"This iconic Christmas character made his on screen debut 1969 and had his titular song released in 1950"
+    }
+]
