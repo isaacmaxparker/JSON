@@ -115,5 +115,23 @@
         "color":"green",
         "type":"jeopardy",
         "status":"I"
+    },
+    {
+        "id":14,
+        "name":"Xmas Gayme Night",
+        "json_name":"xmasgaymenight",
+        "date_created":"12-16-2021",
+        "color":"red",
+        "type":"price",
+        "status":"I"
+    },
+    {
+        "id":15,
+        "name":"Gay Millionaire",
+        "json_name":"gaymillionaire",
+        "date_created":"12-16-2021",
+        "color":"green",
+        "type":"price",
+        "status":"I"
     }
 ]

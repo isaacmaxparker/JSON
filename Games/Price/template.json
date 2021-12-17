@@ -1,0 +1,128 @@
+[
+    {
+        "bid_item_price": 0,
+        "bid_item_name":"",
+        "bid_image_url": "",
+        "question_type": "matching",
+        "question": {
+            "text": "",
+            "options_split": 4,
+            "options": [
+                {
+                    "option_text": "",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "",
+                    "is_correct": true
+                },                {
+                    "option_text": "",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "",
+                    "is_correct": true
+                },                {
+                    "option_text": "",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "",
+                    "is_correct": true
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 0,
+        "bid_item_name":"",
+        "bid_image_url": "",
+        "question_type": "sorting",
+        "question": {
+            "text": "",
+            "options": [
+                {
+                    "option_label": "",
+                    "option_image": ""
+                },
+                {
+                    "option_label": "",
+                    "option_image": ""
+                },
+                {
+                    "option_label": "",
+                    "option_image": ""
+                },
+                {
+                    "option_label": "",
+                    "option_image": ""
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 0,
+        "bid_image_url": "",
+        "bid_item_name":"",
+        "question_type": "audiomc",
+        "question": {
+            "text": "",
+            "image": "",
+            "audio":"",
+            "options": [
+                {
+                    "answer_label": "",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "",
+                    "is_correct": true
+                },
+                {
+                    "answer_label": "",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "",
+                    "is_correct": false
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 0,
+        "bid_item_name":"",
+        "bid_image_url": "",
+        "question_type": "imagemc",
+        "question": {
+            "text": "",
+            "image": "",
+            "options": [
+                {
+                    "answer_label": "",
+                    "is_correct": true
+                },
+                {
+                    "answer_label": "",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "",
+                    "is_correct": false
+                }
+            ]
+        }
+    }
+]

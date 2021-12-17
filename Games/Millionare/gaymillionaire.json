@@ -1,0 +1,522 @@
+[
+    {
+        "question_text":"This is a demo question",
+        "answers":{
+            "answer_1":"First Answer",
+            "answer_2":"Second Answer",
+            "answer_3":"Third Answer",
+            "answer_4":"Fourth Answer",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"What is not the name of a gay bar in Utah",
+        "answers":{
+            "answer_1":"Sun Trapp",
+            "answer_2":"Tryangles",
+            "answer_3":"Why Kiki",
+            "answer_4":"Lake Effect",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Michael Jackson and ____ are the only artists with 5 #1 singles off one album",
+        "answers":{
+            "answer_1":"Britney Spears",
+            "answer_2":"Katy Perry",
+            "answer_3":"Lady Gaga",
+            "answer_4":"Ariana Grande",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"What is not a name of male underwear",
+        "answers":{
+            "answer_1":"Thong",
+            "answer_2":"Jockstrap",
+            "answer_3":"Bikini Cut",
+            "answer_4":"Boy Shorts",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"How fast do sperm swim?",
+        "answers":{
+            "answer_1":"1/16\" per hour",
+            "answer_2":"1/8\" per hour",
+            "answer_3":"1/4\" per hour",
+            "answer_4":"1/2\" per hour",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"What is not the name of a gay bar in Utah",
+        "answers":{
+            "answer_1":"Sun Trapp",
+            "answer_2":"Tryangles",
+            "answer_3":"Why Kiki",
+            "answer_4":"Lake Effect",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"What is Victor's Best friend's name in Love, Victor",
+        "answers":{
+            "answer_1":"Tyson",
+            "answer_2":"Benji",
+            "answer_3":"Felix",
+            "answer_4":"Max",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which famous latin singer is gay?",
+        "answers":{
+            "answer_1":"Ricky Martin",
+            "answer_2":"Enrique Igliesas",
+            "answer_3":"Maluma",
+            "answer_4":"J Balvin",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which TV Character has to have sex every 7 years?",
+        "answers":{
+            "answer_1":"Doctor Who",
+            "answer_2":"Spock",
+            "answer_3":"Darth Vader",
+            "answer_4":"Boba Fett",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"What is Scooby doo's Full Name?",
+        "answers":{
+            "answer_1":"Robert Doo",
+            "answer_2":"Scoobert Doo",
+            "answer_3":"Robert Doobert",
+            "answer_4":"Scoobert Doobert",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"In 2002 what were most gays?",
+        "answers":{
+            "answer_1":"Top",
+            "answer_2":"Bottom",
+            "answer_3":"Versatile",
+            "answer_4":"Vers Bottom",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which Taylor switf album has the most #1 singles?",
+        "answers":{
+            "answer_1":"Fearless",
+            "answer_2":"Red",
+            "answer_3":"1989",
+            "answer_4":"Reputation",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which famous gay was caught trying to convert straight dudes",
+        "answers":{
+            "answer_1":"Lil Nas X",
+            "answer_2":"Jefree Star",
+            "answer_3":"James Charles",
+            "answer_4":"Troye Sivan",
+            "right_answer":3
+        }
+    },    
+    {
+        "question_text":"Which role was actually played by a gay guy?",
+        "answers":{
+            "answer_1":"Mitchell - Modern Family",
+            "answer_2":"Simon - Love Simon",
+            "answer_3":"Victor - Love Victor",
+            "answer_4":"Ian - Shameless",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which gay celeb is not a confirmed bottom?",
+        "answers":{
+            "answer_1":"Lil Nas X",
+            "answer_2":"Troye Sivan",
+            "answer_3":"Tyler Posey",
+            "answer_4":"Colton Underwood",
+            "right_answer":4
+        }
+    },    
+    {
+        "question_text":"Which country according to Grindr has the most tops?",
+        "answers":{
+            "answer_1":"Morocco",
+            "answer_2":"USA",
+            "answer_3":"France",
+            "answer_4":"Canada",
+            "right_answer":1
+        }
+    },    
+    {
+        "question_text":"Which country according to Grindr has the most bottoms?",
+        "answers":{
+            "answer_1":"Thailand",
+            "answer_2":"Vietnam",
+            "answer_3":"USA",
+            "answer_4":"Russia",
+            "right_answer":2
+        }
+    },    
+    {
+        "question_text":"Which country according to Grindr has the most verses?",
+        "answers":{
+            "answer_1":"Venezuala",
+            "answer_2":"Brazil",
+            "answer_3":"USA",
+            "answer_4":"England",
+            "right_answer":1
+        }
+    },    
+    {
+        "question_text":"Which county has the most Grindr users?",
+        "answers":{
+            "answer_1":"Mexico",
+            "answer_2":"India",
+            "answer_3":"USA",
+            "answer_4":"England",
+            "right_answer":3
+        }
+    },    
+    {
+        "question_text":"Which song was featured the most on Grindr profiles?",
+        "answers":{
+            "answer_1":"7 Rings",
+            "answer_2":"WAP",
+            "answer_3":"Rain on Me",
+            "answer_4":"Blinding Lights",
+            "right_answer":3
+        }
+    },    
+    {
+        "question_text":"How many taps were sent on Grindr last year?",
+        "answers":{
+            "answer_1":"5-6 billion",
+            "answer_2":"6-7 billion",
+            "answer_3":"7-8 billion",
+            "answer_4":"8-9 billion",
+            "right_answer":3
+        }
+    },    
+    {
+        "question_text":"Which Celebs has come out as straight?",
+        "answers":{
+            "answer_1":"Shawn Mendes",
+            "answer_2":"Jake Gylenhaal",
+            "answer_3":"Eric Trump",
+            "answer_4":"All of the above",
+            "right_answer":4
+        }
+    },    
+    {
+        "question_text":"Which pop diva is not an actress?",
+        "answers":{
+            "answer_1":"Ariana Grande",
+            "answer_2":"Lady Gaga",
+            "answer_3":"Britney Spears",
+            "answer_4":"Kesha",
+            "right_answer":4
+        }
+    },    
+    {
+        "question_text":"In 'Tik Tok' what does Ke$ha brush her teeth with?",
+        "answers":{
+            "answer_1":"Whiskey",
+            "answer_2":"Rum",
+            "answer_3":"Vodka",
+            "answer_4":"Water",
+            "right_answer":1
+        }
+    },    
+    {
+        "question_text":"Who did Ariana Grande say has a big dick?",
+        "answers":{
+            "answer_1":"Mac Miller",
+            "answer_2":"Big Sean",
+            "answer_3":"Pete Davidson",
+            "answer_4":"Ricky",
+            "right_answer":3
+        }
+    },    
+    {
+        "question_text":"Which TV Show/Movie doesn't have a gay kiss in it?",
+        "answers":{
+            "answer_1":"Eternals",
+            "answer_2":"The Office",
+            "answer_3":"Glee",
+            "answer_4":"Ghost",
+            "right_answer":4
+        }
+    },    
+    {
+        "question_text":"In Kimmy Schmidt, which movie turns you gay if you watch it in a thunderstorm?",
+        "answers":{
+            "answer_1":"Brokeback Mountain",
+            "answer_2":"Magic Mike",
+            "answer_3":"Rent the Musical",
+            "answer_4":"Call Me By Your Name",
+            "right_answer":2
+        }
+    },    
+    {
+        "question_text":"Which Gay celeb does not appear in 'You Need To Calm Down'",
+        "answers":{
+            "answer_1":"Mitch from Pentatonix",
+            "answer_2":"Adam Lambert",
+            "answer_3":"RuPaul",
+            "answer_4":"All 5 Queer Eye Guys",
+            "right_answer":1
+        }
+    },    
+    {
+        "question_text":"Which league does not have an openly gay male athlete?",
+        "answers":{
+            "answer_1":"NFL",
+            "answer_2":"NBA",
+            "answer_3":"NHL",
+            "answer_4":"USL",
+            "right_answer":2
+        }
+    },    
+    {
+        "question_text":"What year was gay marriage legalized",
+        "answers":{
+            "answer_1":"2013",
+            "answer_2":"2014",
+            "answer_3":"2015",
+            "answer_4":"2016",
+            "right_answer":3
+        }
+    },    
+    {
+        "question_text":"What year were the Stonewall riots?",
+        "answers":{
+            "answer_1":"1968",
+            "answer_2":"1969",
+            "answer_3":"1970",
+            "answer_4":"1971",
+            "right_answer":2
+        }
+    },    
+    {
+        "question_text":"What does PrEP stand for?",
+        "answers":{
+            "answer_1":"Pre-Exposure Prevention",
+            "answer_2":"Preventative Exposure Prophylactic",
+            "answer_3":"Preventative Exposure Prophylaxis",
+            "answer_4":"Pre-Exposure Prophylaxis",
+            "right_answer":4
+        }
+    },    
+    {
+        "question_text":"What is the sexiest number",
+        "answers":{
+            "answer_1":"80085",
+            "answer_2":"455",
+            "answer_3":"69",
+            "answer_4":"PEN15",
+            "right_answer":3
+        }
+    },    
+    {
+        "question_text":"What was the first slang for penis",
+        "answers":{
+            "answer_1":"Dick",
+            "answer_2":"Cock",
+            "answer_3":"Pecker",
+            "answer_4":"Ballocks",
+            "right_answer":4
+        }
+    },    
+    {
+        "question_text":"What is the worlds biggest penis recorded",
+        "answers":{
+            "answer_1":"11.5 inches",
+            "answer_2":"12.5 inches",
+            "answer_3":"13.5 inches",
+            "answer_4":"14.5 inches",
+            "right_answer":3
+        }
+    },    
+    {
+        "question_text":"What is the worlds smallest penis recorded",
+        "answers":{
+            "answer_1":"0.6 inches",
+            "answer_2":"1.6 inches",
+            "answer_3":"2.6 inches",
+            "answer_4":"3.6 inches",
+            "right_answer":2
+        }
+    },    
+    {
+        "question_text":"What is the average US penis size (2013)",
+        "answers":{
+            "answer_1":"4.53 inches",
+            "answer_2":"5.16 inches",
+            "answer_3":"5.89 inches",
+            "answer_4":"6.02 inches",
+            "right_answer":2
+        }
+    },    
+    {
+        "question_text":"Which US city has the most gays",
+        "answers":{
+            "answer_1":"New York",
+            "answer_2":"San Francisco",
+            "answer_3":"LA",
+            "answer_4":"Provo",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Salt lake city is the ___ most % gay city in America",
+        "answers":{
+            "answer_1":"7th",
+            "answer_2":"14th",
+            "answer_3":"21st",
+            "answer_4":"28th",
+            "right_answer":1
+        }
+    },    
+    {
+        "question_text":"Which state has the city with the least gays?",
+        "answers":{
+            "answer_1":"Texas",
+            "answer_2":"Florida",
+            "answer_3":"Alabama",
+            "answer_4":"New Hampshire",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which movie has the quote \"God created the Remington bolt-action rifle, so that Man could fight the dinosaurs. And the homosexuals.\"",
+        "answers":{
+            "answer_1":"Mean Girls",
+            "answer_2":"Legally Blonde",
+            "answer_3":"Duck Dynasty",
+            "answer_4":"Hot Rod",
+            "right_answer":1
+        }
+    },    
+    {
+        "question_text":"Which TV show has a gay character in the main cast?",
+        "answers":{
+            "answer_1":"Parks & Rec",
+            "answer_2":"Friends",
+            "answer_3":"Seinfeld",
+            "answer_4":"None of The Above",
+            "right_answer":1
+        }
+    },    
+    {
+        "question_text":"When is National Coming out day?",
+        "answers":{
+            "answer_1":"June 15th",
+            "answer_2":"September 18th",
+            "answer_3":"October 11th",
+            "answer_4":"November 4th",
+            "right_answer":3
+        }
+    },    
+    {
+        "question_text":"Which month was the infamous BYU Honor Code Flip Flop?",
+        "answers":{
+            "answer_1":"Feburary 2020",
+            "answer_2":"March 2020",
+            "answer_3":"Febrary 2019",
+            "answer_4":"March 2019",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which Utah born singer is not LGBT?",
+        "answers":{
+            "answer_1":"David Archuleta",
+            "answer_2":"Donny Osmond",
+            "answer_3":"Isaac Parker",
+            "answer_4":"None of the above",
+            "right_answer":2
+        }
+    },    
+    {
+        "question_text":"When did the word 'gay' switch from happy to homo?",
+        "answers":{
+            "answer_1":"1900",
+            "answer_2":"1920",
+            "answer_3":"1940",
+            "answer_4":"1960",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"When is not a medically proven common time for people to get erections?",
+        "answers":{
+            "answer_1":"Birth",
+            "answer_2":"Death",
+            "answer_3":"Sleeping",
+            "answer_4":"Sneezing",
+            "right_answer":4
+        }
+    },    
+    {
+        "question_text":"What is the most common sex position that breaks a penis?",
+        "answers":{
+            "answer_1":"Man Riding",
+            "answer_2":"Woman Riding",
+            "answer_3":"Man Doggy",
+            "answer_4":"Woman Doggy",
+            "right_answer":2
+        }
+    },    
+    {
+        "question_text":"What angle do most erect penises point at?",
+        "answers":{
+            "answer_1":"30* - 60*",
+            "answer_2":"60* - 90*",
+            "answer_3":"90* - 120*",
+            "answer_4":"120* - 180*",
+            "right_answer":2
+        }
+    },    
+    {
+        "question_text":"Which cereal was invented to curb masturbation?",
+        "answers":{
+            "answer_1":"Frosted Flakes",
+            "answer_2":"Corn Flakes",
+            "answer_3":"Corn Pops",
+            "answer_4":"Wheaties",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which is the most powerful aphrodisiac?",
+        "answers":{
+            "answer_1":"Pomegranate",
+            "answer_2":"Pineapple",
+            "answer_3":"Plum",
+            "answer_4":"Pizza",
+            "right_answer":1
+        }
+    },    
+    {
+        "question_text":"What is the color of Isaac's gorgeous eyes?",
+        "answers":{
+            "answer_1":"Blue",
+            "answer_2":"Green",
+            "answer_3":"Brown",
+            "answer_4":"Hazel",
+            "right_answer":4
+        }
+    }
+]
