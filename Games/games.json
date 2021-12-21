@@ -27,7 +27,7 @@
         "color":"red",
         "type":"jeopardy",
         "status":"T",
-        "tags":[]
+        "tags":["Holiday"]
     },
     {
         "id":4,
@@ -97,7 +97,7 @@
         "color":"orange",
         "type":"famFued",
         "status":"G",
-        "tags":[]
+        "tags":["Holiday"]
     },
     {
         "id":11,
@@ -107,7 +107,7 @@
         "color":"green",
         "type":"jeopardy",
         "status":"G",
-        "tags":[]
+        "tags":["Holiday"]
     },
     {
         "id":12,
@@ -157,6 +157,6 @@
         "color":"green",
         "type":"millionare",
         "status":"A",  
-        "tags": ["Christmas"]
+        "tags": ["Christmas","Holiday"]
     }
 ]
