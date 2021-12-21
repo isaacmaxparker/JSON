@@ -6,7 +6,7 @@
         "question_type": "imagemc",
         "question": {
             "text": "What is the average snowfall in Utah?",
-            "image": "",
+            "image": "https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2020/12/08/snowfall-afp-1-924807-1607413405.jpg?itok=27cyO3GY",
             "options": [
                 {
                     "answer_label": "53.6 in",
@@ -80,11 +80,11 @@
             "options": [
                 {
                     "option_label": "6 inches",
-                    "option_image": "https://m.media-amazon.com/images/I/713OIFcw7YL._AC_UL480_FMwebp_QL65_.jpg"
+                    "option_image": "https://m.media-amazon.com/images/I/71OckNB78nL._AC_UL480_FMwebp_QL65_.jpg"
                 },
                 {
                     "option_label": "7.3 Inches",
-                    "option_image": "https://m.media-amazon.com/images/I/61oi+nlfQJL._AC_UL480_FMwebp_QL65_.jpg"
+                    "option_image": "https://m.media-amazon.com/images/I/51czYBdKztL._AC_UL480_FMwebp_QL65_.jpg"
                 },
                 {
                     "option_label": "8 inches",
@@ -330,7 +330,7 @@
         "bid_image_url": "https://m.media-amazon.com/images/I/61e5M8anIcL._AC_UL480_FMwebp_QL65_.jpg",
         "question_type": "matching",
         "question": {
-            "text": "In his song, what is named as Frosty's decorations? (5)",
+            "text": "In his song, what is named as Frosty's decorations? (4)",
             "options_split": 4,
             "options": [
                 {

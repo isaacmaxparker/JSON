@@ -51,7 +51,7 @@
         "date_created":"05-09-2021",
         "color":"pink",
         "type":"jeopardy",
-        "status":"A"
+        "status":"F"
     },
     {
         "id":7,
@@ -87,11 +87,11 @@
         "date_created":"11-19-2021",
         "color":"orange",
         "type":"famFued",
-        "status":"A"
+        "status":"G"
     },
     {
         "id":11,
-        "name":"Thanksgayving",
+        "name":"Thanks-gay-ving",
         "json_name":"thanksgayving",
         "date_created":"11-19-2021",
         "color":"green",
@@ -118,12 +118,12 @@
     },
     {
         "id":14,
-        "name":"Gayme Night",
+        "name":"Gay Xmas",
         "json_name":"xmasgayprice",
         "date_created":"12-15-2021",
         "color":"red",
         "type":"price",
-        "status":"I"
+        "status":"G"
     },
     {
         "id":15,
@@ -132,6 +132,6 @@
         "date_created":"12-16-2021",
         "color":"green",
         "type":"millionare",
-        "status":"I"
+        "status":"G"
     }
 ]
