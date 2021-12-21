@@ -6,7 +6,8 @@
         "date_created":"12-28-2020",
         "color":"purple",
         "type":"millionare",
-        "status":"A"
+        "status":"A",
+        "tags":[]
     },
     {
         "id":2,
@@ -15,7 +16,8 @@
         "date_created":"12-27-2020",
         "color":"blue",
         "type":"famFued",
-        "status":"A"
+        "status":"A",
+        "tags":[]
     },
     {
         "id":3,
@@ -24,7 +26,8 @@
         "date_created":"02-16-2021",
         "color":"red",
         "type":"jeopardy",
-        "status":"T"
+        "status":"T",
+        "tags":[]
     },
     {
         "id":4,
@@ -33,7 +36,8 @@
         "date_created":"02-24-2021",
         "color":"green",
         "type":"jeopardy",
-        "status":"F"
+        "status":"F",
+        "tags":[]
     },
     {
         "id":5,
@@ -42,7 +46,8 @@
         "date_created":"04-29-2021",
         "color":"red",
         "type":"jeopardy",
-        "status":"A"
+        "status":"A",
+        "tags":[]
     },
     {
         "id":6,
@@ -51,7 +56,8 @@
         "date_created":"05-09-2021",
         "color":"pink",
         "type":"jeopardy",
-        "status":"F"
+        "status":"F",
+        "tags":[]
     },
     {
         "id":7,
@@ -60,7 +66,8 @@
         "date_created":"06-18-2021",
         "color":"blue",
         "type":"famFued",
-        "status":"A"
+        "status":"A",
+        "tags":[]
     },
     {
         "id":8,
@@ -69,7 +76,8 @@
         "date_created":"07-20-2021",
         "color":"teal",
         "type":"price",
-        "status":"A"
+        "status":"A",
+        "tags":[]
     },
     {
         "id":9,
@@ -78,7 +86,8 @@
         "date_created":"10-03-2021",
         "color":"orange",
         "type":"price",
-        "status":"A"
+        "status":"A",
+        "tags":[]
     },
     {
         "id":10,
@@ -87,7 +96,8 @@
         "date_created":"11-19-2021",
         "color":"orange",
         "type":"famFued",
-        "status":"G"
+        "status":"G",
+        "tags":[]
     },
     {
         "id":11,
@@ -96,7 +106,8 @@
         "date_created":"11-19-2021",
         "color":"green",
         "type":"jeopardy",
-        "status":"G"
+        "status":"G",
+        "tags":[]
     },
     {
         "id":12,
@@ -105,7 +116,8 @@
         "date_created":"12-03-2021",
         "color":"blue",
         "type":"jeopardy",
-        "status":"A"
+        "status":"A",
+        "tags": "Christmas"
     },
     {
         "id":13,
@@ -114,7 +126,8 @@
         "date_created":"12-09-2021",
         "color":"green",
         "type":"jeopardy",
-        "status":"I"
+        "status":"I",
+        "tags": ["Christmas"]
     },
     {
         "id":14,
@@ -123,7 +136,8 @@
         "date_created":"12-15-2021",
         "color":"red",
         "type":"price",
-        "status":"G"
+        "status":"G",
+        "tags": ["Christmas"]
     },
     {
         "id":15,
@@ -132,7 +146,8 @@
         "date_created":"12-16-2021",
         "color":"green",
         "type":"millionare",
-        "status":"G"
+        "status":"G",
+        "tags":[]
     },
     {
         "id":16,
@@ -141,6 +156,7 @@
         "date_created":"12-21-2021",
         "color":"green",
         "type":"millionare",
-        "status":"A"  
+        "status":"A",  
+        "tags": ["Christmas"]
     }
 ]
