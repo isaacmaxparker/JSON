@@ -155,7 +155,7 @@
         "json_name":"christmas_wheel",
         "date_created":"12-21-2021",
         "color":"green",
-        "type":"millionare",
+        "type":"wheel",
         "status":"A",  
         "tags": ["Christmas","Holiday"]
     }
