@@ -7,7 +7,7 @@
         "color":"purple",
         "type":"millionare",
         "status":"A",
-        "tags":[]
+        "tags":["Misc"]
     },
     {
         "id":2,
@@ -17,7 +17,7 @@
         "color":"blue",
         "type":"famFued",
         "status":"A",
-        "tags":[]
+        "tags":["Misc"]
     },
     {
         "id":3,
