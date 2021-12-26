@@ -1,17 +1,50 @@
 [
     {
-        "text":"This is a test question"
+        "text":"Watch Me",
+        "category":"Family Christmas"
     },
     {
-        "text":"This is a second question"
+        "text":"Jingle All The Way",
+        "category":"Christmas Carols"
     },
     {
-        "text":"This is a third question"
+        "text":"I Want A Hippopotamus For Christmas",
+        "category":"Christmas Songs"
     },
     {
-        "text":"This is a fourth question"
+        "text":"You'll Shoot Your Eye Out",
+        "category":"Christmas Movie Phrase"
     },
     {
-        "text":"This is a Final question"
+        "text":"On Dasher, On Dancer, On Prancer, On Vixen",
+        "category":"Christmas Poem"
+    },
+    {
+        "text":"A Charlie Brown Christmas",
+        "category":"Christmas Specials"
+    },
+    {
+        "text":"For unto you is born this day",
+        "category":"Christmas Scriptures"
+    },
+    {
+        "text":"Frosty The Snowman",
+        "category":"Christmas Characters"
+    },
+    {
+        "text":"Santa's Little Helpers",
+        "category":"Christmas Figures"
+    },
+    {
+        "text":"Wrapping Presents",
+        "category":"Christmas Traditions"
+    },
+    {
+        "text":"Ghost Of Christmas Past",
+        "category":"Christmas Movie Characters"
+    },
+    {
+        "text":"Hermie The Elf",
+        "category":"Christmas Movie Characters"
     }
 ]
