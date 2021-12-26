@@ -184,6 +184,36 @@
         ],
         "round_two":[
             {
+                "category_name": "Reason 4 the Season",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is Gabriel",
+                        "answer": "The name of the angel that told Mary she was pregnant"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Luke and Matthew",
+                        "answer": "The two gospels in the NT that tell the Nativity story"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is Nazareth",
+                        "answer": "The city Mary and Joseph lived in before Jesus was born"
+                    },
+                    {
+                        "points":1600,
+                        "question":"Who is David",
+                        "answer": "Bethlehem is known as the City of _____"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Egypt",
+                        "answer": "The country Mary, Joseph, and Jesus fled to from Bethlehem"
+                    }
+                ]
+            },
+            {
                 "category_name": "Misc Christmas",
                 "questions": [
                     {
