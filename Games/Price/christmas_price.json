@@ -1,0 +1,286 @@
+[
+    {
+        "bid_item_price": 300,
+        "bid_item_name":"7.5 Foot Flocked Pre-Lit Christmas Tree (Amazon)",
+        "bid_image_url": "https://m.media-amazon.com/images/I/71wGDor3qKL._AC_UL480_FMwebp_QL65_.jpg",
+        "question_type": "imagemc",
+        "question": {
+            "text": "What is the average snowfall in Utah?",
+            "image": "https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2020/12/08/snowfall-afp-1-924807-1607413405.jpg?itok=27cyO3GY",
+            "options": [
+                {
+                    "answer_label": "53.6 in",
+                    "is_correct": true
+                },
+                {
+                    "answer_label": "62.4 in",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "87.9 in",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "99.99 in",
+                    "is_correct": false
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 50,
+        "bid_item_name":"2pk 17oz Starbucks Peppermint Mocha Ground Coffee (Amazon)",
+        "bid_image_url": "https://m.media-amazon.com/images/I/81MLghR-GhL._AC_SS260_.jpg",
+        "question_type": "matching",
+        "question": {
+            "text": "Which are real Starbuck holiday flavors? (7)",
+            "options_split": 4,
+            "options": [
+                {
+                    "option_text": "Peppermint Mocha",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Toasted White Chocolate Mocha",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Caramel Brulée Latte",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Sugar Cookie Almondmilk Latte",
+                    "is_correct": true
+                },                
+                {
+                    "option_text": "Gingerbread Latte",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Irish Cream Cold Brew",
+                    "is_correct": true
+                },                {
+                    "option_text": "Chestnut Praline Warm Brew",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Santa Claus Frappuccino ",
+                    "is_correct": true
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 150,
+        "bid_item_name":"4 Ft Reindeer & Sleigh Lawn Decoration (Amazon)",
+        "bid_image_url": "https://m.media-amazon.com/images/I/8128lQASAKL._AC_UL480_FMwebp_QL65_.jpg",
+        "question_type": "matching",
+        "question": {
+            "text": "Which of these Christmas songs says the word 'Gay'? (2)",
+            "options_split": 4,
+            "options": [
+                {
+                    "option_text": "The Christmas Song",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "We Wish You a Merry Christmas",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Have Yourself a Merry Little Christmas",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Deck the Halls",
+                    "is_correct": true
+                },                
+                {
+                    "option_text": "White Christmas",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Silver Bells",
+                    "is_correct": false
+                },                
+                {
+                    "option_text": "It's beginning to look a lot like Christmas",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Winter Wonderland",
+                    "is_correct": false
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 120,
+        "bid_item_name":"MrChristmas Musical World's Fair Grand Ferris Wheel (Amazon)",
+        "bid_image_url": "https://m.media-amazon.com/images/I/91nVgK8kWXL._AC_UL480_FMwebp_QL65_.jpg",
+        "question_type": "sorting",
+        "question": {
+            "text": "Sort the scenes in Isaac Parker's new Christmas video 'Be With You' in order of appearance",
+            "options": [
+                {
+                    "option_label": "1st Verse",
+                    "option_image": "https://joyfoodsunshine.com/wp-content/uploads/2019/07/best-cut-out-sugar-cookies-recipe-1.jpg"
+                },
+                {
+                    "option_label": "1st Chorus",
+                    "option_image": "https://www.wilton.com/dw/image/v2/AAWA_PRD/on/demandware.static/-/Sites-wilton-project-master/default/dwdf046590/images/project/WLPROJ-9331/2104-6864_WMPAMeTrFeHa_44754-05.jpg?sw=800&sh=800"
+                },
+                {
+                    "option_label": "Bridge",
+                    "option_image": "https://www.uofowintergames.com/wp-content/uploads/2021/01/Screen-Shot-2021-01-06-at-11.39.53-AM.png"
+                },
+                {
+                    "option_label": "Final Chorus",
+                    "option_image": "https://i.pinimg.com/originals/e2/77/aa/e277aa2d0f10dd08063353a4d28ebab7.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 70,
+        "bid_item_name":"Hallmark Keepsake Ornament - Holly Jolly Rudolph (amazon)",
+        "bid_image_url": "https://m.media-amazon.com/images/I/71stXpGxEQL._AC_UY327_FMwebp_QL65_.jpg",
+        "question_type": "sorting",
+        "question": {
+            "text": "Match the Ariana Grande Christmas Release to the year it was released",
+            "options": [
+                {
+                    "option_label": "2013",
+                    "option_image": "https://upload.wikimedia.org/wikipedia/en/b/b3/Ariana_Grande_%E2%80%93_Christmas_Kisses.png"
+                },
+                {
+                    "option_label": "2014",
+                    "option_image": "https://upload.wikimedia.org/wikipedia/en/c/c0/Ariana_Grande_-_Santa_Tell_Me.png"
+                },
+                {
+                    "option_label": "2015",
+                    "option_image": "https://upload.wikimedia.org/wikipedia/en/0/06/Christmas_and_Chill.jpg"
+                },
+                {
+                    "option_label": "2021",
+                    "option_image": "https://upload.wikimedia.org/wikipedia/en/1/13/It_Was_A..._%28Masked_Christmas%29.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 15,
+        "bid_image_url": "https://m.media-amazon.com/images/I/81rvQw2C7ML._AC_UY327_FMwebp_QL65_.jpg",
+        "bid_item_name":"The Meaning of Christmas - 5 DVD set (Amazon)",
+        "question_type": "audiomc",
+        "question": {
+            "text": "This line is from which iconic Christmas Movie?",
+            "image": "https://s.studiobinder.com/wp-content/uploads/2020/12/30-Best-Christmas-Movies-of-All-Time-A-Yuletide-Playlist-StudioBinder.jpeg",
+            "audio":"homealone",
+            "options": [
+                {
+                    "answer_label": "A Christmas Story",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "Die Hard",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "Home Alone",
+                    "is_correct": true
+                },
+                {
+                    "answer_label": "Christmas with the Cranks",
+                    "is_correct": false
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 31,
+        "bid_item_name":"50 pack Indoor Snowballs (Amazon)",
+        "bid_image_url": "https://m.media-amazon.com/images/I/61e5M8anIcL._AC_UL480_FMwebp_QL65_.jpg",
+        "question_type": "matching",
+        "question": {
+            "text": "In his song, what is named as Frosty's decorations? (4)",
+            "options_split": 4,
+            "options": [
+                {
+                    "option_text": "Corncob pipe",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Carrot",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Scarf",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Broomstick",
+                    "is_correct": true
+                },                {
+                    "option_text": "Coal",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Bowler Hat",
+                    "is_correct": false
+                },                {
+                    "option_text": "Candy",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Button",
+                    "is_correct": true
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 15,
+        "bid_item_name":"Christmas Elf Mens Velvet Boxers",
+        "bid_image_url": "https://m.media-amazon.com/images/I/61d3Ia01H8L._AC_SY135_.jpg",
+        "question_type": "matching",
+        "question": {
+            "text": " What are things asked for in the song 'Santa Baby'? (4)",
+            "options_split": 4,
+            "options": [
+                {
+                    "option_text": "Sex",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Tiffany's decor",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Cash",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Checks",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Bentley",
+                    "is_correct": false
+                },                
+                {
+                    "option_text": "A Ring",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "A ring on the phone",
+                    "is_correct": false
+                },                
+                {
+                    "option_text": "Deed to a Platinum Mine",
+                    "is_correct": true
+                }
+            ]
+        }
+    }
+]
