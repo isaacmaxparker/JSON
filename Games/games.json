@@ -168,5 +168,15 @@
         "type":"wheel",
         "status":"A",  
         "tags": ["Misc"]
+    },
+    {
+        "id":18,
+        "name":"Trivia: Vol 1",
+        "json_name":"millionairetrivia_one",
+        "date_created":"12-28-2021",
+        "color":"orange",
+        "type":"millionare",
+        "status":"A",
+        "tags":["Misc"]
     }
 ]
