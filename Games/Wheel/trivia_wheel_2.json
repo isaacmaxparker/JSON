@@ -1,0 +1,51 @@
+[
+    {
+        "text":"Demo Question",
+        "category":"Demo Category"
+    },
+    {
+        "text":"What Doesn't kill you makes you stronger",
+        "category":"Phrases"
+    },
+    {
+        "text":"If I Were A Rich Man",
+        "category":"Musicals"
+    },
+    {
+        "text":"Mary, Queen of Scots",
+        "category":"Historical Figures"
+    },
+    {
+        "text":"Golden State Warriors",
+        "category":"Sports Teams"
+    },
+    {
+        "text":"Battle of Bull Run",
+        "category":"Historical Events"
+    },
+    {
+        "text":"Hey Hey, You You, I Don't Like Your Girlfriend",
+        "category":"2000s Song Lyrics"
+    },
+
+    {
+        "text":"To Be Or not to be, that is the question",
+        "category":"Historical Phrases"
+    },
+    {
+        "text":"Wherever I Go, I'll Keep You With Me",
+        "category":"Isaac Song Lyrics"
+    },
+    {
+        "text":"Offensive Holding, Ten Yard Penalty",
+        "category":"American Football"
+    },
+    {
+        "text":"Buenos Aires, Argentina",
+        "category":"Geography"
+    },
+    {
+        "text":"Super trouper lights are gonna find me",
+        "category":"80s song lyrics"
+    }
+]
