@@ -1,0 +1,642 @@
+[
+    {
+        "question_text":"This is a demo question",
+        "answers":{
+            "answer_1":"First Answer",
+            "answer_2":"Second Answer",
+            "answer_3":"Third Answer",
+            "answer_4":"Fourth Answer",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which artist blew up with his song 'Gangnam Style'?",
+        "answers":{
+            "answer_1":"PSY",
+            "answer_2":"JYP",
+            "answer_3":"KSI",
+            "answer_4":"None of the above",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Where is the coldest place on earth located?",
+        "answers":{
+            "answer_1":"Antarctica",
+            "answer_2":"Canada",
+            "answer_3":"Russia",
+            "answer_4":"Netherlands",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"What does PSI stand for?",
+        "answers":{
+            "answer_1":"Pounds Per Square Inch",
+            "answer_2":"Pound-Force Per Square Inch",
+            "answer_3":"Pressure Per Square Inch",
+            "answer_4":"Pressure-Force Per Square Inch",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which 80s song was sampled by the Black Eyed Peas in 2010",
+        "answers":{
+            "answer_1":"Total Eclipse of the Heart",
+            "answer_2":"(I've Had) The time of My Life",
+            "answer_3":"Super Trouper",
+            "answer_4":"I Love Rock N Roll",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Who was the first NBA player to test positive for Covid-19",
+        "answers":{
+            "answer_1":"Kevin Durrant",
+            "answer_2":"Kyrie Irving",
+            "answer_3":"Lebron James",
+            "answer_4":"Rudy Gobert",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which is not a real Trolli candy?",
+        "answers":{
+            "answer_1":"Gummy Sharks",
+            "answer_2":"Gummy Llamas",
+            "answer_3":"Gummy Fish",
+            "answer_4":"Gummy Eggs",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"0* Longitude, 0* Latitude is nearest to which continent?",
+        "answers":{
+            "answer_1":"Europe",
+            "answer_2":"Asia",
+            "answer_3":"Africa",
+            "answer_4":"South America",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which boy band singer became famous for his Ramen noodle hair in the early 2000s?",
+        "answers":{
+            "answer_1":"Niall Horan",
+            "answer_2":"Lance Bass",
+            "answer_3":"Harry Styles",
+            "answer_4":"Justin Timberlake",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which city hosts the marathon that had the bombing in 2013?",
+        "answers":{
+            "answer_1":"Boston",
+            "answer_2":"New York",
+            "answer_3":"San Francisco",
+            "answer_4":"Los Angeles",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"What is the namne of the hotel shaped like a pyramid in Las Vegas?",
+        "answers":{
+            "answer_1":"The Excalibur",
+            "answer_2":"The Aria",
+            "answer_3":"The Luxor",
+            "answer_4":"The Bellagio",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which song was revived to be used in 'RickRoll' pranks?",
+        "answers":{
+            "answer_1":"Livin la Vida Loca",
+            "answer_2":"Never Gonna Give You Up",
+            "answer_3":"Allstar",
+            "answer_4":"You're The One That I Want",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which Colonel had a famous last stand?",
+        "answers":{
+            "answer_1":"Colonel Mustard",
+            "answer_2":"Colonel Sanders",
+            "answer_3":"Colonel Sandwhich",
+            "answer_4":"Colonel Custard",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Who has not been a coach on the voice?",
+        "answers":{
+            "answer_1":"Shakira",
+            "answer_2":"Adam Levine",
+            "answer_3":"Simon Cowell",
+            "answer_4":"Blake Shelton",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which of these songs does not have a famous Tik tok dance challenge?",
+        "answers":{
+            "answer_1":"Savage - Megan Thee Stallion",
+            "answer_2":"Stay - Kid Laroi",
+            "answer_3":"Kiss Me More - Doja Cat",
+            "answer_4":"Sour Candy - Lady Gaga",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which shakespear play is not a tradgedy?",
+        "answers":{
+            "answer_1":"Hamlet",
+            "answer_2":"Julius Ceaser",
+            "answer_3":"Midsummer Night's Dream",
+            "answer_4":"Othello",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"A British Haypenny is worth how much?",
+        "answers":{
+            "answer_1":"1/4 penny",
+            "answer_2":"1/2 penny",
+            "answer_3":"1/8 penny",
+            "answer_4":"1/432 penny",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"What is the average utah snowfall?",
+        "answers":{
+            "answer_1":"45.2 in",
+            "answer_2":"53.6 in",
+            "answer_3":"65.7 in",
+            "answer_4":"76.8 in",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which year were the winter olympics hosted in Utah?",
+        "answers":{
+            "answer_1":"2000",
+            "answer_2":"2002",
+            "answer_3":"2004",
+            "answer_4":"2006",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"La Vie En ___ is a famous french song from 1947",
+        "answers":{
+            "answer_1":"Vida",
+            "answer_2":"Venice",
+            "answer_3":"Rose",
+            "answer_4":"Violeta",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"What percentage of Americans eat pizza each day?",
+        "answers":{
+            "answer_1":"5%",
+            "answer_2":"13%",
+            "answer_3":"25%",
+            "answer_4":"32%",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which country artist won a Grammy for their song 'Bluebird'?",
+        "answers":{
+            "answer_1":"Carrie Underwood",
+            "answer_2":"Little Big Town",
+            "answer_3":"Lady Antebellum",
+            "answer_4":"Miranda Lambert",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Who is the only artist to win Album of the Year in 3 genres?",
+        "answers":{
+            "answer_1":"Michael Jackson",
+            "answer_2":"Katy Perry",
+            "answer_3":"Taylor Swift",
+            "answer_4":"Beyonce",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"How many original colonies were there?",
+        "answers":{
+            "answer_1":"12",
+            "answer_2":"13",
+            "answer_3":"14",
+            "answer_4":"15",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which amendment allowed women to vote?",
+        "answers":{
+            "answer_1":"18th",
+            "answer_2":"19th",
+            "answer_3":"20th",
+            "answer_4":"17th",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Who wrote the Declaration of Independence?",
+        "answers":{
+            "answer_1":"Thomas Jefferson",
+            "answer_2":"Benjamin Franklin",
+            "answer_3":"John Adams",
+            "answer_4":"Alfred Hitchcock",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"\"Here's Johnny\" is from which classic horror film?",
+        "answers":{
+            "answer_1":"The Birds",
+            "answer_2":"It",
+            "answer_3":"Psycho",
+            "answer_4":"Halloween",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"What is the longest river in the US?",
+        "answers":{
+            "answer_1":"Missouri",
+            "answer_2":"Mississippi",
+            "answer_3":"Colorado",
+            "answer_4":"Provo",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"What is the most disliked youtube video?",
+        "answers":{
+            "answer_1":"Youtube Rewind 2018",
+            "answer_2":"Baby Shark Dance",
+            "answer_3":"Friday - Rebecca Black",
+            "answer_4":"Sonic the Hedgehog - Original Trailer",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"What is the most liked YouTube video?",
+        "answers":{
+            "answer_1":"Despacito - Luis Fonci",
+            "answer_2":"Baby - Justin Bieber",
+            "answer_3":"Style - Taylor Swift",
+            "answer_4":"Thank U Next - Ariana Grande",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Where do the unicorns take Charlie in Charlie the Unicorn?",
+        "answers":{
+            "answer_1":"Candy Mountain",
+            "answer_2":"Candy City",
+            "answer_3":"Candy land",
+            "answer_4":"Candy Incorporated Township",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which actor became the governer of California in 2003?",
+        "answers":{
+            "answer_1":"Donald J Trump",
+            "answer_2":"Mel Gisbon",
+            "answer_3":"Arnold Schwarzenegger",
+            "answer_4":"Mark Whalberg",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"What was the first university in the US?",
+        "answers":{
+            "answer_1":"Yale",
+            "answer_2":"Harvard",
+            "answer_3":"Brown",
+            "answer_4":"Michigan State",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which direction was Kanye West and Kim's first kid named after?",
+        "answers":{
+            "answer_1":"North",
+            "answer_2":"East",
+            "answer_3":"West",
+            "answer_4":"South",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"What is Achille's Weak Spot?",
+        "answers":{
+            "answer_1":"Rib",
+            "answer_2":"Ankle",
+            "answer_3":"Heel",
+            "answer_4":"Foot",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"When did the Japanese attack pearl harbor?",
+        "answers":{
+            "answer_1":"December 6th, 1941",
+            "answer_2":"December 7th, 1941",
+            "answer_3":"December 6th, 1942",
+            "answer_4":"December 7th, 1942",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"In which year did the titanic sink?",
+        "answers":{
+            "answer_1":"1911",
+            "answer_2":"1912",
+            "answer_3":"1913",
+            "answer_4":"1914",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"How many Harry Potter books are there?",
+        "answers":{
+            "answer_1":"5",
+            "answer_2":"6",
+            "answer_3":"7",
+            "answer_4":"8",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"What are the names of the Sanderson Sisters from Hocus Pocus?",
+        "answers":{
+            "answer_1":"Winifred, Mary, Sarah",
+            "answer_2":"Eileen, Beverly, Meredith",
+            "answer_3":"Gertrude, Ginny, Georgia",
+            "answer_4":"Maryanne, Katherine, Samantha",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Who was the first king in England?",
+        "answers":{
+            "answer_1":"King George",
+            "answer_2":"King Alfred",
+            "answer_3":"King Kong",
+            "answer_4":"King Egbert",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Who stars in The Greatest Showman?",
+        "answers":{
+            "answer_1":"Zendaya",
+            "answer_2":"Zac Efron",
+            "answer_3":"All of the Above",
+            "answer_4":"None of the Above",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Who is not one of Elizabeth Bennet's sisters?",
+        "answers":{
+            "answer_1":"Caroline",
+            "answer_2":"Lydia",
+            "answer_3":"Mary",
+            "answer_4":"Kitty",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which civilization invented the wheel?",
+        "answers":{
+            "answer_1":"Chinese",
+            "answer_2":"Egyptians",
+            "answer_3":"Mesopotamians",
+            "answer_4":"Incans",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which Spiderman movie recieved the lowest ratings?",
+        "answers":{
+            "answer_1":"The Amazing Spiderman 2",
+            "answer_2":"Spiderman: Far From Home",
+            "answer_3":"Spiderman 3",
+            "answer_4":"Spiderman into the Spiderverse",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"What day is Star Wars Day?",
+        "answers":{
+            "answer_1":"April 3rd",
+            "answer_2":"May 4th",
+            "answer_3":"June 5th",
+            "answer_4":"July 6th",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Who is not a BYU Alumni?",
+        "answers":{
+            "answer_1":"Stephanie Meyer (Twilight Author)",
+            "answer_2":"Lindsey Stirling (Musician)",
+            "answer_3":"Steve Young (Football)",
+            "answer_4":"David Archuleta (Singer)",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which two countries fought in the 100 year war?",
+        "answers":{
+            "answer_1":"England & France",
+            "answer_2":"France & Spain",
+            "answer_3":"Spain & America",
+            "answer_4":"America & England",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which volcano destroyed Pompeii?",
+        "answers":{
+            "answer_1":"Mt. Hulao",
+            "answer_2":"Mt. Olympus",
+            "answer_3":"Mt. Vesuvius",
+            "answer_4":"Mt. Ih8pompeii",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Whos famous diary was written during WWII?",
+        "answers":{
+            "answer_1":"Anastasia Romonov",
+            "answer_2":"Anne Frank",
+            "answer_3":"Helen Keller",
+            "answer_4":"Sophia Vergara",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which tech entrepreneur named his son X Æ A-12?",
+        "answers":{
+            "answer_1":"Mark Zuckerberg",
+            "answer_2":"Steve Jobs",
+            "answer_3":"Elon Musk",
+            "answer_4":"Bill Gates",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which movie was the highest-grossing film before Avengers: Endgame?",
+        "answers":{
+            "answer_1":"Avengers: Infinity War",
+            "answer_2":"Titanic",
+            "answer_3":"Avatar",
+            "answer_4":"Star Wars: A New Hope",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"What is the name of the dwarf that accompnaies Frodo in LOTR?",
+        "answers":{
+            "answer_1":"Gimli",
+            "answer_2":"Gloin",
+            "answer_3":"Bofur",
+            "answer_4":"Fili",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which film did not feature Haley Joel Osment?",
+        "answers":{
+            "answer_1":"Secondhand Lions",
+            "answer_2":"The Sixth Sense",
+            "answer_3":"Home Alone",
+            "answer_4":"Forrest Gump",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which member left One Direction first?",
+        "answers":{
+            "answer_1":"Harry Styles",
+            "answer_2":"Niall Horan",
+            "answer_3":"Zayn Malik",
+            "answer_4":"Louis Tomlinson",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which cringey meme is most shared by Facebook Moms?",
+        "answers":{
+            "answer_1":"Cheezburger Cat",
+            "answer_2":"Minions",
+            "answer_3":"Condescending Wonka",
+            "answer_4":"Bad Luck Brian",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Who was the drummer for the beatles?",
+        "answers":{
+            "answer_1":"John Lennon",
+            "answer_2":"Paul McCartney",
+            "answer_3":"George Harrison",
+            "answer_4":"Ringo Starr",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which is a Black Eyed Peas member?",
+        "answers":{
+            "answer_1":"Willi.am",
+            "answer_2":"W.illi.am",
+            "answer_3":"Will.i.am",
+            "answer_4":".William",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which is not one of the belcher kids in Bobs Burgers?",
+        "answers":{
+            "answer_1":"Tina",
+            "answer_2":"Gene",
+            "answer_3":"Zeke",
+            "answer_4":"Louise",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"What is the name of the fish in The Amazing World of Gumball?",
+        "answers":{
+            "answer_1":"Gumball",
+            "answer_2":"Darwin",
+            "answer_3":"Richard",
+            "answer_4":"Anais",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Who is not a villian in Cyberchase?",
+        "answers":{
+            "answer_1":"Digit",
+            "answer_2":"Motherboard",
+            "answer_3":"Hacker",
+            "answer_4":"Buzz",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"What country has the largest population in the world?",
+        "answers":{
+            "answer_1":"China",
+            "answer_2":"India",
+            "answer_3":"Russia",
+            "answer_4":"America",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which is not an ocean?",
+        "answers":{
+            "answer_1":"Antarctic",
+            "answer_2":"Indian",
+            "answer_3":"Arctic",
+            "answer_4":"Carribean",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which US state has no document poisonous snakes?",
+        "answers":{
+            "answer_1":"Hawaii",
+            "answer_2":"Alaska",
+            "answer_3":"Maine",
+            "answer_4":"Utah",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Who voiced Buzz Lightyear in Toy Story?",
+        "answers":{
+            "answer_1":"Tim Allen",
+            "answer_2":"Tom Hanks",
+            "answer_3":"Seth McFarlane",
+            "answer_4":"Matt Damon",
+            "right_answer":1
+        }
+    }
+]

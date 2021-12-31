@@ -178,5 +178,25 @@
         "type":"millionare",
         "status":"A",
         "tags":["Misc"]
+    },
+    {
+        "id":19,
+        "name":"Trivia: Vol 2",
+        "json_name":"millionairetrivia_two",
+        "date_created":"12-29-2021",
+        "color":"green",
+        "type":"millionare",
+        "status":"A",
+        "tags":["Misc"]
+    },
+    {
+        "id":20,
+        "name":"Trivia Wheel: Vol 2",
+        "json_name":"trivia_wheel_2",
+        "date_created":"12-30-2021",
+        "color":"teal",
+        "type":"wheel",
+        "status":"A",
+        "tags":["Misc"]
     }
 ]
