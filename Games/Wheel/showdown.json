@@ -1,54 +1,54 @@
 [
     {
-        "text":"Demo Question",
-        "category":"Demo Category"
+        "category":"Demo Question",
+        "text":"Demo Text"
     },
     {
-        "text":"Celebrities",
-        "category":"Katy Perry"
+        "category":"Celebrities",
+        "text":"Katy Perry"
     },
     {
-        "text":"Old School Youtube",
-        "category":"The Annoying Orange"
+        "category":"Old School Youtube",
+        "text":"The Annoying Orange"
     },
     {
-        "text":"Tik Tok",
-        "category":"Oh No, Our Table, It's Broken"
+        "category":"Tik Tok",
+        "text":"Oh No, Our Table, It's Broken"
     },
     {
-        "text":"Sayings",
-        "category":"What Happens In Vegas Stays In Vegas"
+        "category":"Sayings",
+        "text":"What Happens In Vegas Stays In Vegas"
     },
     {
-        "text":"Historical Figures",
-        "category":"Martha Washington"
+        "category":"Historical Figures",
+        "text":"Martha Washington"
     },
     {
-        "text":"Isaac Parker Music",
-        "category":"You Can Kick It With Me"
+        "category":"Isaac Parker Music",
+        "text":"You Can Kick It With Me"
     },
     {
-        "text":"Sightseeing",
-        "category":"Leaning Tower of Pisa"
+        "category":"Sightseeing",
+        "text":"Leaning Tower of Pisa"
     },
     {
-        "text":"2000s Lyrics",
-        "category":"With a taste of your lips, I'm on a ride"
+        "category":"2000s Lyrics",
+        "text":"With a taste of your lips, I'm on a ride"
     },
     {
-        "text":"Michael Jackson",
-        "category":""
+        "category":"Michael Jackson",
+        "text":""
     },
     {
-        "text":"The Alcohols",
-        "category":"Scotch On The Rocks"
+        "category":"The Alcohols",
+        "text":"Scotch On The Rocks"
     },
     {
-        "text":"Greek Mythology",
-        "category":"Aphrodite, God of Love"
+        "category":"Greek Mythology",
+        "text":"Aphrodite, God of Love"
     },
     {
-        "text":"TV Shows",
-        "category":"Saturday Night Live"
+        "category":"TV Shows",
+        "text":"Saturday Night Live"
     }
 ]
