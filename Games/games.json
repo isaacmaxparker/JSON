@@ -234,7 +234,7 @@
         "name":"Gameshow Showdown",
         "json_name":"showdown",
         "date_created":"3-22-2022",
-        "color":"yellow",
+        "color":"red",
         "type":"price",
         "status":"A",
         "tags":["Showdown","Misc"]
