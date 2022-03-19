@@ -1,0 +1,116 @@
+[
+    {
+        "question_text":"Name Something You Find in a Breakfast Buffet ",
+        "answer_1":"Eggs",
+        "answer_2":"Bacon",
+        "answer_3":"Sausage",
+        "answer_4":"Potatoes/Hash Browns",
+        "answer_5":"Juice",
+        "answer_6":"Coffee"
+    },
+    {
+        "question_text":"Name An Occasion For Which You Might Wear Your Lucky Underwear",
+        "answer_1":"Hot Date",
+        "answer_2":"Valentines Day",
+        "answer_3":"Casino/Gambling",
+        "answer_4":"Sporting Event",
+        "answer_5":"Wedding/Night",
+        "answer_6":"Exam/Finals"
+    },
+    {
+        "question_text":"Name Something in a Bakery a Baker Might Call His Wife ",
+        "answer_1":"Honey Buns",
+        "answer_2":"Sweet/Sweetie",
+        "answer_3":"Cupcake",
+        "answer_4":"Muffin",
+        "answer_5":"Sugar",
+        "answer_6":"Donut"
+    },
+    {
+        "question_text":"Name Something That Might Be Full of Holes",
+        "answer_1":"Swiss Cheese",
+        "answer_2":"Clothes/Socks",
+        "answer_3":"Net/Fishing Net",
+        "answer_4":"Colander/Strainer",
+        "answer_5":"Golf Course",
+        "answer_6":"Alibi/Story"
+    },
+    {
+        "question_text":"Tell Me A Word That Rhymes with “Election” ",
+        "answer_1":"Selection",
+        "answer_2":"Erection",
+        "answer_3":"Perfection",
+        "answer_4":"Detection",
+        "answer_5":"Protection",
+        "answer_6":"Rejection"
+    },
+    {
+        "question_text":"Name an Accent you might pretend to have to sound sexier",
+        "answer_1":"French",
+        "answer_2":"British",
+        "answer_3":"Italian",
+        "answer_4":"Australian",
+        "answer_5":"Spanish",
+        "answer_6":"Southern Belle"
+    },
+    {
+        "question_text":"Name a song by Isaac Parker Music",
+        "answer_1":"Not Yours",
+        "answer_2":"Hunt",
+        "answer_3":"Kick It",
+        "answer_4":"My Wings",
+        "answer_5":"Carol",
+        "answer_6":"Blooming"
+    },
+    {
+        "question_text":"Name an Occupation That Begins With the Letter “J”",
+        "answer_1":"Janitor",
+        "answer_2":"Judge/Justic",
+        "answer_3":"Jeweler",
+        "answer_4":"Journalist",
+        "answer_5":"Job Counselor",
+        "answer_6":"Java Developer"
+    },
+    {
+        "question_text":"Name a Halloween costume adults wear to be sexy",
+        "answer_1":"Nurse",
+        "answer_2":"Maid",
+        "answer_3":"Devil",
+        "answer_4":"Cat",
+        "answer_5":"Greek God",
+        "answer_6":"Cowboy"
+    },
+    {
+        "question_text":"Name Something Associated With A Teenage Girls Sleepover",
+        "answer_1":"Pillow Fight",
+        "answer_2":"Boys",
+        "answer_3":"Makeovers",
+        "answer_4":"Dream Phone game",
+        "answer_5":"Junk Food",
+        "answer_6":"Chick Flicks"
+    },
+    {
+        "questions":[
+            {
+                "question":"Name a reason a mother might take her kid out of a movie",
+                "answers":"Swearing - 62 | Tantrum - 54 | Violence - 32 | Sex Scene - 28"
+            },
+            {
+                "question":"Name a sports uniform men look sexy in",
+                "answers":"Baseball - 71 | Football - 60 | Soccer - 44 | Basketball - 32 | Speedo - 22"
+            },
+            {
+                "question":"Name a famous Cocktail",
+                "answers":"Bloody Mary - 65 | Margarita - 60 | Pina Colada - 45 | Cosmopolitan - 37 | Manhattan - 22"
+            },
+            {
+                "question":"What Would A Cowboy Do To Cheer Up When He’s Had A Bad Day?",
+                "answers":"Drink - 85 | Ride his Horse  - 74 | Sing/Play Guitar - 28 | Dance - 7"
+            },
+            {
+                "question":"Whats a question people don't like to be asked",
+                "answers":"Gay/Straight? - 74 | Weight? - 70 | Married? - 45 | Age? - 37 | Income - 24"
+            }
+        ]
+    }
+]   
