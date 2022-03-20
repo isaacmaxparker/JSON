@@ -1,0 +1,280 @@
+[
+    {
+        "round_one":[
+            {
+                "category_name": "Physics",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is electron",
+                        "answer": "Negative partical that orbits an atom's nucleus"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is echo",
+                        "answer": "A sound's repetition by reflection"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is Gravity",
+                        "answer": "Though it holds our planet together, it's actually a much weaker force than electro-magnetism."
+                    },
+                    {
+                        "points":800,
+                        "question":"What is white",
+                        "answer": "In light, 2 colors are said to be complementary if, when added together, they produce this color."
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is heat",
+                        "answer": "The second law of thermodynamics says that this will of its own accord only move to a colder object."
+                    }
+                ]
+            },
+            {
+                "category_name": "Taylor Swift",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"Who is Kanye West",
+                        "answer": "This famous rapper interrupted Taylor's 2009 VMA's Speech"
+                    },
+                    {
+                        "points":400,
+                        "question":"Who is Jake Gyllenhaal",
+                        "answer": "This poor guy has been flamed by swifties online since the release of Red TV"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is picture to burn",
+                        "answer": "In this throwback Taylor song, Swift threatens to start a rumor a guy is gay"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Alison",
+                        "answer": "Taylor's Middle name"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is Spotify",
+                        "answer": "Taylor removed her music from this streaming service for a period of time in protest"
+                    }
+                ]
+            },
+            {
+                "category_name": "Famous Isaacs",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"Who is Isaac Newton",
+                        "answer": "This Famous Isaac got hit in the head with fruit"
+                    },
+                    {
+                        "points":400,
+                        "question":"Who are Jacob & Esau",
+                        "answer": "These two sons belonged to the famous Isaac in the Bible"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is Rifftide.",
+                        "answer": "This non Famous Isaac Parker Music used to be a part of this acapella group"
+                    },
+                    {
+                        "points":800,
+                        "question":"Who is Isaac Hanson",
+                        "answer": "This Famous Isaac was part of an iconic 90s band with his two brothers, named after their last name, with the hit 'MMMBop'"
+                    },
+                    {
+                        "points":1000,
+                        "question":"Who is Eisenhower",
+                        "answer": "'I Like Ike' was this US President's campaign slogan"
+                    }
+                ]
+            },
+            {
+                "category_name": "Iconic Vines",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is a croissant",
+                        "answer": "Dont scare him, or he might drop this pastry"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is Free Shavocado",
+                        "answer": "You gotta head over to Del Taco, they're now serving this"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is Roommates",
+                        "answer": "And They Were"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is America, Explain",
+                        "answer": "The action requested when 'I am confusion.'"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is a basketball game",
+                        "answer": "Hi my name is Tre. I have this event tomorrow."
+                    }
+                ]
+            },
+            {
+                "category_name": "Stupid Answers",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Taco Bell",
+                        "answer": "Glen Bell founded this taco chain in 1962"
+                    },
+                    {
+                        "points":400,
+                        "question":"what is pledge",
+                        "answer": "The first verb in the Pledge of Allegiance"
+                    },
+                    {
+                        "points":600,
+                        "question":"what is North Sea",
+                        "answer": "This sea lies to the north of Belgium, Netherlands and Germany"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Swan Lake",
+                        "answer": "Canada's Swan River empties into this lake"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is Gin & Tonic",
+                        "answer": "use 2 ox Gin, 5 oz tonic, and 1 lime wedge to make this drink"
+                    }
+                ]
+            }
+        ],
+        "round_two":[
+            {
+                "category_name": "Chemistry",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is table salt",
+                        "answer": "NaCl is the formula for this spice"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Bromine",
+                        "answer": "Just like mercury this element Br is a liquid at room temperature"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is hydrogen peroxide",
+                        "answer": "HOOH is the formula for this solution that you might keep in your bathroom or first aid kit"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is rust",
+                        "answer": "Hydrated ferric oxide is the scientific name for this"
+                    },
+                    {
+                        "points":2000,
+                        "question":"Halogens",
+                        "answer": "The name of this group of elements that includes fluorine means salt-producing"
+                    }
+                ]
+            },
+            {
+                "category_name": "Country Music",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"Who is Taylor Swift",
+                        "answer": "This Pop starlet got her start in music in the Country Music scene, with the song 'Tim McGraw'"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Meant to Be",
+                        "answer": "Florida Georgia Line and Bebe Rexha's 2017 song that broke the record for longest rule on the Billboard Country Songs chart"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is Louisville slugger",
+                        "answer": "Carrie Underwood destroys her Ex's souped up four wheel drive with what brand of baseball bat?"
+                    },
+                    {
+                        "points":1600,
+                        "question":"If I Die Young",
+                        "answer": "The Band Perry asks to be sunk in the river on a bed of roses if what happens?"
+                    },
+                    {
+                        "points":2000,
+                        "question":"Who is Miranda Lambert",
+                        "answer": "This female singer famously performed her song 'Kerosene' with live pyrotechnics at the 2005 CMAs"
+                    }
+                ]
+            },
+            {
+                "category_name": "TV Trivia",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"Who is David",
+                        "answer": "Alexis Rose's brother, who she often addresses with 'Ew'"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Parks & Rec",
+                        "answer": "The show responsible for Lil' Sebastian and the song 5000 candles in the wind"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is American Idol",
+                        "answer": "The first U.S. reality TV singing competition"
+                    },
+                    {
+                        "points":1600,
+                        "question":"Who is Kristen Bell",
+                        "answer": "'XOXO Gossip Girl' is narratted by this famous actress"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is the Simpsons",
+                        "answer": "The longest running animated show, with 33 seasons"
+                    }
+                ]
+            },
+            {
+                "category_name": "More Iconic Vines",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is 5",
+                        "answer": "The required feet apart you must be in a hot tub to not be gay"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is a potato",
+                        "answer": "This root vegetable flew around the room before you came"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is 21",
+                        "answer": "Ths sum of 9 + 10"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is an avocado",
+                        "answer": "This fruit was given to a very greatful boy, and also the subject of a song all about peeling it."
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Adam!",
+                        "answer": "The name shouted when the filmer blows away the smoke ring on the desk"
+                    }
+                ]
+            }
+        ],
+        "final_questions":"Cherry Blossom",
+        "final_answers":"The Japanese Word 'Sakura' describes this flower which represents optimism"
+    }
+]
