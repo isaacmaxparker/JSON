@@ -1,15 +1,5 @@
 [
     {
-        "question_text":"This is a demo question",
-        "answers":{
-            "answer_1":"First Answer",
-            "answer_2":"Second Answer",
-            "answer_3":"Third Answer",
-            "answer_4":"Fourth Answer",
-            "right_answer":1
-        }
-    },
-    {
         "question_text":"Which artist blew up with his song 'Gangnam Style'?",
         "answers":{
             "answer_1":"PSY",
