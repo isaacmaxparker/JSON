@@ -247,5 +247,15 @@
         "type":"jeopardy",
         "status":"A",
         "tags":["Showdown","Misc"]
+    },
+    {
+        "id":26,
+        "name":"Deal or No Deal",
+        "json_name":"",
+        "date_created":"4-3-2022",
+        "color":"yellow",
+        "type":"deal",
+        "status":"A",
+        "tags":["Misc"]
     }
 ]
