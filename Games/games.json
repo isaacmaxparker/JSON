@@ -250,11 +250,11 @@
     },
     {
         "id":26,
-        "name":"Deal or No Deal",
-        "json_name":"",
-        "date_created":"4-3-2022",
-        "color":"yellow",
-        "type":"deal",
+        "name":"Pop Culture Vol 1",
+        "json_name":"popculturevol1",
+        "date_created":"5-25-2022",
+        "color":"teal",
+        "type":"jeopardy",
         "status":"A",
         "tags":["Misc"]
     }

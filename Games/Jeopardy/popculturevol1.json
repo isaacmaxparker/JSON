@@ -1,0 +1,341 @@
+[
+    {
+        "round_one":[
+            {
+                "category_name": "TV Trivia",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"Who is David",
+                        "answer": "Alexis Rose's brother, who she often addresses with 'Ew'"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is Parks & Rec",
+                        "answer": "The show responsible for Lil' Sebastian and the song 5000 candles in the wind"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is American Idol",
+                        "answer": "The first U.S. reality TV singing competition"
+                    },
+                    {
+                        "points":800,
+                        "question":"Who is Kristen Bell",
+                        "answer": "'XOXO Gossip Girl' is narratted by this famous actress"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is the Simpsons",
+                        "answer": "The longest running animated show, with 33 seasons"
+                    }
+                ]
+            },
+            {
+                "category_name": "Taylor Swift",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"Who is Kanye West",
+                        "answer": "This famous rapper interrupted Taylor's 2009 VMA's Speech"
+                    },
+                    {
+                        "points":400,
+                        "question":"Who is Jake Gyllenhaal",
+                        "answer": "This poor guy has been flamed by swifties online since the release of Red TV"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is picture to burn",
+                        "answer": "In this throwback Taylor song, Swift threatens to start a rumor a guy is gay"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Alison",
+                        "answer": "Taylor's Middle name"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is Spotify",
+                        "answer": "Taylor removed her music from this streaming service for a period of time in protest"
+                    }
+                ]
+            },
+            {
+                "category_name": "Iconic Vines",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is a croissant",
+                        "answer": "Dont scare him, or he might drop this pastry"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is Free Shavocado",
+                        "answer": "You gotta head over to Del Taco, they're now serving this"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is Roommates",
+                        "answer": "And They Were"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is America, Explain",
+                        "answer": "The action requested when 'I am confusion.'"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is a basketball game",
+                        "answer": "Hi my name is Tre. I have this event tomorrow."
+                    }
+                ]
+            },
+            {
+                "category_name": "Stupid Answers",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Taco Bell",
+                        "answer": "Glen Bell founded this taco chain in 1962"
+                    },
+                    {
+                        "points":400,
+                        "question":"what is pledge",
+                        "answer": "The first verb in the Pledge of Allegiance"
+                    },
+                    {
+                        "points":600,
+                        "question":"what is North Sea",
+                        "answer": "This sea lies to the north of Belgium, Netherlands and Germany"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Swan Lake",
+                        "answer": "Canada's Swan River empties into this lake"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is Gin & Tonic",
+                        "answer": "use 2 ox Gin, 5 oz tonic, and 1 lime wedge to make this drink"
+                    }
+                ]
+            },
+            {
+                "category_name": "Isaac's Concert",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is 4",
+                        "answer": "The number of seasons represented in the concert"
+                    },
+                    {
+                        "points":400,
+                        "question":"",
+                        "answer": "The color of Isaac's spring bomber jacket"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is Blooming",
+                        "answer": "The song that had the 8 Bit video game background"
+                    },
+                    {
+                        "points":800,
+                        "question":"",
+                        "answer": "The name of Isaac's new song that debuted at the concert"
+                    },
+                    {
+                        "points":1000,
+                        "question":"",
+                        "answer": "Name any two of Isaac's Albums (A.K.A. the chapter titles)"
+                    }
+                ]
+            }
+        ],
+        "round_two":[
+            {
+                "category_name": "Taylor Swift Again",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is Tim McGraw ",
+                        "answer": "Taylor's very first single"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is LWYMMD",
+                        "answer": "The Taylor music video set a 24 hour views record on YouTube"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is Shake It Off",
+                        "answer": "Taylor's music video with the most views"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is We Are Never Getting Back Together",
+                        "answer": "This Taylor song won her a world record for fastest selling digital single."
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Innocent",
+                        "answer": "This non-reputation song is about Kanye West"
+                    }
+                ]
+            },
+            {
+                "category_name": "Basketball",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is 8",
+                        "answer": "The number of panels on a basketball"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is soccer",
+                        "answer": "The first basketball was actually a ball meant for this sport"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What are peach baskets",
+                        "answer": "The original object used as a basketball hoop"
+                    },
+                    {
+                        "points":1600,
+                        "question":"Who is Rudy Gobert",
+                        "answer": "This Utah Jazz player was the first NBA player to test postive for COVID-19"
+                    },
+                    {
+                        "points":2000,
+                        "question":"Who is Lebron James",
+                        "answer": "The youngest player to score 10,000 points"
+                    }
+                ]
+            },
+            {
+                "category_name": "2021 Grammys",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is Folklore",
+                        "answer": "The album of the year winner."
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Watermelon Sugar",
+                        "answer": "This Harry Styles song won best Pop Solo Performance"
+
+                    },
+                    {
+                        "points":1200,
+                        "question":"Who is Billie Eilish",
+                        "answer": "The artist who won record of the year"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is Miranda Lambert",
+                        "answer": "The couuntry artist who won best Country Album"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Rain On Me",
+                        "answer": "The winner for Pop Duo Performance"
+                    }
+                ]
+            },
+            {
+                "category_name": "Country Music",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"Who is Taylor Swift",
+                        "answer": "This Pop starlet got her start in music in the Country Music scene, with the song 'Tim McGraw'"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Meant to Be",
+                        "answer": "Florida Georgia Line and Bebe Rexha's 2017 song that broke the record for longest rule on the Billboard Country Songs chart"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is Louisville slugger",
+                        "answer": "Carrie Underwood destroys her Ex's souped up four wheel drive with what brand of baseball bat?"
+                    },
+                    {
+                        "points":1600,
+                        "question":"If I Die Young",
+                        "answer": "The Band Perry asks to be sunk in the river on a bed of roses if what happens?"
+                    },
+                    {
+                        "points":2000,
+                        "question":"Who is Miranda Lambert",
+                        "answer": "This female singer famously performed her song 'Kerosene' with live pyrotechnics at the 2005 CMAs"
+                    }
+                ]
+            },
+            {
+                "category_name": "More Iconic Vines",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is 5",
+                        "answer": "The required feet apart you must be in a hot tub to not be gay"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is a potato",
+                        "answer": "This root vegetable flew around the room before you came"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is 21",
+                        "answer": "Ths sum of 9 + 10"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is an avocado",
+                        "answer": "This fruit was given to a very greatful boy, and also the subject of a song all about peeling it."
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Adam!",
+                        "answer": "The name shouted when the filmer blows away the smoke ring on the desk"
+                    }
+                ]
+            }
+            {
+                "category_name": "Astrology",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is 12",
+                        "answer": "The number of zodiac signs"
+                    },
+                    {
+                        "points":800,
+                        "question":"What are water, earth, air, fire",
+                        "answer": "The signs are assigned to these four elements"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is Pisces",
+                        "answer": "The sign represented by the two fishes"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is Libra",
+                        "answer": "The sign represented by the scales"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Cancer",
+                        "answer": "The sign represented by a crab"
+                    }
+                ]
+            } 
+        ],
+        "final_questions":"",
+        "final_answers":""
+    }
+]
