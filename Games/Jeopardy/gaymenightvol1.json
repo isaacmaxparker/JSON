@@ -1,0 +1,250 @@
+[
+    {
+        "round_one":[
+            {
+                "category_name": "Gay PRIDE",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is June",
+                        "answer": "This month typically holds PRIDE celebrations"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is the rainbow flag",
+                        "answer": "This symbol is the most iconic symbol of PRIDE"
+                    },
+                    {
+                        "points":600,
+                        "question":"Who is Isaac Parker",
+                        "answer": "This local singer is performing at Utah PRIDE Saturday"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Arthur",
+                        "answer": "This PBS cartoon is the first one to feature a gay character"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is Stonewall",
+                        "answer": "The name of the 1969 riots for Gay Rights"
+                    }
+                ]
+            },
+            {
+                "category_name": "2010s Pop Music",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Call Me Maybe",
+                        "answer": "Carly Rae Jepsen's Iconic song of the summer"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is Problem",
+                        "answer": "Ariana Grande and Iggy Azalea's collab was titled"
+                    },
+                    {
+                        "points":600,
+                        "question":"Who is Lady Gaga",
+                        "answer": "The singer famous for the bubble and meat dresses"
+                    },
+                    {
+                        "points":800,
+                        "question":"Who is Justin Bieber",
+                        "answer": "Never Say Never to this young popstar"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is Cannibal",
+                        "answer": "The name of Kesha's second EP, recently a Tik Tok trend"
+                    }
+                ]
+            },
+            {
+                "category_name": "Some More Iconic Vines",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Chrysler",
+                        "answer": "Merry ________ (Car company)"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is Chili's",
+                        "answer": "Hi, Welcome to ________"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is Country Boy",
+                        "answer": "______ ____, I Love youuuuuuu"
+                    },
+                    {
+                        "points":800,
+                        "question":"sneezed, sicker",
+                        "answer": "I ________ on the beat and the beat got ________"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is Heart And Soul",
+                        "answer": "This common piano piece had him twerkin and nae nae-ing"
+                    }
+                ]
+            },
+            {
+                "category_name": "Stupid Answers",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is IT",
+                        "answer": "It is the name of the steven king novel about Pennywise"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is Instagram",
+                        "answer": "This photo-sharing app gets its name from combining parts of the words instant & telegram"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is a pullover",
+                        "answer": "What the British call a jumper we call this type of sweater that you pull over your head"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Vinci",
+                        "answer": "In 1452 Leonardo da Vinci was born near a small Tuscan hill town called this"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is the 7 years war",
+                        "answer": "The major powers of Europe were involved in this war that lasted the 7 years between 1756 & 1763"
+                    }
+                ]
+            }
+        ],
+        "round_two":[
+            {
+                "category_name": "Misc Pizza",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What are anchovies",
+                        "answer": "This nasty fish is sometimes a pizza topping"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is personal pan",
+                        "answer": "The name for a small one-person pizza"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is grilling",
+                        "answer": "The Al Forno in RI was the first US restaurant to offer pizza cooked by _____ "
+                    },
+                    {
+                        "points":800,
+                        "question":"What are onions",
+                        "answer": "Pizza pugliese is prepared with tomato, mozzarella and _____"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is foccacia",
+                        "answer": "Pizza is essentially a ______ bread topped with tomato sauce and toppings"
+                    }
+                ]
+            },
+            {
+                "category_name": "Chemistry",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is table salt",
+                        "answer": "NaCl is the formula for this spice"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Bromine",
+                        "answer": "Just like mercury this element Br is a liquid at room temperature"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is hydrogen peroxide",
+                        "answer": "HOOH is the formula for this solution that you might keep in your bathroom or first aid kit"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is rust",
+                        "answer": "Hydrated ferric oxide is the scientific name for this"
+                    },
+                    {
+                        "points":2000,
+                        "question":"Halogens",
+                        "answer": "The name of this group of elements that includes fluorine means salt-producing"
+                    }
+                ]
+            },
+            {
+                "category_name": "Isaac Parker Music Bitches",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is isaacparkermusic",
+                        "answer": "Isaac's Instagram Handle"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Without You",
+                        "answer": "The name of Isaac's most recent song"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is Hunt",
+                        "answer": "Isaac's 'Scooby Doo' music video"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is My Wings",
+                        "answer": "The name of Isaac's first single"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Day & Night: Live",
+                        "answer": "The full name of Isaac's Concert"
+                    }
+                ]
+            },
+            {
+                "category_name": "Even More Iconic Vines",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is a burnt chicken nugget",
+                        "answer": "I still love myself, Even if I look like a _____ "
+                    },
+                    {
+                        "points":800,
+                        "question":"What are chickens",
+                        "answer": "Look at all those"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is avocado",
+                        "answer": "Peel The ______"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is iridocyclitis",
+                        "answer": "The word from the spelling bee tik tok"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is a buttcheek on a stick",
+                        "answer": "Ow! That hurt like a "
+                    }
+                ]
+            }
+        ],
+        "final_questions":"The Japanese Word Sakura means this in english (IP)",
+        "final_answers":"What is Cherry Blossom"
+    }
+]
