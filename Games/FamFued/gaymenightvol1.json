@@ -1,0 +1,107 @@
+[
+    {
+        "question_text":"Name an excuse you might use to reject a date offer",
+        "answer_1":"In a Relationship",
+        "answer_2":"Not Dating right now",
+        "answer_3":"Wrong Orientation",
+        "answer_4":"Too Busy",
+        "answer_5":"Don't live here",
+        "answer_6":"Not Interested"
+    },
+    {
+        "question_text":"Name a fruit or veggie that reminds you of a human body part",
+        "answer_1":"Banana",
+        "answer_2":"Peach",
+        "answer_3":"Watermelon/Melons",
+        "answer_4":"Eggplant",
+        "answer_5":"Coconuts",
+        "answer_6":"Cucumber"
+    },
+    {
+        "question_text":"Name a Sport you would watch more often if it were played naked",
+        "answer_1":"Volleyball",
+        "answer_2":"Gymnastics",
+        "answer_3":"Swimming",
+        "answer_4":"Soccer",
+        "answer_5":"Wrestling",
+        "answer_6":"Tennis"
+    },
+    {
+        "question_text":"Name a sexy gay halloween costume",
+        "answer_1":"Cowboy",
+        "answer_2":"Fireman",
+        "answer_3":"Policeman",
+        "answer_4":"Playboy bunny",
+        "answer_5":"Angel",
+        "answer_6":"Athlete"
+    },
+    {
+        "question_text":"Name something that might get you in the mood",
+        "answer_1":"Cuddling",
+        "answer_2":"Candles",
+        "answer_3":"Massage",
+        "answer_4":"Strip Tease",
+        "answer_5":"Lights Down Low",
+        "answer_6":"Romantic Meal"
+    },
+    {
+        "question_text":"Who would you LEAST want to walk in on you during sexy time",
+        "answer_1":"Parents",
+        "answer_2":"In-Law",
+        "answer_3":"Maid",
+        "answer_4":"Your Kid",
+        "answer_5":"Spouse",
+        "answer_6":"Robber / Murderer"
+    },
+    {
+        "question_text":"Name a word that would get bleeped on TV",
+        "answer_1":"F***",
+        "answer_2":"Sh**",
+        "answer_3":"Hel*",
+        "answer_4":"Bitc*",
+        "answer_5":"Pus**",
+        "answer_6":"Cu**"
+    },
+    {
+        "question_text":"Name a sex position",
+        "answer_1":"Missionary",
+        "answer_2":"Doggy",
+        "answer_3":"Cowboy",
+        "answer_4":"Reverse Cowboy",
+        "answer_5":"Spooning",
+        "answer_6":"Standing Up"
+    },
+    {
+        "question_text":"Name a word with uck in it",
+        "answer_1":"Duck",
+        "answer_2":"Truck",
+        "answer_3":"Stuck",
+        "answer_4":"Luck",
+        "answer_5":"Yuck",
+        "answer_6":"Bucket"
+    },
+    {
+        "questions":[
+            {
+                "question":"Name a word or phrase containing 'Strip'",
+                "answers":"Stripper - 75 | Strip Club - 55 | Strip Mall - 36 | Landing Strip - 17"
+            },
+            {
+                "question":"Name a game that would be innapropriate at a company party",
+                "answers":"Spin The Bottle - 67 | Strip Poker - 55 | Twister - 26 | Beer Pong - 21"
+            },
+            {
+                "question":"Name An Occasion For Which You Might Wear Your Lucky Underwear",
+                "answers":"Hot Date - 85 | Valentines Day - 72 | Casino/Gambling - 53 | Wedding/Night - 39"
+            },
+            {
+                "question":"Name a type of mens underwear",
+                "answers":"Boxers - 65 | Briefs - 64 | Boxer Briefs - 46 | Jockstrap - 37"
+            },
+            {
+                "question":"Name a gay actor",
+                "answers":"Dan Levy - 45 | Neil Patrick Harris - 35 | Ian McKellan - 26 | George Takei - 7"
+            }
+        ]
+    }
+]   
