@@ -282,7 +282,7 @@
         "id":29,
         "name":"Gayme Night Vol. 2",
         "json_name":"gaymenightvol2",
-        "date_created":"6-23-2022",
+        "date_created":"6-22-2022",
         "color":"teal",
         "type":"famFued",
         "status":"G",
@@ -305,7 +305,7 @@
         "date_created":"6-23-2022",
         "color":"green",
         "type":"eyespy",
-        "status":"D",
+        "status":"A",
         "tags":["Development"]
     }
 ]
