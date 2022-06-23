@@ -4,66 +4,82 @@
         "rows":4,
         "questions":[
             {
+                "type":"distortion",
                 "answer":"Test Answer",
                 "imagename":"mywings"
             },
             {
+                "type":"character",
                 "answer":"Test Answer",
                 "imagename":"carol"
             },
             {
+                "type":"location",
                 "answer":"Test Answer",
                 "imagename":"kickit"
             },
             {
+                "type":"location",
                 "answer":"Test Answer",
                 "imagename":"hunt"
             },
             {
+                "type":"distortion",
                 "answer":"Test Answer",
                 "imagename":"sunsetfever"
             },
             {
+                "type":"distortion",
                 "answer":"Test Answer",
                 "imagename":"bewithyou"
             },
             {
+                "type":"location",
                 "answer":"Test Answer",
                 "imagename":"withoutyou"
             },
             {
+                "type":"distortion",
                 "answer":"Test Answer",
                 "imagename":"daynightlive"
             },
             {
+                "type":"distortion",
                 "answer":"Test Answer",
                 "imagename":"sunsetfever"
             },
             {
+                "type":"location",
                 "answer":"Test Answer",
                 "imagename":"pride"
             },
             {
+                "type":"distortion",
                 "answer":"Test Answer",
                 "imagename":"happy"
             },
             {
+                "type":"distortion",
                 "answer":"Test Answer",
                 "imagename":"daynightlive"
             },
             {
+                "type":"distortion",
                 "answer":"Test Answer",
                 "imagename":"sunsetfever"
             },
             {
+                "type":"character",
                 "answer":"Test Answer",
                 "imagename":"daynightlive"
             },
             {
+                "type":"location",
                 "answer":"Test Answer",
                 "imagename":"daynightlive"
             },
             {
+                "type":"character",
                 "answer":"Test Answer",
                 "imagename":"sunsetfever"
             }
