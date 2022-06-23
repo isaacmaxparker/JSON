@@ -50,20 +50,9 @@
                 "imagename":"mywings"
             },
             {
-                "type":"location",
-                "answer":"Utah Pride Festival 2022",
-                "imagename":"pride"
-            },
-
-            {
-                "type":"location",
-                "answer":"Mona Rope Swings (Sunset Fever)",
-                "imagename":"sunsetfever"
-            },
-            {
                 "type":"character",
-                "answer":"Lake, Lucy, Felix, Andrew",
-                "imagename":"victorcast"
+                "answer":"Isaac - My Wings Music Video (Neon)",
+                "imagename":"mywings"
             },
             {
                 "type":"distortion",
@@ -71,16 +60,25 @@
                 "imagename":"daynight"
             },
             {
+                "type":"character",
+                "answer":"Lake, Lucy, Felix, Andrew",
+                "imagename":"victorcast"
+            },
+            {
+                "type":"location",
+                "answer":"Mona Rope Swings (Sunset Fever)",
+                "imagename":"sunsetfever"
+            },
+            {
                 "type":"distortion",
                 "answer":"Victor & Benji at the Coffee Shop",
                 "imagename":"victorbenji"
             },
             {
-                "type":"character",
-                "answer":"Isaac - My Wings Music Video (Neon)",
-                "imagename":"mywings"
+                "type":"location",
+                "answer":"Utah Pride Festival 2022",
+                "imagename":"pride"
             },
-
             {
                 "type":"charloc",
                 "answer":"Victor & Rahim at Mia's dad's wedding",
