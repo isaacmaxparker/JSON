@@ -299,12 +299,12 @@
         "tags":["Development"]
     },
     {
-        "id":30,
-        "name":"First Deal",
-        "json_name":"dealvol1",
+        "id":31,
+        "name":"Isaac Parker Music",
+        "json_name":"isaacparkervol1",
         "date_created":"6-23-2022",
-        "color":"yellow",
-        "type":"famFued",
+        "color":"green",
+        "type":"eyespy",
         "status":"D",
         "tags":["Development"]
     }
