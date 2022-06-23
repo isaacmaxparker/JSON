@@ -5,83 +5,86 @@
         "questions":[
             {
                 "type":"distortion",
-                "answer":"Day & Night Album Art",
-                "imagename":"daynight"
+                "answer":"Victor at the Winter Carnival",
+                "imagename":"victor"
+            },
+
+            {
+                "type":"location",
+                "answer":"Blooming 8-Bit Video",
+                "imagename":"blooming"
             },
             {
                 "type":"character",
-                "answer":"Desert (Kick It Music Video)",
+                "answer":"Cowboy Isaac (Kick It Music Video)",
                 "imagename":"kickit"
             },
+            {
+                "type":"character",
+                "answer":"Victor & Benji",
+                "imagename":"victorbenji"
+            },
+            {
+                "type":"character",
+                "answer":"Velma (Hunt Music Video)",
+                "imagename":"velma"
+            },
+            {
+                "type":"location",
+                "answer":"Outisde the Spring Fling at School",
+                "imagename":"benjivictor"
+            },
+            {
+                "type":"distortion",
+                "answer":"Day & Night: Deluxe Edition - Physical CD",
+                "imagename":"cd"
+            },
+            {
+                "type":"distortion",
+                "answer":"Strawberry Days Concept Teasers",
+                "imagename":"strawberrydays"
+            },
+            {
+                "type":"distortion",
+                "answer":"My Wings (Smoke Bombs)",
+                "imagename":"mywings"
+            },
+            {
+                "type":"location",
+                "answer":"Utah Pride Festival 2022",
+                "imagename":"pride"
+            },
+
             {
                 "type":"location",
                 "answer":"Mona Rope Swings (Sunset Fever)",
                 "imagename":"sunsetfever"
             },
             {
-                "type":"location",
-                "answer":"Test Answer",
-                "imagename":"hunt"
+                "type":"character",
+                "answer":"Lake, Lucy, Felix, Andrew",
+                "imagename":"victorcast"
             },
             {
                 "type":"distortion",
-                "answer":"Test Answer",
-                "imagename":"sunsetfever"
+                "answer":"Day & Night Album Art",
+                "imagename":"daynight"
             },
             {
                 "type":"distortion",
-                "answer":"Test Answer",
-                "imagename":"bewithyou"
-            },
-            {
-                "type":"location",
-                "answer":"Test Answer",
-                "imagename":"withoutyou"
-            },
-            {
-                "type":"distortion",
-                "answer":"Test Answer",
-                "imagename":"daynightlive"
-            },
-            {
-                "type":"distortion",
-                "answer":"Test Answer",
-                "imagename":"sunsetfever"
-            },
-            {
-                "type":"location",
-                "answer":"Test Answer",
-                "imagename":"pride"
-            },
-            {
-                "type":"distortion",
-                "answer":"Test Answer",
-                "imagename":"happy"
-            },
-            {
-                "type":"distortion",
-                "answer":"Test Answer",
-                "imagename":"daynightlive"
-            },
-            {
-                "type":"distortion",
-                "answer":"Test Answer",
-                "imagename":"sunsetfever"
+                "answer":"Victor & Benji at the Coffee Shop",
+                "imagename":"victorbenji"
             },
             {
                 "type":"character",
-                "answer":"Test Answer",
-                "imagename":"daynightlive"
+                "answer":"Isaac - My Wings Music Video (Neon)",
+                "imagename":"mywings"
             },
+
             {
-                "type":"location",
-                "answer":"Test Answer",
-                "imagename":"daynightlive"
-            },
-            {
-                "type":"character",
-                "answer":"Test Answer",
-                "imagename":"sunsetfever"
+                "type":"charloc",
+                "answer":"Victor & Rahim at Mia's dad's wedding",
+                "imagename":"victorrahim"
             }
         ]
     }
