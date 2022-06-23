@@ -5,18 +5,18 @@
         "questions":[
             {
                 "type":"distortion",
-                "answer":"Test Answer",
-                "imagename":"mywings"
+                "answer":"Day & Night Album Art",
+                "imagename":"daynight"
             },
             {
                 "type":"character",
-                "answer":"Test Answer",
-                "imagename":"carol"
+                "answer":"Desert (Kick It Music Video)",
+                "imagename":"kickit"
             },
             {
                 "type":"location",
-                "answer":"Test Answer",
-                "imagename":"kickit"
+                "answer":"Mona Rope Swings (Sunset Fever)",
+                "imagename":"sunsetfever"
             },
             {
                 "type":"location",
