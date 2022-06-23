@@ -277,5 +277,15 @@
         "type":"jeopardy",
         "status":"G",
         "tags":["Misc","Gay"]
-    }
+    },
+    {
+        "id":29,
+        "name":"Gayme Night Vol. 2",
+        "json_name":"gaymenightvol2",
+        "date_created":"6-23-2022",
+        "color":"teal",
+        "type":"famFued",
+        "status":"G",
+        "tags":["Misc","Gay"]
+    },
 ]

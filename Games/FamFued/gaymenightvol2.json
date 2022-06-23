@@ -1,0 +1,107 @@
+[
+    {
+        "question_text":"Name something you haven't done since high school gym class",
+        "answer_1":"Run a mile",
+        "answer_2":"Dodgeball",
+        "answer_3":"Push-ups",
+        "answer_4":"Sit-ups",
+        "answer_5":"Change in a locker room",
+        "answer_6":"Any Exercise"
+    },
+    {
+        "question_text":"Name a body part you would see a plastic surgeon about",
+        "answer_1":"Boobs",
+        "answer_2":"Nose",
+        "answer_3":"Belly",
+        "answer_4":"Lips",
+        "answer_5":"Butt",
+        "answer_6":"Face"
+    },
+    {
+        "question_text":"Which olympic sport would a cow look most funny doing?",
+        "answer_1":"Running",
+        "answer_2":"Swimming",
+        "answer_3":"Diving",
+        "answer_4":"Gymnastics",
+        "answer_5":"Figure Skating",
+        "answer_6":"Skiing"
+    },
+    {
+        "question_text":"Name a euphimism used for masturbation",
+        "answer_1":"Jerking Off",
+        "answer_2":"Wanking",
+        "answer_3":"Jacking Off",
+        "answer_4":"Touching Yourself",
+        "answer_5":"Play With Yourself",
+        "answer_6":"Choking The Chicken"
+    },
+    {
+        "question_text":"Name something you can ride",
+        "answer_1":"A Bike",
+        "answer_2":"The Bus",
+        "answer_3":"Scooter",
+        "answer_4":"Skateboard",
+        "answer_5":"A Wave",
+        "answer_6":"A dick"
+    },
+    {
+        "question_text":"Give me a common F***Boi Name",
+        "answer_1":"Chad",
+        "answer_2":"Jake",
+        "answer_3":"Connor",
+        "answer_4":"Brody",
+        "answer_5":"Tyler",
+        "answer_6":"Logan"
+    },
+    {
+        "question_text":"Name a bad job for someone afraid of heights",
+        "answer_1":"Window Washer",
+        "answer_2":"Pilot / Flight Attendant",
+        "answer_3":"Construction Worker",
+        "answer_4":"Firefighter",
+        "answer_5":"Skydiving Instructor",
+        "answer_6":"Trapeze Artist"
+    },
+    {
+        "question_text":"Name a popular Sitcom with a Gay Main Character",
+        "answer_1":"Modern Family (Mitch/Cam)",
+        "answer_2":"The Office (Oscar)",
+        "answer_3":"Schitts Creek (David)",
+        "answer_4":"Will & Grace (Will/Jack)",
+        "answer_5":"Kimmy Schmidt (Titus)",
+        "answer_6":"Brooklyn 99 (Rosa)"
+    },
+    {
+        "question_text":"Name a popular board game",
+        "answer_1":"Monopoly",
+        "answer_2":"Candyland",
+        "answer_3":"Chess/Checkers",
+        "answer_4":"Scrabble",
+        "answer_5":"Clue",
+        "answer_6":"Trivial Pursuit"
+    },
+    {
+        "questions":[
+            {
+                "question":"Give me a name for male genitals",
+                "answers":"Dick - 85 | Penis - 75 | Cock - 65 | Weiner - 55 | Willy - 45"
+            },
+            {
+                "question":"Name a color not in the rainbow",
+                "answers":"Pink - 76 | Black - 68 | Grey - 63 | Brown - 47 | White - 34"
+            },
+            {
+                "question":"Name a sexy game you'd play at a sleepover",
+                "answers":"Truth or Dare - 81 | Spin The bottle - 67 | Seven Minutes in Heaven - 56"
+            },
+            {
+                "question":"Name an activity you do naked",
+                "answers":"Shower - 71 | Sex - 68 | Change Clothes - 54 | Sleep - 47"
+            },
+            {
+                "question":"Name a loud activity your neighbors might do",
+                "answers":"Play the Drums - 89 | Fight - 73 | Sex - 62 | Party - 47"
+            }
+        ]
+    }
+]   
