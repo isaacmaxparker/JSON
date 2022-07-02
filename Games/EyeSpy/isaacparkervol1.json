@@ -34,22 +34,22 @@
                 "answer":"My Wings (Smoke Bombs)",
                 "imagename":"mywings"
             },
-            
+
             {
                 "type":"distortion",
                 "answer":"Day & Night Album Art",
                 "imagename":"daynight"
             },
             {
+                "type":"location",
+                "answer":"Mona Rope Swings (Sunset Fever)",
+                "imagename":"sunsetfever"
+            },
+            {
                 "type":"character",
                 "answer":"Isaac - My Wings Music Video (Neon)",
                 "imagename":"mywings"
             },
-            {
-                "type":"location",
-                "answer":"Mona Rope Swings (Sunset Fever)",
-                "imagename":"sunsetfever"
-            }
         ]
     }
 ]
