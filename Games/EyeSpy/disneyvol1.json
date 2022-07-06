@@ -1,0 +1,107 @@
+[
+    {
+        "columns":4,
+        "rows":4,
+        "foldername":"disneyvol1",
+        "questions":[
+            {
+                "category":"Disney/Pixar",
+                "type":"distortion",
+                "answer":"Luca",
+                "imagename":"luca"
+            },
+            {
+                "category":"Disney/Pixar",
+                "type":"character",
+                "answer":"Princess Venelope Von. Schweetz",
+                "imagename":"wreckitralph"
+            },
+            {
+                "category":"Marvel",
+                "type":"distortion",
+                "answer":"Thor Ragnarok Poster",
+                "imagename":"thor"
+            },
+            {
+                "category":"Disney Princess",
+                "type":"location",
+                "answer":"On the Lake with the Floating Lanterns",
+                "imagename":"tangled"
+            },
+            {
+                "category":"Disney Channel",
+                "type":"distortion",
+                "answer":"Hannah Montana",
+                "imagename":"hm"
+            },
+            {
+                "category":"Disney Princess",
+                "type":"character",
+                "answer":"Elsa, Kristoff, Sven, Olaf, Ana, Hans",
+                "imagename":"frozen"
+            },
+            {
+                "category":"Marvel",
+                "type":"charloc",
+                "answer":"Wanda Maximoff at Halloween in Wandavision",
+                "imagename":"wandavision"
+            },
+            {
+                "category":"Disney Channel Original",
+                "type":"location",
+                "answer":"The Spa in HSM2",
+                "imagename":"hsm"
+            },
+
+            {
+                "category":"Live Action Remakes",
+                "type":"distortion",
+                "answer":"Cinderella",
+                "imagename":"cinderella"
+            },
+            {
+                "category":"Marvel",
+                "type":"character",
+                "answer":"Hulk (Bruce Banner)",
+                "imagename":"endgame"
+            },
+            {
+                "category":"Disney Princess",
+                "type":"distortion",
+                "answer":"Belle & Beast",
+                "imagename":"belle"
+            },
+            {
+                "category":"Disney Channel",
+                "type":"character",
+                "answer":"Max Russo and Harper Finkle",
+                "imagename":"wizards"
+            },
+            {
+                "category":"Disney XD",
+                "type":"distortion",
+                "answer":"Phineas, Candace, Ferb",
+                "imagename":"phineasferb"
+            },
+            {
+                "category":"Star Wars",
+                "type":"distortion",
+                "answer":"Stormtroopers Fighting",
+                "imagename":"stormtroopers"
+            },
+            {
+                "category":"OG Disney",
+                "type":"character",
+                "answer":"Iago",
+                "imagename":"iago"
+            },
+            {
+                "category":"Vintage",
+                "type":"charloc",
+                "answer":"Steamboat Willie (Mickey Mouse)",
+                "imagename":"steamboat"
+            }
+        ]
+    }
+
+]
