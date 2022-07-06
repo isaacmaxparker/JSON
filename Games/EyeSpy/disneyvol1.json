@@ -29,16 +29,16 @@
                 "imagename":"tangled"
             },
             {
-                "category":"Disney Channel",
-                "type":"distortion",
-                "answer":"Hannah Montana",
-                "imagename":"hm"
-            },
-            {
                 "category":"Disney Princess",
                 "type":"character",
                 "answer":"Elsa, Kristoff, Sven, Olaf, Ana, Hans",
                 "imagename":"frozen"
+            },
+            {
+                "category":"Disney Channel",
+                "type":"distortion",
+                "answer":"Hannah Montana",
+                "imagename":"hm"
             },
             {
                 "category":"Marvel",
@@ -46,13 +46,6 @@
                 "answer":"Wanda Maximoff at Halloween in Wandavision",
                 "imagename":"wandavision"
             },
-            {
-                "category":"Disney Channel Original",
-                "type":"location",
-                "answer":"The Spa in HSM2",
-                "imagename":"hsm"
-            },
-
             {
                 "category":"Live Action Remakes",
                 "type":"distortion",
@@ -82,6 +75,12 @@
                 "type":"distortion",
                 "answer":"Phineas, Candace, Ferb",
                 "imagename":"phineasferb"
+            },
+            {
+                "category":"Disney Channel Original",
+                "type":"location",
+                "answer":"The Spa in HSM2",
+                "imagename":"hsm"
             },
             {
                 "category":"Star Wars",
