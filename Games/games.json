@@ -317,5 +317,15 @@
         "type":"eyespy",
         "status":"A",
         "tags":["Misc"]
+    },
+    {
+        "id":33,
+        "name":"Trivia Vol. 3",
+        "json_name":"trivia_wheel_3",
+        "date_created":"7-17-2022",
+        "color":"pink",
+        "type":"wheel",
+        "status":"A",
+        "tags":["Misc"]
     }
 ]

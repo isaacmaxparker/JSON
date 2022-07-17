@@ -245,6 +245,13 @@
       "role": "Support"
     },
     {
+      "name": "Shikanoin Heizou",
+      "rarity": 4,
+      "element": "Anemo",
+      "weapon": "Catalyst",
+      "role": "DPS"
+    },
+    {
       "name": "Sucrose",
       "rarity": 4,
       "element": "Anemo",
@@ -348,12 +355,5 @@
       "element": "Geo",
       "weapon": "Polearm",
       "role": "Support"
-    },
-    {
-      "name": "Shikanoin Heizou",
-      "rarity": 4,
-      "element": "Anemo",
-      "weapon": "Catalyst",
-      "role": "DPS"
     }
    ]
