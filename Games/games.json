@@ -327,5 +327,15 @@
         "type":"wheel",
         "status":"A",
         "tags":["Misc"]
+    },
+    {
+        "id":34,
+        "name":"Millenials Vs. Gen Z",
+        "json_name":"zellenial_trivia",
+        "date_created":"7-17-2022",
+        "color":"purple",
+        "type":"millionare",
+        "status":"A",
+        "tags":["Misc"]
     }
 ]

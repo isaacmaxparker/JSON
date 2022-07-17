@@ -1,0 +1,1002 @@
+[
+    {
+        "question_text":"What Company Made the Game Boy?",
+        "answers":{
+            "answer_1":"Atari",
+            "answer_2":"Nintendo",
+            "answer_3":"Microsoft",
+            "answer_4":"Nokia",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"FOMO is the fear of what?",
+        "answers":{
+            "answer_1":"Millenial Obnoxiousness",
+            "answer_2":"Materal Oversight",
+            "answer_3":"Mental Overload",
+            "answer_4":"Missing Out",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"How Many Feet of bubblegum are in a Bubble Tape?",
+        "answers":{
+            "answer_1":"Six",
+            "answer_2":"Four",
+            "answer_3":"Three",
+            "answer_4":"Two",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"The term 'On Fleek' was originally used to describe",
+        "answers":{
+            "answer_1":"Eyebrows",
+            "answer_2":"Outfits",
+            "answer_3":"Makeup",
+            "answer_4":"Shoes",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which social media platform uses an Egg as a default profile pic?",
+        "answers":{
+            "answer_1":"Twitter",
+            "answer_2":"Snapchat",
+            "answer_3":"Instagram",
+            "answer_4":"Pintrest",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Who stars in the 2003 Freaky Friday?",
+        "answers":{
+            "answer_1":"Lindsay Lohan and Jamie Lee Curtis",
+            "answer_2":"Lindsay Lohan and Jane Fonda",
+            "answer_3":"Hillary Duff and Jamie Lee Curtis",
+            "answer_4":"Hillary Duff and Jane Fonda",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"What year was the iPhone released",
+        "answers":{
+            "answer_1":"2007",
+            "answer_2":"2008",
+            "answer_3":"2009",
+            "answer_4":"2010",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"How would you caption the Spongebob meme?",
+        "answers":{
+            "answer_1":"JUST like THIS",
+            "answer_2":"~Just~ ~like~ ~this~",
+            "answer_3":"just... like... this...",
+            "answer_4":"jUsT LiKe ThIs",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which iphone app originally had a vintage TV icon?",
+        "answers":{
+            "answer_1":"YouTube",
+            "answer_2":"Netflix",
+            "answer_3":"Instagram",
+            "answer_4":"Hulu",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which way do you swipe on Tinder if you like them?",
+        "answers":{
+            "answer_1":"Right",
+            "answer_2":"Left",
+            "answer_3":"Up",
+            "answer_4":"Down",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"What will Ryan Gosling not eat in this iconic vine?",
+        "answers":{
+            "answer_1":"Cheese",
+            "answer_2":"Bread",
+            "answer_3":"Eggs",
+            "answer_4":"Cereal",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which of these toys did not come with a virtual world site? ",
+        "answers":{
+            "answer_1":"Furbies",
+            "answer_2":"Tamagotchis",
+            "answer_3":"Webkins",
+            "answer_4":"Neopets",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which band is Pete Wentz in?",
+        "answers":{
+            "answer_1":"Panic! At The Disco",
+            "answer_2":"Fall Out Boy",
+            "answer_3":"My Chemical Romance",
+            "answer_4":"The Killers",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"When I was a young boy my father too to the city to see what?",
+        "answers":{
+            "answer_1":"Marching Band",
+            "answer_2":"Foreign Land",
+            "answer_3":"Beaten and Damned",
+            "answer_4":"Black Parade",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"She's Indecesisive... She Can't _______",
+        "answers":{
+            "answer_1":"Decide",
+            "answer_2":"Not Lie",
+            "answer_3":"Move Along",
+            "answer_4":"Move On",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which song is not by the All American Rejects?",
+        "answers":{
+            "answer_1":"This is Gospel",
+            "answer_2":"Move Along",
+            "answer_3":"Swing Swing",
+            "answer_4":"Dirty Little Secret",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"In this Music Video, Britney Spears wears a red jumpsuit on Mars",
+        "answers":{
+            "answer_1":"Oops.. I Did It Again",
+            "answer_2":"Hit Me Baby One More Time",
+            "answer_3":"Toxic",
+            "answer_4":"3",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Who played the Joker in 2008's The Dark Night?",
+        "answers":{
+            "answer_1":"Heath Ledger",
+            "answer_2":"Jared Leto",
+            "answer_3":"Christian Bale",
+            "answer_4":"Joaquin Phoenix",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which show was Steve on?",
+        "answers":{
+            "answer_1":"Blue's Clues",
+            "answer_2":"Rugrats",
+            "answer_3":"Ed, Edd, 'n' Eddy",
+            "answer_4":"Hey Arnold",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which pokemon evolves from Ekans?",
+        "answers":{
+            "answer_1":"Arbok",
+            "answer_2":"Onyx",
+            "answer_3":"Machoke",
+            "answer_4":"Ekanite",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which Musical group did Beyonce come from?",
+        "answers":{
+            "answer_1":"Destiny's Child",
+            "answer_2":"The Pussycat Dolls",
+            "answer_3":"The Spice Girls",
+            "answer_4":"TLC",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"What did Gretchen Weiners' Dad invent?",
+        "answers":{
+            "answer_1":"Toaster Strudel",
+            "answer_2":"Pop Tarts",
+            "answer_3":"Capri Sun",
+            "answer_4":"Hot Pockets",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"What's My Chemical Romance?",
+        "answers":{
+            "answer_1":"Rock Band",
+            "answer_2":"Men's Cologne",
+            "answer_3":"Clothing Brand",
+            "answer_4":"Punk Teen Movie",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Who upstaged Katy Perry at the super bowl?",
+        "answers":{
+            "answer_1":"Left Shark",
+            "answer_2":"Right Shark",
+            "answer_3":"The Beach Ball",
+            "answer_4":"Kanye West",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which Disney Channel Show starred Raini Rodriguez?",
+        "answers":{
+            "answer_1":"Austin & Ally",
+            "answer_2":"Wizards of Waverly Place",
+            "answer_3":"Sonny With A Chance",
+            "answer_4":"Suite Life of Zach & Cody",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"This famous dog has over 20 million followers on Tik Tok",
+        "answers":{
+            "answer_1":"Teddy",
+            "answer_2":"JiffPom",
+            "answer_3":"Larry",
+            "answer_4":"Lil Puff",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Who stars in Sam & Cat?",
+        "answers":{
+            "answer_1":"Ariana Grande & Jennifer McCurdy",
+            "answer_2":"Ariana Grande & Jennette McCurdy",
+            "answer_3":"Victoria Justice & Janet McCurdy",
+            "answer_4":"Victoria Justice & Jenny McCurdy",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"In the Wellerman Sea Shanty what did the boat bring?",
+        "answers":{
+            "answer_1":"Coffee & Biscuits",
+            "answer_2":"Sugar, Tea, Rum",
+            "answer_3":"Whale Oil",
+            "answer_4":"Nothing",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"What is the name of Kylie Jenner's Baby?",
+        "answers":{
+            "answer_1":"Raini",
+            "answer_2":"Stormi",
+            "answer_3":"North",
+            "answer_4":"True",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"What does smh mean? ",
+        "answers":{
+            "answer_1":"So Much Hate",
+            "answer_2":"Shaking My Head",
+            "answer_3":"Saving My Heart",
+            "answer_4":"So many Hecks",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which mumble rapper dated Noah Cyrus?",
+        "answers":{
+            "answer_1":"Lil Pump",
+            "answer_2":"Lil Xan",
+            "answer_3":"21 Savage",
+            "answer_4":"6ix 9ine",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Who has not dated Taylor Swift?",
+        "answers":{
+            "answer_1":"Jake Gyllenhall",
+            "answer_2":"Nick Jonas",
+            "answer_3":"Harry Styles",
+            "answer_4":"Calvin Harris",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"What is the Yodel Boy's real name?",
+        "answers":{
+            "answer_1":"Jacob Sartorius",
+            "answer_2":"Mason Ramsey",
+            "answer_3":"Ansel Elgort",
+            "answer_4":"Dylan O'Brien",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"The actress for Taylor Swift's All Too Well video also stars in",
+        "answers":{
+            "answer_1":"The Kissing Booth",
+            "answer_2":"Stranger Things",
+            "answer_3":"To All The Boys I've Loved",
+            "answer_4":"Love, Victor",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"What do you call a secondary Instagram only for close friends?",
+        "answers":{
+            "answer_1":"ScamGram",
+            "answer_2":"Finsta",
+            "answer_3":"Anonogram",
+            "answer_4":"Privista",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which TV Show has Ariana Grande not been on?",
+        "answers":{
+            "answer_1":"Victorious",
+            "answer_2":"American Horror Story",
+            "answer_3":"Sam & Cat",
+            "answer_4":"Scream Queens",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which Dance Moms girl went on to star in Sia's music videos",
+        "answers":{
+            "answer_1":"Jojo Siwa",
+            "answer_2":"Maddie Ziegler",
+            "answer_3":"Bhad Bhabie",
+            "answer_4":"Bebe Rexha",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which of these is not an Olivia Rodrigo song?",
+        "answers":{
+            "answer_1":"good 4 u",
+            "answer_2":"good for you",
+            "answer_3":"brutal",
+            "answer_4":"deja vu",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"The ice Bucket challenge was to raise money for ___ research",
+        "answers":{
+            "answer_1":"Cancer",
+            "answer_2":"MS",
+            "answer_3":"ALS",
+            "answer_4":"Diabetes",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Rue, Mady, and Cassie are from which show?",
+        "answers":{
+            "answer_1":"Outer Banks",
+            "answer_2":"Euphoria",
+            "answer_3":"Stranger Things",
+            "answer_4":"Girls",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which of these is a tik tok dance",
+        "answers":{
+            "answer_1":"The Cupid Shuffle",
+            "answer_2":"Renegade",
+            "answer_3":"Gangnam Style",
+            "answer_4":"Single Ladies",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Who doesn't star in Pitch Perfect?",
+        "answers":{
+            "answer_1":"Anna Kendrick",
+            "answer_2":"Aubrey Plaza",
+            "answer_3":"Rebel Wilson",
+            "answer_4":"Ben Platt",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Janet Snakehole and Bert Macklin are from what show?",
+        "answers":{
+            "answer_1":"The Office",
+            "answer_2":"Parks and Rec",
+            "answer_3":"Friends",
+            "answer_4":"New Girl",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Robin Sherbatsky's job is:",
+        "answers":{
+            "answer_1":"Architect",
+            "answer_2":"TV Anchor",
+            "answer_3":"Kindergarten Teacher",
+            "answer_4":"Lawyer",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which popular sitcom outraged fans with it's finale?",
+        "answers":{
+            "answer_1":"Friends",
+            "answer_2":"How I Met Your Mother",
+            "answer_3":"The Office",
+            "answer_4":"Parks and Rec",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which song is not from How I Met Your Mother?",
+        "answers":{
+            "answer_1":"Let's Go To The Mall",
+            "answer_2":"Sandcastles in the Sand",
+            "answer_3":"Smelly Cat",
+            "answer_4":"Hey Beautiful",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"The Dress that caused all the arguments was revealed to actually be...",
+        "answers":{
+            "answer_1":"Black and Gold",
+            "answer_2":"Black and Blue",
+            "answer_3":"White and Blue",
+            "answer_4":"White and Gold",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Who sings 'Stay' with Justin Bieber?",
+        "answers":{
+            "answer_1":"Jack Harlow",
+            "answer_2":"The Kid Laroi",
+            "answer_3":"Shawn Mendes",
+            "answer_4":"Conan Grey",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"You gave me your sweater, but you like ____ better?",
+        "answers":{
+            "answer_1":"Jennifer",
+            "answer_2":"Heather",
+            "answer_3":"Taylor",
+            "answer_4":"her",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which is not a Doja Cat song?",
+        "answers":{
+            "answer_1":"Woman",
+            "answer_2":"Rumors",
+            "answer_3":"Kiss Me More",
+            "answer_4":"I'm a Cow",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which TV Show is not based on a comic?",
+        "answers":{
+            "answer_1":"Riverdale",
+            "answer_2":"Heartstopper",
+            "answer_3":"Chilling Tales of Sabrina the Witch",
+            "answer_4":"None of the Above",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"What is Tea to a Gen Z?",
+        "answers":{
+            "answer_1":"Still just a drink",
+            "answer_2":"Something that soothes you",
+            "answer_3":"Gossip",
+            "answer_4":"A Rude Person",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"What does Skurt mean?",
+        "answers":{
+            "answer_1":"A Dress that's been cut into a skirt",
+            "answer_2":"Going to a party",
+            "answer_3":"Going Away",
+            "answer_4":"Driving fast",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"What are you if you need attention?",
+        "answers":{
+            "answer_1":"A Queeen",
+            "answer_2":"Hungry",
+            "answer_3":"Thirsty",
+            "answer_4":"Basic",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"What's it called when two bros are really good friends?",
+        "answers":{
+            "answer_1":"Bromo",
+            "answer_2":"Brosefs",
+            "answer_3":"Bromance",
+            "answer_4":"Brotacular",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which quote is from Drake & Josh?",
+        "answers":{
+            "answer_1":"You Will Rue The Day",
+            "answer_2":"WILL YOU KILL THE DISCO",
+            "answer_3":"I Ain't Calling You a Truther",
+            "answer_4":"Whatcha Got There?",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which is not real?",
+        "answers":{
+            "answer_1":"Smencils",
+            "answer_2":"Silly Bandz",
+            "answer_3":"Spritz",
+            "answer_4":"Silly Erasers",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"What is a stan?",
+        "answers":{
+            "answer_1":"A Dance on TikTok",
+            "answer_2":"A Friend who likes all your posts",
+            "answer_3":"An obsessed fan",
+            "answer_4":"Someone who makes you laugh",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which platform can you go live on?",
+        "answers":{
+            "answer_1":"Youtube",
+            "answer_2":"TikTok",
+            "answer_3":"Facebook",
+            "answer_4":"None of the Above",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which is not an OG Meme",
+        "answers":{
+            "answer_1":"Obsessed Girlfriend",
+            "answer_2":"Willy Wonka",
+            "answer_3":"Kombucha Girl",
+            "answer_4":"Cereal Guy",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"This meme follows Bad Luck _____",
+        "answers":{
+            "answer_1":"Bob",
+            "answer_2":"Brian",
+            "answer_3":"Billy",
+            "answer_4":"Brandon",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"I Like ____",
+        "answers":{
+            "answer_1":"Trains",
+            "answer_2":"Turtles",
+            "answer_3":"Horses",
+            "answer_4":"Brains",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which YouTube series is a series of animated short jokes?",
+        "answers":{
+            "answer_1":"The Annoying Orange",
+            "answer_2":"ASDF",
+            "answer_3":"PewDiPie",
+            "answer_4":"Smosh",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"What YouTube video starts out happy and ends dark",
+        "answers":{
+            "answer_1":"Baman & Piderman",
+            "answer_2":"Salad Fingers",
+            "answer_3":"Shrek is Love",
+            "answer_4":"Don't Hug My I'm Scared",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"I Made ____ for you!",
+        "answers":{
+            "answer_1":"12 Waffles",
+            "answer_2":"Muffins",
+            "answer_3":"Hot Kool-Aid",
+            "answer_4":"Randy",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Carl that kills people! You stabbed him ____ times in the chest",
+        "answers":{
+            "answer_1":"27",
+            "answer_2":"37",
+            "answer_3":"47",
+            "answer_4":"67",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which Animated Character dances to Material Girl on Tik Tok?",
+        "answers":{
+            "answer_1":"Elastigirl",
+            "answer_2":"A Minion",
+            "answer_3":"Shrek",
+            "answer_4":"Lord Farquad",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which rock band did the sound track for Big Hero 6",
+        "answers":{
+            "answer_1":"Panic! At The Disco",
+            "answer_2":"My Chemical Romance",
+            "answer_3":"Fall Out Boy",
+            "answer_4":"The All-American Rejects",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"This Country band had us 'stuck like glue'",
+        "answers":{
+            "answer_1":"Lady Antebellum",
+            "answer_2":"The Band Perry",
+            "answer_3":"Sugarland",
+            "answer_4":"Florida Georgia Line",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Who sings about the Death of a Bachelor?",
+        "answers":{
+            "answer_1":"Brendon Urie",
+            "answer_2":"Dan Reynolds",
+            "answer_3":"Brandon Flowers",
+            "answer_4":"Pete Wentz",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Who sang so horribly at the NBA All Star Game the players laughed?",
+        "answers":{
+            "answer_1":"Nicki Minaj",
+            "answer_2":"Shakira",
+            "answer_3":"Fergie",
+            "answer_4":"Selena Gomez",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Hey Hey, You You, I Don't Like Your",
+        "answers":{
+            "answer_1":"Style",
+            "answer_2":"Attitude",
+            "answer_3":"Girlfriend",
+            "answer_4":"Boyfriend",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which Song is not an iconic Millenial Song?",
+        "answers":{
+            "answer_1":"Dynamite",
+            "answer_2":"I Gotta Feeling",
+            "answer_3":"Levitating",
+            "answer_4":"Evacuate The Dancefloor",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Who is a Unicorn and a finger biter?",
+        "answers":{
+            "answer_1":"Charlie",
+            "answer_2":"Carl",
+            "answer_3":"Jojo",
+            "answer_4":"Shaun",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Who is not in the original Smash Bros game?",
+        "answers":{
+            "answer_1":"Mario",
+            "answer_2":"Kirby",
+            "answer_3":"Samus",
+            "answer_4":"Luigi",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which horror video game features a faceless villan?",
+        "answers":{
+            "answer_1":"The Life of Steve",
+            "answer_2":"Five Nights at Freddies",
+            "answer_3":"Call of Duty: Zombies",
+            "answer_4":"Slenderman",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which band is three brothers?",
+        "answers":{
+            "answer_1":"The Jonas Brothers",
+            "answer_2":"AJR",
+            "answer_3":"Hanson",
+            "answer_4":"All of the Above",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"The bend and snap is from which movie?",
+        "answers":{
+            "answer_1":"High School Musical",
+            "answer_2":"She's The Man",
+            "answer_3":"Mean Girls",
+            "answer_4":"Legally Blonde",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"What was the name of the OG Youtuber with the high voice?",
+        "answers":{
+            "answer_1":"Fred",
+            "answer_2":"Liam Kyle Sullivan",
+            "answer_3":"Julian Smith",
+            "answer_4":"Owl City",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Who made us all Whip Our Hair?",
+        "answers":{
+            "answer_1":"Jojo Siwa",
+            "answer_2":"Iggy Azalea",
+            "answer_3":"Rebecca Black",
+            "answer_4":"Willow Smith",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"In July 2019, thousands of people RSVP'd to storm what government building?",
+        "answers":{
+            "answer_1":"The White House",
+            "answer_2":"The Smithsonian",
+            "answer_3":"The pentagon",
+            "answer_4":"Area 51",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which animated movie featured Jerry Seinfeld?",
+        "answers":{
+            "answer_1":"Despicable Me",
+            "answer_2":"The Bee Movie",
+            "answer_3":"Bug's Life",
+            "answer_4":"Shrek 4",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"'I don't get no sleep cause of y'all' is set to what Fifth Harmony song?",
+        "answers":{
+            "answer_1":"Worth It",
+            "answer_2":"Work from Home",
+            "answer_3":"All In My Head",
+            "answer_4":"Don't Say You Love Me",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"What kind of Sugar does Harry styles like?",
+        "answers":{
+            "answer_1":"Strawberry",
+            "answer_2":"Raspberry",
+            "answer_3":"Blueberry",
+            "answer_4":"Watermelon",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Who sings Genie in a Bottle?",
+        "answers":{
+            "answer_1":"Britney Spears",
+            "answer_2":"Beyonce",
+            "answer_3":"Madonna",
+            "answer_4":"Christina Aguilera",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which company has the famous super bowl commerical 'Where's the Beef?'",
+        "answers":{
+            "answer_1":"McDonalds",
+            "answer_2":"Arby's",
+            "answer_3":"Taco Bell",
+            "answer_4":"WEndys",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Who is not an iconic SNL character?",
+        "answers":{
+            "answer_1":"Debbie Downer",
+            "answer_2":"Penelope",
+            "answer_3":"Walmart Lady",
+            "answer_4":"Stefan",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"This TV show launched the careers of Kelly Clarkson, Carrie Underwood, and Scotty McCreery",
+        "answers":{
+            "answer_1":"The Voice",
+            "answer_2":"America's Got Talent",
+            "answer_3":"The X Factor",
+            "answer_4":"American Idol",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which football player protested by taking a knee during the national anthem?",
+        "answers":{
+            "answer_1":"Russel Wilson",
+            "answer_2":"Odell Beckham Jr.",
+            "answer_3":"Tom Brady",
+            "answer_4":"Colin Kapernick",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which pop star voiced Smurfette?",
+        "answers":{
+            "answer_1":"Lady Gaga",
+            "answer_2":"Avril Lavigne",
+            "answer_3":"Shakira",
+            "answer_4":"Katy Perry",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which original Avenger is basically useless?",
+        "answers":{
+            "answer_1":"Hulk",
+            "answer_2":"Thor",
+            "answer_3":"Iron Man",
+            "answer_4":"Hawkeye",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Who is famous for saying \"I'm only here so I don't get fined\"?",
+        "answers":{
+            "answer_1":"Marshawn Lynch",
+            "answer_2":"Russel Wilson",
+            "answer_3":"Odell Beckam Jr.",
+            "answer_4":"None of the Above",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which sitcom characters did not have a Will They/Wont They relationship?",
+        "answers":{
+            "answer_1":"Ross Geller & Rachel Green",
+            "answer_2":"Ted Mosby & Robin Scherbatsky",
+            "answer_3":"Leslie Knope & Ron Swanson",
+            "answer_4":"Nick Nelson & Charlie Spring",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which Primate touched our hearts when he was killed?",
+        "answers":{
+            "answer_1":"Bubbles the Chimp",
+            "answer_2":"Bear the Chimpanzee",
+            "answer_3":"George the Monkey",
+            "answer_4":"Harambe the Gorilla",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which Sitcom Characters are not siblings?",
+        "answers":{
+            "answer_1":"Ross & Monica Geller",
+            "answer_2":"Deandra & Dennis Reynolds",
+            "answer_3":"Claire Dunphy & Mitchell Pritchett",
+            "answer_4":"Lily Aldrin & Marshall Erikson",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Who joined the Miami Heat in 2010?",
+        "answers":{
+            "answer_1":"Michael Jordan",
+            "answer_2":"Dwayne Wade",
+            "answer_3":"Kevin Durrant",
+            "answer_4":"Lebron James",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which NFL team was rewsponsible for Deflategate?",
+        "answers":{
+            "answer_1":"The Patriots",
+            "answer_2":"The Giants",
+            "answer_3":"The Seahawks",
+            "answer_4":"The Broncos",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which TV Drama famously accidentally had a starbucks cup in one episode",
+        "answers":{
+            "answer_1":"Haunting of Hill House",
+            "answer_2":"Supernatural",
+            "answer_3":"Merlin",
+            "answer_4":"Game of Thrones",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"What was the name of the festival that was half built?",
+        "answers":{
+            "answer_1":"Fyre Island",
+            "answer_2":"Festival X",
+            "answer_3":"Coachella",
+            "answer_4":"Fyre Festival",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"What was the name of the trend where peole would lay horizontally in weird places?",
+        "answers":{
+            "answer_1":"Possuming",
+            "answer_2":"Mannequin Challenge",
+            "answer_3":"Tebowing",
+            "answer_4":"Planking",
+            "right_answer":4
+        }
+    }
+]
