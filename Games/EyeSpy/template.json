@@ -2,6 +2,7 @@
     {
         "columns":4,
         "rows":4,
+        "foldername":null,
         "questions":[
             {
                 "category":"",
