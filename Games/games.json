@@ -266,7 +266,7 @@
         "color":"green",
         "type":"famFued",
         "status":"G",
-        "tags":["Misc","Gay"]
+        "tags":["Gay"]
     },
     {
         "id":28,
@@ -276,7 +276,7 @@
         "color":"pink",
         "type":"jeopardy",
         "status":"G",
-        "tags":["Misc","Gay"]
+        "tags":["Gay"]
     },
     {
         "id":29,
@@ -286,7 +286,7 @@
         "color":"teal",
         "type":"famFued",
         "status":"G",
-        "tags":["Misc","Gay"]
+        "tags":["Gay"]
     },
     {
         "id":30,
@@ -347,5 +347,25 @@
         "type":"eyespy",
         "status":"A",
         "tags":["Misc"]
+    },
+    {
+        "id":36,
+        "name":"Gayme Night Vol. 2",
+        "json_name":"gaymenightvol2",
+        "date_created":"8-22-2022",
+        "color":"pink",
+        "type":"jeopardy",
+        "status":"A",
+        "tags":["Gay"]
+    },
+    {
+        "id":37,
+        "name":"Infatuation Album",
+        "json_name":"infatuation",
+        "date_created":"8-23-2022",
+        "color":"white",
+        "type":"jeopardy",
+        "status":"A",
+        "tags":["Misc", "IPM"]
     }
 ]
