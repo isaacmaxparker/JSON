@@ -1,0 +1,489 @@
+[
+    {
+        "round_one":[
+            {
+                "category_name": "Graveyard",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is a tombstone",
+                        "answer": "Graveyards are full of these rock slabs"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is intro",
+                        "answer": "The subscript to this song"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is Skeleton",
+                        "answer": "Everybody has a few of these in their closet"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is a mausoleum",
+                        "answer": "This graveyard building hosts multiple graves inside. Typically made of stone"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is she wolf / loba",
+                        "answer": "This shakira song inspired the bridge's 'Let the wolves out of the closet' motif"
+                    }
+                ]
+            },
+            {
+                "category_name": "Lovestruck",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"who is Avril Lavigne",
+                        "answer": "The style of this song was inspired by this 'Girlfriend' punk diva"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is sucks",
+                        "answer": "Love ______"
+                    },
+                    {
+                        "points":600,
+                        "question":"Who is Cupid",
+                        "answer": "The roman mythological character referenced in the bridge"
+                    },
+                    {
+                        "points":800,
+                        "question":"What are Rollercoaster and Ferris Wheel",
+                        "answer": "These two amusement park attractions are used as metaphors for the chaotic nature of dating"
+                    },
+                    {
+                        "points":1000,
+                        "question":"Who is Simple Plan",
+                        "answer": "The bridge references the Scooby Doo theme song sung by this band"
+                    }
+                ]
+            },
+            {
+                "category_name": "Let Me Go",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Let It Go",
+                        "answer": "The popular 'Frozen' single that sounds like this song"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is Let Her Go",
+                        "answer": "The popular Passenger song from our millenial childhoods that sounds like this song"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is Let's go",
+                        "answer": "This Calvin Harris/Neyo club track sounds like this song minus one word"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Heartstopper",
+                        "answer": "This Netflix drama featuring Nick Nelson and Charlie Spring inspired the vibe of this song"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is muse",
+                        "answer": "You'll be the artist and I'll be this greek mytholgy reference"
+                    }
+                ]
+            },
+            {
+                "category_name": "Without You",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"Who is David Guetta",
+                        "answer": "This 'Titanium' and 'She Wolf' producer also has a song called Without You"
+                    },
+                    {
+                        "points":400,
+                        "question":"The 90s jean jacket",
+                        "answer": "The article of clothing associated with the single release of this song"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is Meant to Be",
+                        "answer": "The prechorus line was inspired by this Florida Georgia Line and Bebe Rexha 2015 hit song"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Rifftide",
+                        "answer": "In the fire burning scene Isaac burnt old picture from his acapella group named: "
+                    },
+                    {
+                        "points":1000,
+                        "question":"Who is Jake",
+                        "answer": "The name of the guy who calls and causes Isaac's accident in the MV"
+                    }
+                ]
+            },
+            {
+                "category_name": "Americana",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is baseball",
+                        "answer": "America's favorite pasttime"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is a malt",
+                        "answer": "A delicious ice cream drink associated with Americana era dates"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is bluegrass",
+                        "answer": "This music genre is often associated with the term Americana"
+                    },
+                    {
+                        "points":800,
+                        "question":"Who is Lana Del Ray",
+                        "answer": "The intro to Americana is inspired by this 'Born to Die' singer"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is a Bored Housewife or Starlet Gold",
+                        "answer": "We're not in Hollywood, but what is everyone acting like?"
+                    }
+                ]
+            },
+            {
+                "category_name": "Undercover",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is miss congeniality",
+                        "answer": "This Sandra Bullock comedy is about her going undercover as a beauty pageant contestant"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is White Chicks",
+                        "answer": "This Wayans Brothers comedy is about two black agents going undercover as caucasian socialites"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is 21 Jumpstreet",
+                        "answer": "This Channing Tatum/Jonah Hill Comedy is about them going undercover as high school students"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Hot",
+                        "answer": "The word repeated three times in the chorus, meaning high temperatures"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is Blonde",
+                        "answer": "The hair color of Isaac's love interest in the song. (Also used in Mosquito)"
+                    }
+                ]
+            },
+            {
+                "category_name": "Summer Love",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Mamma Mia",
+                        "answer": "this ABBA inspired musical takes place in the summer and is all about love"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is Grease",
+                        "answer": "The Olivia Newton-John musical with a famous song with a similar title"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is 1967",
+                        "answer": "This was the year of the famous 'Summer of Love'"
+                    },
+                    {
+                        "points":800,
+                        "question":"Who are Red Velvet, TWICE, Blackpink",
+                        "answer": "The lyrics reference songs from these three of Isaac's favorite K-Pop Girl Groups"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is seventeen",
+                        "answer": "The number of prizes I offer to win at the carnival in the second verse, often associated with youth."
+                    }
+                ]
+            },
+            {
+                "category_name": "Mosquito",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is a mosquito",
+                        "answer": "Like vampires, this insect sucks your blood"
+                    },
+                    {
+                        "question":"What is Z",
+                        "answer": "The letter Isaac uses to make the mosquito noise"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is an elephant",
+                        "answer": "The animal noise that plays before any drop"
+                    },
+                    {
+                        "points":800,
+                        "question":"Who is Janet Jackson",
+                        "answer": "The drumbeat/production is inspired by this Jackson 5 80s pop diva's music"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is SIMP",
+                        "answer": "Isaac calls this the ____ song. (Gen Z Word for being obsessed)"
+                    }
+                ]
+            }
+        ],
+        "round_two":[
+            {
+                "category_name": "Who You Love",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is Love Who You Love",
+                        "answer": "The chorus features a play on this common LGBT phrase"
+                    },
+                    {
+                        "points":800,
+                        "question":"Who are the Chainsmokers",
+                        "answer": "5SOS collabed with this 'Selfie' DJ group to make a song called 'Who Do You Love'"
+                    },
+                    {
+                        "points":1200,
+                        "question":"Who is Rebekah Golden",
+                        "answer": "The name of the girl featured on this song"
+                    },
+                    {
+                        "points":1600,
+                        "question":"Who is Miranda Lambert",
+                        "answer": "Isaac's favorite country singer who's song 'Fire Escape' inspired the subtle country undertones to this song."
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is water",
+                        "answer": "This liquid that normally sustains life is tainted by your memory, making it unusable now. (1st prechorus)"
+                    }
+                ]
+            },
+            {
+                "category_name": "Daisy",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is a Flower",
+                        "answer": "The type of plant daises are"
+                    },
+                    {
+                        "points":800,
+                        "question":"What are white and yellow",
+                        "answer": "The two colors in the most common daisy variety"
+                    },
+                    {
+                        "points":1200,
+                        "question":"Who is Princess Peach",
+                        "answer": "The super smash bros character with a similar move set to 'Daisy'"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is perennial",
+                        "answer": "The name for a flower that comes back every year, like a daisy"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is a broken arm",
+                        "answer": "In the song, what ailment would you not go to the bad doctor with"
+                    }
+                ]
+            },
+            {
+                "category_name": "Lose My Mind",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is crazy rich asians",
+                        "answer": "This 2018 romantic comedy was all about how rich orientals who may have lost their minds live"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Lose Yourself",
+                        "answer": "This EMINEM iconic track starts with the same word as this song"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is Damn",
+                        "answer": "The naughty word Isaac says for the first time in this song"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is a marble",
+                        "answer": "A circular ball used for games that can be substituted for `mind` in the phrase 'have you lost your mind'"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is before he cheats, crazy ex girlfriend, picture to burn",
+                        "answer": "Two of the three songs referenced in the sub-melody at the end of the song. (hint: you can look up the lyrics teams)"
+                    }
+                ]
+            },
+            {
+                "category_name": "Happy",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is clap your hands",
+                        "answer": "If you are feeling the feeling of happiness and that is a fact you are cognizant of then you should do this"
+                    },
+                    {
+                        "points":800,
+                        "question":"Who is Pharell Williams",
+                        "answer": "This big-hatted singer had a mega hit named 'Happy' during our childhood"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is don't worry be happy",
+                        "answer": "This Bobby McFerrin tune is easily identified by this whistle: "
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is yellow",
+                        "answer": "The color of the iphone blended drink from the happy music video"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is a flower crown",
+                        "answer": "The accessory Isaac wore in the single art for this song"
+                    }
+                ]
+            },
+            {
+                "category_name": "Jake",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"Who is Jake Gyllenhaal",
+                        "answer": "The Jake all swifties hate"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is wizards of waverly place",
+                        "answer": "Jake T. Austin plays Max Russo in this Disney Channel Favorite"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is brooklyn 99",
+                        "answer": "Jake Peralta is a cop in this NBC ensemble comedy"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is Kejay",
+                        "answer": "The name of the actual boy Jake is about, hidden in the phrase `That's the key jake`"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What are break, shake, take, fake",
+                        "answer": "The four words from the chorus that rhyme with Jake (Hint: world to ____, lies are ____, ____ what you want, promises you can't just ____)"
+                    }
+                ]
+            },
+            {
+                "category_name": "Sexy",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is 69",
+                        "answer": "The sexiest number"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is the 1920s",
+                        "answer": "The word sexy was first used in this roaring decade"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is People",
+                        "answer": "The magazine that features the Sexiest man alive"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is Bitch",
+                        "answer": "The bad word Isaac says for the first time in this song"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What are 3,4",
+                        "answer": "The two numbers that are skipped during the intro count in?"
+                    }
+                ]
+            },
+            {
+                "category_name": "Fine",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is a library",
+                        "answer": "This home for nerds gives you a fine for late returns"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Blockbuster",
+                        "answer": "This extinct relic with a yellow ticket logo would give you a fine for late returns. "
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is course",
+                        "answer": "The opposite of fine (texture)"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is O (foine)",
+                        "answer": "This vowel when added to 'Fine' makes it a frat boy way to compliment a woman"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Pirate",
+                        "answer": "Isaac has often referred to this as his _____ drinking song. (hint: isaacparkermusic.com album description)"
+                    }
+                ]
+            },
+            {
+                "category_name": "Infatuation",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is this album",
+                        "answer": "This song's title shares a name with this other thing Isaac made"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is the Greatest Showman",
+                        "answer": "'A Million Dreams' is a reference to this musical movie"
+                    },
+                    {
+                        "points":1200,
+                        "question":"Who is Dolly Parton",
+                        "answer": "The artist that Isaac claims was playing in the first verse (in reality it was Taylor Swift's Enchanted)"
+                    },
+                    {
+                        "points":1600,
+                        "question":"????",
+                        "answer": "One of the cheesy pickup lines that inspired the choruses"
+                    },
+                    {
+                        "points":4000,
+                        "question":"What is Enchanted, The Story of Us, Love Story",
+                        "answer": "The bridge of this song references these three Taylor Swift songs"
+                    }
+                ]
+            }
+        ],
+        "final_questions":"Name 4 out of the 8 objects that represent Americana in the album art. NO PEEKING YOU CHEATING CHEATERS",
+        "final_answers":"Milkshake, Baseball Bats, Baseball, Red Convertible, Motel Signs, Route 66 sign, Palm Trees, Records"
+    }
+]
