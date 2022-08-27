@@ -1,401 +1,496 @@
 [
     {
-        "id":1,
-        "name":"Ending 2020",
-        "json_name":"first_millionare",
-        "date_created":"12-28-2020",
-        "color":"purple",
-        "type":"millionare",
-        "status":"A",
-        "tags":["Misc"]
+        "id": 1,
+        "name": "Ending 2020",
+        "json_name": "first_millionare",
+        "date_created": "12-28-2020",
+        "color": "purple",
+        "type": "millionare",
+        "status": "A",
+        "tags": [
+            "Misc"
+        ]
     },
     {
-        "id":2,
-        "name":"First Game",
-        "json_name":"firstgame",
-        "date_created":"12-27-2020",
-        "color":"blue",
-        "type":"famFued",
-        "status":"A",
-        "tags":["Misc"]
+        "id": 2,
+        "name": "First Game",
+        "json_name": "firstgame",
+        "date_created": "12-27-2020",
+        "color": "blue",
+        "type": "famFued",
+        "status": "A",
+        "tags": [
+            "Misc"
+        ]
     },
     {
-        "id":3,
-        "name":"Chinese New Year",
-        "json_name":"chinese_new_year",
-        "date_created":"02-16-2021",
-        "color":"red",
-        "type":"jeopardy",
-        "status":"T",
-        "tags":["Holiday"]
+        "id": 3,
+        "name": "Chinese New Year",
+        "json_name": "chinese_new_year",
+        "date_created": "02-16-2021",
+        "color": "red",
+        "type": "jeopardy",
+        "status": "T",
+        "tags": [
+            "Holiday"
+        ]
     },
     {
-        "id":4,
-        "name":"Becca's Birthday",
-        "json_name":"beccas_bday",
-        "date_created":"02-24-2021",
-        "color":"green",
-        "type":"jeopardy",
-        "status":"F",
-        "tags":[]
+        "id": 4,
+        "name": "Becca's Birthday",
+        "json_name": "beccas_bday",
+        "date_created": "02-24-2021",
+        "color": "green",
+        "type": "jeopardy",
+        "status": "F",
+        "tags": []
     },
     {
-        "id":5,
-        "name":"Pizza Party",
-        "json_name":"pizza_party",
-        "date_created":"04-29-2021",
-        "color":"red",
-        "type":"jeopardy",
-        "status":"A",
-        "tags":[]
+        "id": 5,
+        "name": "Pizza Party",
+        "json_name": "pizza_party",
+        "date_created": "04-29-2021",
+        "color": "red",
+        "type": "jeopardy",
+        "status": "A",
+        "tags": []
     },
     {
-        "id":6,
-        "name":"Mother's Day",
-        "json_name":"mothers_day",
-        "date_created":"05-09-2021",
-        "color":"pink",
-        "type":"jeopardy",
-        "status":"F",
-        "tags":[]
+        "id": 6,
+        "name": "Mother's Day",
+        "json_name": "mothers_day",
+        "date_created": "05-09-2021",
+        "color": "pink",
+        "type": "jeopardy",
+        "status": "F",
+        "tags": []
     },
     {
-        "id":7,
-        "name":"Father's Day",
-        "json_name":"fathersday",
-        "date_created":"06-18-2021",
-        "color":"blue",
-        "type":"famFued",
-        "status":"A",
-        "tags":[]
+        "id": 7,
+        "name": "Father's Day",
+        "json_name": "fathersday",
+        "date_created": "06-18-2021",
+        "color": "blue",
+        "type": "famFued",
+        "status": "A",
+        "tags": []
     },
     {
-        "id":8,
-        "name":"Summertime Price",
-        "json_name":"summer_price",
-        "date_created":"07-20-2021",
-        "color":"teal",
-        "type":"price",
-        "status":"A",
-        "tags":[]
+        "id": 8,
+        "name": "Summertime Price",
+        "json_name": "summer_price",
+        "date_created": "07-20-2021",
+        "color": "teal",
+        "type": "price",
+        "status": "A",
+        "tags": []
     },
     {
-        "id":9,
-        "name":"Halloween Price",
-        "json_name":"halloween_price",
-        "date_created":"10-03-2021",
-        "color":"orange",
-        "type":"price",
-        "status":"A",
-        "tags":[]
+        "id": 9,
+        "name": "Halloween Price",
+        "json_name": "halloween_price",
+        "date_created": "10-03-2021",
+        "color": "orange",
+        "type": "price",
+        "status": "A",
+        "tags": []
     },
     {
-        "id":10,
-        "name":"Thanks-gay-ving",
-        "json_name":"thanksgayving",
-        "date_created":"11-19-2021",
-        "color":"orange",
-        "type":"famFued",
-        "status":"G",
-        "tags":["Holiday"]
+        "id": 10,
+        "name": "Thanks-gay-ving",
+        "json_name": "thanksgayving",
+        "date_created": "11-19-2021",
+        "color": "orange",
+        "type": "famFued",
+        "status": "G",
+        "tags": [
+            "Holiday"
+        ]
     },
     {
-        "id":11,
-        "name":"Thanks-gay-ving",
-        "json_name":"thanksgayving",
-        "date_created":"11-19-2021",
-        "color":"green",
-        "type":"jeopardy",
-        "status":"G",
-        "tags":["Holiday"]
+        "id": 11,
+        "name": "Thanks-gay-ving",
+        "json_name": "thanksgayving",
+        "date_created": "11-19-2021",
+        "color": "green",
+        "type": "jeopardy",
+        "status": "G",
+        "tags": [
+            "Holiday"
+        ]
     },
     {
-        "id":12,
-        "name":"Day & Night Release Party",
-        "json_name":"daynight",
-        "date_created":"12-03-2021",
-        "color":"blue",
-        "type":"jeopardy",
-        "status":"A",
+        "id": 12,
+        "name": "Day & Night Release Party",
+        "json_name": "daynight",
+        "date_created": "12-03-2021",
+        "color": "blue",
+        "type": "jeopardy",
+        "status": "A",
         "tags": "Christmas"
     },
     {
-        "id":13,
-        "name":"MISMs Christmas Party",
-        "json_name":"ischristmas",
-        "date_created":"12-09-2021",
-        "color":"green",
-        "type":"jeopardy",
-        "status":"I",
-        "tags": ["Christmas"]
+        "id": 13,
+        "name": "MISMs Christmas Party",
+        "json_name": "ischristmas",
+        "date_created": "12-09-2021",
+        "color": "green",
+        "type": "jeopardy",
+        "status": "I",
+        "tags": [
+            "Christmas"
+        ]
     },
     {
-        "id":14,
-        "name":"Gay Xmas",
-        "json_name":"xmasgayprice",
-        "date_created":"12-15-2021",
-        "color":"red",
-        "type":"price",
-        "status":"G",
-        "tags": ["Christmas"]
+        "id": 14,
+        "name": "Gay Xmas",
+        "json_name": "xmasgayprice",
+        "date_created": "12-15-2021",
+        "color": "red",
+        "type": "price",
+        "status": "G",
+        "tags": [
+            "Christmas"
+        ]
     },
     {
-        "id":15,
-        "name":"Gay Millionaire",
-        "json_name":"gaymillionaire",
-        "date_created":"12-16-2021",
-        "color":"green",
-        "type":"millionare",
-        "status":"G",
-        "tags":[]
+        "id": 15,
+        "name": "Gay Millionaire",
+        "json_name": "gaymillionaire",
+        "date_created": "12-16-2021",
+        "color": "green",
+        "type": "millionare",
+        "status": "G",
+        "tags": []
     },
     {
-        "id":16,
-        "name":"Christmas Wheel",
-        "json_name":"christmas_wheel",
-        "date_created":"12-21-2021",
-        "color":"green",
-        "type":"wheel",
-        "status":"A",  
-        "tags": ["Christmas"]
+        "id": 16,
+        "name": "Christmas Wheel",
+        "json_name": "christmas_wheel",
+        "date_created": "12-21-2021",
+        "color": "green",
+        "type": "wheel",
+        "status": "A",
+        "tags": [
+            "Christmas"
+        ]
     },
     {
-        "id":17,
-        "name":"Trivia Wheel: Vol 1",
-        "json_name":"firsttrivia_wheel",
-        "date_created":"12-26-2021",
-        "color":"red",
-        "type":"wheel",
-        "status":"A",  
-        "tags": ["Misc"]
+        "id": 17,
+        "name": "Trivia Wheel: Vol 1",
+        "json_name": "firsttrivia_wheel",
+        "date_created": "12-26-2021",
+        "color": "red",
+        "type": "wheel",
+        "status": "A",
+        "tags": [
+            "Misc"
+        ]
     },
     {
-        "id":18,
-        "name":"Trivia: Vol 1",
-        "json_name":"millionairetrivia_one",
-        "date_created":"12-28-2021",
-        "color":"orange",
-        "type":"millionare",
-        "status":"A",
-        "tags":["Misc"]
+        "id": 18,
+        "name": "Trivia: Vol 1",
+        "json_name": "millionairetrivia_one",
+        "date_created": "12-28-2021",
+        "color": "orange",
+        "type": "millionare",
+        "status": "A",
+        "tags": [
+            "Misc"
+        ]
     },
     {
-        "id":19,
-        "name":"Trivia: Vol 2",
-        "json_name":"millionairetrivia_two",
-        "date_created":"12-29-2021",
-        "color":"green",
-        "type":"millionare",
-        "status":"A",
-        "tags":["Misc"]
+        "id": 19,
+        "name": "Trivia: Vol 2",
+        "json_name": "millionairetrivia_two",
+        "date_created": "12-29-2021",
+        "color": "green",
+        "type": "millionare",
+        "status": "A",
+        "tags": [
+            "Misc"
+        ]
     },
     {
-        "id":20,
-        "name":"Trivia Wheel: Vol 2",
-        "json_name":"trivia_wheel_2",
-        "date_created":"12-30-2021",
-        "color":"teal",
-        "type":"wheel",
-        "status":"A",
-        "tags":["Misc"]
+        "id": 20,
+        "name": "Trivia Wheel: Vol 2",
+        "json_name": "trivia_wheel_2",
+        "date_created": "12-30-2021",
+        "color": "teal",
+        "type": "wheel",
+        "status": "A",
+        "tags": [
+            "Misc"
+        ]
     },
     {
-        "id":21,
-        "name":"Gameshow Showdown",
-        "json_name":"showdown",
-        "date_created":"3-19-2022",
-        "color":"blue",
-        "type":"famFued",
-        "status":"A",
-        "tags":["Showdown","Misc"]
+        "id": 21,
+        "name": "Gameshow Showdown",
+        "json_name": "showdown",
+        "date_created": "3-19-2022",
+        "color": "blue",
+        "type": "famFued",
+        "status": "A",
+        "tags": [
+            "Showdown",
+            "Misc"
+        ]
     },
     {
-        "id":22,
-        "name":"Gameshow Showdown",
-        "json_name":"showdown",
-        "date_created":"3-20-2022",
-        "color":"teal",
-        "type":"millionare",
-        "status":"A",
-        "tags":["Showdown","Misc"]
+        "id": 22,
+        "name": "Gameshow Showdown",
+        "json_name": "showdown",
+        "date_created": "3-20-2022",
+        "color": "teal",
+        "type": "millionare",
+        "status": "A",
+        "tags": [
+            "Showdown",
+            "Misc"
+        ]
     },
     {
-        "id":23,
-        "name":"Gameshow Showdown",
-        "json_name":"showdown",
-        "date_created":"3-21-2022",
-        "color":"green",
-        "type":"wheel",
-        "status":"A",
-        "tags":["Showdown","Misc"]
+        "id": 23,
+        "name": "Gameshow Showdown",
+        "json_name": "showdown",
+        "date_created": "3-21-2022",
+        "color": "green",
+        "type": "wheel",
+        "status": "A",
+        "tags": [
+            "Showdown",
+            "Misc"
+        ]
     },
     {
-        "id":24,
-        "name":"Gameshow Showdown",
-        "json_name":"showdown",
-        "date_created":"3-22-2022",
-        "color":"yellow",
-        "type":"price",
-        "status":"A",
-        "tags":["Showdown","Misc"]
-    },    {
-        "id":25,
-        "name":"Gameshow Showdown",
-        "json_name":"showdown",
-        "date_created":"3-24-2022",
-        "color":"red",
-        "type":"jeopardy",
-        "status":"A",
-        "tags":["Showdown","Misc"]
+        "id": 24,
+        "name": "Gameshow Showdown",
+        "json_name": "showdown",
+        "date_created": "3-22-2022",
+        "color": "yellow",
+        "type": "price",
+        "status": "A",
+        "tags": [
+            "Showdown",
+            "Misc"
+        ]
     },
     {
-        "id":26,
-        "name":"Pop Culture Vol 1",
-        "json_name":"popculturevol1",
-        "date_created":"5-25-2022",
-        "color":"teal",
-        "type":"jeopardy",
-        "status":"A",
-        "tags":["Misc"]
+        "id": 25,
+        "name": "Gameshow Showdown",
+        "json_name": "showdown",
+        "date_created": "3-24-2022",
+        "color": "red",
+        "type": "jeopardy",
+        "status": "A",
+        "tags": [
+            "Showdown",
+            "Misc"
+        ]
     },
     {
-        "id":27,
-        "name":"Gayme Night Vol. 1",
-        "json_name":"gaymenightvol1",
-        "date_created":"6-02-2022",
-        "color":"green",
-        "type":"famFued",
-        "status":"G",
-        "tags":["Gay"]
+        "id": 26,
+        "name": "Pop Culture Vol 1",
+        "json_name": "popculturevol1",
+        "date_created": "5-25-2022",
+        "color": "teal",
+        "type": "jeopardy",
+        "status": "A",
+        "tags": [
+            "Misc"
+        ]
     },
     {
-        "id":28,
-        "name":"Gayme Night Vol. 1",
-        "json_name":"gaymenightvol1",
-        "date_created":"6-02-2022",
-        "color":"pink",
-        "type":"jeopardy",
-        "status":"G",
-        "tags":["Gay"]
+        "id": 27,
+        "name": "Gayme Night Vol. 1",
+        "json_name": "gaymenightvol1",
+        "date_created": "6-02-2022",
+        "color": "green",
+        "type": "famFued",
+        "status": "G",
+        "tags": [
+            "Gay"
+        ]
     },
     {
-        "id":29,
-        "name":"Gayme Night Vol. 2",
-        "json_name":"gaymenightvol2",
-        "date_created":"6-22-2022",
-        "color":"teal",
-        "type":"famFued",
-        "status":"G",
-        "tags":["Gay"]
+        "id": 28,
+        "name": "Gayme Night Vol. 1",
+        "json_name": "gaymenightvol1",
+        "date_created": "6-02-2022",
+        "color": "pink",
+        "type": "jeopardy",
+        "status": "G",
+        "tags": [
+            "Gay"
+        ]
     },
     {
-        "id":30,
-        "name":"First Deal",
-        "json_name":"dealvol1",
-        "date_created":"6-23-2022",
-        "color":"yellow",
-        "type":"famFued",
-        "status":"D",
-        "tags":["Development"]
+        "id": 29,
+        "name": "Gayme Night Vol. 2",
+        "json_name": "gaymenightvol2",
+        "date_created": "6-22-2022",
+        "color": "teal",
+        "type": "famFued",
+        "status": "G",
+        "tags": [
+            "Gay"
+        ]
     },
     {
-        "id":31,
-        "name":"Isaac Parker Music",
-        "json_name":"isaacparkervol1",
-        "date_created":"6-23-2022",
-        "color":"green",
-        "type":"eyespy",
-        "status":"A",
-        "tags":["Misc"]
+        "id": 30,
+        "name": "First Deal",
+        "json_name": "dealvol1",
+        "date_created": "6-23-2022",
+        "color": "yellow",
+        "type": "famFued",
+        "status": "D",
+        "tags": [
+            "Development"
+        ]
     },
     {
-        "id":32,
-        "name":"Disney",
-        "json_name":"disneyvol1",
-        "date_created":"7-5-2022",
-        "color":"teal",
-        "type":"eyespy",
-        "status":"A",
-        "tags":["Misc"]
+        "id": 31,
+        "name": "Isaac Parker Music",
+        "json_name": "isaacparkervol1",
+        "date_created": "6-23-2022",
+        "color": "green",
+        "type": "eyespy",
+        "status": "A",
+        "tags": [
+            "Misc"
+        ]
     },
     {
-        "id":33,
-        "name":"Trivia Vol. 3",
-        "json_name":"trivia_wheel_3",
-        "date_created":"7-17-2022",
-        "color":"pink",
-        "type":"wheel",
-        "status":"A",
-        "tags":["Misc"]
+        "id": 32,
+        "name": "Disney",
+        "json_name": "disneyvol1",
+        "date_created": "7-5-2022",
+        "color": "teal",
+        "type": "eyespy",
+        "status": "A",
+        "tags": [
+            "Misc"
+        ]
     },
     {
-        "id":34,
-        "name":"Millenials Vs. Gen Z",
-        "json_name":"zellenial_trivia",
-        "date_created":"7-17-2022",
-        "color":"purple",
-        "type":"millionare",
-        "status":"A",
-        "tags":["Misc"]
+        "id": 33,
+        "name": "Trivia Vol. 3",
+        "json_name": "trivia_wheel_3",
+        "date_created": "7-17-2022",
+        "color": "pink",
+        "type": "wheel",
+        "status": "A",
+        "tags": [
+            "Misc"
+        ]
     },
     {
-        "id":35,
-        "name":"Swift, Sports, & Scenes",
-        "json_name":"ssands",
-        "date_created":"7-31-2022",
-        "color":"yellow",
-        "type":"eyespy",
-        "status":"A",
-        "tags":["Misc"]
+        "id": 34,
+        "name": "Millenials Vs. Gen Z",
+        "json_name": "zellenial_trivia",
+        "date_created": "7-17-2022",
+        "color": "purple",
+        "type": "millionare",
+        "status": "A",
+        "tags": [
+            "Misc"
+        ]
     },
     {
-        "id":36,
-        "name":"Infatuation Album",
-        "json_name":"infatuation",
-        "date_created":"8-23-2022",
-        "color":"white",
-        "type":"jeopardy",
-        "status":"A",
-        "tags":["Misc", "IPM"]
+        "id": 35,
+        "name": "Swift, Sports, & Scenes",
+        "json_name": "ssands",
+        "date_created": "7-31-2022",
+        "color": "yellow",
+        "type": "eyespy",
+        "status": "A",
+        "tags": [
+            "Misc"
+        ]
     },
     {
-        "id":37,
-        "name":"Gayme Night Vol. 2 (X)",
-        "json_name":"gaymenightvol2",
-        "date_created":"8-24-2022",
-        "color":"pink",
-        "type":"jeopardy",
-        "status":"G",
-        "tags":["Gay"]
+        "id": 36,
+        "name": "Infatuation Album",
+        "json_name": "infatuation",
+        "date_created": "8-23-2022",
+        "color": "white",
+        "type": "jeopardy",
+        "status": "A",
+        "tags": [
+            "Misc",
+            "IPM"
+        ]
     },
     {
-        "id":38,
-        "name":"Gayme Night Vol. 3 (XXX)",
-        "json_name":"gaymenightvol3",
-        "date_created":"8-27-2022",
-        "color":"teal",
-        "type":"famFued",
-        "status":"G",
-        "tags":["Gay"]
+        "id": 37,
+        "name": "Gayme Night Vol. 2 (X)",
+        "json_name": "gaymenightvol2",
+        "date_created": "8-24-2022",
+        "color": "pink",
+        "type": "jeopardy",
+        "status": "G",
+        "tags": [
+            "Gay"
+        ]
     },
     {
-        "id":39,
-        "name":"Gayme Night Vol. 1 (X)",
-        "json_name":"gaymenightvol3",
-        "date_created":"8-27-2022",
-        "color":"yellow",
-        "type":"millionare",
-        "status":"G",
-        "tags":["Gay"]
+        "id": 38,
+        "name": "Gayme Night Vol. 3 (XXX)",
+        "json_name": "gaymenightvol3",
+        "date_created": "8-25-2022",
+        "color": "teal",
+        "type": "famFued",
+        "status": "G",
+        "tags": [
+            "Gay"
+        ]
     },
     {
-        "id":40,
-        "name":"Gayme Night Vol. 1 (XX)",
-        "json_name":"gaymenightvol1",
-        "date_created":"8-27-2022",
-        "color":"green",
-        "type":"eyespy",
-        "status":"G",
-        "tags":["Gay"]
+        "id": 39,
+        "name": "Gayme Night Vol. 1 (X)",
+        "json_name": "gaymenightvol3",
+        "date_created": "8-27-2022",
+        "color": "yellow",
+        "type": "millionare",
+        "status": "G",
+        "tags": [
+            "Gay"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Gayme Night Vol. 1 (XX)",
+        "json_name": "gaymenightvol1",
+        "date_created": "8-26-2022",
+        "color": "green",
+        "type": "eyespy",
+        "status": "G",
+        "tags": [
+            "Gay"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Gayme Night Vol. 1 (XX)",
+        "json_name": "gaymenightvol1",
+        "date_created": "8-28-2022",
+        "color": "orange",
+        "type": "price",
+        "status": "G",
+        "tags": [
+            "Gay"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Gayme Night Vol. 1 (XX)",
+        "json_name": "gaymenightvol1",
+        "date_created": "8-29-2022",
+        "color": "red",
+        "type": "wheel",
+        "status": "G",
+        "tags": [
+            "Gay"
+        ]
     }
 ]
