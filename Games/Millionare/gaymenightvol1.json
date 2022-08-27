@@ -1,0 +1,802 @@
+[
+    {
+        "question_text": "What is not the name of a gay bar in Utah",
+        "answers": {
+            "answer_1": "Sun Trapp",
+            "answer_2": "Tryangles",
+            "answer_3": "Why Kiki",
+            "answer_4": "Lake Effect",
+            "right_answer": 4
+        }
+    },
+    {
+        "question_text": "Michael Jackson and ____ are the only artists with 5 #1 singles off one album",
+        "answers": {
+            "answer_1": "Britney Spears",
+            "answer_2": "Katy Perry",
+            "answer_3": "Lady Gaga",
+            "answer_4": "Ariana Grande",
+            "right_answer": 2
+        }
+    },
+    {
+        "question_text": "What is not a name of male underwear",
+        "answers": {
+            "answer_1": "Thong",
+            "answer_2": "Jockstrap",
+            "answer_3": "Bikini Cut",
+            "answer_4": "Boy Shorts",
+            "right_answer": 4
+        }
+    },
+    {
+        "question_text": "How fast do sperm swim?",
+        "answers": {
+            "answer_1": "1/16\" per hour",
+            "answer_2": "1/8\" per hour",
+            "answer_3": "1/4\" per hour",
+            "answer_4": "1/2\" per hour",
+            "right_answer": 2
+        }
+    },
+    {
+        "question_text": "What is Victor's Best friend's name in Love, Victor",
+        "answers": {
+            "answer_1": "Tyson",
+            "answer_2": "Benji",
+            "answer_3": "Felix",
+            "answer_4": "Max",
+            "right_answer": 3
+        }
+    },
+    {
+        "question_text": "Which famous latin singer is gay?",
+        "answers": {
+            "answer_1": "Ricky Martin",
+            "answer_2": "Enrique Igliesas",
+            "answer_3": "Maluma",
+            "answer_4": "J Balvin",
+            "right_answer": 1
+        }
+    },
+    {
+        "question_text": "In 2002 what postition were most gays?",
+        "answers": {
+            "answer_1": "Top",
+            "answer_2": "Bottom",
+            "answer_3": "Versatile",
+            "answer_4": "Vers Bottom",
+            "right_answer": 4
+        }
+    },
+    {
+        "question_text": "Which Taylor switf album has the most #1 singles?",
+        "answers": {
+            "answer_1": "Fearless",
+            "answer_2": "Red",
+            "answer_3": "1989",
+            "answer_4": "Reputation",
+            "right_answer": 3
+        }
+    },
+    {
+        "question_text": "Which famous gay was caught trying to convert straight dudes",
+        "answers": {
+            "answer_1": "Lil Nas X",
+            "answer_2": "Jefree Star",
+            "answer_3": "James Charles",
+            "answer_4": "Troye Sivan",
+            "right_answer": 3
+        }
+    },
+    {
+        "question_text": "Which role was actually played by a gay guy?",
+        "answers": {
+            "answer_1": "Mitchell - Modern Family",
+            "answer_2": "Simon - Love Simon",
+            "answer_3": "Victor - Love Victor",
+            "answer_4": "Ian - Shameless",
+            "right_answer": 1
+        }
+    },
+    {
+        "question_text": "Which gay celeb is not a confirmed bottom?",
+        "answers": {
+            "answer_1": "Lil Nas X",
+            "answer_2": "Troye Sivan",
+            "answer_3": "Tyler Posey",
+            "answer_4": "Colton Underwood",
+            "right_answer": 4
+        }
+    },
+    {
+        "question_text": "Which pop diva is not an actress?",
+        "answers": {
+            "answer_1": "Ariana Grande",
+            "answer_2": "Lady Gaga",
+            "answer_3": "Britney Spears",
+            "answer_4": "Kesha",
+            "right_answer": 4
+        }
+    },
+    {
+        "question_text": "In 'Tik Tok' what does Ke$ha brush her teeth with?",
+        "answers": {
+            "answer_1": "Whiskey",
+            "answer_2": "Rum",
+            "answer_3": "Vodka",
+            "answer_4": "Water",
+            "right_answer": 1
+        }
+    },
+    {
+        "question_text": "Which Gay celeb does not appear in 'You Need To Calm Down'",
+        "answers": {
+            "answer_1": "Mitch from Pentatonix",
+            "answer_2": "Adam Lambert",
+            "answer_3": "RuPaul",
+            "answer_4": "All 5 Queer Eye Guys",
+            "right_answer": 1
+        }
+    },
+    {
+        "question_text":"What does PrEP stand for?",
+        "answers":{
+            "answer_1":"Pre-Exposure Prevention",
+            "answer_2":"Preventative Exposure Prophylactic",
+            "answer_3":"Preventative Exposure Prophylaxis",
+            "answer_4":"Pre-Exposure Prophylaxis",
+            "right_answer":4
+        }
+    },   
+    {
+        "question_text": "Which league does not have an openly gay male athlete?",
+        "answers": {
+            "answer_1": "NFL",
+            "answer_2": "NBA",
+            "answer_3": "NHL",
+            "answer_4": "USL",
+            "right_answer": 2
+        }
+    },
+    {
+        "question_text": "What year was gay marriage legalized",
+        "answers": {
+            "answer_1": "2013",
+            "answer_2": "2014",
+            "answer_3": "2015",
+            "answer_4": "2016",
+            "right_answer": 3
+        }
+    },
+    {
+        "question_text": "What year were the Stonewall riots?",
+        "answers": {
+            "answer_1": "1968",
+            "answer_2": "1969",
+            "answer_3": "1970",
+            "answer_4": "1971",
+            "right_answer": 2
+        }
+    },
+    {
+        "question_text": "",
+        "answers": {
+            "answer_1": "",
+            "answer_2": "",
+            "answer_3": "",
+            "answer_4": "",
+            "right_answer": 2
+        }
+    },
+    {
+        "question_text": "Which of these is a pokemon not a RuPaul contestant",
+        "answers": {
+            "answer_1": "Jujubee",
+            "answer_2": "Laganja",
+            "answer_3": "Bellossom",
+            "answer_4": "Ongina",
+            "right_answer": 3
+        }
+    },
+    {
+        "question_text":"What is the worlds biggest penis recorded",
+        "answers":{
+            "answer_1":"11.5 inches",
+            "answer_2":"12.5 inches",
+            "answer_3":"13.5 inches",
+            "answer_4":"14.5 inches",
+            "right_answer":3
+        }
+    },    
+    {
+        "question_text":"What is the worlds smallest penis recorded",
+        "answers":{
+            "answer_1":"0.6 inches",
+            "answer_2":"1.6 inches",
+            "answer_3":"2.6 inches",
+            "answer_4":"3.6 inches",
+            "right_answer":2
+        }
+    },    
+    {
+        "question_text":"What is the average US penis size (2013)",
+        "answers":{
+            "answer_1":"4.53 inches",
+            "answer_2":"5.16 inches",
+            "answer_3":"5.89 inches",
+            "answer_4":"6.02 inches",
+            "right_answer":2
+        }
+    },    
+    {
+        "question_text":"Which US city has the most gays",
+        "answers":{
+            "answer_1":"New York",
+            "answer_2":"San Francisco",
+            "answer_3":"LA",
+            "answer_4":"Provo",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Salt lake city is the ___ most % gay city in America",
+        "answers":{
+            "answer_1":"7th",
+            "answer_2":"14th",
+            "answer_3":"21st",
+            "answer_4":"28th",
+            "right_answer":1
+        }
+    }, 
+    {
+        "question_text":"When is National Coming out day?",
+        "answers":{
+            "answer_1":"June 15th",
+            "answer_2":"September 18th",
+            "answer_3":"October 11th",
+            "answer_4":"November 4th",
+            "right_answer":3
+        }
+    },  
+    {
+        "question_text":"When is not a medically proven common time for people to get erections?",
+        "answers":{
+            "answer_1":"Birth",
+            "answer_2":"Death",
+            "answer_3":"Sleeping",
+            "answer_4":"Sneezing",
+            "right_answer":4
+        }
+    },    
+    {
+        "question_text":"What is the most common sex position that breaks a penis?",
+        "answers":{
+            "answer_1":"Man Riding",
+            "answer_2":"Woman Riding",
+            "answer_3":"Man Doggy",
+            "answer_4":"Woman Doggy",
+            "right_answer":2
+        }
+    },    
+    {
+        "question_text":"What angle do most erect penises point at?",
+        "answers":{
+            "answer_1":"30* - 60*",
+            "answer_2":"60* - 90*",
+            "answer_3":"90* - 120*",
+            "answer_4":"120* - 180*",
+            "right_answer":2
+        }
+    },    
+    {
+        "question_text":"Which cereal was invented to curb masturbation?",
+        "answers":{
+            "answer_1":"Frosted Flakes",
+            "answer_2":"Corn Flakes",
+            "answer_3":"Corn Pops",
+            "answer_4":"Wheaties",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text": "Finish the RuPaul's Drag Race Quote: 'Well Julie I Just Wrote ____'",
+        "answers": {
+            "answer_1": "Tits",
+            "answer_2": "Queef",
+            "answer_3": "Crabs",
+            "answer_4": "Anus",
+            "right_answer": 4
+        }
+    },
+    {
+        "question_text": "Which Queen had to tweet an apology at Katy Perry after her Snatch Game impersonation",
+        "answers": {
+            "answer_1": "Alaska",
+            "answer_2": "Roxxxy Andrews",
+            "answer_3": "Coco Montrese",
+            "answer_4": "Alyssa Edwards",
+            "right_answer": 4
+        }
+    },
+    {
+        "question_text": "Who hasn't appeared as a guest judge on RuPaul's drag race?",
+        "answers": {
+            "answer_1": "Demi Lovato",
+            "answer_2": "Selena Gomez",
+            "answer_3": "Halsey",
+            "answer_4": "Ariana Grande",
+            "right_answer": 2
+        }
+    },
+    {
+        "question_text": "'Your oufite was a Xanadu, but your lip sync was a real Xana-don't'",
+        "answers": {
+            "answer_1": "Katya",
+            "answer_2": "Ariel",
+            "answer_3": "Naysha Lopez",
+            "answer_4": "Monet X Change",
+            "right_answer": 1
+        }
+    },
+    {
+        "question_text": "Who sings the hits 'Glamourus', 'London Bridge', and 'MILF Money'",
+        "answers": {
+            "answer_1": "Lady Gaga",
+            "answer_2": "Rihanna",
+            "answer_3": "P!nk",
+            "answer_4": "Fergie",
+            "right_answer": 4
+        }
+    },
+    {
+        "question_text": "Who is not a character in Love, Victor?",
+        "answers": {
+            "answer_1": "Lucas",
+            "answer_2": "Simon",
+            "answer_3": "Mia",
+            "answer_4": "Andrew",
+            "right_answer": 1
+        }
+    },
+    {
+        "question_text": "Which of these is a drag race contestant, not a pokemon?",
+        "answers": {
+            "answer_1": "Dedenne",
+            "answer_2": "Akaisha",
+            "answer_3": "Kirlia",
+            "answer_4": "Vanilluxe",
+            "right_answer": 2
+        }
+    },
+    {
+        "question_text": "This 'Mr. Brightside' band's first album has been rumored to be a gay love story",
+        "answers": {
+            "answer_1": "Fall Out Boy",
+            "answer_2": "The All-American Rejects",
+            "answer_3": "The Killers",
+            "answer_4": "Simple Plan",
+            "right_answer": 3
+        }
+    },
+    {
+        "question_text": "This American Idol contestant was gay but didn't want to come out until after the show",
+        "answers": {
+            "answer_1": "Adam Lambert",
+            "answer_2": "Scotty McCreery",
+            "answer_3": "David Archuleta",
+            "answer_4": "All of the above",
+            "right_answer": 4
+        }
+    },
+    {
+        "question_text": "Which band is not fronted by a queer lead singer?",
+        "answers": {
+            "answer_1": "Imagine Dragons",
+            "answer_2": "Neon Trees",
+            "answer_3": "Panic! at the Disco",
+            "answer_4": "Queen",
+            "right_answer": 1
+        }
+    },
+    {
+        "question_text": "Which notorious womanizing 'How I Met Your Mother' character was played by a gay guy",
+        "answers": {
+            "answer_1": "Ted Mosby",
+            "answer_2": "Barney Stinson",
+            "answer_3": "Marshall Erikson",
+            "answer_4": "None of the Above",
+            "right_answer": 2
+        }
+    },
+    {
+        "question_text": "Which boy band had a closeted gay member",
+        "answers": {
+            "answer_1": "Backstreet Boys",
+            "answer_2": "Boyz II Men",
+            "answer_3": "NSYNC",
+            "answer_4": "New Kids on The Block",
+            "right_answer": 3
+        }
+    },
+    {
+        "question_text": "Which Bachelor came out as gay?",
+        "answers": {
+            "answer_1": "Nick Viall",
+            "answer_2": "Jesse Palmer",
+            "answer_3": "Ben Higgins",
+            "answer_4": "Colton Underwood",
+            "right_answer": 4
+        }
+    },
+    {
+        "question_text": "Which drink is associated with brunch?",
+        "answers": {
+            "answer_1": "Mimosa",
+            "answer_2": "Cosmo",
+            "answer_3": "Gin & Tonic",
+            "answer_4": "Mai Tai",
+            "right_answer": 1
+        }
+    },
+    {
+        "question_text": "What was the first Disney Channel show to show a gay couple?",
+        "answers": {
+            "answer_1": "Hannah Montana",
+            "answer_2": "Good Luck Charlie",
+            "answer_3": "Jessie",
+            "answer_4": "Wizards of Waverly Place",
+            "right_answer": 2
+        }
+    },
+    {
+        "question_text": "The average Utah porn viewing is _____ to the national average",
+        "answers": {
+            "answer_1": "Way Higher",
+            "answer_2": "A Little Higher",
+            "answer_3": "A Little Lower",
+            "answer_4": "Way Lower",
+            "right_answer": 3
+        }
+    },
+    {
+        "question_text": "What is Utah's most common porn category",
+        "answers": {
+            "answer_1": "Big Tits",
+            "answer_2": "Mormon Boyz",
+            "answer_3": "Gay",
+            "answer_4": "Lesbian",
+            "right_answer": 4
+        }
+    },
+    {
+        "question_text": "Utahn's are 116% more into _____ porn than the rest of the country.",
+        "answers": {
+            "answer_1": "Hentai",
+            "answer_2": "Cosplay",
+            "answer_3": "Gym/Yoga",
+            "answer_4": "Public",
+            "right_answer": 2
+        }
+    },
+    {
+        "question_text": "Which punk band has a music video with the lead singer playing a transgender woman?",
+        "answers": {
+            "answer_1": "The All American Rejects (Sweat",
+            "answer_2": "Fall Out Boy (Centuries)",
+            "answer_3": "Blink 182 (She's Outta Her Mind)",
+            "answer_4": "The Killers (Somebody Told Me)",
+            "right_answer": 2
+        }
+    },
+    {
+        "question_text": "What has lady gaga not worn",
+        "answers": {
+            "answer_1": "Meat Dress",
+            "answer_2": "Bubble Dress",
+            "answer_3": "Tin Foil Dress",
+            "answer_4": "Polka Dot Octopus",
+            "right_answer": 3
+        }
+    },
+    {
+        "question_text":"Which boy band singer became famous for his Ramen noodle hair in the early 2000s?",
+        "answers":{
+            "answer_1":"Niall Horan",
+            "answer_2":"Lance Bass",
+            "answer_3":"Harry Styles",
+            "answer_4":"Justin Timberlake",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"What is the name of the hotel shaped like a pyramid in Las Vegas?",
+        "answers":{
+            "answer_1":"The Excalibur",
+            "answer_2":"The Aria",
+            "answer_3":"The Luxor",
+            "answer_4":"The Bellagio",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Who has not been a coach on the voice?",
+        "answers":{
+            "answer_1":"Shakira",
+            "answer_2":"Adam Levine",
+            "answer_3":"Simon Cowell",
+            "answer_4":"Blake Shelton",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Who is the only artist to win Album of the Year in 3 genres?",
+        "answers":{
+            "answer_1":"Michael Jackson",
+            "answer_2":"Katy Perry",
+            "answer_3":"Taylor Swift",
+            "answer_4":"Beyonce",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which is a salt lake city gay strip club?",
+        "answers":{
+            "answer_1":"BuffBoyzz",
+            "answer_2":"MuscleHunkz",
+            "answer_3":"Hunk-O-mania",
+            "answer_4":"OMNIA",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which direction was Kanye West and Kim's first kid named after?",
+        "answers":{
+            "answer_1":"North",
+            "answer_2":"East",
+            "answer_3":"West",
+            "answer_4":"South",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"What are the names of the Sanderson Sisters from Hocus Pocus?",
+        "answers":{
+            "answer_1":"Winifred, Mary, Sarah",
+            "answer_2":"Eileen, Beverly, Meredith",
+            "answer_3":"Gertrude, Ginny, Georgia",
+            "answer_4":"Maryanne, Katherine, Samantha",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which is a real porn cam website",
+        "answers":{
+            "answer_1":"Hot.com",
+            "answer_2":"Balls.com",
+            "answer_3":"Cock.com",
+            "answer_4":"SuckMyDick.com",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which member left One Direction first?",
+        "answers":{
+            "answer_1":"Harry Styles",
+            "answer_2":"Niall Horan",
+            "answer_3":"Zayn Malik",
+            "answer_4":"Louis Tomlinson",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which is not a real gay escort service",
+        "answers":{
+            "answer_1":"Jock2Go",
+            "answer_2":"BoyzMenu",
+            "answer_3":"SleepyBoy",
+            "answer_4":"RentMen",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which Danish band released the 1997 hit song 'Barbie Girl'",
+        "answers":{
+            "answer_1":"ABBA",
+            "answer_2":"Aqua",
+            "answer_3":"Cascada",
+            "answer_4":"Bjork",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"What is a real Twink Porn site?",
+        "answers":{
+            "answer_1":"Boytube",
+            "answer_2":"MYTwinkyBF",
+            "answer_3":"TeenBoysMilk",
+            "answer_4":"KizzTeenz",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which is not a Kardashian?",
+        "answers":{
+            "answer_1":"Kim",
+            "answer_2":"Khloe",
+            "answer_3":"Kylie",
+            "answer_4":"Kourtney",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Na is the chemical formula for which element?",
+        "answers":{
+            "answer_1":"Sodium",
+            "answer_2":"Potassium",
+            "answer_3":"Nickel",
+            "answer_4":"Narcotium",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which is one of the seven deadly sins?",
+        "answers":{
+            "answer_1":"Murder",
+            "answer_2":"Coveting",
+            "answer_3":"Anger",
+            "answer_4":"Disobedience",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Who sings the song \"Driver's License\"",
+        "answers":{
+            "answer_1":"Joshua Basset",
+            "answer_2":"Olivia Rodrigo",
+            "answer_3":"Sabrina Carpenter",
+            "answer_4":"Jeremy Zucker",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which movie does not have a musical associated with it?",
+        "answers":{
+            "answer_1":"Mean Girls",
+            "answer_2":"Legally Blonde",
+            "answer_3":"Mamma Mia",
+            "answer_4":"She's The Man",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which character is not featured in any Smash Bros game?",
+        "answers":{
+            "answer_1":"Toad",
+            "answer_2":"Mario",
+            "answer_3":"Waluigi",
+            "answer_4":"Wario",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which actress portrayed rose in 'Titanic'?",
+        "answers":{
+            "answer_1":"Kate Winslet",
+            "answer_2":"Jennifer Lawrence",
+            "answer_3":"Cate Blanchett",
+            "answer_4":"Anna Faris",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which Disney Channel show starred Miley Cyrus?",
+        "answers":{
+            "answer_1":"Sonny with a Chance",
+            "answer_2":"Wizards of Waverly Place",
+            "answer_3":"Hannah Montana",
+            "answer_4":"Suite Life on Deck",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which is not an offensive football position?",
+        "answers":{
+            "answer_1":"Cornerback",
+            "answer_2":"Quarterback",
+            "answer_3":"Halfback",
+            "answer_4":"Fullback",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which singer is not from Utah?",
+        "answers":{
+            "answer_1":"Brendon Urie (Panic! at the Disco)",
+            "answer_2":"Tyler Glenn (Neon Trees)",
+            "answer_3":"Isaac Parker (Shameless Self-Promo)",
+            "answer_4":"Dan Reynolds (Imagine Dragons)",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which is not a Greatest Showman sountrack song title?",
+        "answers":{
+            "answer_1":"A Million Dreams",
+            "answer_2":"Come Arise",
+            "answer_3":"Never Enough",
+            "answer_4":"Rewrite the Stars",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which spiderman actor also stars in Tick Tick Boom?",
+        "answers":{
+            "answer_1":"Tobey Maguire",
+            "answer_2":"Tom Holland",
+            "answer_3":"Andrew Garfield",
+            "answer_4":"Donald Glover",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which Disney princess wants to be where the people are?",
+        "answers":{
+            "answer_1":"Rapunzel",
+            "answer_2":"Ariel",
+            "answer_3":"Belle",
+            "answer_4":"Cinderella",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text": "Which is not a real lube flavor",
+        "answers": {
+            "answer_1": "Bacon",
+            "answer_2": "Mimosa",
+            "answer_3": "Weed",
+            "answer_4": "Bubblegum",
+            "right_answer": 2
+        }
+    },
+    {
+        "question_text": "Which Kardashian is famous for losing her diamond earring?",
+        "answers": {
+            "answer_1": "Kim",
+            "answer_2": "Khloe",
+            "answer_3": "Kourtney",
+            "answer_4": "Kylie",
+            "right_answer": 1
+        }
+    },
+    {
+        "question_text": "Which is not a real daddy porn site",
+        "answers": {
+            "answer_1": "Say Uncle",
+            "answer_2": "Nasty Daddy",
+            "answer_3": "Hot Dads Hot Lads",
+            "answer_4": "None of the Above",
+            "right_answer": 4
+        }
+    },
+    {
+        "question_text": "Who hasn't been impersonated on snatch game?",
+        "answers": {
+            "answer_1": "Ke$ha",
+            "answer_2": "Olivia Rodrigo",
+            "answer_3": "Katy Perry",
+            "answer_4": "Nicki Minaj",
+            "right_answer": 2
+        }
+    },
+    {
+        "question_text": "Which is not a real straight bait porn site",
+        "answers": {
+            "answer_1": "DesperateStraightGuys.com",
+            "answer_2": "StraightGoesGay.com",
+            "answer_3": "CuriousHunks.com",
+            "answer_4": "TheCastingCouch.net",
+            "right_answer": 4
+        }
+    }
+]
