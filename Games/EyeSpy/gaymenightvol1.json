@@ -1,0 +1,106 @@
+[
+    {
+        "columns":4,
+        "rows":4,
+        "foldername":"gaymevol1",
+        "questions":[
+            {
+                "category":"YAAAS Queen",
+                "type":"distortion",
+                "answer":"You Belong With Me",
+                "imagename":"belongwithme"
+            },
+            {
+                "category":"Gay TV & Movies",
+                "type":"character",
+                "answer":"Simon & Bram(blue)",
+                "imagename":"simon"
+            },
+            {
+                "category":"Sexy Time",
+                "type":"distortion",
+                "answer":"Sex Doll",
+                "imagename":"sexdoll"
+            },
+            {
+                "category":"Chick Flicks for the Dicks",
+                "type":"charloc",
+                "answer":"Gretchen Weiners, Regina George, Cady Heron, Karen Smith - Winter Talent Show (Mean Girls)",
+                "imagename":"meangirls"
+            },
+            {
+                "category":"Cute Boys",
+                "type":"character",
+                "answer":"Lil Nas X (Montero)",
+                "imagename":"lilnas"
+            },
+            {
+                "category":"Pornos",
+                "type":"character",
+                "answer":"Right In Front of My Salad?",
+                "imagename":"salad"
+            },
+            {
+                "category":" ",
+                "type":"distortion",
+                "answer":"Grindr Screenshot",
+                "imagename":"grindr"
+            },
+            {
+                "category":"Sexy Time",
+                "type":"distortion",
+                "answer":"Giant Black Dildo",
+                "imagename":"dildo"
+            },
+            {
+                "category":"Cute Boys",
+                "type":"character",
+                "answer":"Justin Bieber",
+                "imagename":""
+            },
+            {
+                "category":"Cute Boys",
+                "type":"cahracter",
+                "answer":"Shawn Mendes",
+                "imagename":"shawn"
+            },
+            {
+                "category":"Cute Boys",
+                "type":"location",
+                "answer":"Michael B Jordan in Black Panther",
+                "imagename":"panther"
+            },
+            {
+                "category":"YAAAS Queen",
+                "type":"location",
+                "answer":"Lady Gaga's Meat Dress",
+                "imagename":"ladygaga"
+            },
+            {
+                "category":"YAAAS Queen",
+                "type":"location",
+                "answer":"Shangela's Box Entry",
+                "imagename":"shangela"
+            },
+            {
+                "category":"YAAAS Queen",
+                "type":"charloc",
+                "answer":"Katy Perry - California Gurls",
+                "imagename":"katy"
+            },
+            {
+                "category":"YAAAS Queen",
+                "type":"distortion",
+                "answer":"Nicki Minaj - Super Bass",
+                "imagename":"nicki"
+            },
+            {
+                "category":"Gay TV & Movies",
+                "type":"distortion",
+                "answer":"Nick & Charlie - Heartstopper",
+                "imagename":"heartstopper"
+            }
+        ]
+    }
+
+]

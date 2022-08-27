@@ -350,16 +350,6 @@
     },
     {
         "id":36,
-        "name":"Gayme Night Vol. 2",
-        "json_name":"gaymenightvol2",
-        "date_created":"8-22-2022",
-        "color":"pink",
-        "type":"jeopardy",
-        "status":"G",
-        "tags":["Gay"]
-    },
-    {
-        "id":37,
         "name":"Infatuation Album",
         "json_name":"infatuation",
         "date_created":"8-23-2022",
@@ -367,5 +357,45 @@
         "type":"jeopardy",
         "status":"A",
         "tags":["Misc", "IPM"]
+    },
+    {
+        "id":37,
+        "name":"Gayme Night Vol. 2 (X)",
+        "json_name":"gaymenightvol2",
+        "date_created":"8-24-2022",
+        "color":"pink",
+        "type":"jeopardy",
+        "status":"G",
+        "tags":["Gay"]
+    },
+    {
+        "id":38,
+        "name":"Gayme Night Vol. 3 (XXX)",
+        "json_name":"gaymenightvol3",
+        "date_created":"8-27-2022",
+        "color":"teal",
+        "type":"famFued",
+        "status":"G",
+        "tags":["Gay"]
+    },
+    {
+        "id":39,
+        "name":"Gayme Night Vol. 1 (X)",
+        "json_name":"gaymenightvol3",
+        "date_created":"8-27-2022",
+        "color":"yellow",
+        "type":"millionare",
+        "status":"G",
+        "tags":["Gay"]
+    },
+    {
+        "id":40,
+        "name":"Gayme Night Vol. 1 (XX)",
+        "json_name":"gaymenightvol1",
+        "date_created":"8-27-2022",
+        "color":"green",
+        "type":"eyespy",
+        "status":"G",
+        "tags":["Gay"]
     }
 ]

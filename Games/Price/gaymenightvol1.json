@@ -1,0 +1,287 @@
+[
+    {
+        "bid_item_price": 36,
+        "bid_item_name":"Thanos One-Piece Swimsuit for Men and Boys",
+        "bid_image_url": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1565295660-412g9mL-i8L.jpg?crop=1xw:1.00xh;center,top&resize=768:*",
+        "question_type": "imagemc",
+        "question": {
+            "text": "Which original Avenger is missing from this artwork",
+            "image": "https://s-media-cache-ak0.pinimg.com/600x315/bf/d1/ff/bfd1ff165b9a23d9c3a99f5c6ac98c6d.jpg",
+            "options": [
+                {
+                    "answer_label": "Thor",
+                    "is_correct": true
+                },
+                {
+                    "answer_label": "Black Widow",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "Hawkeye",
+                    "is_correct": true
+                },
+                {
+                    "answer_label": "Nick Fury",
+                    "is_correct": false
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 50,
+        "bid_item_name":"2pk 17oz Starbucks Peppermint Mocha Ground Coffee (Amazon)",
+        "bid_image_url": "https://m.media-amazon.com/images/I/81MLghR-GhL._AC_SS260_.jpg",
+        "question_type": "matching",
+        "question": {
+            "text": "Which are real Starbuck holiday flavors? (7)",
+            "options_split": 4,
+            "options": [
+                {
+                    "option_text": "Peppermint Mocha",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Toasted White Chocolate Mocha",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Caramel Brulée Latte",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Sugar Cookie Almondmilk Latte",
+                    "is_correct": true
+                },                
+                {
+                    "option_text": "Gingerbread Latte",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Irish Cream Cold Brew",
+                    "is_correct": true
+                },                {
+                    "option_text": "Chestnut Praline Warm Brew",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Santa Claus Frappuccino ",
+                    "is_correct": true
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 40,
+        "bid_item_name":"Candy Dreams Glass Dildo (Adam + Eve)",
+        "bid_image_url": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1632328296-542734-584151-0x0.jpg?crop=0.800xw:1xh;center,top&resize=768:*",
+        "question_type": "sorting",
+        "question": {
+            "text": "Sort the Dildos in order of length",
+            "options": [
+                {
+                    "option_label": "6 inches",
+                    "option_image": "https://m.media-amazon.com/images/I/71OckNB78nL._AC_UL480_FMwebp_QL65_.jpg"
+                },
+                {
+                    "option_label": "7.3 Inches",
+                    "option_image": "https://m.media-amazon.com/images/I/51czYBdKztL._AC_UL480_FMwebp_QL65_.jpg"
+                },
+                {
+                    "option_label": "8 inches",
+                    "option_image": "https://m.media-amazon.com/images/I/71bM19JonYL._AC_UL480_FMwebp_QL65_.jpg"
+                },
+                {
+                    "option_label": "11.8 inches",
+                    "option_image": "https://m.media-amazon.com/images/I/41PE97HAWkL._AC_UL480_FMwebp_QL65_.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 32,
+        "bid_item_name":"Ho Ho Homosexual Christmas Holiday Sweatshirt (Amazon)",
+        "bid_image_url": "https://m.media-amazon.com/images/I/71SxcXXyLVL._AC_UY327_FMwebp_QL65_.jpg",
+        "question_type": "matching",
+        "question": {
+            "text": "Which are real LGBT Christmas Movie/Book Titles? (6)",
+            "options_split": 4,
+            "options": [
+                {
+                    "option_text": "His Christmas Sweater",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "The Bitch Who Stole Christmas",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Santa Daddy",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "The Geek Who Saved Christmas",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "A Gay For Christmas",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Mr. Frosty Pants",
+                    "is_correct": true
+                },                {
+                    "option_text": "A Dick for Christmas",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Waiting For Daddy Christmas",
+                    "is_correct": true
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 25,
+        "bid_image_url": "https://m.media-amazon.com/images/I/71wxuCpqMkL._AC_UL480_FMwebp_QL65_.jpg",
+        "bid_item_name":"Mistletoe Boxers (Amazon)",
+        "question_type": "imagemc",
+        "question": {
+            "text": "Which boxer breif inseam comes in athletic versions at American Eagle",
+            "image": "https://s7d2.scene7.com/is/image/aeo/0235_3537_900_f?$pdp-mdg-opt$&fmt=webp",
+            "audio":"mistletoe",
+            "options": [
+                {
+                    "answer_label": "3\"",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "4.5\"",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "6\"",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "9\"",
+                    "is_correct": true
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 15,
+        "bid_item_name":"Christmas Elf Mens Velvet Boxers",
+        "bid_image_url": "https://m.media-amazon.com/images/I/61d3Ia01H8L._AC_SY135_.jpg",
+        "question_type": "matching",
+        "question": {
+            "text": " What are things asked for in the song 'Santa Baby'? (4)",
+            "options_split": 4,
+            "options": [
+                {
+                    "option_text": "Sex",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Tiffany's decor",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Cash",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Checks",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Bentley",
+                    "is_correct": false
+                },                
+                {
+                    "option_text": "A Ring",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "A ring on the phone",
+                    "is_correct": false
+                },                
+                {
+                    "option_text": "Deed to a Platinum Mine",
+                    "is_correct": true
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 42,
+        "bid_image_url": "https://m.media-amazon.com/images/I/71ay3ryagfL._AC_UY327_FMwebp_QL65_.jpg",
+        "bid_item_name":"Dyna-Living Retro Vintage Phone",
+        "question_type": "audiomc",
+        "question": {
+            "text": "This popular 'Summer' song's music video was actually filmed during which month?",
+            "image": "https://metro.co.uk/wp-content/uploads/2018/06/sec_16159915.jpg?quality=90&strip=all",
+            "audio":"callmemaybe",
+            "options": [
+                {
+                    "answer_label": "September",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "October",
+                    "is_correct": false
+                },
+                {
+                    "answer_label": "November",
+                    "is_correct": true
+                },
+                {
+                    "answer_label": "December",
+                    "is_correct": false
+                }
+            ]
+        }
+    },
+    {
+        "bid_item_price": 19,
+        "bid_item_name":"Halloween Pumpkin Candy Buckets [2pcs]",
+        "bid_image_url": "https://m.media-amazon.com/images/I/71S1AT9fnQL._AC_UL480_FMwebp_QL65_.jpg",
+        "question_type": "matching",
+        "question": {
+            "text": "According to Men's Health, which are in the top 10 adult superhero costumes? (4)",
+            "options_split": 4,
+            "options": [
+                {
+                    "option_text": "Spiderman",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Green Arrow",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Black Panther",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "Batman",
+                    "is_correct": true
+                },                {
+                    "option_text": "Deadpool",
+                    "is_correct": false
+                },
+                {
+                    "option_text": "Aquaman",
+                    "is_correct": false
+                },                {
+                    "option_text": "Mysterio",
+                    "is_correct": true
+                },
+                {
+                    "option_text": "The Flash",
+                    "is_correct": false
+                }
+            ]
+        }
+    }
+]
