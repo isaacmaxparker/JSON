@@ -1,0 +1,106 @@
+[
+    {
+        "columns":4,
+        "rows":4,
+        "foldername":"gaymevol2",
+        "questions":[
+            {
+                "category":"Yaaaz Kweenz",
+                "type":"charloc",
+                "answer":"Katy Perry & Taylor Swift - You Need to Calm Down MV",
+                "imagename":"taylorperry"
+            },
+            {
+                "category":"Yaaaz Kweenz",
+                "type":"location",
+                "answer":"Katy Perry - Roar MV",
+                "imagename":"roar"
+            },
+            {
+                "category":"Yaaaz Kweenz",
+                "type":"distortion",
+                "answer":"Sour - Olivia Rodrigo Album Art",
+                "imagename":"sour"
+            },
+            {
+                "category":"Yaaaz Kweenz",
+                "type":"character",
+                "answer":"Blackpink feat. Selena Gomez (Ice Cream MV)",
+                "imagename":"icecream"
+            },
+            {
+                "category":"Cute Boyz (TV)",
+                "type":"location",
+                "answer":"Nate Jacobs (Euphoria)",
+                "imagename":"nate"
+            },
+            {
+                "category":"Cute Boyz (Animated)",
+                "type":"charloc",
+                "answer":"Jack Frost",
+                "imagename":"frost"
+            },
+            {
+                "category":"Cute Boyz (Singers)",
+                "type":"character",
+                "answer":"Troye Sivan (Blue Neighborhood)",
+                "imagename":"troye"
+            },
+            {
+                "category":"Cute Boyz (Fictional)",
+                "type":"distortion",
+                "answer":"",
+                "imagename":""
+            },
+            {
+                "category":"Gay TV Guyz",
+                "type":"location",
+                "answer":"Victor & Benji at the coffeshop",
+                "imagename":"lovevictor"
+            },
+            {
+                "category":"Gay TV Guyz",
+                "type":"charloc",
+                "answer":"David & Patrick & Moira (Schitts Creek)",
+                "imagename":""
+            },
+            {
+                "category":"Gay TV Guyz",
+                "type":"location",
+                "answer":"Mitch & Cam (Modern Family)",
+                "imagename":"modern"
+            },
+            {
+                "category":"Gay TV Guyz",
+                "type":"distortion",
+                "answer":"Kurt & Blaine",
+                "imagename":"glee"
+            },
+            {
+                "category":"Sex Z (Porn)",
+                "type":"location",
+                "answer":"Buttering His Popcorn (Felix Fox & Joey Mills)",
+                "imagename":"popcorn"
+            },
+            {
+                "category":"Sex Z (Porn)",
+                "type":"character",
+                "answer":"Flynn Rider x Kristoff",
+                "imagename":"flynnkristoff"
+            },
+            {
+                "category":"Sex Z (Porn)",
+                "type":"charloc",
+                "answer":"Mormon Boyz",
+                "imagename":"mormonboyz"
+            },
+            {
+                "category":"Sex Z (Porn)",
+                "type":"distortion",
+                "answer":"Helix Studios",
+                "imagename":"helix"
+            }
+        ]
+    }
+
+]
