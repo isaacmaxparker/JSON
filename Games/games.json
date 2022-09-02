@@ -7,6 +7,8 @@
         "color": "purple",
         "type": "millionare",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Misc"
         ]
@@ -19,6 +21,8 @@
         "color": "blue",
         "type": "famFued",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Misc"
         ]
@@ -31,6 +35,8 @@
         "color": "red",
         "type": "jeopardy",
         "status": "T",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Holiday"
         ]
@@ -43,6 +49,8 @@
         "color": "green",
         "type": "jeopardy",
         "status": "F",
+        "rating": null,
+        "rating_type": null,
         "tags": []
     },
     {
@@ -53,6 +61,8 @@
         "color": "red",
         "type": "jeopardy",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": []
     },
     {
@@ -63,6 +73,8 @@
         "color": "pink",
         "type": "jeopardy",
         "status": "F",
+        "rating": null,
+        "rating_type": null,
         "tags": []
     },
     {
@@ -73,6 +85,8 @@
         "color": "blue",
         "type": "famFued",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": []
     },
     {
@@ -83,6 +97,8 @@
         "color": "teal",
         "type": "price",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": []
     },
     {
@@ -93,6 +109,8 @@
         "color": "orange",
         "type": "price",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": []
     },
     {
@@ -103,6 +121,8 @@
         "color": "orange",
         "type": "famFued",
         "status": "G",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Holiday"
         ]
@@ -115,6 +135,8 @@
         "color": "green",
         "type": "jeopardy",
         "status": "G",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Holiday"
         ]
@@ -127,6 +149,8 @@
         "color": "blue",
         "type": "jeopardy",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": "Christmas"
     },
     {
@@ -137,6 +161,8 @@
         "color": "green",
         "type": "jeopardy",
         "status": "I",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Christmas"
         ]
@@ -149,6 +175,8 @@
         "color": "red",
         "type": "price",
         "status": "G",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Christmas"
         ]
@@ -161,6 +189,8 @@
         "color": "green",
         "type": "millionare",
         "status": "G",
+        "rating": null,
+        "rating_type": null,
         "tags": []
     },
     {
@@ -171,6 +201,8 @@
         "color": "green",
         "type": "wheel",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Christmas"
         ]
@@ -183,6 +215,8 @@
         "color": "red",
         "type": "wheel",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Misc"
         ]
@@ -195,6 +229,8 @@
         "color": "orange",
         "type": "millionare",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Misc"
         ]
@@ -207,6 +243,8 @@
         "color": "green",
         "type": "millionare",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Misc"
         ]
@@ -219,6 +257,8 @@
         "color": "teal",
         "type": "wheel",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Misc"
         ]
@@ -231,6 +271,8 @@
         "color": "blue",
         "type": "famFued",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Showdown",
             "Misc"
@@ -244,6 +286,8 @@
         "color": "teal",
         "type": "millionare",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Showdown",
             "Misc"
@@ -257,6 +301,8 @@
         "color": "green",
         "type": "wheel",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Showdown",
             "Misc"
@@ -270,6 +316,8 @@
         "color": "yellow",
         "type": "price",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Showdown",
             "Misc"
@@ -283,6 +331,8 @@
         "color": "red",
         "type": "jeopardy",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Showdown",
             "Misc"
@@ -296,6 +346,8 @@
         "color": "teal",
         "type": "jeopardy",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Misc"
         ]
@@ -308,6 +360,8 @@
         "color": "green",
         "type": "famFued",
         "status": "G",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Gay"
         ]
@@ -320,6 +374,8 @@
         "color": "pink",
         "type": "jeopardy",
         "status": "G",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Gay"
         ]
@@ -332,6 +388,8 @@
         "color": "teal",
         "type": "famFued",
         "status": "G",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Gay"
         ]
@@ -344,6 +402,8 @@
         "color": "yellow",
         "type": "famFued",
         "status": "D",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Development"
         ]
@@ -356,6 +416,8 @@
         "color": "green",
         "type": "eyespy",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Misc"
         ]
@@ -368,6 +430,8 @@
         "color": "teal",
         "type": "eyespy",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Misc"
         ]
@@ -380,6 +444,8 @@
         "color": "pink",
         "type": "wheel",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Misc"
         ]
@@ -392,6 +458,8 @@
         "color": "purple",
         "type": "millionare",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Misc"
         ]
@@ -404,6 +472,8 @@
         "color": "yellow",
         "type": "eyespy",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Misc"
         ]
@@ -412,10 +482,12 @@
         "id": 36,
         "name": "Infatuation Album",
         "json_name": "infatuation",
-        "date_created": "8-23-2022",
+        "date_created": "8-19-2022",
         "color": "white",
         "type": "jeopardy",
         "status": "A",
+        "rating": null,
+        "rating_type": null,
         "tags": [
             "Misc",
             "IPM"
@@ -423,108 +495,126 @@
     },
     {
         "id": 37,
-        "name": "Gayme Night Vol. 2 (X)",
+        "name": "Gayme Night Vol. 2",
         "json_name": "gaymenightvol2",
-        "date_created": "8-21-2022",
+        "date_created": "8-19-2022",
         "color": "pink",
         "type": "jeopardy",
         "status": "G",
+        "rating": 2,
+        "rating_type": "dirty",
         "tags": [
             "Gay"
         ]
     },
     {
         "id": 38,
-        "name": "Gayme Night Vol. 3 (XXX)",
+        "name": "Gayme Night Vol. 3",
         "json_name": "gaymenightvol3",
-        "date_created": "8-22-2022",
+        "date_created": "8-19-2022",
         "color": "teal",
         "type": "famFued",
         "status": "G",
+        "rating": 3,
+        "rating_type": "dirty",
         "tags": [
             "Gay"
         ]
     },
     {
         "id": 39,
-        "name": "Gayme Night Vol. 1 (X)",
+        "name": "Gayme Night Vol. 1",
         "json_name": "gaymenightvol1",
-        "date_created": "8-24-2022",
+        "date_created": "8-27-2022",
         "color": "yellow",
         "type": "millionare",
         "status": "G",
+        "rating": 1,
+        "rating_type": "dirty",
         "tags": [
             "Gay"
         ]
     },
     {
         "id": 40,
-        "name": "Gayme Night Vol. 1 (XX)",
+        "name": "Gayme Night Vol. 1",
         "json_name": "gaymenightvol1",
-        "date_created": "8-23-2022",
+        "date_created": "8-19-2022",
         "color": "green",
         "type": "eyespy",
         "status": "G",
+        "rating": 2,
+        "rating_type": "dirty",
         "tags": [
             "Gay"
         ]
     },
     {
         "id": 41,
-        "name": "Gayme Night Vol. 1 (XX)",
+        "name": "Gayme Night Vol. 1",
         "json_name": "gaymenightvol1",
-        "date_created": "8-25-2022",
+        "date_created": "8-28-2022",
         "color": "orange",
         "type": "price",
         "status": "G",
+        "rating": 3,
+        "rating_type": "dirty",
         "tags": [
             "Gay"
         ]
     },
     {
         "id": 42,
-        "name": "Gayme Night Vol. 1 (XXX)",
+        "name": "Gayme Night Vol. 1",
         "json_name": "gaymenightvol1",
-        "date_created": "8-26-2022",
+        "date_created": "8-29-2022",
         "color": "red",
         "type": "wheel",
         "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
         "tags": [
             "Gay"
         ]
     },
     {
         "id": 43,
-        "name": "Gayme Night Vol. 2 (X)",
+        "name": "Gayme Night Vol. 2",
         "json_name": "gaymenightvol3",
-        "date_created": "8-29-2022",
+        "date_created": "8-24-2022",
         "color": "pink",
         "type": "jeopardy",
         "status": "G",
+        "rating": 2,
+        "rating_type": "dirty",
         "tags": [
             "Gay"
         ]
     },
     {
         "id": 44,
-        "name": "Gayme Night Vol. 3 (XXX)",
+        "name": "Gayme Night Vol. 3",
         "json_name": "gaymenightvol4",
-        "date_created": "8-28-2022",
+        "date_created": "8-25-2022",
         "color": "teal",
         "type": "famFued",
         "status": "G",
+        "rating": 4,
+        "rating_type": "dirty",
         "tags": [
             "Gay"
         ]
     },
     {
         "id": 445,
-        "name": "Gayme Night Vol. 1 (XX)",
+        "name": "Gayme Night Vol. 1",
         "json_name": "gaymenightvol2",
-        "date_created": "8-27-2022",
+        "date_created": "8-26-2022",
         "color": "green",
         "type": "eyespy",
         "status": "G",
+        "rating": 3,
+        "rating_type": "dirty",
         "tags": [
             "Gay"
         ]
