@@ -483,11 +483,47 @@
     },
     {
         "id": 42,
-        "name": "Gayme Night Vol. 1 (X)",
+        "name": "Gayme Night Vol. 1 (XXX)",
         "json_name": "gaymenightvol1",
         "date_created": "8-26-2022",
         "color": "red",
         "type": "wheel",
+        "status": "G",
+        "tags": [
+            "Gay"
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Gayme Night Vol. 2 (X)",
+        "json_name": "gaymenightvol3",
+        "date_created": "8-29-2022",
+        "color": "pink",
+        "type": "jeopardy",
+        "status": "G",
+        "tags": [
+            "Gay"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Gayme Night Vol. 3 (XXX)",
+        "json_name": "gaymenightvol4",
+        "date_created": "8-28-2022",
+        "color": "teal",
+        "type": "famFued",
+        "status": "G",
+        "tags": [
+            "Gay"
+        ]
+    },
+    {
+        "id": 445,
+        "name": "Gayme Night Vol. 1 (XX)",
+        "json_name": "gaymenightvol2",
+        "date_created": "8-27-2022",
+        "color": "green",
+        "type": "eyespy",
         "status": "G",
         "tags": [
             "Gay"
