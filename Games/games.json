@@ -543,7 +543,7 @@
         "color": "pink",
         "type": "jeopardy",
         "status": "G",
-        "rating": 2,
+        "rating": 4,
         "rating_type": "dirty",
         "tags": [
             "Gay"
@@ -571,7 +571,7 @@
         "color": "green",
         "type": "eyespy",
         "status": "G",
-        "rating": 3,
+        "rating": 2,
         "rating_type": "dirty",
         "tags": [
             "Gay"
