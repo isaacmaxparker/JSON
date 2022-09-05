@@ -49,8 +49,8 @@
             {
                 "category":"Cute Boyz (Fictional)",
                 "type":"distortion",
-                "answer":"",
-                "imagename":""
+                "answer":"Troy Bolton (HSM)",
+                "imagename":"troy"
             },
             {
                 "category":"Gay TV Guyz",
@@ -62,11 +62,11 @@
                 "category":"Gay TV Guyz",
                 "type":"charloc",
                 "answer":"David & Patrick & Moira (Schitts Creek)",
-                "imagename":""
+                "imagename":"schitts"
             },
             {
                 "category":"Gay TV Guyz",
-                "type":"location",
+                "type":"character",
                 "answer":"Mitch & Cam (Modern Family)",
                 "imagename":"modern"
             },
