@@ -117,7 +117,7 @@
         "id": 10,
         "name": "Thanks-gay-ving",
         "json_name": "thanksgayving",
-        "date_created": "11-19-2021",
+        "date_created": "11-18-2021",
         "color": "green",
         "type": "famFued",
         "status": "G",
@@ -628,6 +628,20 @@
         "type": "millionare",
         "status": "G",
         "rating": 5,
+        "rating_type": "dirty",
+        "tags": [
+            "Gay"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "THE GAY'S KRYPTONITE",
+        "json_name": "gaykryptonite",
+        "date_created": "09-06-2022",
+        "color": "teal",
+        "type": "jeopardy",
+        "status": "G",
+        "rating": 3,
         "rating_type": "dirty",
         "tags": [
             "Gay"
