@@ -118,11 +118,11 @@
         "name": "Thanks-gay-ving",
         "json_name": "thanksgayving",
         "date_created": "11-19-2021",
-        "color": "orange",
+        "color": "green",
         "type": "famFued",
         "status": "G",
-        "rating": null,
-        "rating_type": null,
+        "rating": 1,
+        "rating_type": "dirty",
         "tags": [
             "Holiday"
         ]
@@ -132,11 +132,11 @@
         "name": "Thanks-gay-ving",
         "json_name": "thanksgayving",
         "date_created": "11-19-2021",
-        "color": "green",
+        "color": "yellow",
         "type": "jeopardy",
         "status": "G",
-        "rating": null,
-        "rating_type": null,
+        "rating": 1,
+        "rating_type": "dirty",
         "tags": [
             "Holiday"
         ]
@@ -172,11 +172,11 @@
         "name": "Gay Xmas",
         "json_name": "xmasgayprice",
         "date_created": "12-15-2021",
-        "color": "red",
+        "color": "orange",
         "type": "price",
         "status": "G",
-        "rating": null,
-        "rating_type": null,
+        "rating": 2,
+        "rating_type": "dirty",
         "tags": [
             "Christmas"
         ]
@@ -186,11 +186,11 @@
         "name": "Gay Millionaire",
         "json_name": "gaymillionaire",
         "date_created": "12-16-2021",
-        "color": "green",
+        "color": "red",
         "type": "millionare",
         "status": "G",
-        "rating": null,
-        "rating_type": null,
+        "rating": 2,
+        "rating_type": "dirty",
         "tags": []
     },
     {
@@ -357,11 +357,11 @@
         "name": "Gayme Night Vol. 1",
         "json_name": "gaymenightvol1",
         "date_created": "06-01-2022",
-        "color": "green",
+        "color": "pink",
         "type": "famFued",
         "status": "G",
-        "rating": null,
-        "rating_type": null,
+        "rating": 2,
+        "rating_type": "dirty",
         "tags": [
             "Gay"
         ]
@@ -371,11 +371,11 @@
         "name": "Gayme Night Vol. 1",
         "json_name": "gaymenightvol1",
         "date_created": "06-02-2022",
-        "color": "pink",
+        "color": "teal",
         "type": "jeopardy",
         "status": "G",
-        "rating": null,
-        "rating_type": null,
+        "rating": 1,
+        "rating_type": "dirty",
         "tags": [
             "Gay"
         ]
@@ -385,11 +385,11 @@
         "name": "Gayme Night Vol. 2",
         "json_name": "gaymenightvol2",
         "date_created": "06-22-2022",
-        "color": "teal",
+        "color": "green",
         "type": "famFued",
         "status": "G",
-        "rating": null,
-        "rating_type": null,
+        "rating": 2,
+        "rating_type": "dirty",
         "tags": [
             "Gay"
         ]
@@ -498,7 +498,7 @@
         "name": "Gayme Night Vol. 3",
         "json_name": "gaymenightvol3",
         "date_created": "08-20-2022",
-        "color": "teal",
+        "color": "yellow",
         "type": "famFued",
         "status": "G",
         "rating": 3,
@@ -512,7 +512,7 @@
         "name": "Gayme Night Vol. 1",
         "json_name": "gaymenightvol1",
         "date_created": "08-21-2022",
-        "color": "green",
+        "color": "orange",
         "type": "eyespy",
         "status": "G",
         "rating": 2,
@@ -526,7 +526,7 @@
         "name": "Gayme Night Vol. 2",
         "json_name": "gaymenightvol2",
         "date_created": "08-22-2022",
-        "color": "pink",
+        "color": "red",
         "type": "jeopardy",
         "status": "G",
         "rating": 2,
@@ -585,7 +585,7 @@
         "color": "yellow",
         "type": "millionare",
         "status": "G",
-        "rating": 1,
+        "rating": 4,
         "rating_type": "dirty",
         "tags": [
             "Gay"
@@ -612,6 +612,20 @@
         "date_created": "09-02-2022",
         "color": "red",
         "type": "wheel",
+        "status": "G",
+        "rating": 3,
+        "rating_type": "dirty",
+        "tags": [
+            "Gay"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "JUST THE GAY SEX",
+        "json_name": "justthegaysex",
+        "date_created": "09-05-2022",
+        "color": "pink",
+        "type": "millionare",
         "status": "G",
         "rating": 5,
         "rating_type": "dirty",

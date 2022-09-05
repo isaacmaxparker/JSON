@@ -40,6 +40,16 @@
         }
     },
     {
+        "question_text": "Which are not two names for the same sex position?",
+        "answers": {
+            "answer_1": "Doggy Style/Bulldog",
+            "answer_2": "Cowgirl/Cowboy",
+            "answer_3": "Jackhammer/Piledriver",
+            "answer_4": "Froting/Swordfight",
+            "right_answer": 3
+        }
+    },
+    {
         "question_text": "What is Victor's Best friend's name in Love, Victor",
         "answers": {
             "answer_1": "Tyson",
@@ -47,16 +57,6 @@
             "answer_3": "Felix",
             "answer_4": "Max",
             "right_answer": 3
-        }
-    },
-    {
-        "question_text": "Which famous latin singer is gay?",
-        "answers": {
-            "answer_1": "Ricky Martin",
-            "answer_2": "Enrique Igliesas",
-            "answer_3": "Maluma",
-            "answer_4": "J Balvin",
-            "right_answer": 1
         }
     },
     {
@@ -110,16 +110,6 @@
         }
     },
     {
-        "question_text": "Which pop diva is not an actress?",
-        "answers": {
-            "answer_1": "Ariana Grande",
-            "answer_2": "Lady Gaga",
-            "answer_3": "Britney Spears",
-            "answer_4": "Kesha",
-            "right_answer": 4
-        }
-    },
-    {
         "question_text": "In 'Tik Tok' what does Ke$ha brush her teeth with?",
         "answers": {
             "answer_1": "Whiskey",
@@ -150,16 +140,6 @@
         }
     },   
     {
-        "question_text": "Which league does not have an openly gay male athlete?",
-        "answers": {
-            "answer_1": "NFL",
-            "answer_2": "NBA",
-            "answer_3": "NHL",
-            "answer_4": "USL",
-            "right_answer": 2
-        }
-    },
-    {
         "question_text": "What year was gay marriage legalized",
         "answers": {
             "answer_1": "2013",
@@ -167,16 +147,6 @@
             "answer_3": "2015",
             "answer_4": "2016",
             "right_answer": 3
-        }
-    },
-    {
-        "question_text": "What year were the Stonewall riots?",
-        "answers": {
-            "answer_1": "1968",
-            "answer_2": "1969",
-            "answer_3": "1970",
-            "answer_4": "1971",
-            "right_answer": 2
         }
     },
     {
@@ -327,16 +297,6 @@
             "answer_3": "Halsey",
             "answer_4": "Ariana Grande",
             "right_answer": 2
-        }
-    },
-    {
-        "question_text": "'Your oufite was a Xanadu, but your lip sync was a real Xana-don't'",
-        "answers": {
-            "answer_1": "Katya",
-            "answer_2": "Ariel",
-            "answer_3": "Naysha Lopez",
-            "answer_4": "Monet X Change",
-            "right_answer": 1
         }
     },
     {
@@ -560,16 +520,6 @@
         }
     },
     {
-        "question_text":"What are the names of the Sanderson Sisters from Hocus Pocus?",
-        "answers":{
-            "answer_1":"Winifred, Mary, Sarah",
-            "answer_2":"Eileen, Beverly, Meredith",
-            "answer_3":"Gertrude, Ginny, Georgia",
-            "answer_4":"Maryanne, Katherine, Samantha",
-            "right_answer":1
-        }
-    },
-    {
         "question_text":"Which is a real porn cam website",
         "answers":{
             "answer_1":"Hot.com",
@@ -630,16 +580,6 @@
         }
     },
     {
-        "question_text":"Na is the chemical formula for which element?",
-        "answers":{
-            "answer_1":"Sodium",
-            "answer_2":"Potassium",
-            "answer_3":"Nickel",
-            "answer_4":"Narcotium",
-            "right_answer":1
-        }
-    },
-    {
         "question_text":"Which is one of the seven deadly sins?",
         "answers":{
             "answer_1":"Murder",
@@ -680,26 +620,6 @@
         }
     },
     {
-        "question_text":"Which actress portrayed rose in 'Titanic'?",
-        "answers":{
-            "answer_1":"Kate Winslet",
-            "answer_2":"Jennifer Lawrence",
-            "answer_3":"Cate Blanchett",
-            "answer_4":"Anna Faris",
-            "right_answer":1
-        }
-    },
-    {
-        "question_text":"Which Disney Channel show starred Miley Cyrus?",
-        "answers":{
-            "answer_1":"Sonny with a Chance",
-            "answer_2":"Wizards of Waverly Place",
-            "answer_3":"Hannah Montana",
-            "answer_4":"Suite Life on Deck",
-            "right_answer":3
-        }
-    },
-    {
         "question_text":"Which is not an offensive football position?",
         "answers":{
             "answer_1":"Cornerback",
@@ -707,16 +627,6 @@
             "answer_3":"Halfback",
             "answer_4":"Fullback",
             "right_answer":1
-        }
-    },
-    {
-        "question_text":"Which singer is not from Utah?",
-        "answers":{
-            "answer_1":"Brendon Urie (Panic! at the Disco)",
-            "answer_2":"Tyler Glenn (Neon Trees)",
-            "answer_3":"Isaac Parker (Shameless Self-Promo)",
-            "answer_4":"Dan Reynolds (Imagine Dragons)",
-            "right_answer":4
         }
     },
     {
@@ -737,16 +647,6 @@
             "answer_3":"Andrew Garfield",
             "answer_4":"Donald Glover",
             "right_answer":3
-        }
-    },
-    {
-        "question_text":"Which Disney princess wants to be where the people are?",
-        "answers":{
-            "answer_1":"Rapunzel",
-            "answer_2":"Ariel",
-            "answer_3":"Belle",
-            "answer_4":"Cinderella",
-            "right_answer":2
         }
     },
     {
@@ -797,6 +697,316 @@
             "answer_3": "CuriousHunks.com",
             "answer_4": "TheCastingCouch.net",
             "right_answer": 4
+        }
+    },
+    {
+        "question_text":"Which U.S. State has the largest average penis",
+        "answers":{
+            "answer_1":"Alabama",
+            "answer_2":"Louisiana",
+            "answer_3":"West Virginia",
+            "answer_4":"Utah",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which U.S. state has the smallest average penis?",
+        "answers":{
+            "answer_1":"Utah",
+            "answer_2":"Delaware",
+            "answer_3":"Texas",
+            "answer_4":"Alaska",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which Country has the biggest average penis size",
+        "answers":{
+            "answer_1":"Bolivia",
+            "answer_2":"Cameroon",
+            "answer_3":"Ecuadoor",
+            "answer_4":"Sudan",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which Country has the smallest average penis size",
+        "answers":{
+            "answer_1":"Sri Lanka",
+            "answer_2":"Phillipines",
+            "answer_3":"Burma",
+            "answer_4":"Cambodia",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"The word bussy is a _______",
+        "answers":{
+            "answer_1":"Pronoun",
+            "answer_2":"Palindrome",
+            "answer_3":"Portmanteau",
+            "answer_4":"Preposition",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"What is a real gay cartoon porn site",
+        "answers":{
+            "answer_1":"JustCartoonCocks",
+            "answer_2":"JustCartoonDicks",
+            "answer_3":"JustCartoonButts",
+            "answer_4":"JustCartoonGays",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which is not a real gay dating app?",
+        "answers":{
+            "answer_1":"Jack'd",
+            "answer_2":"Chubbies",
+            "answer_3":"Scruff",
+            "answer_4":"Sniffies",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Who is not a gay porn star",
+        "answers":{
+            "answer_1":"",
+            "answer_2":"",
+            "answer_3":"",
+            "answer_4":"",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which is not a real gay sex position?",
+        "answers":{
+            "answer_1":"Bodyguard",
+            "answer_2":"Danseur",
+            "answer_3":"Napolean",
+            "answer_4":"Fire Hydrant",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which is a real gay sex position?",
+        "answers":{
+            "answer_1":"Roses",
+            "answer_2":"Daisy",
+            "answer_3":"Lotus",
+            "answer_4":"Tulip",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which is not a blowjob variation",
+        "answers":{
+            "answer_1":"Buck",
+            "answer_2":"Crab",
+            "answer_3":"Doggy",
+            "answer_4":"Bunny",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which is not a real rimjob variation",
+        "answers":{
+            "answer_1":"Handstand",
+            "answer_2":"Kneestand",
+            "answer_3":"Shoulderstand",
+            "answer_4":"Aerial",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which sex word also means 'anonymous source of secret info'",
+        "answers":{
+            "answer_1":"Deep Throat",
+            "answer_2":"Rimmer",
+            "answer_3":"Cuckhold",
+            "answer_4":"Ejaculate",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which sex position doesn't specifically involve cum",
+        "answers":{
+            "answer_1":"Spitroasting",
+            "answer_2":"Felching",
+            "answer_3":"Snowballing",
+            "answer_4":"Bukkake",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which sex position does involve a butthole",
+        "answers":{
+            "answer_1":"Launch Pad",
+            "answer_2":"Felching",
+            "answer_3":"Pearl Necklace",
+            "answer_4":"Golden Shower",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"What is the difference between cowboy and asian cowboy?",
+        "answers":{
+            "answer_1":"The speed at which you ride",
+            "answer_2":"The angle of your leg spread",
+            "answer_3":"What you balance on",
+            "answer_4":"The race of the bottom",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which is not a variation on the standard 'Cowboy' sex position",
+        "answers":{
+            "answer_1":"Splits",
+            "answer_2":"Standing",
+            "answer_3":"Sideways",
+            "answer_4":"Supine",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which is a real variation of missionary",
+        "answers":{
+            "answer_1":"Inverse",
+            "answer_2":"Reverse",
+            "answer_3":"Sideverse",
+            "answer_4":"Verse",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which food is also a real gay sex position",
+        "answers":{
+            "answer_1":"Vienesse Oyster",
+            "answer_2":"Chinese Crab",
+            "answer_3":"Russian Turnip",
+            "answer_4":"French Toast",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which movie title is also a gay sex position",
+        "answers":{
+            "answer_1":"Deep Impact",
+            "answer_2":"Wag The Dog",
+            "answer_3":"Dirty Harry",
+            "answer_4":"Black Snake Moan",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"What is the name for when a top sucks off the bottom while inside him.",
+        "answers":{
+            "answer_1":"Fuck Blow Sandwhich",
+            "answer_2":"Oral Sandwhich",
+            "answer_3":"Prone Blowjob",
+            "answer_4":"Circle Serpent",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"What do you call when a guy sucks himself off",
+        "answers":{
+            "answer_1":"AutoFellatio",
+            "answer_2":"Circle Serpent",
+            "answer_3":"Suckerfish",
+            "answer_4":"None of the above",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"What do you call it when a bottom is both railed and rimmed?",
+        "answers":{
+            "answer_1":"Holy Trinity",
+            "answer_2":"Holy Trifecta",
+            "answer_3":"Trinity",
+            "answer_4":"Trifecta",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Whats the difference between eiffel tower and spitroasting",
+        "answers":{
+            "answer_1":"spit is both cocks in bottom, eiffel is rimming + fucking",
+            "answer_2":"The two tops kiss",
+            "answer_3":"The reciever is a girl",
+            "answer_4":"The two tops hold hands",
+            "right_answer":2
+        }
+    },
+    {
+        "question_text":"Which animal is not a gay sex position",
+        "answers":{
+            "answer_1":"Sitting Bull",
+            "answer_2":"Basset Hound",
+            "answer_3":"Soaring Eagle",
+            "answer_4":"Great Dane",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which superhero is a gay sex position",
+        "answers":{
+            "answer_1":"Superman",
+            "answer_2":"Spiderman",
+            "answer_3":"Batman",
+            "answer_4":"Iron Man",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which gay sex position has the third licking the tops cock as he fucks",
+        "answers":{
+            "answer_1":"Perfecta",
+            "answer_2":"Trifecta",
+            "answer_3":"Analecta",
+            "answer_4":"Pretecta",
+            "right_answer":1
+        }
+    },
+    {
+        "question_text":"Which 69 variation involves oral and fucking",
+        "answers":{
+            "answer_1":"269",
+            "answer_2":"369",
+            "answer_3":"469",
+            "answer_4":"All of the above",
+            "right_answer":4
+        }
+    },
+    {
+        "question_text":"Which sex positions involve the top and bottom at perpendicular angles?",
+        "answers":{
+            "answer_1":"Screw",
+            "answer_2":"T-Square",
+            "answer_3":"Neither of the above",
+            "answer_4":"Both of the above",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"Which sex position doesn't have a reverse version?",
+        "answers":{
+            "answer_1":"Warrior",
+            "answer_2":"Wheelbarrow",
+            "answer_3":"Cowbot",
+            "answer_4":"Bodyguard",
+            "right_answer":3
+        }
+    },
+    {
+        "question_text":"What do you call it when the top jerks and rims his bottom simultaneously?",
+        "answers":{
+            "answer_1":"Devil's Clarinet",
+            "answer_2":"Angel's Trumpet",
+            "answer_3":"Rusty Trombone",
+            "answer_4":"Red Xylophone",
+            "right_answer":3
         }
     }
 ]
