@@ -355,5 +355,19 @@
       "element": "Geo",
       "weapon": "Polearm",
       "role": "Support"
+    },
+    {
+      "name": "Tighnari",
+      "rarity": 5,
+      "element": "Dendro",
+      "weapon": "Bow",
+      "role": "DPS"
+    },
+    {
+      "name": "Collei",
+      "rarity": 5,
+      "element": "Dendro",
+      "weapon": "Bow",
+      "role": "Support"
     }
    ]
