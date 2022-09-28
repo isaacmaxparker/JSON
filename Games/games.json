@@ -646,5 +646,19 @@
         "tags": [
             "Gay"
         ]
+    },
+    {
+        "id": 47,
+        "name": "THE GAY'S KRYPTONITE",
+        "json_name": "gaymenightvol1",
+        "date_created": "09-27-2022",
+        "color": "green",
+        "type": "jeopardy",
+        "status": "G",
+        "rating": 3,
+        "rating_type": "dirty",
+        "tags": [
+            "Gay"
+        ]
     }
 ]
