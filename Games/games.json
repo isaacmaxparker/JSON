@@ -649,11 +649,11 @@
     },
     {
         "id": 47,
-        "name": "THE GAY'S KRYPTONITE",
+        "name": "Gayme Night Vol. 1",
         "json_name": "gaymenightvol1",
         "date_created": "09-27-2022",
         "color": "green",
-        "type": "jeopardy",
+        "type": "scatter",
         "status": "G",
         "rating": 3,
         "rating_type": "dirty",
