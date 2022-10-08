@@ -369,5 +369,26 @@
       "element": "Dendro",
       "weapon": "Bow",
       "role": "Support"
+    },
+    {
+      "name": "Candace",
+      "rarity": 4,
+      "element": "Hydro",
+      "weapon": "Polearm",
+      "role": "Support"
+    },
+    {
+      "name": "Cyno",
+      "rarity": 5,
+      "element": "Electro",
+      "weapon": "Polearm",
+      "role": "DPS"
+    },
+    {
+      "name": "Dori",
+      "rarity": 4,
+      "element": "Electro",
+      "weapon": "Claymore",
+      "role": "Support"
     }
    ]
