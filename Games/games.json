@@ -42,18 +42,6 @@
         ]
     },
     {
-        "id": 4,
-        "name": "Becca's Birthday",
-        "json_name": "beccas_bday",
-        "date_created": "02-24-2021",
-        "color": "green",
-        "type": "jeopardy",
-        "status": "F",
-        "rating": null,
-        "rating_type": null,
-        "tags": []
-    },
-    {
         "id": 5,
         "name": "Pizza Party",
         "json_name": "pizza_party",
@@ -61,18 +49,6 @@
         "color": "red",
         "type": "jeopardy",
         "status": "A",
-        "rating": null,
-        "rating_type": null,
-        "tags": []
-    },
-    {
-        "id": 6,
-        "name": "Mother's Day",
-        "json_name": "mothers_day",
-        "date_created": "05-09-2021",
-        "color": "pink",
-        "type": "jeopardy",
-        "status": "F",
         "rating": null,
         "rating_type": null,
         "tags": []
@@ -665,6 +641,20 @@
         "id": 49,
         "name": "Friendsgiving 2022",
         "json_name": "friendsgiving2022",
+        "date_created": "11-19-2022",
+        "color": "yellow",
+        "type": "jeopardy",
+        "status": "T",
+        "rating": "1",
+        "rating_type": "dirty",
+        "tags": [
+            "Gay"
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Thanks-gay-ving",
+        "json_name": "thanksgayving",
         "date_created": "11-19-2022",
         "color": "yellow",
         "type": "scatter",
