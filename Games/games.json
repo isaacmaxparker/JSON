@@ -660,5 +660,19 @@
         "tags": [
             "Gay"
         ]
+    },
+    {
+        "id": 49,
+        "name": "Friendsgiving 2022",
+        "json_name": "friendsgiving2022",
+        "date_created": "11-19-2022",
+        "color": "yellow",
+        "type": "scatter",
+        "status": "T",
+        "rating": "1",
+        "rating_type": "dirty",
+        "tags": [
+            "Gay"
+        ]
     }
 ]
