@@ -62,36 +62,6 @@
                 ]
             },
             {
-                "category_name": "Chaddy Colton",
-                "questions": [
-                    {
-                        "points":400,
-                        "question":"Who is Colton Underwood",
-                        "answer": "This Colton was a Bachelor before going gay"
-                    },
-                    {
-                        "points":800,
-                        "question":"Who is Colton Haynes",
-                        "answer": "This Teen Wolf Colton's last name is underwear"
-                    },
-                    {
-                        "points":1200,
-                        "question":"What is Taylor Swift",
-                        "answer": "The only woman Colton would sex"
-                    },
-                    {
-                        "points":1600,
-                        "question":"What is Revive",
-                        "answer": "The name of Colton's Store"
-                    },
-                    {
-                        "points":2000,
-                        "question":"What is H A R T V I G S E N",
-                        "answer": "The proper way to spell Colton's last name"
-                    }
-                ]
-            },
-            {
                 "category_name": "Daddy Daniel",
                 "questions": [
                     {
@@ -120,9 +90,7 @@
                         "answer": "The 70s music Genre that matches Daniel's Last name"
                     }
                 ]
-            }
-        ],
-        "round_two":[
+            },
             {
                 "category_name": "Hunky Holly",
                 "questions": [
@@ -152,7 +120,9 @@
                         "answer": "The continent Holly visited this summer"
                     }
                 ]
-            },
+            }
+        ],
+        "round_two":[
             {
                 "category_name": "Icy Isaac",
                 "questions": [
@@ -184,36 +154,6 @@
                 ]
             },
             {
-                "category_name": "Testosterone Tyson",
-                "questions": [
-                    {
-                        "points":400,
-                        "question":"What are Chicken Strips",
-                        "answer": "Tyson ____ _____ go well with Barbecue sauce or Ketchup (meat)"
-                    },
-                    {
-                        "points":800,
-                        "question":"Who is Mike Tyson",
-                        "answer": "Boxer bit off a nose"
-                    },
-                    {
-                        "points":1200,
-                        "question":"What is Patrick Swazey",
-                        "answer": "This actor shares Tyson's last name"
-                    },
-                    {
-                        "points":1600,
-                        "question":"What is English",
-                        "answer": "The subject Tyson teaches in school"
-                    },
-                    {
-                        "points":2000,
-                        "question":"What are Fish",
-                        "answer": "The Animal Emojis in Tyson's Instagram bio"
-                    }
-                ]
-            },
-            {
                 "category_name": "Virgin Vincent",
                 "questions": [
                     {
@@ -240,6 +180,66 @@
                         "points":2000,
                         "question":"Who is Austin",
                         "answer": "The name of Vincent's friend who works in Porn"
+                    }
+                ]
+            },
+            {
+                "category_name": "Kwirky Katherine P Perry",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is Roar",
+                        "answer": "Katy's Tiger Song"
+                    },
+                    {
+                        "points":800,
+                        "question":"Who is Left Shark",
+                        "answer": "The ICON from Katy's Super Bowl performance"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is california Gurls",
+                        "answer": "The music video where Katy squirts cream from her boobies"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is Ur So Gay",
+                        "answer": "This song from her early days got katy in hot water with the LGBTs."
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Play",
+                        "answer": "The name of Katy's Vegas Residency"
+                    }
+                ]
+            },
+            {
+                "category_name": "Twinky Taylor Swift",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is our song?",
+                        "answer": "The sound of screen doors"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is bejewled",
+                        "answer": "This midnights song is \"Nice!\""
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is Speak Now",
+                        "answer": "The next Taylor's Version album coming out"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What are LWYMMD and This is Why We Can't Have Nice Things",
+                        "answer": "The two Reputation songs confrmed to be about Kanye West"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is Play",
+                        "answer": "The name of Katy's Vegas Residency"
                     }
                 ]
             }
