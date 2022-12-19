@@ -6,13 +6,13 @@
                 "questions": [
                     {
                         "points":200,
-                        "question":"",
-                        "answer": ""
+                        "question":"All I want for Christmas is You",
+                        "answer": "The name of Mariah Carey's 1994 Christmas song"
                     },
                     {
                         "points":400,
-                        "question":"",
-                        "answer": ""
+                        "question":"34th",
+                        "answer": "The Miracle on ___ Street, is based off a real Macey's Store"
                     },
                     {
                         "points":600,
@@ -21,13 +21,13 @@
                     },
                     {
                         "points":800,
-                        "question":"",
-                        "answer": ""
+                        "question":"Who is Tom Hanks",
+                        "answer": "This hollywood actor plays 6 roles in \"The Polar Express\""
                     },
                     {
                         "points":1000,
-                        "question":"",
-                        "answer": ""
+                        "question":"Where is England",
+                        "answer": "Eggnog comes from this country"
                     }
                 ]
             },
