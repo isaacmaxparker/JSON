@@ -1,0 +1,250 @@
+[
+    {
+        "round_one":[
+            {
+                "category_name": "Traditional Moral Christmas",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"",
+                        "answer": ""
+                    },
+                    {
+                        "points":400,
+                        "question":"",
+                        "answer": ""
+                    },
+                    {
+                        "points":600,
+                        "question":"What is a chestnut",
+                        "answer": "This kind of tree seed is roasting on the open fire"
+                    },
+                    {
+                        "points":800,
+                        "question":"",
+                        "answer": ""
+                    },
+                    {
+                        "points":1000,
+                        "question":"",
+                        "answer": ""
+                    }
+                ]
+            },
+            {
+                "category_name": "Christmastime, but also Murder",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"Who is Krampus",
+                        "answer": "The christmas demon"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is santa claus is always coming to town",
+                        "answer": "This song lets us know Santa is always spying on us"
+                    },
+                    {
+                        "points":600,
+                        "question":"Who is grandma",
+                        "answer": "Your family member that gets obliterated by santas minion"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is elf on a shelf",
+                        "answer": "This creepy christmas spy doll inspired a meme trend last year"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is Die Hard",
+                        "answer": "This Bruce Willis movie is set on Christmas has 23 deaths"
+                    }
+                ]
+            },
+            {
+                "category_name": "Christmas Hims",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"What is Rock",
+                        "answer": "____ ____ ___ sweet head"
+                    },
+                    {
+                        "points":400,
+                        "question":"Santa Claus, To Town",
+                        "answer": "____ is cumming ________"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is Tell",
+                        "answer": "Santa _____ me."
+                    },
+                    {
+                        "points":800,
+                        "question":"What is cover, fire, heart",
+                        "answer": "A man under _____ with a ____ in his _____"
+                    },
+                    {
+                        "points":1000,
+                        "question":"",
+                        "answer": "__ckin' around the ______ ______.. ..every couple has to ____"
+                    }
+                ]
+            },
+            {
+                "category_name": "Daddy Dickmas",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"a White Christmas",
+                        "answer": "What you get when you jingle santa's balls"
+                    },
+                    {
+                        "points":400,
+                        "question":"What is Cocoa Cola",
+                        "answer": "This soda brand came up with Santa Claus"
+                    },
+                    {
+                        "points":600,
+                        "question":"What is the night before christmas",
+                        "answer": "The poem that tells us about santas big sexy jelly belly"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is the night before christmas",
+                        "answer": "Santa's Reindeer named after sexually attractive women"
+                    },
+                    {
+                        "points":1000,
+                        "question":"What is Holland",
+                        "answer": "People in _____ call Santa 'Sinn'terklaas"
+                    }
+                ]
+            }
+        ],
+        "round_two":[
+            {
+                "category_name": "Verse Christmas",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"All I want for Christmas is You",
+                        "answer": "The name of Mariah Carey's 1994 Christmas song"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Mistletoe",
+                        "answer": "This parasite causes kisses at Christmastime"
+                    },
+                    {
+                        "points":1200,
+                        "question":"Parson Brown / Circus Clown",
+                        "answer": "In the song \"Winter Wonderland\" who do we pretend the snowman is?"
+                    },
+                    {
+                        "points":1600,
+                        "question":"Cupid",
+                        "answer": "Which of Santa's reindeer shares a name with another holiday mascot"
+                    },
+                    {
+                        "points":2000,
+                        "question":"Who is Tom Hanks",
+                        "answer": "This hollywood actor plays 6 roles in \"The Polar Express\""
+                    }
+                ]
+            },
+            { 
+                "category_name": "Oh Unholy Night",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"Christmas",
+                        "answer": "I'll have blue ____ without you"
+                    },
+                    {
+                        "points":800,
+                        "question":"walking, winter wonderland",
+                        "answer": "___king in a _____ _________"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is rider, one horse, sleigh",
+                        "answer": "Oh what fun it is to ___ in an ________ open _____"
+                    },
+                    {
+                        "points":1600,
+                        "question":"Smiled at, drum",
+                        "answer": "Then he _____  __ me, me and my _____"
+                    },
+                    {
+                        "points":2000,
+                        "question":"First, stocking, little nell, santa",
+                        "answer": "___ comes the ____ of _____, oh dear ____ fill it well"
+                    }
+                ]
+            },   
+            {
+                "category_name": "Merry Flickmas, Happy Holigays",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is mean girls",
+                        "answer": "The Aaron Samuels actor from ____ _____'s is in two gay christmas movies"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Single All The Way",
+                        "answer": "The Gay 'Hallmark' movie that came out last year"
+                    },
+                    {
+                        "points":1200,
+                        "question":"Who is Kristen Stewart",
+                        "answer": "This moody actress was in a lesbian christmas movie"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is bros",
+                        "answer": "This 2022 gay rom com featured a foursome at christmastime"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is a Holly Polly Christmas",
+                        "answer": "The name of the polyamourus hallmark movie in 'Bros'"
+                    }
+                ]
+            },
+            {
+                "category_name": "Fuck Christmas",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"What is stuff",
+                        "answer": "If you only do this to your stocking, your bottom might get jealous"
+                    },
+                    {
+                        "points":800,
+                        "question":"What is a turkey baster",
+                        "answer": "It keeps the poultry juicy, and is the only way a gay could impregnate a woman"
+                    },
+                    {
+                        "points":1200,
+                        "question":"What is a footjob",
+                        "answer": "When the bottom uses his walking implements to rub his top's yule log like he's starting a fire"
+                    },
+                    {
+                        "points":1600,
+                        "question":"What is spitroasting",
+                        "answer": "You might cook your christmas turkey like how a bottom enjoys a top in both holes"
+                    },
+                    {
+                        "points":2000,
+                        "question":"What is a pearl necklace",
+                        "answer": "Every Kiss begins with K, so give your wife this jewelry and give it to your boyfriend in bed too"
+                    }
+                ]
+            }
+        ],
+        "final_questions":"This iconic Christmas character made his on screen debut 1969 and had his titular song released in 1950",
+        "final_answers":"Who is Frosty the Snowman"
+    }
+]
