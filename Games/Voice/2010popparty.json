@@ -5,7 +5,8 @@
         "key": "california_girls",
         "file": "california_girls.mp3",
         "lyrics": [
-            "California Girls we're undeniable",
+            "(oh oh)",
+            "California Girls we're unforgettable",
             "Daisy dukes bikinis on top",
             "Sun kissed skin so hot",
             "__'__ ____ ____ ________ (oh oh)"
@@ -17,9 +18,11 @@
         "key": "alejandro",
         "file": "alejandro.mp3",
         "lyrics": [
+            "You know that I love you boy",
+            "Hot like mexico rejoice",
             "At this point I've gotta choose",
-            "nothing to lose",
-            "don't call my name (don't call my name",
+            "Nothing to lose",
+            "don't call my name (don't call my name)",
             "Alejandro",
             "_'_ ___ ____ ____ (_'_ ___ ____ ____)"
         ]
@@ -33,7 +36,7 @@
             "mom's telling me I should think twice",
             "but left to my own devices",
             "I'm addictied it's a crisis",
-            "my friend's think I've gone crazy",
+            "my friends think I've gone crazy",
             "my judgements getting kinda hazy",
             "my sleaze is gonna be affected",
             "if i keep it up like a lovesick crackhead",
@@ -47,10 +50,10 @@
         "key": "tonight",
         "file": "tonight.mp3",
         "lyrics": [
-            "Here's the situation, I've been to every nation",
-            "Nobody ever makes me feel the way that you do",
+            "Here's the situation, been to every nation",
+            "Nobody's ever made me feel the way that you do",
             "You know my motivation given my reputation",
-            "Please excuse my I don't mean to be rude",
+            "Please excuse me I don't mean to be rude",
             "___ _______ _'_ _______ ___"
         ]
     },
@@ -63,7 +66,7 @@
             "That's when you need me there",
             "With you I'll always share",
             "because when the sun shines we'll shine together",
-            "told you'll be here forever",
+            "told you i'll be here forever",
             "____ _'__ ______ __ ____ ______"
         ]
     },
@@ -81,7 +84,7 @@
             "Oh baby when you talk like that",
             "You make a woman go mad",
             "So be wise, and keep on",
-            "_______ ___ ______ __ __ ____"
+            "_______ ___ _____ __ __ ____"
         ]
     },
     {
@@ -98,16 +101,16 @@
         ]
     },
     {
-        "title": "Love Story (Taylor's Version)",
+        "title": "Love Story",
         "artist": "Taylor Swift",
         "key": "love_story",
         "file": "love_story.mp3",
         "lyrics": [
             "(Intro)",
             "We were both young when I first saw you",
-            "I close my eyes and the flash back starts",
+            "I close my eyes and the flashback starts",
             "I'm standing there",
-            "__ _ _______ __ _____ ___"
+            "__ _ _______ __ ______ ___"
         ]
     },
     {
@@ -130,12 +133,16 @@
         "key": "complicated",
         "file": "complicated.mp3",
         "lyrics": [
-            "(Uh uh) life's like this",
-            "(Uh uh) (Uh uh) that's the way it is",
+            "(Uh uh)",
+            "life's like this", 
+            "(Uh uh) (Uh uh)",
+            "that's the way it is",
+            "     ",
             "cause life's like this",
-            "(Uh uh) (Uh uh) that's the way it is",
+            "(Uh uh) (Uh uh)",
+            "that's the way it is",
             "Chill out",
-            "____ ___ _______ ___"
+            "____ ___ ______' ___"
         ]
     },
     {
@@ -150,7 +157,7 @@
             "Can't promise tomorrow, but I promise tonight (Dale)",
             "Excuse me",
             "and I might drink a little more than I should tonight",
-            "and I might ____ ___ ____ ____ __ __ _ ____ _______"
+            "and I might ____ ___ ____ ____ __ __ _ _____ _______"
         ]
     },
     {
@@ -167,7 +174,7 @@
             "I mean my, my, my, my you're like pelican fly",
             "I mean, you're so shy and I'm loving your tie",
             "You're like slicker than the guy with the thing on his eye, oh",
-            "___ _ ___, ___ _ ___ ______________ ____ ___ ___ ___ _ _ __"
+            "___ _ ___, ___ _ ___ ________ ______ ____ ___ ___ ___ _ _ __"
         ]
     }
 ]
