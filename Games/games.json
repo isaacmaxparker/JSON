@@ -730,8 +730,8 @@
         "color": "green",
         "type": "jeopardy",
         "status": "G",
-        "rating": 3,
-        "rating_type": "hardness",
+        "rating": 4,
+        "rating_type": "dirty",
         "tags": [
             
         ]
@@ -742,10 +742,10 @@
         "json_name": "nakedboyz",
         "date_created": "04-06-2023",
         "color": "yellow",
-        "type": "famFued",
+        "type": "eyespy",
         "status": "G",
-        "rating": 3,
-        "rating_type": "hardness",
+        "rating": 5,
+        "rating_type": "dirty",
         "tags": [
             
         ]

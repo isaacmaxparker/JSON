@@ -1,0 +1,106 @@
+[
+    {
+        "columns":4,
+        "rows":4,
+        "foldername":"nakedcelebs",
+        "questions":[
+            {
+                "category":"Nakey",
+                "type":"character",
+                "answer":"Antoni Porowski",
+                "imagename":"antoni"
+            },
+            {
+                "category":"Nakey",
+                "type":"character",
+                "answer":"Cole Sprouse",
+                "imagename":"cole"
+            },
+            {
+                "category":"Nakey",
+                "type":"character",
+                "answer":"Danny Phantom",
+                "imagename":"danny"
+            },
+            {
+                "category":"Nakey",
+                "type":"character",
+                "answer":"Henry Cavill",
+                "imagename":"henry"
+            },
+            {
+                "category":"Nakey",
+                "type":"character",
+                "answer":"Jacob Elordi",
+                "imagename":"jacob"
+            },
+            {
+                "category":"Nakey",
+                "type":"character",
+                "answer":"Jake Gylenhaal",
+                "imagename":"jake"
+            },
+            {
+                "category":"Nakey",
+                "type":"character",
+                "answer":"Jason Derulo",
+                "imagename":"jason"
+            },
+            {
+                "category":"Nakey",
+                "type":"character",
+                "answer":"Charlie Puth (& Jungkook)",
+                "imagename":"jungkook"
+            },
+            {
+                "category":"Nakey",
+                "type":"character",
+                "answer":"Lil Nas X",
+                "imagename":"nas"
+            },
+            {
+                "category":"Nakey",
+                "type":"character",
+                "answer":"Niall Horan",
+                "imagename":"niall"
+            },
+            {
+                "category":"Nakey",
+                "type":"character",
+                "answer":"Pitbull",
+                "imagename":"pitbull"
+            },
+            {
+                "category":"Nakey",
+                "type":"character",
+                "answer":"Shawn Mendes",
+                "imagename":"shawn"
+            },
+            {
+                "category":"Nakey",
+                "type":"character",
+                "answer":"Simu Liu",
+                "imagename":"simu"
+            },
+            {
+                "category":"Nakey",
+                "type":"character",
+                "answer":"Terry Crews",
+                "imagename":"terry"
+            },
+            {
+                "category":"Nakey",
+                "type":"character",
+                "answer":"Tom Holland",
+                "imagename":"tom"
+            },
+            {
+                "category":"Nakey",
+                "type":"character",
+                "answer":"Troye Sivan",
+                "imagename":"troye"
+            }
+        ]
+    }
+
+]
