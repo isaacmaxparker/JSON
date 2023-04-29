@@ -777,5 +777,19 @@
         "tags": [
             
         ]
+    },
+    {
+        "id": 59,
+        "name": "Swiftie Academy",
+        "json_name": "swifties",
+        "date_created": "04-28-2023",
+        "color": "pink",
+        "type": "voice",
+        "status": "A",
+        "rating": 1,
+        "rating_type": "",
+        "tags": [
+            
+        ]
     }
 ]
