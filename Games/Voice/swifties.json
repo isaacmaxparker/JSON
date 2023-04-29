@@ -17,7 +17,7 @@
         "title": "Blank Space",
         "artist": "1989",
         "key": "blank_space",
-        "file": "blank_space",
+        "file": "blank_space.mp3",
         "lyrics": [
             "I can make the bad guys good for a weekend",
             "So it's gonna be forever",
@@ -40,7 +40,7 @@
     {
         "title": "All Too Well",
         "artist": "Red",
-        "key": "all_too_well",
+        "key": "all_too_well.mp3",
         "file": "",
         "lyrics": [
             "And maybe we got lost in translation",
@@ -56,7 +56,7 @@
         "title": "Miss Americana & The Heartbreak Prince",
         "artist": "Lover",
         "key": "miss_americana",
-        "file": "miss_americana",
+        "file": "miss_americana.mp3",
         "lyrics": [
             "It's you and me, that's my whole world",
             "They whisper in the hallway",
@@ -82,7 +82,7 @@
         "title": "Our Song",
         "artist": "Taylor Swift (Debut Album)",
         "key": "our_song",
-        "file": "our_song",
+        "file": "our_song.mp3",
         "lyrics": [
             "and he says",
             "Our song is the slam of screen doors",
@@ -95,7 +95,7 @@
         "title": "Wildest Dreams",
         "artist": "1989",
         "key": "wildest_dreams",
-        "file": "wildest_dreams",
+        "file": "wildest_dreams.mp3",
         "lyrics": [
             "He said let's get out of this town", 
             "drive out of the city, away from the crowds",
