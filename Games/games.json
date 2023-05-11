@@ -791,5 +791,19 @@
         "tags": [
             
         ]
+    },
+    {
+        "id": 60,
+        "name": "Reveluv Academy",
+        "json_name": "reveluv",
+        "date_created": "05-11-2023",
+        "color": "red",
+        "type": "eyespy",
+        "status": "A",
+        "rating": 1,
+        "rating_type": "",
+        "tags": [
+            
+        ]
     }
 ]

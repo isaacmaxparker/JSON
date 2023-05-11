@@ -1,0 +1,106 @@
+[
+    {
+        "columns":4,
+        "rows":4,
+        "foldername":null,
+        "questions":[
+            {
+                "category":"",
+                "type":"character",
+                "answer":"",
+                "imagename":"1"
+            },
+            {
+                "category":"",
+                "type":"character",
+                "answer":"",
+                "imagename":"2"
+            },
+            {
+                "category":"",
+                "type":"character",
+                "answer":"",
+                "imagename":"3"
+            },
+            {
+                "category":"",
+                "type":"location",
+                "answer":"",
+                "imagename":"1"
+            },
+            {
+                "category":"",
+                "type":"location",
+                "answer":"",
+                "imagename":"2"
+            },
+            {
+                "category":"",
+                "type":"location",
+                "answer":"",
+                "imagename":"3"
+            },
+            {
+                "category":"",
+                "type":"location",
+                "answer":"",
+                "imagename":"4"
+            },
+            {
+                "category":"",
+                "type":"location",
+                "answer":"",
+                "imagename":"5"
+            },
+            {
+                "category":"",
+                "type":"charloc",
+                "answer":"",
+                "imagename":"1"
+            },
+            {
+                "category":"",
+                "type":"charloc",
+                "answer":"",
+                "imagename":"2"
+            },
+            {
+                "category":"",
+                "type":"charloc",
+                "answer":"",
+                "imagename":"3"
+            },
+            {
+                "category":"",
+                "type":"charloc",
+                "answer":"",
+                "imagename":"4"
+            },
+            {
+                "category":"Album Cover",
+                "type":"distortion",
+                "answer":"The Reve Festival - Day One",
+                "imagename":"1"
+            },
+            {
+                "category":"Music Video",
+                "type":"distortion",
+                "answer":"Peek a Boo",
+                "imagename":"2"
+            },
+            {
+                "category":"Album Cover",
+                "type":"distortion",
+                "answer":"The Reve Festival 2022 - Feel My Rhythm",
+                "imagename":"3"
+            },
+            {
+                "category":"Album Cover",
+                "type":"distortion",
+                "answer":"28 Reasons - Seulgi",
+                "imagename":"4"
+            }
+        ]
+    }
+
+]
