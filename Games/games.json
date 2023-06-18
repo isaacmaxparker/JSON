@@ -808,8 +808,8 @@
     },
     {
         "id": 61,
-        "name": "Gayme Night Vol. 6",
-        "json_name": "gaymenightvol6",
+        "name": "Best of: Gayme Night [Vol 1-5]",
+        "json_name": "bestofgaymenight",
         "date_created": "06-17-2023",
         "color": "green",
         "type": "famFued",
