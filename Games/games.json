@@ -823,7 +823,7 @@
     {
         "id": 62,
         "name": "Nakey Boyz Vol. 2",
-        "json_name": "reveluv",
+        "json_name": "nakedboysvol2",
         "date_created": "06-16-2023",
         "color": "blue",
         "type": "eyespy",
@@ -842,7 +842,7 @@
         "color": "pink",
         "type": "cards",
         "status": "G",
-        "rating": 3,
+        "rating": 4,
         "rating_type": "dirty",
         "tags": [
             

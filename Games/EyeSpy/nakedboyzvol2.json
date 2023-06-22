@@ -1,0 +1,106 @@
+[
+    {
+        "columns":4,
+        "rows":4,
+        "foldername":"nakedcelebs2",
+        "questions":[
+            {
+                "category":"Nakey",
+                "type":"distortion",
+                "answer":"Andrew Garfield",
+                "imagename":"andrew"
+            },
+            {
+                "category":"Nakey",
+                "type":"distortion",
+                "answer":"Bowen Yang",
+                "imagename":"bowen"
+            },
+            {
+                "category":"Nakey",
+                "type":"distortion",
+                "answer":"Conan Grey",
+                "imagename":"conan"
+            },
+            {
+                "category":"Nakey",
+                "type":"distortion",
+                "answer":"Dave Franco",
+                "imagename":"dave"
+            },
+            {
+                "category":"Nakey",
+                "type":"distortion",
+                "answer":"Flynn Ryder & Kristoff",
+                "imagename":"disney"
+            },
+            {
+                "category":"Nakey",
+                "type":"distortion",
+                "answer":"Donald Glover",
+                "imagename":"donald"
+            },
+            {
+                "category":"Nakey",
+                "type":"distortion",
+                "answer":"Eminem",
+                "imagename":"eminem"
+            },
+            {
+                "category":"Nakey",
+                "type":"distortion",
+                "answer":"Harrison Ford",
+                "imagename":"harrison"
+            },
+            {
+                "category":"Nakey",
+                "type":"distortion",
+                "answer":"Isaac Parker",
+                "imagename":"isaac"
+            },
+            {
+                "category":"Nakey",
+                "type":"distortion",
+                "answer":"James Charles",
+                "imagename":"james"
+            },
+            {
+                "category":"Nakey",
+                "type":"distortion",
+                "answer":"Felix Fox & Joey Mills",
+                "imagename":"joey"
+            },
+            {
+                "category":"Nakey",
+                "type":"distortion",
+                "answer":"John Cena",
+                "imagename":"john"
+            },
+            {
+                "category":"Nakey",
+                "type":"distortion",
+                "answer":"Nick & Joe Jonas",
+                "imagename":"jonas"
+            },
+            {
+                "category":"Nakey",
+                "type":"distortion",
+                "answer":"Magic Mike",
+                "imagename":"mike"
+            },
+            {
+                "category":"Nakey",
+                "type":"distortion",
+                "answer":"Ryan Reynolds & Tom Holland",
+                "imagename":"tom"
+            },
+            {
+                "category":"Nakey",
+                "type":"distortion",
+                "answer":"Will Smith & Justin Bieber",
+                "imagename":"will"
+            }
+        ]
+    }
+
+]
