@@ -847,5 +847,19 @@
         "tags": [
             
         ]
-    }
+    },
+    {
+        "id": 64,
+        "name": "Nakey Boyz Vol. 2",
+        "json_name": "nakedboysvol2",
+        "date_created": "06-22-2023",
+        "color": "yellow",
+        "type": "eyespy",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": [
+            
+        ]
+    },
 ]
