@@ -847,5 +847,89 @@
         "tags": [
             
         ]
+    },
+    {
+        "id": 64,
+        "name": "All About Isaac",
+        "json_name": "allaboutisaac",
+        "date_created": "08-08-2023",
+        "color": "red",
+        "type": "famFued",
+        "status": "G",
+        "rating": 1,
+        "rating_type": "dirty",
+        "tags": [
+            
+        ]
+    },
+    {
+        "id": 65,
+        "name": "It's Me, Isaac!",
+        "json_name": "allaboutisaac",
+        "date_created": "08-07-2023",
+        "color": "orange",
+        "type": "jeopardy",
+        "status": "G",
+        "rating": 2,
+        "rating_type": "dirty",
+        "tags": [
+            
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Eye Sack Park Her",
+        "json_name": "allaboutisaac",
+        "date_created": "08-06-2023",
+        "color": "yellow",
+        "type": "millionare",
+        "status": "G",
+        "rating": 3,
+        "rating_type": "dirty",
+        "tags": [
+            
+        ]
+    },
+    {
+        "id": 67,
+        "name": "It's Fucking Isaac",
+        "json_name": "allaboutisaac",
+        "date_created": "08-05-2023",
+        "color": "green",
+        "type": "eyespy",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": [
+            
+        ]
+    },
+    {
+        "id": 68,
+        "name": "The Owner Of That Big Penis",
+        "json_name": "allaboutisaac",
+        "date_created": "08-04-2023",
+        "color": "teal",
+        "type": "scatter",
+        "status": "G",
+        "rating": 1,
+        "rating_type": "dirty",
+        "tags": [
+            
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Isaac's Prostitution Rates",
+        "json_name": "allaboutisaac",
+        "date_created": "08-03-2023",
+        "color": "pink",
+        "type": "price",
+        "status": "G",
+        "rating": 1,
+        "rating_type": "dirty",
+        "tags": [
+            
+        ]
     }
 ]
