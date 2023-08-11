@@ -10,13 +10,18 @@
                 "imagename":"carnival"
             },
             {
+                "type":"distortion",
+                "answer":"Day & Night: Deluxe Edition - Physical CD",
+                "imagename":"cd"
+            },
+            {
                 "category":"Nakey",
                 "type":"distortion",
                 "answer":"Eminem",
                 "imagename":"eminem"
             },
             {
-                "category":"Nakey",
+                "category":"Jonas",
                 "type":"distortion",
                 "answer":"Nick & Joe Jonas",
                 "imagename":"jonas"
@@ -49,6 +54,48 @@
                 "type":"distortion",
                 "answer":"Will Smith & Justin Bieber",
                 "imagename":"will"
+            },
+            {
+                "category":"OH FUCK",
+                "type":"distortion",
+                "answer":"GET FUCKED",
+                "imagename":"fuck"
+            },
+            {
+                "category":"OH FUCK",
+                "type":"distortion",
+                "answer":"GET FUCKED",
+                "imagename":"fuck"
+            },
+            {
+                "category":"OH FUCK",
+                "type":"distortion",
+                "answer":"GET FUCKED",
+                "imagename":"fuck"
+            },
+            {
+                "category":"OH FUCK",
+                "type":"distortion",
+                "answer":"GET FUCKED",
+                "imagename":"fuck"
+            },
+            {
+                "category":"OH FUCK",
+                "type":"distortion",
+                "answer":"GET FUCKED",
+                "imagename":"fuck"
+            },
+            {
+                "category":"OH FUCK",
+                "type":"distortion",
+                "answer":"GET FUCKED",
+                "imagename":"fuck"
+            },
+            {
+                "category":"OH FUCK",
+                "type":"distortion",
+                "answer":"GET FUCKED",
+                "imagename":"fuck"
             }
         ]
     }
