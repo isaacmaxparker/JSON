@@ -1,0 +1,71 @@
+[
+    {
+        "question_text":"Name a restaurant you wouldn't be shocked Isaac suggested for dinner",
+        "answer_1":"JCWs",
+        "answer_2":"Little Ceasars",
+        "answer_3":"El Chiuahua",
+        "answer_4":"Panda Express",
+        "answer_5":"Cafe Rio",
+        "answer_6":"Chick Fil A"
+    },
+    {
+        "question_text":"Name a human singer whos music Isaac enjoys",
+        "answer_1":"Seulgi",
+        "answer_2":"Miranda Lambert",
+        "answer_3":"Red Velvet",
+        "answer_4":"Shakira",
+        "answer_5":"Avril Lavigne",
+        "answer_6":"Himself"
+    },
+    {
+        "question_text":"Name a programming language",
+        "answer_1":"Javascript/Typescript",
+        "answer_2":"Python",
+        "answer_3":"Kotlin/Java",
+        "answer_4":"Swift",
+        "answer_5":"PHP",
+        "answer_6":"Node/Bash"
+    },
+    {
+        "question_text":"Name a uniqe phrase Isaac likes to say",
+        "answer_1":"Yah Yeet",
+        "answer_2":"Never done an [alcohol/weed/sex]",
+        "answer_3":"Hey Hi Hello",
+        "answer_4":"Alas Forsooth",
+        "answer_5":"Hello Humans",
+        "answer_6":"Ba Dum Tiss"
+    },
+    {
+        "question_text":"Name the 2nd most streamed song from each IP album (sort: date-desc)",
+        "answer_1":"Infatuation - Jake",
+        "answer_2":"D&N The Remixes - Kick It (Hi5 Remix)",
+        "answer_3":"D&N Always By Your Side - Safe",
+        "answer_4":"Carnival Nights - Monster",
+        "answer_5":"Strawberry Days - Sunset Fever",
+        "answer_6":"Cherry Blossoms - Blooming"
+    },
+    {
+        "questions":[
+            {
+                "question":"",
+                "answers":" - 75 |  - 58 |  - 46 |  - 25"
+            },
+            {
+                "question":"",
+                "answers":" - 72 |  - 65 |  - 58 |  - 42"
+            },
+            {
+                "question":"",
+                "answers":" - 65 |  - 54 |  - 36 |  - 23"
+            },
+            {
+                "question":"",
+                "answers":" - 75 |  - 63 |  - 24 |  - 17"
+            },
+            {
+                "question":"",
+                "answers":" - 68 |  - 52 |  - 43 |  - 38"
+            }
+        ]
+    }
+]   
