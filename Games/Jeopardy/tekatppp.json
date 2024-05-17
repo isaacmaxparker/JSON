@@ -188,8 +188,8 @@
                 "questions": [
                     {
                         "points":400,
-                        "question":"",
-                        "answer": "The"
+                        "question":"nutcracker",
+                        "answer": "famous christmas ballet about a wooden puppet."
                     },
                     {
                         "points":800,
@@ -306,7 +306,7 @@
                 ]
             }
         ],
-        "final_questions":"Guitar and Spray Paint and boxes",
-        "final_answers":"name two of the three props are on the album cover?"
+        "final_questions":"name two of the three props are on the album cover?",
+        "final_answers":"Guitar and Spray Paint and boxes"
     }
 ]
