@@ -1,0 +1,312 @@
+[
+    {
+        "round_one":[
+            {
+                "category_name": "Wicked (Intro)",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"Cinderella",
+                        "answer": "Princess with two wicked stepsisters"
+                    },
+                    {
+                        "points":400,
+                        "question":"",
+                        "answer": "This singer was on Nickelodean and now the Wicked Movie"
+                    },
+                    {
+                        "points":600,
+                        "question":"Elphaba",
+                        "answer": "The green characters name in the Wicked musical."
+                    },
+                    {
+                        "points":800,
+                        "question":"",
+                        "answer": "The name of the intro song from my last album"
+                    },
+                    {
+                        "points":1000,
+                        "question":"Scorpion, Tiger",
+                        "answer": "The animal and bug sung about in the first verse"
+                    }
+                ]
+            },
+            {
+                "category_name": "Friendsly",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"chris",
+                        "answer": "Isaacs only texas straight friend"
+                    },
+                    {
+                        "points":400,
+                        "question":"matt",
+                        "answer": "Isaac tallest texas friend"
+                    },
+                    {
+                        "points":600,
+                        "question":"jason",
+                        "answer": "Isaacs friend who lives the closest"
+                    },
+                    {
+                        "points":800,
+                        "question":"american dad roger",
+                        "answer": "The Family Guy sister show's alien that inspired the song title"
+                    },
+                    {
+                        "points":1000,
+                        "question":"21",
+                        "answer": "The number of times I say fuck in the song"
+                    }
+                ]
+            },
+            {
+                "category_name": "Bull$#!+",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"male",
+                        "answer": "The gender of all Bulls"
+                    },
+                    {
+                        "points":400,
+                        "question":"",
+                        "answer": "This yellow veggie isn't always digested and shows up in shit"
+                    },
+                    {
+                        "points":600,
+                        "question":"",
+                        "answer": "A bull and a ____ market. (opposite of twink)"
+                    },
+                    {
+                        "points":800,
+                        "question":"shiz",
+                        "answer": "The mormon replacement cuss for shit"
+                    },
+                    {
+                        "points":1000,
+                        "question":"",
+                        "answer": "You are the ___ ___ you are the _______"
+                    }
+                ]
+            },
+            {
+                "category_name": "Boys Like You",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"",
+                        "answer": "name the gay boys in this room"
+                    },
+                    {
+                        "points":400,
+                        "question":"",
+                        "answer": "Name the gay boys in modern family"
+                    },
+                    {
+                        "points":600,
+                        "question":"",
+                        "answer": "Name the gay boys in heartstopper"
+                    },
+                    {
+                        "points":800,
+                        "question":"",
+                        "answer": "Name two gay boys in love victor"
+                    },
+                    {
+                        "points":1000,
+                        "question":"",
+                        "answer": "Name three of the five body parts sung about"
+                    }
+                ]
+            },
+            {
+                "category_name": "So You Go",
+                "questions": [
+                    {
+                        "points":200,
+                        "question":"so",
+                        "answer": "do re mi __ fa la ti do"
+                    },
+                    {
+                        "points":400,
+                        "question":"go",
+                        "answer": "The word i say the most in the song"
+                    },
+                    {
+                        "points":600,
+                        "question":"conjunction",
+                        "answer": "The name of the part of speach of 'so'"
+                    },
+                    {
+                        "points":800,
+                        "question":"",
+                        "answer": "'Blown away' by this country singer inspired the chorus feeling"
+                    },
+                    {
+                        "points":1000,
+                        "question":"know",
+                        "answer": "The last word of the song"
+                    }
+                ]
+            }
+        ],
+        "round_two":[
+            {
+                "category_name": "Sober",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"margarita",
+                        "answer": "This drink is often lime flavored"
+                    },
+                    {
+                        "points":800,
+                        "question":"Vodka Redbull",
+                        "answer": "This frat drink is named after the two ingredients"
+                    },
+                    {
+                        "points":1200,
+                        "question":"Gin & tonic",
+                        "answer": "This stiff drink is named after the two ingredients"
+                    },
+                    {
+                        "points":1600,
+                        "question":"",
+                        "answer": "The singer that convinced my to like tequila"
+                    },
+                    {
+                        "points":2000,
+                        "question":"",
+                        "answer": "I love being ____ but __ ______ __ _____"
+                    }
+                ]
+            },
+            {
+                "category_name": "Marionette",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"",
+                        "answer": "The"
+                    },
+                    {
+                        "points":800,
+                        "question":"pinocchio",
+                        "answer": "Childrens movie about a marionette puppet that lies"
+                    },
+                    {
+                        "points":1200,
+                        "question":"france",
+                        "answer": "The word marionette origins in this country"
+                    },
+                    {
+                        "points":1600,
+                        "question":"sound of music",
+                        "answer": "The wwii era musical where they use yodeling marionettes"
+                    },
+                    {
+                        "points":2000,
+                        "question":"I own you",
+                        "answer": "The three words whispered at the end of the song"
+                    }
+                ]
+            },
+            {
+                "category_name": "Better",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"better",
+                        "answer": "The middle level of being more good than something else"
+
+                    },
+                    {
+                        "points":800,
+                        "question":"bitter",
+                        "answer": "not sweet but ______ (rhymes)"
+                    },
+                    {
+                        "points":1200,
+                        "question":"batter",
+                        "answer": "_____ up! (rhymes)"
+
+                    },
+                    {
+                        "points":1600,
+                        "question":"butter",
+                        "answer": "Betty Bit a Bit of ______ (rhymes)"
+                    },
+                    {
+                        "points":2000,
+                        "question":"wrangler",
+                        "answer": "What did I rope in the song"
+                    }
+                ]
+            },
+            {
+                "category_name": "Ask My Dad",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"screwdriver",
+                        "answer": "A ___________ is a tool used for turning fasteners. Also a drink."
+                    },
+                    {
+                        "points":800,
+                        "question":"",
+                        "answer": "A ______ ______ is a tool named after a primate."
+                    },
+                    {
+                        "points":1200,
+                        "question":"",
+                        "answer": "A ____ is a tool used to raise up cars. Also a boys name"
+                    },
+                    {
+                        "points":1600,
+                        "question":"",
+                        "answer": "A ______ is a tool used to turn bolts. Also slang for trashy"
+                    },
+                    {
+                        "points":2000,
+                        "question":"football",
+                        "answer": "What sport is referenced in the second verse"
+                    }
+                ]
+            },
+            {
+                "category_name": "Blame",
+                "questions": [
+                    {
+                        "points":400,
+                        "question":"",
+                        "answer": "a candle has a _____ (rhymes)"
+                    },
+                    {
+                        "points":800,
+                        "question":"",
+                        "answer": "file an insurance _____ (rhymes)"
+                    },
+                    {
+                        "points":1200,
+                        "question":"name",
+                        "answer": "What's my ____. A Rihanna song (rhymes)"
+                    },
+                    {
+                        "points":1600,
+                        "question":"fame",
+                        "answer": "A lady gaga album / what this album deserves (rhymes)"
+                    },
+                    {
+                        "points":2000,
+                        "question":"568",
+                        "answer": "How many days have we been apart?"
+                    }
+                ]
+            }
+        ],
+        "final_questions":"Guitar and Spray Paint and boxes",
+        "final_answers":"name two of the three props are on the album cover?"
+    }
+]
