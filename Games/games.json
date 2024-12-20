@@ -959,5 +959,33 @@
         "tags": [
             
         ]
+    },
+    {
+        "id": 72,
+        "name": "Gay Brunch 2 - Christmas Boogaloo",
+        "json_name": "gaybrunchxmas",
+        "date_created": "12-20-2024",
+        "color": "red",
+        "type": "eyespy",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": [
+            "Holiday"
+        ]
+    },
+    {
+        "id": 73,
+        "name": "Gay Brunch 2 - Christmas Boogaloo",
+        "json_name": "gaybrunchxmas",
+        "date_created": "12-21-2024",
+        "color": "green",
+        "type": "jeopardy",
+        "status": "G",
+        "rating": 5,
+        "rating_type": "dirty",
+        "tags": [
+            "Holiday"
+        ]
     }
 ]
