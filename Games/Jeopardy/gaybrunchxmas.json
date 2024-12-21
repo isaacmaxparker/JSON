@@ -2,17 +2,48 @@
     {
         "round_one":[
             {
-                "category_name": "Saint Dicks",
+                "category_name": "A Classic Cuntry Christmas",
                 "questions": [
                     {
                         "points":200,
-                        "question":"",
-                        "answer": ""
+                        "question":"Who is Dolly Parton",
+                        "answer": "This country queen has multiple christmas specials, Smoky Mountain Christmas Carol, Christmas on the Square, and Christmas at Dollywood"
                     },
                     {
                         "points":400,
-                        "question":"",
-                        "answer": ""
+                        "question":"Who is Sabrina Carpenter",
+                        "answer": "She's not country but she is Cunty, and her 2023 holiday EP 'Fruitcake' hits harder than a shot of Espresso."
+                    },
+                    {
+                        "points":600,
+                        "question": "Who is Kacey Musgraves",
+                        "answer": "This Country-Pop star followed her arrow, and now has her own christmas album and netflix special."
+
+                    },
+                    {
+                        "points":800,
+                        "question":"What is Sugarland",
+                        "answer": "This country band who's sweet name is a Texas city released their Christmas EP 'Gold and Green' in 2009"
+                    },
+                    {
+                        "points":1000,
+                        "question":"Who is Little Big Town",
+                        "answer": "This harmony centric country band released a Christmas special from the Grand Ol Opry this year"
+                    }
+                ]
+            }
+            {
+                "category_name": "Saint Dicks",
+                "questions": [
+                    {
+                        "points":800,
+                        "question":"Who is Pedro Pascal",
+                        "answer": "SNL's overprotective mami may be the 'Last of Us' but Grindr called him the hottest man of 2024."
+                    },
+                    {
+                        "points":400,
+                        "question":"Who is Matt Bomer",
+                        "answer": "This white collar actor starred alonside Jonathon Bennet in Fellow Travellers"
                     },
                     {
                         "points":600,
@@ -21,13 +52,13 @@
                     },
                     {
                         "points":800,
-                        "question":"Who is Pedro Pascal",
-                        "answer": "He may be the 'Last of Us' but Grindr called him the hottest man of 2024"
+                        "question":"Who is Troye Sivan",
+                        "answer": "Grindr called this 'Sweat'y blouse the 'Baby Girl of 2024'"
                     },
                     {
                         "points":1000,
-                        "question":"Who is Troye Sivan",
-                        "answer": "Grindr called this 'Sweat'y blouse the 'Baby Girl of 2024'"
+                        "question":"Who is Joe Locke",
+                        "answer": "This gay actor from a teen romantic drama debuted in the MCU this year as a teenage twink"
                     }
                 ]
             },
@@ -77,7 +108,7 @@
                     {
                         "points":600,
                         "question":"What is Bob's Burgers",
-                        "answer": "This adult animated show's Christmas episode features a Drag Queen singing about twinkly lights."
+                        "answer": "This food themed adult animated show's Christmas episode features a Drag Queen singing about twinkly lights."
                     },
                     {
                         "points":800,
@@ -304,7 +335,7 @@
                 ]
             }
         ],
-        "final_questions":"Name 6 characters from Heartstopper, Love Victor, and Young Royals",
+        "final_questions":"Name 6 characters from Heartstopper, Love Victor, or Young Royals",
         "final_answers":""
     }
 ]
